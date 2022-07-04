@@ -85,7 +85,7 @@
 		\centering\sffamily % Font styling
 		{\Huge\bfseries Money in Metaverses\par} % Book title
 		\vspace{16pt} % Vertical whitespace
-		{\LARGE Bitcoin and stablecoins in global social \\immersive mixed reality systems\par} % Subtitle
+		{\LARGE Bitcoin and stablecoins in  social XR\\a draft product roadmap\par}  % Subtitle
 		\vspace{24pt} % Vertical whitespace
 		{\large \textbf{John O'Hare, Allen Fairchild, and Umran Ali}\par} % Author name
 	}
@@ -100,9 +100,9 @@
 
 \noindent \href{https://creativecommons.org/publicdomain/zero/1.0/}{No Copyright}\\ 2022 John O'Hare \& Allen Fairchild \& Umran Ali\\ % Copyright notice
 
-\noindent \textsc{Flossverse (Free/Libre Open Source Software Metaverse Applications - A Bitcoin First initiative.}\\ % Publisher
+\noindent \textsc{Published by j.ohare@salford.ac.uk for the Cyber Foundry Programme at The University of Salford}\\ % Publisher
 
-\noindent \textsc{\href{https://raw.githubusercontent.com/Flossverse/Metaverse/main/Paper/metaverseBTC.pdf}{Raw GitHub hyperlink}}\\ % URL
+\noindent \textsc{\href{https://raw.githubusercontent.com/GMCyberFoundry/Metaverse/main/Paper/metaverseBTC.pdf}{Raw GitHub hyperlink}}\\ % URL
 
 \noindent The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.\\
 You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission. See Other Information below.\\
@@ -111,8 +111,9 @@ Other Information\\
 In no way are the patent or trademark rights of any person affected by CC0, nor are the rights that other persons may have in the work or in how the work is used, such as publicity or privacy rights.\\
 Unless expressly stated otherwise, the person who associated a work with this deed makes no warranties about the work, and disclaims liability for all uses of the work, to the fullest extent permitted by applicable law.\\
 When using or citing the work, you should not imply endorsement by the author or the affirmer.\\
+\noindent This work was supported by the European Regional Development Fund (ERDF) GM Cyber Foundry Project (15R18P02426)\\
 
-\noindent \textit{First printing, March 2022, this version is forked from earlier opensrouce work.} % Printing/edition date
+\noindent \textit{First printing, March 2022} % Printing/edition date
 
 %----------------------------------------------------------------------------------------
 %	TABLE OF CONTENTS
@@ -152,8 +153,8 @@ When using or citing the work, you should not imply endorsement by the author or
 \section{Overview}
 \input{00_overview}
 \section{Introduction}
-This document presents a high level view of technologies and their potential within the emergent distributed metaverse narrative, focusing around the transmission of value within and across such global networks, with a further focus on the Bitcoin monetary network. It was written to organise the thoughts of the authors, who were unfamiliar with Bitcoin technologies until recently.\par
-As adoption of these technologies increases it will be necessary for people, and AI actors, to pass economic value between themselves. These `goods and services' interactions, within the virtual social spaces should be underpinned by a trust system, which scales globally and presents low friction. User management is a huge challenge for companies, and current secure international payment rails are poorly suited to metaverse interactions; indeed it is likely with legacy systems, that parties would be forced to leave the metaverse application, and instead navigate their banking applications to exchange value with overseas entities in a secure fashion. This might conceivably take several days.\par 
+This document presents a high level view of technologies and their potential within the emergent Web3 and metaverse narrative, focusing around the transmission of value within and across such global networks, with a further focus on the Bitcoin monetary network. It was written to organise the thoughts of the authors, who were unfamiliar with Bitcoin technologies until recently.\par
+As adoption of these technologies increases it will be necessary for people, and AI actors, to pass economic value between themselves. These `goods and services' interactions, within the virtual social spaces should be underpinned by a trust system, which scales globally and presents low friction. Current secure international payment rails are poorly suited to such interactions; indeed it is likely with legacy systems, that parties would be forced to leave the metaverse application, and instead navigate their banking applications to exchange value with overseas entities in a secure fashion. This might conceivably take several days.\par 
 Fortunately, the whole landscape of money and \href{https://www.omfif.org/futureofpayments2021/}{value transfer is changing}. Huge global financial players are entering the space. HSBC have \href{https://sandboxgame.medium.com/hsbc-to-become-the-first-global-financial-services-provider-to-enter-the-sandbox-c066e4f48163}{just bought} metaverse `land' in The Sandbox, JP Morgan have \href{https://www.forbes.com/sites/ronshevlin/2022/02/16/jpmorgan-opens-a-bank-branch-in-the-metaverse-but-its-not-for-what-you-think-its-for/?sh=2fbd1e90158d}{opened a `lounge'} in another. The worlds largest hedge fund Bridgewater is stepping into \href{https://uk.finance.yahoo.com/news/bitcoin-latest-price-crypto-ray-dalio-bridgewater-investment-fund-ethereum-094946686.html}{acquisition of digital assets}, and the world's largest pension fund manager Blackrock is adding these asset to their management engine (which manages tens of trillions of dollars). Fidelity asset management are about to add \href{https://www.wsj.com/articles/fidelity-to-allow-retirement-savers-to-put-bitcoin-in-401-k-accounts-11650945661}{Bitcoin to their pension plans} and are offering a \href{}{dedicated metaverse tradable fund}, while \href{https://www.citivelocity.com/citigps/metaverse-and-money/}{Citigroup have a minisite} dedicated to ``Metaverse and Money''. The front page of Goldman Sachs recently says it all (Figure \ref{fig:goldmanFront}).\par
 \begin{figure}[ht]\centering % Using \begin{figure*} makes the figure take up the entire width of the page
 	\includegraphics[width=0.5\linewidth]{goldmanFront}
@@ -162,21 +163,21 @@ Fortunately, the whole landscape of money and \href{https://www.omfif.org/future
 \end{figure}
 Of their recent investments KPMG global said: \textit{``We've invested in a strong cryptoassets practice and we will continue to enhance and build on our capabilities across Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs) and the Metaverse, to name a few''}.\par
 It's possible that for such organisations it makes better business sense to take a punt on hype bubbles like this, than to do a proper due diligence with a team of internal staff who understand their business. These endorsements should be taken with a large pinch of salt. As \href{https://newsletter.fintechtakes.com/p/metaverse-branches?s=r}{Alex Johnson says}: \textit{``At some point in the future, it’s possible that the digital worlds being built today will have aggregated sufficient user attention and engagement that financial services companies will need to invest in the metaverse as an acquisition and customer service channel. But we’re not there yet. Until the metaverse is a little less empty, resist the temptation to colonize it with branches and billboards.''}\par
-Meanwhile, Meta (ex Facebook) are \href{https://about.fb.com/news/2022/06/introducing-meta-pay/}{enabling peer to peer payments} in Whatsapp through their Meta Pay wallet, launching their own \href{https://archive.ph/coyp2}{META Web3 and metaverse} token, and \href{https://uk.finance.yahoo.com/news/meta-begins-testing-nft-integration-124537494.html}{integrating NFTs across their platforms}, and \href{https://www.cnbc.com/2022/05/06/googles-cloud-group-forms-web3-product-and-engineering-team.html}{Google} have \href{https://blog.youtube/inside-youtube/innovations-for-2022-at-youtube/}{recently blogged}: \textit{``Web3 also opens up new opportunities for creators. We believe new technologies like blockchain and NFTs can allow creators to build deeper relationships with their fans. Together, they'll be able to collaborate on new projects and make money in ways not previously possible. For example, giving a verifiable way for fans to own unique videos, photos, art, and even experiences from their favourite creators could be a compelling prospect for creators and their audiences. There's a lot to consider in making sure we approach these new technologies responsibly, but we think there's incredible potential as well. Finally, we couldn't have a piece about innovation without touching on the metaverse! We're thinking big about how to make viewing more immersive. ''}\par
-In the UK the government has stated it's ambition to be a \href{https://www.gov.uk/government/news/government-sets-out-plan-to-make-uk-a-global-cryptoasset-technology-hub}{global cryptoasset technology hub}, and announced plans for the Royal Mint to issue a (novelty) NFT. Like the assertion by major global businesses it is too early to tell how `sticky' these claims are.\par
+Meanwhile, Meta (ex Facebook) are launching their own \href{https://archive.ph/coyp2}{META Web3 and metaverse} token (after abandoning Libre, their global cryptocurrency), and \href{https://www.cnbc.com/2022/05/06/googles-cloud-group-forms-web3-product-and-engineering-team.html}{Google} have \href{https://blog.youtube/inside-youtube/innovations-for-2022-at-youtube/}{recently blogged}: \textit{``Web3 also opens up new opportunities for creators. We believe new technologies like blockchain and NFTs can allow creators to build deeper relationships with their fans. Together, they'll be able to collaborate on new projects and make money in ways not previously possible. For example, giving a verifiable way for fans to own unique videos, photos, art, and even experiences from their favourite creators could be a compelling prospect for creators and their audiences. There's a lot to consider in making sure we approach these new technologies responsibly, but we think there's incredible potential as well. Finally, we couldn't have a piece about innovation without touching on the metaverse! We're thinking big about how to make viewing more immersive. ''}\par
 It's already the case that the recent bubble of \href{https://www.forbes.com/sites/paultassi/2022/03/10/interest-in-nfts-and-the-metaverse-is-falling-fast/?}{hype is dwindling}, but the enormous investment into teams and startups will potentially bear fruit in the next couple of years, and this perhaps has implications for small and medium-sized enterprises (SMEs). \par
+In the UK the government has stated it's ambition to be a \href{https://www.gov.uk/government/news/government-sets-out-plan-to-make-uk-a-global-cryptoasset-technology-hub}{global cryptoasset technology hub}, and announced plans for the Royal Mint to issue a (novelty) NFT. Like the assertion by major global businesses it is too early to tell how `sticky' these claims are.\par
 With all this attention it seems timely to explore the potential of recent technologies, which can address metaverse interactions in \textit{business to business} (B2B), \textit{business to customer} (B2C), and the newer C2C (social commerce; \textit{creator to consumer, customer to customer, consumer to consumer\cite{jones2008trust})}. Figure \ref{fig:landscapevenn} demonstrates how some of these domains intersect.\par
 This book seeks to overview and explain the available open source technologies. It supports an open source \href{https://github.com/GMCyberFoundry/Metaverse}{github repository} which enables SMEs to access these emergent platforms and ecosystems. It aims to build toward a minimum viable product for trust minimised transfer of value within a social immersive space.\par
 Referencing is in two styles; academic works and books are numeric, while opinion pieces, gray statistics, and pertinent news articles are hyperlinked from the text. This hybrid style yields about twice the citation density of a normal PhD thesis, which is a lot. For this reason the normal blue hyperlink colour was eschewed in favour of a more aesthetic ``gray''. There is also a version of the PDF which complies with accessibility best practice if this is a problem.  \par 
 \subsection{Notes on progress}
-\textbf{The book was pushed to main on github as ``minimally complete'', and since then this draft version has re-entered a period of overhaul. The number of stubs and errors are increasing as the net gets recast to capture more `stuff'. The real interesting work of combining the primitives into a new direction for integration of Bitcoin and mixed reality is just beginning. There's new focus for the human / machine interfaced emerging, but not yet in the book. We are happy for the wider community to submit pull requests into github as contributors. There are lots of snags now, be warned.}\
+\textbf{This version of the book is ``minimally complete''. The real interesting work of combining the primitives into a new direction for integration of Bitcoin and VR is just beginning. We are now inviting the wider community to submit pull requests into github as contributors. It's been a useful document creation process to form our thoughts, and it's enough to bring a reader up to ``the state of the art'' if all of the thousand  links and papers are considered. It's an open ended project though.}\
 
 \begin{figure*}[ht]\centering % Using \begin{figure*} makes the figure take up the entire width of the page
 	\includegraphics[width=\linewidth]{landscapevenn}
 	\caption{Web 3, Metaverse, and Bitcoin are inter-sectional technologies.}
 	\label{fig:landscapevenn}
 \end{figure*}
-\chapter{Decentralised internet}
+\chapter{Web3 / decentralised web}
 \input{02_decentralised_web}
 
 \chapter{DLT, Blockchain, and Bitcoin}
@@ -218,12 +219,7 @@ Feedback into web of trust
 \subsubsection{Behaviour incentives, arbitration, and penalties}
 
 \section{Potential applications }
-\subsection{Constraints at this time}
-Current metaverse is handy for one to many broadcasts to younger audiences, because they expect and tolerate a choppy experience. If it's non interactive (like a DJ set), then it effectively adds a spatial dimension to a youtube + chatbox mental model. Seems they are fine with being kicked out and all the bad artifacts because they can quickly rejoin. This needs some product analysis.\par
-It's `OK' for few to few, limited controlled telepresence meetings, probably in the range 6-12 people maximum, which is traditional immersive TP as expanded in this book. This is pretty well understood science and doesn't need more research.\par
-It's terrible at few to many, where speakers in a round table are all expected to have flawless technology and connections in order for stage management to work. The many are put off immediately by the clunky handoffs when glitches happen. We should avoid few to many use cases.
 \begin{itemize}
-\subsection{Rough list}
 \item Art / NFT galleries with instant sales
 \end{itemize}
 
@@ -315,14 +311,6 @@ audience based on the proximity to the presentation.
   eSports and live sports
 \item
   Gambling, betting markets, and financial leverage markets
-\end{itemize}
-
-\subsection{Metaverse and production XR}
-\begin{itemize}
-\item use modern production XR infrastructure to connect virtual and real through the wall interface as in research telepresence
-\item Persistent backstage universes for monetisation of assets.
-\item "backstage" at live / recorded mixed reality gigs
-\item Remote director / producer / global technical support telepresence "through" the XR screen itself into live sets
 \end{itemize}
 
 \subsection{Global cybersec course delivery}
