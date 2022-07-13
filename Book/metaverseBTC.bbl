@@ -1754,38 +1754,6 @@
       \field{pages}{110520}
       \range{pages}{1}
     \endentry
-    \entry{benetton2021cryptomining}{article}{}
-      \name{author}{3}{}{%
-        {{hash=8099f8ac59f9c33e480ce961fdf7e37c}{%
-           family={Benetton},
-           familyi={B\bibinitperiod},
-           given={Matteo},
-           giveni={M\bibinitperiod}}}%
-        {{hash=637be364423a3871c6e7eb1ebb41d222}{%
-           family={Compiani},
-           familyi={C\bibinitperiod},
-           given={Giovanni},
-           giveni={G\bibinitperiod}}}%
-        {{hash=c200e5b6d23538a56d7cd7689d0b14f2}{%
-           family={Morse},
-           familyi={M\bibinitperiod},
-           given={Adair},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{924b49aec2048c587f17a22559323db8}
-      \strng{fullhash}{924b49aec2048c587f17a22559323db8}
-      \strng{bibnamehash}{924b49aec2048c587f17a22559323db8}
-      \strng{authorbibnamehash}{924b49aec2048c587f17a22559323db8}
-      \strng{authornamehash}{924b49aec2048c587f17a22559323db8}
-      \strng{authorfullhash}{924b49aec2048c587f17a22559323db8}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Available at SSRN 3779720}
-      \field{title}{When Cryptomining Comes to Town: High Electricity-Use Spillovers to the Local Economy}
-      \field{year}{2021}
-    \endentry
     \entry{de2022revisiting}{article}{}
       \name{author}{4}{}{%
         {{hash=54070f0704c7007af5cb9964d980c859}{%
@@ -1993,8 +1961,8 @@
       \strng{authorbibnamehash}{dad27c9c51f4797d54b59cac65d08ec3}
       \strng{authornamehash}{dad27c9c51f4797d54b59cac65d08ec3}
       \strng{authorfullhash}{dad27c9c51f4797d54b59cac65d08ec3}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The Lightning Network: Turning Bitcoin into Money}
@@ -2361,8 +2329,8 @@
       \strng{authorbibnamehash}{3042dc4038843c1272ef20e3c7fc9411}
       \strng{authornamehash}{3042dc4038843c1272ef20e3c7fc9411}
       \strng{authorfullhash}{3042dc4038843c1272ef20e3c7fc9411}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Gold and the Turning of the Monetary Tides}
@@ -2697,8 +2665,8 @@
       \strng{authorbibnamehash}{af8695065272fc2c1ff681f981c353b1}
       \strng{authornamehash}{af8695065272fc2c1ff681f981c353b1}
       \strng{authorfullhash}{af8695065272fc2c1ff681f981c353b1}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Open Economies Review}
@@ -2987,8 +2955,8 @@
       \strng{authorbibnamehash}{742ca05308dc3c45b49262b2462ef7e6}
       \strng{authornamehash}{742ca05308dc3c45b49262b2462ef7e6}
       \strng{authorfullhash}{742ca05308dc3c45b49262b2462ef7e6}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{American Journal of Agricultural Economics}
@@ -3305,8 +3273,8 @@
       \strng{authorbibnamehash}{1ecd6cc5c25b88165b419fc3ee57ae0d}
       \strng{authornamehash}{1ecd6cc5c25b88165b419fc3ee57ae0d}
       \strng{authorfullhash}{4e7b5cc3e93a669dd745a4ed9f04bc36}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{International Journal of Business Intelligence and Data Mining}
@@ -10678,8 +10646,8 @@
       \strng{authorbibnamehash}{861372c55b71e7688d63b889756999ce}
       \strng{authornamehash}{861372c55b71e7688d63b889756999ce}
       \strng{authorfullhash}{c0b97798e90851f8df7c692ee0137a7a}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 12th annual ACM international conference on Multimedia}
