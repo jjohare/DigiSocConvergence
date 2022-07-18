@@ -2888,6 +2888,49 @@
       \field{title}{Hyperbitcoinization}
       \field{year}{2014}
     \endentry
+    \entry{booth2022bitcoin}{book}{}
+      \name{author}{3}{}{%
+        {{hash=6e2b8b45415180c37bd8493bfd8e20a7}{%
+           family={Svanholm},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           suffix={K.\bibnamedelimi Booth},
+           suffixi={K\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=47874c31622af39fd17d810cbf096958}{%
+           family={Shilling},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4d5d01f357a3ced04454ae77f4bc6d4f}{%
+           family={Laamanen},
+           familyi={L\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Amazon Digital Services LLC - KDP Print US}%
+      }
+      \strng{namehash}{cdf01a2d0f71d45a70175087e9c7a930}
+      \strng{fullhash}{cdf01a2d0f71d45a70175087e9c7a930}
+      \strng{bibnamehash}{cdf01a2d0f71d45a70175087e9c7a930}
+      \strng{authorbibnamehash}{cdf01a2d0f71d45a70175087e9c7a930}
+      \strng{authornamehash}{cdf01a2d0f71d45a70175087e9c7a930}
+      \strng{authorfullhash}{cdf01a2d0f71d45a70175087e9c7a930}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9789916697191}
+      \field{title}{Bitcoin: Everything Divided by 21 Million}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://books.google.co.uk/books?id=14onzwEACAAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.co.uk/books?id=14onzwEACAAJ
+      \endverb
+    \endentry
     \entry{malherbe2019cryptocurrencies}{article}{}
       \name{author}{4}{}{%
         {{hash=3fb256bbf3780fdd4807283cc483928a}{%
@@ -2981,8 +3024,8 @@
       \strng{authorbibnamehash}{812b435e65b1f74e201dde7520dff995}
       \strng{authornamehash}{812b435e65b1f74e201dde7520dff995}
       \strng{authorfullhash}{812b435e65b1f74e201dde7520dff995}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{arXiv preprint arXiv:2203.15930}
@@ -3223,8 +3266,8 @@
       \strng{authorbibnamehash}{d845f061c5addb8a5a28f4d0f5c83b55}
       \strng{authornamehash}{d845f061c5addb8a5a28f4d0f5c83b55}
       \strng{authorfullhash}{d845f061c5addb8a5a28f4d0f5c83b55}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Crime and Media}
@@ -6687,8 +6730,8 @@
       \strng{authorbibnamehash}{8e7e58430677d33bd9223b497667470d}
       \strng{authornamehash}{8e7e58430677d33bd9223b497667470d}
       \strng{authorfullhash}{835119254aad5c89fd412f8644767801}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Abstract For efficient collaboration between participants, eye gaze is seen as being critical for interaction. Video conferencing either does not attempt to support eye gaze (e.g. AcessGrid) or only approximates it in round table conditions (e.g. life size telepresence). Immersive collaborative virtual environments represent remote participants through avatars that follow their tracked movements. By additionally tracking people's eyes and representing their movement on their avatars, the line of gaze can be faithfully reproduced, as opposed to approximated. This paper presents the results of initial work that tested if the focus of gaze could be more accurately gauged if tracked eye movement was added to that of the head of an avatar observed in an immersive VE. An experiment was conducted to assess the difference between user's abilities to judge what objects an avatar is looking at with only head movements being displayed, while the eyes remained static, and with eye gaze and head movement information being displayed. The results from the experiment show that eye gaze is of vital importance to the subjects correctly identifying what a person is looking at in an immersive virtual environment. This is followed by a description of the work that is now being undertaken following the positive results from the experiment. We discuss the integration of an eye tracker more suitable for immersive mobile use and the software and techniques that were developed to integrate the user's real-world eye movements into calibrated eye gaze in an immersive virtual world. This is to be used in the creation of an immersive collaborative virtual environment supporting eye gaze and its ongoing experiments. Copyright ? 2009 John Wiley \& Sons, Ltd.}
