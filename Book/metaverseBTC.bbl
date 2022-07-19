@@ -3225,6 +3225,35 @@
       \field{pages}{34\bibrangedash 65}
       \range{pages}{32}
     \endentry
+    \entry{mystakidis2022metaverse}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9f53b803c1de786c5d712e6b413e7b6f}{%
+           family={Mystakidis},
+           familyi={M\bibinitperiod},
+           given={Stylianos},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{9f53b803c1de786c5d712e6b413e7b6f}
+      \strng{fullhash}{9f53b803c1de786c5d712e6b413e7b6f}
+      \strng{bibnamehash}{9f53b803c1de786c5d712e6b413e7b6f}
+      \strng{authorbibnamehash}{9f53b803c1de786c5d712e6b413e7b6f}
+      \strng{authornamehash}{9f53b803c1de786c5d712e6b413e7b6f}
+      \strng{authorfullhash}{9f53b803c1de786c5d712e6b413e7b6f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Encyclopedia}
+      \field{number}{1}
+      \field{title}{Metaverse}
+      \field{volume}{2}
+      \field{year}{2022}
+      \field{pages}{486\bibrangedash 497}
+      \range{pages}{12}
+    \endentry
     \entry{mclellan1993avatars}{article}{}
       \name{author}{1}{}{%
         {{hash=4dc214c859a01c74a067082d181d6afd}{%
@@ -3242,12 +3271,45 @@
       \strng{authorbibnamehash}{4dc214c859a01c74a067082d181d6afd}
       \strng{authornamehash}{4dc214c859a01c74a067082d181d6afd}
       \strng{authorfullhash}{4dc214c859a01c74a067082d181d6afd}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Avatars, Affordances, and Interfaces: Virtual Reality Tools for Learning.}
       \field{year}{1993}
+    \endentry
+    \entry{park2022metaverse}{article}{}
+      \name{author}{2}{}{%
+        {{hash=f6dea3892bd8e227e3b682b6e217794b}{%
+           family={Park},
+           familyi={P\bibinitperiod},
+           given={Sang-Min},
+           giveni={S\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=4c4b83547d5ba753dde32eaeb858cbd7}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Young-Gab},
+           giveni={Y\bibinithyphendelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{327541cc81666f8b0d9ddc2b034725d4}
+      \strng{fullhash}{327541cc81666f8b0d9ddc2b034725d4}
+      \strng{bibnamehash}{327541cc81666f8b0d9ddc2b034725d4}
+      \strng{authorbibnamehash}{327541cc81666f8b0d9ddc2b034725d4}
+      \strng{authornamehash}{327541cc81666f8b0d9ddc2b034725d4}
+      \strng{authorfullhash}{327541cc81666f8b0d9ddc2b034725d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ieee Access}
+      \field{title}{A Metaverse: Taxonomy, components, applications, and open challenges}
+      \field{volume}{10}
+      \field{year}{2022}
+      \field{pages}{4209\bibrangedash 4251}
+      \range{pages}{43}
     \endentry
     \entry{gibson2019neuromancer}{incollection}{}
       \name{author}{1}{}{%
@@ -6589,8 +6651,8 @@
       \strng{authorbibnamehash}{e2859cc6a30554cd9b1f8595b7d48b10}
       \strng{authornamehash}{e2859cc6a30554cd9b1f8595b7d48b10}
       \strng{authorfullhash}{e2859cc6a30554cd9b1f8595b7d48b10}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Thanks to the decreasing cost of whole-body sensing technology and its increasing reliability, there is an increasing interest in, and understanding of, the role played by body expressions as a powerful affective communication channel. The aim of this survey is to review the literature on affective body expression perception and recognition. One issue is whether there are universal aspects to affect expression perception and recognition models or if they are affected by human factors such as culture. Next, we discuss the difference between form and movement information as studies have shown that they are governed by separate pathways in the brain. We also review psychological studies that have investigated bodily configurations to evaluate if specific features can be identified that contribute to the recognition of specific affective states. The survey then turns to automatic affect recognition systems using body expressions as at least one input modality. The survey ends by raising open questions on data collecting, labeling, modeling, and setting benchmarks for comparing automatic recognition systems.}
@@ -6621,8 +6683,8 @@
       \strng{authorbibnamehash}{9c2009a4d580cba2c9f01398b7976143}
       \strng{authornamehash}{9c2009a4d580cba2c9f01398b7976143}
       \strng{authorfullhash}{9c2009a4d580cba2c9f01398b7976143}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Soc. Res.}
@@ -6670,8 +6732,8 @@
       \strng{authorbibnamehash}{1049b03f4b8ea41c13f352147f56660a}
       \strng{authornamehash}{1049b03f4b8ea41c13f352147f56660a}
       \strng{authorfullhash}{fa034954bc140c05bb410ad7f31dc673}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the {SIGCHI} Conference on Human Factors in Computing Systems}
@@ -9690,46 +9752,343 @@
       \range{pages}{8}
       \keyw{telepresence,face-to-face conversation,multimodal interaction,computer-mediated communication,projection mapping;litsurvey.bib}
     \endentry
-    \entry{Marti2005}{inproceedings}{}
-      \name{author}{2}{}{%
-        {{hash=09e78ff3edef5b5cae7b0ee6059c3578}{%
-           family={Marti},
-           familyi={M\bibinitperiod},
-           given={Stefan},
-           giveni={S\bibinitperiod}}}%
-        {{hash=85f0df90de86e9bc8b6de7cb09916448}{%
-           family={Schmandt},
-           familyi={S\bibinitperiod},
-           given={Chris},
+    \entry{Blanche2010}{inproceedings}{}
+      \name{author}{16}{}{%
+        {{hash=4a879a49d91248a63d73d410fb76fd95}{%
+           family={Blanche},
+           familyi={B\bibinitperiod},
+           given={P-A},
+           giveni={P\bibinithyphendelim A\bibinitperiod}}}%
+        {{hash=6f07caf0f1f8ff665e8ab188618a319b}{%
+           family={Bablumian},
+           familyi={B\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a327d3bc7ba2e843ba33d7460a171aa9}{%
+           family={Voorakaranam},
+           familyi={V\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=6355b7a4edc311fcf0ca3357204e5393}{%
+           family={Christenson},
+           familyi={C\bibinitperiod},
+           given={C},
            giveni={C\bibinitperiod}}}%
+        {{hash=2e439b19c8e4701f38fa84fbe494296c}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={W},
+           giveni={W\bibinitperiod}}}%
+        {{hash=5180a2bfd3bc93f4169b935309b88b2d}{%
+           family={Gu},
+           familyi={G\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod}}}%
+        {{hash=d06cd625c27763904a30513fad384a6e}{%
+           family={Flores},
+           familyi={F\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=f94399510b1be6d7fab7d889d00b68d8}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+        {{hash=94d1c32ff50681c847ea75e2ac8c3f97}{%
+           family={Hsieh},
+           familyi={H\bibinitperiod},
+           given={W-Y},
+           giveni={W\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=56225bf85638ed994e3a7320c7f65eb9}{%
+           family={Kathaperumal},
+           familyi={K\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=11130f231cabd5d7f9e38a22f0bec6ed}{%
+           family={Rachwal},
+           familyi={R\bibinitperiod},
+           given={B},
+           giveni={B\bibinitperiod}}}%
+        {{hash=30555a69762e407995565b8ae573125c}{%
+           family={Siddiqui},
+           familyi={S\bibinitperiod},
+           given={O},
+           giveni={O\bibinitperiod}}}%
+        {{hash=29aea1e2950ea1d9bd548d591d18a37e}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=177339dbc8891986a03a883456cc8d44}{%
+           family={Norwood},
+           familyi={N\bibinitperiod},
+           given={R\bibnamedelima a},
+           giveni={R\bibinitperiod\bibinitdelim a\bibinitperiod}}}%
+        {{hash=61d7d130a9eebdd02b61065743dd4ca1}{%
+           family={Yamamoto},
+           familyi={Y\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=807fba958f0a5d04276f261d29f5a75f}{%
+           family={Peyghambarian},
+           familyi={P\bibinitperiod},
+           given={N},
+           giveni={N\bibinitperiod}}}%
       }
-      \list{institution}{1}{%
-        {ACM}%
-      }
-      \list{location}{1}{%
-        {Seattle, WA, USA}%
-      }
-      \list{publisher}{1}{%
-        {Association for Computing Machinery}%
-      }
-      \strng{namehash}{805c4d1500a80ea005017d0d9bfa18d2}
-      \strng{fullhash}{805c4d1500a80ea005017d0d9bfa18d2}
-      \strng{bibnamehash}{805c4d1500a80ea005017d0d9bfa18d2}
-      \strng{authorbibnamehash}{805c4d1500a80ea005017d0d9bfa18d2}
-      \strng{authornamehash}{805c4d1500a80ea005017d0d9bfa18d2}
-      \strng{authorfullhash}{805c4d1500a80ea005017d0d9bfa18d2}
+      \strng{namehash}{4b965c0e9cd28ba02206e333b7f8e0b1}
+      \strng{fullhash}{7ca35601f48167305df5ae0683a581d8}
+      \strng{bibnamehash}{4b965c0e9cd28ba02206e333b7f8e0b1}
+      \strng{authorbibnamehash}{4b965c0e9cd28ba02206e333b7f8e0b1}
+      \strng{authornamehash}{4b965c0e9cd28ba02206e333b7f8e0b1}
+      \strng{authorfullhash}{7ca35601f48167305df5ae0683a581d8}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Proceedings of the 18th annual {ACM} symposium on User interface software and technology}
-      \field{month}{\#oct\#}
-      \field{series}{UIST '05}
-      \field{title}{Physical embodiments for mobile communication agents}
-      \field{year}{2005}
-      \field{pages}{231\bibrangedash 240}
-      \range{pages}{10}
-      \keyw{embodiment,conversational agent,robotic user interface,interruptions,human style non-verbal cues;litsurvey.bib}
+      \field{abstract}{Holography is a technique that is used to display objects or scenes in three dimensions. Such three-dimensional (3D) images, or holograms, can be seen with the unassisted eye and are very similar to how humans see the actual environment surrounding them. The concept of 3D telepresence, a real-time dynamic hologram depicting a scene occurring in a different location, has attracted considerable public interest since it was depicted in the original Star Wars film in 1977. However, the lack of sufficient computational power to produce realistic computer-generated holograms and the absence of large-area and dynamically updatable holographic recording media have prevented realization of the concept. Here we use a holographic stereographic technique and a photorefractive polymer material as the recording medium to demonstrate a holographic display that can refresh images every two seconds. A 50\textbackslashquotesinglbase{Ä}{â}Hz nanosecond pulsed laser is used to write the holographic pixels. Multicoloured holographic 3D images are produced by using angular multiplexing, and the full parallax display employs spatial multiplexing. 3D telepresence is demonstrated by taking multiple images from one location and transmitting the information via Ethernet to another location where the hologram is printed with the quasi-real-time dynamic 3D display. Further improvements could bring applications in telemedicine, prototyping, advertising, updatable 3D maps and entertainment.}
+      \field{title}{Holographic three-dimensional telepresence using large-area photorefractive polymer}
+      \field{volume}{468}
+      \field{year}{2010}
+      \field{pages}{80\bibrangedash 83}
+      \range{pages}{4}
+      \keyw{litsurvey.bib}
+    \endentry
+    \entry{Tay2008}{article}{}
+      \name{author}{15}{}{%
+        {{hash=70c683e68134f13a6b58a4633fccc3d1}{%
+           family={Tay},
+           familyi={T\bibinitperiod},
+           given={Savaş},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4a879a49d91248a63d73d410fb76fd95}{%
+           family={Blanche},
+           familyi={B\bibinitperiod},
+           given={P-A},
+           giveni={P\bibinithyphendelim A\bibinitperiod}}}%
+        {{hash=a327d3bc7ba2e843ba33d7460a171aa9}{%
+           family={Voorakaranam},
+           familyi={V\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=c7be196cd5ec2e3325531341536fd281}{%
+           family={Tunç},
+           familyi={T\bibinitperiod},
+           given={A\bibnamedelima V},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=2e439b19c8e4701f38fa84fbe494296c}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={W},
+           giveni={W\bibinitperiod}}}%
+        {{hash=53aa7d5710bd88e5e90ad1b61301aa86}{%
+           family={Rokutanda},
+           familyi={R\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5180a2bfd3bc93f4169b935309b88b2d}{%
+           family={Gu},
+           familyi={G\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod}}}%
+        {{hash=d06cd625c27763904a30513fad384a6e}{%
+           family={Flores},
+           familyi={F\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=f94399510b1be6d7fab7d889d00b68d8}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+        {{hash=0f2234b06477ac71f67fe16d3e2b397f}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+        {{hash=c56d9428d1ab5f2810e9d3d914314d6d}{%
+           family={St\bibnamedelima Hilaire},
+           familyi={S\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+        {{hash=29aea1e2950ea1d9bd548d591d18a37e}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8581d9b0d43521dd1f3620e9ced9782e}{%
+           family={Norwood},
+           familyi={N\bibinitperiod},
+           given={R\bibnamedelima A},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=61d7d130a9eebdd02b61065743dd4ca1}{%
+           family={Yamamoto},
+           familyi={Y\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=807fba958f0a5d04276f261d29f5a75f}{%
+           family={Peyghambarian},
+           familyi={P\bibinitperiod},
+           given={N},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{1dd04f6191f69d450e6cfcd5d41d6d15}
+      \strng{fullhash}{a815f46f5a9e47f9164f26d761c5e2cb}
+      \strng{bibnamehash}{1dd04f6191f69d450e6cfcd5d41d6d15}
+      \strng{authorbibnamehash}{1dd04f6191f69d450e6cfcd5d41d6d15}
+      \strng{authornamehash}{1dd04f6191f69d450e6cfcd5d41d6d15}
+      \strng{authorfullhash}{a815f46f5a9e47f9164f26d761c5e2cb}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Holographic three-dimensional (3D) displays provide realistic images without the need for special eyewear, making them valuable tools for applications that require situational awareness, such as medical, industrial and military imaging. Currently commercially available holographic 3D displays use photopolymers that lack image-updating capability, resulting in restricted use and high cost. Photorefractive polymers are dynamic holographic recording materials that allow updating of images and have a wide range of applications, including optical correlation, imaging through scattering media and optical communication. To be suitable for 3D displays, photorefractive polymers need to have nearly 100\% diffraction efficiency, fast writing time, hours of image persistence, rapid erasure, and large area-a combination of properties that has not been shown before. Here, we report an updatable holographic 3D display based on photorefractive polymers with such properties, capable of recording and displaying new images every few minutes. This is the largest photorefractive 3D display to date (4 x 4 inches in size); it can be recorded within a few minutes, viewed for several hours without the need for refreshing, and can be completely erased and updated with new images when desired.}
+      \field{journaltitle}{Nature}
+      \field{month}{\#feb\#}
+      \field{number}{7179}
+      \field{title}{An updatable holographic three-dimensional display}
+      \field{volume}{451}
+      \field{year}{2008}
+      \field{pages}{694\bibrangedash 698}
+      \range{pages}{5}
+      \keyw{litsurvey.bib}
+    \endentry
+    \entry{Eldes2013}{article}{}
+      \name{author}{3}{}{%
+        {{hash=60806634d11c642d2f85b83d09634da0}{%
+           family={Eldes},
+           familyi={E\bibinitperiod},
+           given={Osman},
+           giveni={O\bibinitperiod}}}%
+        {{hash=b842e9d7bb1ae182ea72d1fe1ebe1ef6}{%
+           family={Akşit},
+           familyi={A\bibinitperiod},
+           given={Kaan},
+           giveni={K\bibinitperiod}}}%
+        {{hash=c57df26d8eff055b4352e52c9f5f253a}{%
+           family={Urey},
+           familyi={U\bibinitperiod},
+           given={Hakan},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Optical Society of America}%
+      }
+      \strng{namehash}{f1537f188cc94959b504f6aaa0a0fc06}
+      \strng{fullhash}{f1537f188cc94959b504f6aaa0a0fc06}
+      \strng{bibnamehash}{f1537f188cc94959b504f6aaa0a0fc06}
+      \strng{authorbibnamehash}{f1537f188cc94959b504f6aaa0a0fc06}
+      \strng{authornamehash}{f1537f188cc94959b504f6aaa0a0fc06}
+      \strng{authorfullhash}{f1537f188cc94959b504f6aaa0a0fc06}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A new technique for multi-view autostereoscopic projection display is proposed, and demonstrated. The technique uses two mobile projectors, a rotating retro-reflective diffuser screen, and a head-tracking camera. As two dynamic viewing slits are created at the viewer's position, the slits can track the position of the eyes by rotating the screen. The display allows a viewer to move approximately 700 mm along the horizontal axis, and 500 mm along the vertical axis with an average crosstalk below 5 \%. Two screen prototypes with different diffusers have been tried, and they provide luminance levels of 60 Cd/m2, and 160 Cd/m2 within the viewing field.}
+      \field{journaltitle}{Opt. Express}
+      \field{month}{\#nov\#}
+      \field{number}{23}
+      \field{title}{Multi-view autostereoscopic projection display using rotating screen}
+      \field{volume}{21}
+      \field{year}{2013}
+      \field{pages}{29043\bibrangedash 29054}
+      \range{pages}{12}
+      \keyw{litsurvey.bib}
+    \endentry
+    \entry{Yendo2010}{article}{}
+      \name{author}{4}{}{%
+        {{hash=5651d261d67e20469da9a266e2c96652}{%
+           family={Yendo},
+           familyi={Y\bibinitperiod},
+           given={Tomohiro},
+           giveni={T\bibinitperiod}}}%
+        {{hash=aa621f54fa35d7bc560c88ff83c92651}{%
+           family={Fujii},
+           familyi={F\bibinitperiod},
+           given={Toshiaki},
+           giveni={T\bibinitperiod}}}%
+        {{hash=58b9d289eca9c9a0bbb0395c5f742749}{%
+           family={Tanimoto},
+           familyi={T\bibinitperiod},
+           given={Masayuki},
+           giveni={M\bibinitperiod}}}%
+        {{hash=fdc5b11c25b1fb8bad45d243e87e2428}{%
+           family={Panahpour\bibnamedelima Tehrani},
+           familyi={P\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Mehrdad},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{1b85fcab5884d8c61f808c12a19b92b9}
+      \strng{fullhash}{fb4fec093531e7124bc243e573d311e5}
+      \strng{bibnamehash}{1b85fcab5884d8c61f808c12a19b92b9}
+      \strng{authorbibnamehash}{1b85fcab5884d8c61f808c12a19b92b9}
+      \strng{authornamehash}{1b85fcab5884d8c61f808c12a19b92b9}
+      \strng{authorfullhash}{fb4fec093531e7124bc243e573d311e5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We propose a 3D video display technique that allows multiple viewers to see 3D images from a 360-degree horizontal arc without wearing 3D glasses. This technique uses a cylindrical parallax barrier and a one-dimensional light source array. We have developed an experimental display system using this technique. Since this technique is based on the parallax panoramagram, the parallax number and resolution are limited by the diffraction at the parallax barrier. In order to solve this problem, we improved the technique by revolving the parallax barrier. The improved technique was incorporated into two experimental display systems. The newer one is capable of displaying 3D color video images within a 200-mm diameter and a 256-mm height. Images have a resolution of 1254 circumferential pixels and 256 vertical pixels, and are refreshed at 30Hz. Each pixel has a viewing angle of 60 degrees that is divided into over 70 views so that the angular parallax interval of each pixel is less than 1 degree. These pixels are arranged on a cylindrical surface to allow for the produced 3D images to be observed from all directions. In this case, observers may barely perceive the discrete parallax.}
+      \field{journaltitle}{J. Vis. Commun. Image Represent.}
+      \field{month}{\#jul\#}
+      \field{number}{5}
+      \field{title}{The Seelinder: Cylindrical {3D} display viewable from 360 degrees}
+      \field{volume}{21}
+      \field{year}{2010}
+      \field{pages}{586\bibrangedash 594}
+      \range{pages}{9}
+      \keyw{Autostereoscopic display; Multi-view; Omnidirectional; Ray-space; Light field; Parallax barrier;litsurvey.bib}
+    \endentry
+    \entry{authenticVolume2022}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{hash=fc7f1e02e5fc016085b90b7074411086}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Chen},
+           giveni={C\bibinitperiod}}}%
+        {{hash=c9591f6ffd83f6ee3caa1e9d20c21a52}{%
+           family={Simon},
+           familyi={S\bibinitperiod},
+           given={Tomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=6ed99e1d43c3b998f99f33c49027aa14}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Jin\bibnamedelima Kyu},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{6a79e1f833d56e6957dc363bc1f860c0}
+      \strng{fullhash}{6a79e1f833d56e6957dc363bc1f860c0}
+      \strng{bibnamehash}{6a79e1f833d56e6957dc363bc1f860c0}
+      \strng{authorbibnamehash}{6a79e1f833d56e6957dc363bc1f860c0}
+      \strng{authornamehash}{6a79e1f833d56e6957dc363bc1f860c0}
+      \strng{authorfullhash}{6a79e1f833d56e6957dc363bc1f860c0}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACM Transactions in Graphics}
+      \field{title}{Authentic Volume Avatars from Phone Scans}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://drive.google.com/file/d/1i4NJKAggS82wqMamCJ1OHRGgViuyoY6R
+      \endverb
+      \verb{url}
+      \verb https://drive.google.com/file/d/1i4NJKAggS82wqMamCJ1OHRGgViuyoY6R
+      \endverb
     \endentry
     \entry{Mori1970}{article}{}
       \name{author}{1}{}{%
@@ -9991,6 +10350,47 @@
       \range{pages}{6}
       \keyw{humanoid robots;infrared spectroscopy;prefrontal hemodynamics;affective response;neural manifestation;brain activity;PFC versus humans;emotion regulation;anterior prefrontal cortex;uncanny valley effects;neurophysiological manifestations;human-likeness spectrum;human-like appearance;UVH;uncanny valley hypothesis;functional near infrared spectroscopy;human-like robots;user responses;Robots;Hemodynamics;Atmospheric measurements;Particle measurements;Spectroscopy;Visualization;Face;litsurvey.bib}
     \endentry
+    \entry{Marti2005}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=09e78ff3edef5b5cae7b0ee6059c3578}{%
+           family={Marti},
+           familyi={M\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=85f0df90de86e9bc8b6de7cb09916448}{%
+           family={Schmandt},
+           familyi={S\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {ACM}%
+      }
+      \list{location}{1}{%
+        {Seattle, WA, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{805c4d1500a80ea005017d0d9bfa18d2}
+      \strng{fullhash}{805c4d1500a80ea005017d0d9bfa18d2}
+      \strng{bibnamehash}{805c4d1500a80ea005017d0d9bfa18d2}
+      \strng{authorbibnamehash}{805c4d1500a80ea005017d0d9bfa18d2}
+      \strng{authornamehash}{805c4d1500a80ea005017d0d9bfa18d2}
+      \strng{authorfullhash}{805c4d1500a80ea005017d0d9bfa18d2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 18th annual {ACM} symposium on User interface software and technology}
+      \field{month}{\#oct\#}
+      \field{series}{UIST '05}
+      \field{title}{Physical embodiments for mobile communication agents}
+      \field{year}{2005}
+      \field{pages}{231\bibrangedash 240}
+      \range{pages}{10}
+      \keyw{embodiment,conversational agent,robotic user interface,interruptions,human style non-verbal cues;litsurvey.bib}
+    \endentry
     \entry{Adalgeirsson2010}{inproceedings}{}
       \name{author}{2}{}{%
         {{hash=1d15a4e8527aa3ad07301c3e62ea3d4e}{%
@@ -10019,8 +10419,8 @@
       \strng{authorbibnamehash}{cb9d211c3139f81e116d46319d78d757}
       \strng{authornamehash}{cb9d211c3139f81e116d46319d78d757}
       \strng{authorfullhash}{cb9d211c3139f81e116d46319d78d757}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 5th {ACM/IEEE} international conference on Human-robot interaction}
@@ -10060,8 +10460,8 @@
       \strng{authorbibnamehash}{0b8db3d98fb57da29c9875e134a22c3f}
       \strng{authornamehash}{0b8db3d98fb57da29c9875e134a22c3f}
       \strng{authorfullhash}{0b8db3d98fb57da29c9875e134a22c3f}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the {SIGCHI} Conference on Human Factors in Computing Systems}
@@ -10111,8 +10511,8 @@
       \strng{authorbibnamehash}{31acf57401c069923f0a01fe20ef1d6a}
       \strng{authornamehash}{31acf57401c069923f0a01fe20ef1d6a}
       \strng{authorfullhash}{9acb37476607d456b589c70051beb074}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 6th international conference on Human-robot interaction}
@@ -10152,8 +10552,8 @@
       \strng{authorbibnamehash}{2ff16d894b335da05b1eab9b0bc7b823}
       \strng{authornamehash}{2ff16d894b335da05b1eab9b0bc7b823}
       \strng{authorfullhash}{2ff16d894b335da05b1eab9b0bc7b823}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the {SIGCHI} Conference on Human Factors in Computing Systems}
@@ -10195,8 +10595,8 @@
       \strng{authorbibnamehash}{4af683b71c2bb1d60eb9333eb2f2d2dd}
       \strng{authornamehash}{4af683b71c2bb1d60eb9333eb2f2d2dd}
       \strng{authorfullhash}{4af683b71c2bb1d60eb9333eb2f2d2dd}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Mobile robotic telepresence (MRP) systems incorporate video conferencing equipment onto mobile robot devices which can be steered from remote locations. These systems, which are primarily used in the context of promoting social interaction between people, are becoming increasingly popular within certain application domains such as health care environments, independent living for the elderly, and office environments. In this paper, an overview of the various systems, application areas, and challenges found in the literature concerning mobile robotic telepresence is provided. The survey also proposes a set terminology for the field as there is currently a lack of standard terms for the different concepts related to MRP systems. Further, this paper provides an outlook on the various research directions for developing and enhancing mobile robotic telepresence systems per se, as well as evaluating the interaction in laboratory and field settings. Finally, the survey outlines a number of design implications for the future of mobile robotic telepresence systems for social interaction.}
@@ -10241,8 +10641,8 @@
       \strng{authorbibnamehash}{6df511923be59ab3b78b8490522e75f5}
       \strng{authornamehash}{6df511923be59ab3b78b8490522e75f5}
       \strng{authorfullhash}{19a710da0b62da330e325f95e6b45cad}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Telepresence robots are mobile robot platforms capable of providing two way audio and video communication. Recently there has been a surge in companies designing telepresence robots. We conducted a series of user studies at Google in Mountain View with two different commercially available telepresence robots. Based on the data collected from these user studies, we present a set of guidelines for designing telepresence robots. These essential guidelines pertain to video, audio, user interface, physical features, and autonomous behaviors.}
@@ -10287,8 +10687,8 @@
       \strng{authorbibnamehash}{45fc6bda299c194994f30d1930bbf772}
       \strng{authornamehash}{45fc6bda299c194994f30d1930bbf772}
       \strng{authorfullhash}{45fc6bda299c194994f30d1930bbf772}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the Workshop on Performance Metrics for Intelligent Systems}
@@ -10345,8 +10745,8 @@
       \strng{editorbibnamehash}{24eede26cf84a8d622e5673c93b91295}
       \strng{editornamehash}{24eede26cf84a8d622e5673c93b91295}
       \strng{editorfullhash}{24eede26cf84a8d622e5673c93b91295}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Universal Access in {Human-Computer} Interaction. Users Diversity}
@@ -10401,8 +10801,8 @@
       \strng{authorbibnamehash}{6c277a66dfe96c727df50eae2fc0523f}
       \strng{authornamehash}{6c277a66dfe96c727df50eae2fc0523f}
       \strng{authorfullhash}{59cf37ca6f0185d74fa1687f7301fe22}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the {ACM/IEEE} international conference on Human-robot interaction}
@@ -10457,8 +10857,8 @@
       \strng{authornamehash}{7331b798acb89b0d75a7b53e945eff93}
       \strng{authorfullhash}{a2d62a33d8b26f29e6ed6f7d9cc33e29}
       \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Applications such as telepresence and training involve the display of real or synthetic humans to multiple viewers. When attempting to render the humans with conventional displays, non-verbal cues such as head pose, gaze direction, body posture, and facial expression are difficult to convey correctly to all viewers. In addition, a framed image of a human conveys only a limited physical sense of presence - primarily through the display's location. While progress continues on articulated robots that mimic humans, the focus has been on the motion and behavior of the robots. We introduce a new approach for robotic avatars of real people: the use of cameras and projectors to capture and map the dynamic motion and appearance of a real person onto a humanoid animatronic model. We call these devices Animatronic Shader Lamps Avatars (SLA).We present a proof-of-concept prototype comprised of a camera, a tracking system, a digital projector, and a life-sized styrofoam head mounted on a pan-tilt unit. The system captures imagery of a moving, talking user and maps the appearance and motion onto the animatronic SLA, delivering a dynamic, real-time representation of the user to multiple viewers.}
@@ -10517,8 +10917,8 @@
       \strng{authornamehash}{aaf83d0b34ff32df45081916f1bf8bd2}
       \strng{authorfullhash}{eadadd16fb328617c11bb16323ce7de1}
       \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 2nd International Conference on Immersive Telecommunications}
@@ -10580,8 +10980,8 @@
       \strng{editornamehash}{effbaa5d5bcdcaf0917ea8384811a267}
       \strng{editorfullhash}{effbaa5d5bcdcaf0917ea8384811a267}
       \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Rendering Techniques 2001}
@@ -11079,343 +11479,52 @@
       \range{pages}{1}
       \keyw{litsurvey.bib}
     \endentry
-    \entry{Blanche2010}{inproceedings}{}
-      \name{author}{16}{}{%
-        {{hash=4a879a49d91248a63d73d410fb76fd95}{%
-           family={Blanche},
-           familyi={B\bibinitperiod},
-           given={P-A},
-           giveni={P\bibinithyphendelim A\bibinitperiod}}}%
-        {{hash=6f07caf0f1f8ff665e8ab188618a319b}{%
-           family={Bablumian},
-           familyi={B\bibinitperiod},
-           given={A},
-           giveni={A\bibinitperiod}}}%
-        {{hash=a327d3bc7ba2e843ba33d7460a171aa9}{%
-           family={Voorakaranam},
-           familyi={V\bibinitperiod},
-           given={R},
-           giveni={R\bibinitperiod}}}%
-        {{hash=6355b7a4edc311fcf0ca3357204e5393}{%
-           family={Christenson},
+    \entry{xi2022challenges}{article}{}
+      \name{author}{5}{}{%
+        {{hash=7d0b380db5bc68d8140b831bb5e302e6}{%
+           family={Xi},
+           familyi={X\bibinitperiod},
+           given={Nannan},
+           giveni={N\bibinitperiod}}}%
+        {{hash=41c6b6f4a597fe448f8c527afaf76feb}{%
+           family={Chen},
            familyi={C\bibinitperiod},
-           given={C},
-           giveni={C\bibinitperiod}}}%
-        {{hash=2e439b19c8e4701f38fa84fbe494296c}{%
-           family={Lin},
-           familyi={L\bibinitperiod},
-           given={W},
-           giveni={W\bibinitperiod}}}%
-        {{hash=5180a2bfd3bc93f4169b935309b88b2d}{%
-           family={Gu},
+           given={Juan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e73ae1e148ebc3ca51b09a385e89aeea}{%
+           family={Gama},
            familyi={G\bibinitperiod},
-           given={T},
-           giveni={T\bibinitperiod}}}%
-        {{hash=d06cd625c27763904a30513fad384a6e}{%
-           family={Flores},
-           familyi={F\bibinitperiod},
-           given={D},
-           giveni={D\bibinitperiod}}}%
-        {{hash=f94399510b1be6d7fab7d889d00b68d8}{%
-           family={Wang},
-           familyi={W\bibinitperiod},
-           given={P},
-           giveni={P\bibinitperiod}}}%
-        {{hash=94d1c32ff50681c847ea75e2ac8c3f97}{%
-           family={Hsieh},
+           given={Filipe},
+           giveni={F\bibinitperiod}}}%
+        {{hash=604533b56b7a806e66ce1678f5e7bb1c}{%
+           family={Riar},
+           familyi={R\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod}}}%
+        {{hash=57c059873972ac3bb360bc05ba0a18f1}{%
+           family={Hamari},
            familyi={H\bibinitperiod},
-           given={W-Y},
-           giveni={W\bibinithyphendelim Y\bibinitperiod}}}%
-        {{hash=56225bf85638ed994e3a7320c7f65eb9}{%
-           family={Kathaperumal},
-           familyi={K\bibinitperiod},
-           given={M},
-           giveni={M\bibinitperiod}}}%
-        {{hash=11130f231cabd5d7f9e38a22f0bec6ed}{%
-           family={Rachwal},
-           familyi={R\bibinitperiod},
-           given={B},
-           giveni={B\bibinitperiod}}}%
-        {{hash=30555a69762e407995565b8ae573125c}{%
-           family={Siddiqui},
-           familyi={S\bibinitperiod},
-           given={O},
-           giveni={O\bibinitperiod}}}%
-        {{hash=29aea1e2950ea1d9bd548d591d18a37e}{%
-           family={Thomas},
-           familyi={T\bibinitperiod},
-           given={J},
+           given={Juho},
            giveni={J\bibinitperiod}}}%
-        {{hash=177339dbc8891986a03a883456cc8d44}{%
-           family={Norwood},
-           familyi={N\bibinitperiod},
-           given={R\bibnamedelima a},
-           giveni={R\bibinitperiod\bibinitdelim a\bibinitperiod}}}%
-        {{hash=61d7d130a9eebdd02b61065743dd4ca1}{%
-           family={Yamamoto},
-           familyi={Y\bibinitperiod},
-           given={M},
-           giveni={M\bibinitperiod}}}%
-        {{hash=807fba958f0a5d04276f261d29f5a75f}{%
-           family={Peyghambarian},
-           familyi={P\bibinitperiod},
-           given={N},
-           giveni={N\bibinitperiod}}}%
-      }
-      \strng{namehash}{4b965c0e9cd28ba02206e333b7f8e0b1}
-      \strng{fullhash}{7ca35601f48167305df5ae0683a581d8}
-      \strng{bibnamehash}{4b965c0e9cd28ba02206e333b7f8e0b1}
-      \strng{authorbibnamehash}{4b965c0e9cd28ba02206e333b7f8e0b1}
-      \strng{authornamehash}{4b965c0e9cd28ba02206e333b7f8e0b1}
-      \strng{authorfullhash}{7ca35601f48167305df5ae0683a581d8}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Holography is a technique that is used to display objects or scenes in three dimensions. Such three-dimensional (3D) images, or holograms, can be seen with the unassisted eye and are very similar to how humans see the actual environment surrounding them. The concept of 3D telepresence, a real-time dynamic hologram depicting a scene occurring in a different location, has attracted considerable public interest since it was depicted in the original Star Wars film in 1977. However, the lack of sufficient computational power to produce realistic computer-generated holograms and the absence of large-area and dynamically updatable holographic recording media have prevented realization of the concept. Here we use a holographic stereographic technique and a photorefractive polymer material as the recording medium to demonstrate a holographic display that can refresh images every two seconds. A 50\textbackslashquotesinglbase{Ä}{â}Hz nanosecond pulsed laser is used to write the holographic pixels. Multicoloured holographic 3D images are produced by using angular multiplexing, and the full parallax display employs spatial multiplexing. 3D telepresence is demonstrated by taking multiple images from one location and transmitting the information via Ethernet to another location where the hologram is printed with the quasi-real-time dynamic 3D display. Further improvements could bring applications in telemedicine, prototyping, advertising, updatable 3D maps and entertainment.}
-      \field{title}{Holographic three-dimensional telepresence using large-area photorefractive polymer}
-      \field{volume}{468}
-      \field{year}{2010}
-      \field{pages}{80\bibrangedash 83}
-      \range{pages}{4}
-      \keyw{litsurvey.bib}
-    \endentry
-    \entry{Tay2008}{article}{}
-      \name{author}{15}{}{%
-        {{hash=70c683e68134f13a6b58a4633fccc3d1}{%
-           family={Tay},
-           familyi={T\bibinitperiod},
-           given={Savaş},
-           giveni={S\bibinitperiod}}}%
-        {{hash=4a879a49d91248a63d73d410fb76fd95}{%
-           family={Blanche},
-           familyi={B\bibinitperiod},
-           given={P-A},
-           giveni={P\bibinithyphendelim A\bibinitperiod}}}%
-        {{hash=a327d3bc7ba2e843ba33d7460a171aa9}{%
-           family={Voorakaranam},
-           familyi={V\bibinitperiod},
-           given={R},
-           giveni={R\bibinitperiod}}}%
-        {{hash=c7be196cd5ec2e3325531341536fd281}{%
-           family={Tunç},
-           familyi={T\bibinitperiod},
-           given={A\bibnamedelima V},
-           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
-        {{hash=2e439b19c8e4701f38fa84fbe494296c}{%
-           family={Lin},
-           familyi={L\bibinitperiod},
-           given={W},
-           giveni={W\bibinitperiod}}}%
-        {{hash=53aa7d5710bd88e5e90ad1b61301aa86}{%
-           family={Rokutanda},
-           familyi={R\bibinitperiod},
-           given={S},
-           giveni={S\bibinitperiod}}}%
-        {{hash=5180a2bfd3bc93f4169b935309b88b2d}{%
-           family={Gu},
-           familyi={G\bibinitperiod},
-           given={T},
-           giveni={T\bibinitperiod}}}%
-        {{hash=d06cd625c27763904a30513fad384a6e}{%
-           family={Flores},
-           familyi={F\bibinitperiod},
-           given={D},
-           giveni={D\bibinitperiod}}}%
-        {{hash=f94399510b1be6d7fab7d889d00b68d8}{%
-           family={Wang},
-           familyi={W\bibinitperiod},
-           given={P},
-           giveni={P\bibinitperiod}}}%
-        {{hash=0f2234b06477ac71f67fe16d3e2b397f}{%
-           family={Li},
-           familyi={L\bibinitperiod},
-           given={G},
-           giveni={G\bibinitperiod}}}%
-        {{hash=c56d9428d1ab5f2810e9d3d914314d6d}{%
-           family={St\bibnamedelima Hilaire},
-           familyi={S\bibinitperiod\bibinitdelim H\bibinitperiod},
-           given={P},
-           giveni={P\bibinitperiod}}}%
-        {{hash=29aea1e2950ea1d9bd548d591d18a37e}{%
-           family={Thomas},
-           familyi={T\bibinitperiod},
-           given={J},
-           giveni={J\bibinitperiod}}}%
-        {{hash=8581d9b0d43521dd1f3620e9ced9782e}{%
-           family={Norwood},
-           familyi={N\bibinitperiod},
-           given={R\bibnamedelima A},
-           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=61d7d130a9eebdd02b61065743dd4ca1}{%
-           family={Yamamoto},
-           familyi={Y\bibinitperiod},
-           given={M},
-           giveni={M\bibinitperiod}}}%
-        {{hash=807fba958f0a5d04276f261d29f5a75f}{%
-           family={Peyghambarian},
-           familyi={P\bibinitperiod},
-           given={N},
-           giveni={N\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {en}%
       }
       \list{publisher}{1}{%
-        {Nature Publishing Group}%
+        {Springer}%
       }
-      \strng{namehash}{1dd04f6191f69d450e6cfcd5d41d6d15}
-      \strng{fullhash}{a815f46f5a9e47f9164f26d761c5e2cb}
-      \strng{bibnamehash}{1dd04f6191f69d450e6cfcd5d41d6d15}
-      \strng{authorbibnamehash}{1dd04f6191f69d450e6cfcd5d41d6d15}
-      \strng{authornamehash}{1dd04f6191f69d450e6cfcd5d41d6d15}
-      \strng{authorfullhash}{a815f46f5a9e47f9164f26d761c5e2cb}
+      \strng{namehash}{c3488c59c17f20d528cffa03879c1326}
+      \strng{fullhash}{24548bdccd697cd12291a7f7236f42d3}
+      \strng{bibnamehash}{c3488c59c17f20d528cffa03879c1326}
+      \strng{authorbibnamehash}{c3488c59c17f20d528cffa03879c1326}
+      \strng{authornamehash}{c3488c59c17f20d528cffa03879c1326}
+      \strng{authorfullhash}{24548bdccd697cd12291a7f7236f42d3}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Holographic three-dimensional (3D) displays provide realistic images without the need for special eyewear, making them valuable tools for applications that require situational awareness, such as medical, industrial and military imaging. Currently commercially available holographic 3D displays use photopolymers that lack image-updating capability, resulting in restricted use and high cost. Photorefractive polymers are dynamic holographic recording materials that allow updating of images and have a wide range of applications, including optical correlation, imaging through scattering media and optical communication. To be suitable for 3D displays, photorefractive polymers need to have nearly 100\% diffraction efficiency, fast writing time, hours of image persistence, rapid erasure, and large area-a combination of properties that has not been shown before. Here, we report an updatable holographic 3D display based on photorefractive polymers with such properties, capable of recording and displaying new images every few minutes. This is the largest photorefractive 3D display to date (4 x 4 inches in size); it can be recorded within a few minutes, viewed for several hours without the need for refreshing, and can be completely erased and updated with new images when desired.}
-      \field{journaltitle}{Nature}
-      \field{month}{\#feb\#}
-      \field{number}{7179}
-      \field{title}{An updatable holographic three-dimensional display}
-      \field{volume}{451}
-      \field{year}{2008}
-      \field{pages}{694\bibrangedash 698}
-      \range{pages}{5}
-      \keyw{litsurvey.bib}
-    \endentry
-    \entry{Eldes2013}{article}{}
-      \name{author}{3}{}{%
-        {{hash=60806634d11c642d2f85b83d09634da0}{%
-           family={Eldes},
-           familyi={E\bibinitperiod},
-           given={Osman},
-           giveni={O\bibinitperiod}}}%
-        {{hash=b842e9d7bb1ae182ea72d1fe1ebe1ef6}{%
-           family={Akşit},
-           familyi={A\bibinitperiod},
-           given={Kaan},
-           giveni={K\bibinitperiod}}}%
-        {{hash=c57df26d8eff055b4352e52c9f5f253a}{%
-           family={Urey},
-           familyi={U\bibinitperiod},
-           given={Hakan},
-           giveni={H\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {en}%
-      }
-      \list{publisher}{1}{%
-        {Optical Society of America}%
-      }
-      \strng{namehash}{f1537f188cc94959b504f6aaa0a0fc06}
-      \strng{fullhash}{f1537f188cc94959b504f6aaa0a0fc06}
-      \strng{bibnamehash}{f1537f188cc94959b504f6aaa0a0fc06}
-      \strng{authorbibnamehash}{f1537f188cc94959b504f6aaa0a0fc06}
-      \strng{authornamehash}{f1537f188cc94959b504f6aaa0a0fc06}
-      \strng{authorfullhash}{f1537f188cc94959b504f6aaa0a0fc06}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{A new technique for multi-view autostereoscopic projection display is proposed, and demonstrated. The technique uses two mobile projectors, a rotating retro-reflective diffuser screen, and a head-tracking camera. As two dynamic viewing slits are created at the viewer's position, the slits can track the position of the eyes by rotating the screen. The display allows a viewer to move approximately 700 mm along the horizontal axis, and 500 mm along the vertical axis with an average crosstalk below 5 \%. Two screen prototypes with different diffusers have been tried, and they provide luminance levels of 60 Cd/m2, and 160 Cd/m2 within the viewing field.}
-      \field{journaltitle}{Opt. Express}
-      \field{month}{\#nov\#}
-      \field{number}{23}
-      \field{title}{Multi-view autostereoscopic projection display using rotating screen}
-      \field{volume}{21}
-      \field{year}{2013}
-      \field{pages}{29043\bibrangedash 29054}
-      \range{pages}{12}
-      \keyw{litsurvey.bib}
-    \endentry
-    \entry{Yendo2010}{article}{}
-      \name{author}{4}{}{%
-        {{hash=5651d261d67e20469da9a266e2c96652}{%
-           family={Yendo},
-           familyi={Y\bibinitperiod},
-           given={Tomohiro},
-           giveni={T\bibinitperiod}}}%
-        {{hash=aa621f54fa35d7bc560c88ff83c92651}{%
-           family={Fujii},
-           familyi={F\bibinitperiod},
-           given={Toshiaki},
-           giveni={T\bibinitperiod}}}%
-        {{hash=58b9d289eca9c9a0bbb0395c5f742749}{%
-           family={Tanimoto},
-           familyi={T\bibinitperiod},
-           given={Masayuki},
-           giveni={M\bibinitperiod}}}%
-        {{hash=fdc5b11c25b1fb8bad45d243e87e2428}{%
-           family={Panahpour\bibnamedelima Tehrani},
-           familyi={P\bibinitperiod\bibinitdelim T\bibinitperiod},
-           given={Mehrdad},
-           giveni={M\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{1b85fcab5884d8c61f808c12a19b92b9}
-      \strng{fullhash}{fb4fec093531e7124bc243e573d311e5}
-      \strng{bibnamehash}{1b85fcab5884d8c61f808c12a19b92b9}
-      \strng{authorbibnamehash}{1b85fcab5884d8c61f808c12a19b92b9}
-      \strng{authornamehash}{1b85fcab5884d8c61f808c12a19b92b9}
-      \strng{authorfullhash}{fb4fec093531e7124bc243e573d311e5}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{We propose a 3D video display technique that allows multiple viewers to see 3D images from a 360-degree horizontal arc without wearing 3D glasses. This technique uses a cylindrical parallax barrier and a one-dimensional light source array. We have developed an experimental display system using this technique. Since this technique is based on the parallax panoramagram, the parallax number and resolution are limited by the diffraction at the parallax barrier. In order to solve this problem, we improved the technique by revolving the parallax barrier. The improved technique was incorporated into two experimental display systems. The newer one is capable of displaying 3D color video images within a 200-mm diameter and a 256-mm height. Images have a resolution of 1254 circumferential pixels and 256 vertical pixels, and are refreshed at 30Hz. Each pixel has a viewing angle of 60 degrees that is divided into over 70 views so that the angular parallax interval of each pixel is less than 1 degree. These pixels are arranged on a cylindrical surface to allow for the produced 3D images to be observed from all directions. In this case, observers may barely perceive the discrete parallax.}
-      \field{journaltitle}{J. Vis. Commun. Image Represent.}
-      \field{month}{\#jul\#}
-      \field{number}{5}
-      \field{title}{The Seelinder: Cylindrical {3D} display viewable from 360 degrees}
-      \field{volume}{21}
-      \field{year}{2010}
-      \field{pages}{586\bibrangedash 594}
-      \range{pages}{9}
-      \keyw{Autostereoscopic display; Multi-view; Omnidirectional; Ray-space; Light field; Parallax barrier;litsurvey.bib}
-    \endentry
-    \entry{authenticVolume2022}{article}{}
-      \true{moreauthor}
-      \true{morelabelname}
-      \name{author}{3}{}{%
-        {{hash=fc7f1e02e5fc016085b90b7074411086}{%
-           family={Cao},
-           familyi={C\bibinitperiod},
-           given={Chen},
-           giveni={C\bibinitperiod}}}%
-        {{hash=c9591f6ffd83f6ee3caa1e9d20c21a52}{%
-           family={Simon},
-           familyi={S\bibinitperiod},
-           given={Tomas},
-           giveni={T\bibinitperiod}}}%
-        {{hash=6ed99e1d43c3b998f99f33c49027aa14}{%
-           family={Kim},
-           familyi={K\bibinitperiod},
-           given={Jin\bibnamedelima Kyu},
-           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-      }
-      \strng{namehash}{6a79e1f833d56e6957dc363bc1f860c0}
-      \strng{fullhash}{6a79e1f833d56e6957dc363bc1f860c0}
-      \strng{bibnamehash}{6a79e1f833d56e6957dc363bc1f860c0}
-      \strng{authorbibnamehash}{6a79e1f833d56e6957dc363bc1f860c0}
-      \strng{authornamehash}{6a79e1f833d56e6957dc363bc1f860c0}
-      \strng{authorfullhash}{6a79e1f833d56e6957dc363bc1f860c0}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{ACM Transactions in Graphics}
-      \field{title}{Authentic Volume Avatars from Phone Scans}
+      \field{journaltitle}{Information Systems Frontiers}
+      \field{title}{The challenges of entering the metaverse: An experiment on the effect of extended reality on workload}
       \field{year}{2022}
-      \verb{urlraw}
-      \verb https://drive.google.com/file/d/1i4NJKAggS82wqMamCJ1OHRGgViuyoY6R
-      \endverb
-      \verb{url}
-      \verb https://drive.google.com/file/d/1i4NJKAggS82wqMamCJ1OHRGgViuyoY6R
-      \endverb
+      \field{pages}{1\bibrangedash 22}
+      \range{pages}{22}
     \endentry
     \entry{heiphetz2010training}{book}{}
       \name{author}{2}{}{%

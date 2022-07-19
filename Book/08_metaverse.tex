@@ -21,7 +21,38 @@ The Metaverse Standard Forum highlights the following, which reads like the outp
 \item new levels of scale and immersiveness. 
 \end{itemize}
 It's not a useless list by any means, but it lacks the kind of product focus we need for detailed exploration of value and trust transfer. \par
-John Riccitiello, CEO of Unity Technologies says that metaverse is \textit{``The next generation of the internet that is (1) always real-time and (2) mostly 3D (3) mostly interactive, (4) mostly social and (5) mostly persistent''}. This is a useful (if still quite vague) framework. Expanding this slightly we will us the following primitives of what we think are important for a metaverse:
+Mystakidis identifies the following \cite{mystakidis2022metaverse}:
+\begin{itemize}
+\item Principles
+\begin{itemize}
+\item Interoperable
+\item Open
+\item Hardware agnostic
+\item Network
+\end{itemize}
+\item Technologies
+\begin{itemize}
+\item Virtual reality
+\item Augmented reality
+\item Mixed reality
+\end{itemize}
+\item Affordances
+\begin{itemize}
+\item Immersive
+\item Embodiment
+\item Presence
+\item Identity construction
+\end{itemize}
+\item Challenges
+\begin{itemize}
+\item Physical well-being
+\item Psychology
+\item Ethics
+\item Privacy
+\end{itemize}
+\end{itemize}
+This is quite an academic list. A lot of these words will be explored in the next section which is more of an academic literature review.\par
+Turning to industry; John Riccitiello, CEO of Unity Technologies says that metaverse is \textit{``The next generation of the internet that is (1) always real-time and (2) mostly 3D (3) mostly interactive, (4) mostly social and (5) mostly persistent''}. This is a useful (if still quite vague) framework. Expanding this slightly we will us the following primitives of what we think are important for a metaverse:
 \begin{itemize}
 \item Fusing of digital and real life
 \item Social first
@@ -45,8 +76,10 @@ There is a \textbf{lot} of work for the creative and technical industries to do 
 \textbf{This chapter is being rewritten now.} %[\href{https://scholar.google.com/citations?hl=en&user=jE9vLG0AAAAJ&view_op=list_works}{Rabindra+Ratan} notes to include new researchers in the lit survey].\par
 The word metaverse was coined by the author Neal Stephenson in his 1992 novel Snowcrash. It started popping up soon after in \href{https://www.newscientist.com/article/mg14819994-000-how-to-build-a-metaverse/}{news articles} and research papers \cite{mclellan1993avatars}, but in the last five years it has been finding a new life within a silicon valley narrative.\par
 There were clear precursors to modern social VR, such as \href{https://www.howtogeek.com/778554/remembering-vrml-the-metaverse-of-1995/}{VRML in the 1990's} which laid much of the groundwork for 3D content over networked computers.\par% The author used to create commercial 3D scenes on Silicon Graphics systems back in the late 90s.\par
-It might seem that there would be a clear path from there to now, in terms of a metaverse increasingly meaning connected social virtual spaces, but this has not happened. Instead interest in metaverse as a concept waned, MMORG (described later) filled in the utility, and then recently an entirely new definition emerged. The concept of the Metaverse is extremely plastic at this time (Figure \ref{fig:muskWeb3}).\par
+It might seem that there would be a clear path from there to now, in terms of a metaverse increasingly meaning connected social virtual spaces, but this has not happened. Instead interest in metaverse as a concept waned, MMORG (described later) filled in the utility, and then recently an entirely new definition emerged. Park and Kim surveyed dozens of different historical interpretations of the word, and the generational reboot they describe makes it even less clear \cite{park2022metaverse}. The concept of the Metaverse is extremely plastic at this time (Figure \ref{fig:muskWeb3}).\par
 It's arguable that what will be expanding in this chapter is more appropriately `Cyberspace' as described by William Gibson in Neuromancer \cite{gibson2019neuromancer} \textit{``A global domain within the information environment consisting of the interdependent network of information systems infrastructures including the Internet, telecommunications networks, computer systems, and embedded processors and controllers.''}\par
+Park and Kim identify the generational inflection point which has led to the resurgence of the concept of Metaverse \cite{park2022metaverse}: 
+\textit{``Unlike previous studies on the Metaverse based on Second Life, the current Metaverse is based on the social value of Generation Z that online and offine selves are not different.''} \par
 The book will aim to build toward an understanding of metaverse as a useful social mixed reality, that allows low friction communication and economic activity, within groups, at a global scale. Cryptography and distributed software can assist us with globally `true' persistence of digital data, so we will look to integrate this with our social XR.  This focus on persistence, value, and trust means it's most appropriate to focus on business uses as there is more opportunity for value creation which will be important to bootstrap this technology.\par
 This chapter will first attempt to frame the context for telepresence (the academic term for communicating through technology), and then explain the increasingly polarised options for metaverse. It's useful to precisely identify the primitives of the product we would like to see here, so this chapter is far more a review of academic literature in the field, culminating in a proposed framework.\par
 \begin{figure}
@@ -57,7 +90,8 @@ This chapter will first attempt to frame the context for telepresence (the acade
 \end{figure}
 \input{08_b2b_telepresence}    
 \section{Post `Meta' metaverse}
-The current media around ``metaverse'' has been seeded by Mark Zuckerberg's rebranding of his Facebook company to `Meta', and his planned investment in the technology. In Stephenson's `Snow Crash' the Hero Protagonist (drolly called Hiro Protagonist) spends much of the novel in a dystopian virtual environment called the metaverse. It is unclear if Facebook is deliberately embracing the irony of aping such a dystopian image, but certainly their known predisposition for corporate surveillance, alongside their attempt at a global digital money is \href{https://www.politico.com/newsletters/digital-future-daily/2022/04/12/the-facebook-whistleblower-takes-on-the-metaverse-00024762}{ringing alarm bells}, as is their \href{https://www.cnet.com/personal-finance/metas-new-47-5-fee-on-metaverse-items-has-nft-twitter-pissed/}{current plan} for monetisation.\par
+The current media around ``metaverse'' has been seeded by Mark Zuckerberg's rebranding of his Facebook company to `Meta', and his planned investment in the technology. Park and Kim identify dozens of recent papers across various subdomains of metaverse research emerging from Meta labs \cite{park2022metaverse}. \par
+In Stephenson's `Snow Crash' the Hero Protagonist (drolly called Hiro Protagonist) spends much of the novel in a dystopian virtual environment called the metaverse. It is unclear if Facebook is deliberately embracing the irony of aping such a dystopian image, but certainly their known predisposition for corporate surveillance, alongside their attempt at a global digital money is \href{https://www.politico.com/newsletters/digital-future-daily/2022/04/12/the-facebook-whistleblower-takes-on-the-metaverse-00024762}{ringing alarm bells}, as is their \href{https://www.cnet.com/personal-finance/metas-new-47-5-fee-on-metaverse-items-has-nft-twitter-pissed/}{current plan} for monetisation.\par
 The second order hype is likely a \href{https://www.goldmansachs.com/insights/pages/framing-the-future-of-web-3.0-metaverse-edition.html}{speculative play} by major companies on the future of the internet. Grayscale investment \href{https://grayscale.com/wp-content/uploads/2021/11/Grayscale_Metaverse_Report_Nov2021.pdf}{published a report} which views Metaverse as a potential trillion dollar global industry. Such industry reports are given to hyperbole, but it seems the technology is becoming the focus of technology investment narratives. Some notable exerts from a \href{https://www.jpmorgan.com/content/dam/jpm/treasury-services/documents/opportunities-in-the-metaverse.pdf}{2021 report} by American bank JPMorgan show how the legacy financial institutions see this opportunity:\par
 \begin{itemize}
 \item In the view of the report \textit{``The metaverse is a seamless convergence of our physical and digital lives, creating a unified, virtual community where we can work, play, relax, transact, and socialize.'' - this isn't the worst definition, and very much plays into both the value and mixed reality themes explored in this book.}
