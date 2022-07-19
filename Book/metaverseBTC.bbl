@@ -3092,31 +3092,6 @@
       \field{pages}{4}
       \range{pages}{1}
     \endentry
-    \entry{mui2002computational}{thesis}{}
-      \name{author}{1}{}{%
-        {{hash=8a43bc9ad27547b7a423d243de5634e7}{%
-           family={Mui},
-           familyi={M\bibinitperiod},
-           given={Lik},
-           giveni={L\bibinitperiod}}}%
-      }
-      \list{institution}{1}{%
-        {Massachusetts Institute of Technology}%
-      }
-      \strng{namehash}{8a43bc9ad27547b7a423d243de5634e7}
-      \strng{fullhash}{8a43bc9ad27547b7a423d243de5634e7}
-      \strng{bibnamehash}{8a43bc9ad27547b7a423d243de5634e7}
-      \strng{authorbibnamehash}{8a43bc9ad27547b7a423d243de5634e7}
-      \strng{authornamehash}{8a43bc9ad27547b7a423d243de5634e7}
-      \strng{authorfullhash}{8a43bc9ad27547b7a423d243de5634e7}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Computational models of trust and reputation: Agents, evolutionary games, and social networks}
-      \field{type}{phdthesis}
-      \field{year}{2002}
-    \endentry
     \entry{moringiello2021property}{article}{}
       \name{author}{2}{}{%
         {{hash=717cefd755745c1f21c2401c6c5ad357}{%
@@ -3271,8 +3246,8 @@
       \strng{authorbibnamehash}{4dc214c859a01c74a067082d181d6afd}
       \strng{authornamehash}{4dc214c859a01c74a067082d181d6afd}
       \strng{authorfullhash}{4dc214c859a01c74a067082d181d6afd}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Avatars, Affordances, and Interfaces: Virtual Reality Tools for Learning.}
@@ -6651,8 +6626,8 @@
       \strng{authorbibnamehash}{e2859cc6a30554cd9b1f8595b7d48b10}
       \strng{authornamehash}{e2859cc6a30554cd9b1f8595b7d48b10}
       \strng{authorfullhash}{e2859cc6a30554cd9b1f8595b7d48b10}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Thanks to the decreasing cost of whole-body sensing technology and its increasing reliability, there is an increasing interest in, and understanding of, the role played by body expressions as a powerful affective communication channel. The aim of this survey is to review the literature on affective body expression perception and recognition. One issue is whether there are universal aspects to affect expression perception and recognition models or if they are affected by human factors such as culture. Next, we discuss the difference between form and movement information as studies have shown that they are governed by separate pathways in the brain. We also review psychological studies that have investigated bodily configurations to evaluate if specific features can be identified that contribute to the recognition of specific affective states. The survey then turns to automatic affect recognition systems using body expressions as at least one input modality. The survey ends by raising open questions on data collecting, labeling, modeling, and setting benchmarks for comparing automatic recognition systems.}
@@ -10378,8 +10353,8 @@
       \strng{authorbibnamehash}{805c4d1500a80ea005017d0d9bfa18d2}
       \strng{authornamehash}{805c4d1500a80ea005017d0d9bfa18d2}
       \strng{authorfullhash}{805c4d1500a80ea005017d0d9bfa18d2}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 18th annual {ACM} symposium on User interface software and technology}
@@ -11525,6 +11500,51 @@
       \field{year}{2022}
       \field{pages}{1\bibrangedash 22}
       \range{pages}{22}
+    \endentry
+    \entry{kraus2022facebook}{article}{}
+      \name{author}{5}{}{%
+        {{hash=063bf5127fe4e4527985e89cd1e30ab4}{%
+           family={Kraus},
+           familyi={K\bibinitperiod},
+           given={Sascha},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2b4d3d4680ea2346e3ddd0effefe530a}{%
+           family={Kanbach},
+           familyi={K\bibinitperiod},
+           given={Dominik\bibnamedelima K},
+           giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=26dc4bb1aa423f838ae4464ec92f1dcb}{%
+           family={Krysta},
+           familyi={K\bibinitperiod},
+           given={Peter\bibnamedelima M},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=be1575ccf2191caeaaa3eef3a0e0b4e8}{%
+           family={Steinhoff},
+           familyi={S\bibinitperiod},
+           given={Maurice\bibnamedelima M},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=adf3c206b0b7cbf9a10d74c81e31a24f}{%
+           family={Tomini},
+           familyi={T\bibinitperiod},
+           given={Nino},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Emerald Publishing Limited}%
+      }
+      \strng{namehash}{dcdc2288d21aa8ab293450c36b9ad43c}
+      \strng{fullhash}{5646dcffe23573eee09079a571a961ec}
+      \strng{bibnamehash}{dcdc2288d21aa8ab293450c36b9ad43c}
+      \strng{authorbibnamehash}{dcdc2288d21aa8ab293450c36b9ad43c}
+      \strng{authornamehash}{dcdc2288d21aa8ab293450c36b9ad43c}
+      \strng{authorfullhash}{5646dcffe23573eee09079a571a961ec}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Entrepreneurial Behavior \& Research}
+      \field{title}{Facebook and the creation of the metaverse: radical business model innovation or incremental transformation?}
+      \field{year}{2022}
     \endentry
     \entry{heiphetz2010training}{book}{}
       \name{author}{2}{}{%
