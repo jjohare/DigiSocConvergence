@@ -5,7 +5,15 @@ It seems that industry shares much of this opinion regarding an open metaverse. 
 \textit{``Announced today, The Metaverse Standards Forum brings together leading standards organizations and companies for industry-wide cooperation on interoperability standards needed to build the open metaverse. The Forum will explore where the lack of interoperability is holding back metaverse deployment and how the work of Standards Developing Organizations (SDOs) defining and evolving needed standards may be coordinated and accelerated. Open to any organization at no cost, the Forum will focus on pragmatic, action-based projects such as implementation prototyping, hackathons, plugfests, and open-source tooling to accelerate the testing and adoption of metaverse standards, while also developing consistent terminology and deployment guidelines.''}\par
 This looks like it will be a useful project and community for the purposes outlined in this book, but the technology is young enough (in that it doesn't really exist) for multiple approaches to be trailed.
 \subsection{Primitives}
-The Metaverse Standard Forum highlights the following, which reads like the output from a brainstorm between academia and industry stakeholders.
+OpenAI identified the following 5 points about metaverse, in response to the query ``What are 5 key points I should know when studying metaverse?''
+\begin{itemize}
+\item Metaverse is a virtual reality platform that allows users to interact with each other and with digital objects in a virtual space.
+\item Metaverse is a decentralized platform, meaning that there is no central authority or server that controls the platform.
+\item Metaverse is an open platform, meaning that anyone can develop applications for the platform.
+\item Metaverse is a secure platform, meaning that all data and transactions are encrypted and secure.
+\item Metaverse is a scalable platform, meaning that it can support a large number of users and a large number of transactions.
+\end{itemize}
+This is an unexpectedly great answer, probably the cleanest we have found. The \href{https://metaverse-standards.org/}{Metaverse Standard Forum} highlights the following, which reads like the output from a brainstorm between academia and industry stakeholders.
 \begin{itemize}
 \item collaborative spatial computing
 \item interactive 3D graphics 
@@ -52,20 +60,28 @@ Mystakidis identifies the following \cite{mystakidis2022metaverse}:
 \end{itemize}
 \end{itemize}
 This is quite an academic list. A lot of these words will be explored in the next section which is more of an academic literature review.\par
-Nevelsteen attempted to identify key elements for a `virtual work' and these are relevant now, and described rigorously in the appendix of his paper \cite{nevelsteen2018virtual}:
+Nevelsteen attempted to identify key elements for a `virtual work' in 2018 and these are relevant now, and described rigorously in the appendix of his paper \cite{nevelsteen2018virtual}:
 \begin{itemize}
-\item Shared Temporality
+\item Shared Temporality, ie sharing the same time frame.
 \item Real time which he defines as ``not turn based''.
-\item Shared Spatiality, which he says can include and `allegory' of a space, as in text adventures. It seems this might extend to a spoken interface to a mixed reality metaverse
+\item Shared Spatiality, which he says can include an `allegory' of a space, as in text adventures. It seems this might extend to a spoken interface to a mixed reality metaverse
 \item ONE Shard is a description of the network architecture, and conforms to servers in a connected open metaverse.
-\item Many humnan agents simply means that more than one person can be represented in the virtual world and corresponds to `social' in our description.
+\item Many human agents simply means that more than one person can be represented in the virtual world and corresponds to `social' in our description.
 \item Many Software Agents corresponds to AI actors in our descriptions. Non playing characters would be the gaming equivalent.
 Virtual Interaction (Ix);
 \item Nonpausable isn't a word, but is pretty self explanatory.
 \item Persistence means that if human participants leave then the data of the virtual world continues. This applies to the scenes, the data representing actions, and objects and actors in the worlds.
 \item Avatar is interesting as it might seem that having avatar representations of connected human participants is a given. In fact the shared spaces employed by Nvidia for digital engineering do not. 
 \end{itemize}
-Turning to industry; John Riccitiello, CEO of Unity Technologies says that metaverse is \textit{``The next generation of the internet that is (1) always real-time and (2) mostly 3D (3) mostly interactive, (4) mostly social and (5) mostly persistent''}. This is a useful (if still quite vague) framework. Expanding this slightly we will us the following primitives of what we think are important for a metaverse:
+Turning to industry; John Riccitiello, CEO of Unity Technologies says that metaverse is \textit{``The next generation of the internet that is:
+\begin{itemize}
+\item always real-time 
+\item mostly 3D 
+\item mostly interactive
+\item mostly social
+\item mostly persistent''
+\end{itemize}}
+Expanding this slightly we will us the following primitives of what we think are important for a metaverse:
 \begin{itemize}
 \item Fusing of digital and real life
 \item Social first
@@ -73,21 +89,22 @@ Turning to industry; John Riccitiello, CEO of Unity Technologies says that metav
 \item Persistent
 \item Supports ownership
 \item Supports user generated content \cite{ondrejka2004escaping}
-\item Open
+\item Open and extensible
+\item Low friction economic actors and actions
 \item Trusted / secure
-\end{itemize} 
-Added to this are externalities such as the shifting exceptions of younger demographics.
-\begin{itemize}
+%\end{itemize} 
+%Added to this are externalities such as the shifting exceptions of younger demographics.
+%\begin{itemize}
 \item Convergence of film and games
 \item Blurring of IP boundaries
 \item Blurring of narrative flow
-\item User generated content
+\item Multimodal and hardware agnostic
 \item Mobile first experiences
 \item Safeguarding, and governance
 \end{itemize}
 There is a \textbf{lot} of work for the creative and technical industries to do to integrate human narrative creativity this nascent metaverse, and it's not even completely clear that this is possible, or even what people want.
 \section{History}
-\textbf{This chapter is being rewritten now.} %[\href{https://scholar.google.com/citations?hl=en&user=jE9vLG0AAAAJ&view_op=list_works}{Rabindra+Ratan} notes to include new researchers in the lit survey].\par
+%\textbf{This chapter is being rewritten now.} %[\href{https://scholar.google.com/citations?hl=en&user=jE9vLG0AAAAJ&view_op=list_works}{Rabindra+Ratan} notes to include new researchers in the lit survey].\par
 The word metaverse was coined by the author Neal Stephenson in his 1992 novel Snowcrash. It started popping up soon after in \href{https://www.newscientist.com/article/mg14819994-000-how-to-build-a-metaverse/}{news articles} and research papers \cite{mclellan1993avatars}, but in the last five years it has been finding a new life within a silicon valley narrative.\par
 There were clear precursors to modern social VR, such as \href{https://www.howtogeek.com/778554/remembering-vrml-the-metaverse-of-1995/}{VRML in the 1990's} which laid much of the groundwork for 3D content over networked computers.\par% The author used to create commercial 3D scenes on Silicon Graphics systems back in the late 90s.\par
 It might seem that there would be a clear path from there to now, in terms of a metaverse increasingly meaning connected social virtual spaces, but this has not happened. Instead interest in metaverse as a concept waned, MMORG (described later) filled in the utility, and then recently an entirely new definition emerged. Park and Kim surveyed dozens of different historical interpretations of the word, and the generational reboot they describe makes it even less clear \cite{park2022metaverse}. The concept of the Metaverse is extremely plastic at this time (Figure \ref{fig:muskWeb3}).\par
