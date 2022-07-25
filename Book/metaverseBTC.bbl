@@ -11321,6 +11321,53 @@
       \range{pages}{6}
       \keyw{litsurvey.bib}
     \endentry
+    \entry{Drobyshev22MP}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=dd6b2a68f9994349e50b5f616f61b394}{%
+           family={Drobyshev},
+           familyi={D\bibinitperiod},
+           given={Nikita},
+           giveni={N\bibinitperiod}}}%
+        {{hash=8dc3dccd346756c0bd8426b026b69029}{%
+           family={Chelishev},
+           familyi={C\bibinitperiod},
+           given={Jenya},
+           giveni={J\bibinitperiod}}}%
+        {{hash=dccf7c89d88757be718f4c0038a114cf}{%
+           family={Khakhulin},
+           familyi={K\bibinitperiod},
+           given={Taras},
+           giveni={T\bibinitperiod}}}%
+        {{hash=0b6bb3c771c0609c38c845e534b2c819}{%
+           family={Ivakhnenko},
+           familyi={I\bibinitperiod},
+           given={Aleksei},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a48f60762c88685a899455e12615e1df}{%
+           family={Lempitsky},
+           familyi={L\bibinitperiod},
+           given={Victor},
+           giveni={V\bibinitperiod}}}%
+        {{hash=338eac6a6e80df412c00481a190ae918}{%
+           family={Zakharov},
+           familyi={Z\bibinitperiod},
+           given={Egor},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{94de49f53a84dca304e4ba8493dfec08}
+      \strng{fullhash}{b45524e5c62dd057c04408b337e52971}
+      \strng{bibnamehash}{94de49f53a84dca304e4ba8493dfec08}
+      \strng{authorbibnamehash}{94de49f53a84dca304e4ba8493dfec08}
+      \strng{authornamehash}{94de49f53a84dca304e4ba8493dfec08}
+      \strng{authorfullhash}{b45524e5c62dd057c04408b337e52971}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the 30th ACM International Conference on Multimedia}
+      \field{title}{MegaPortraits: One-shot Megapixel Neural Head Avatars}
+      \field{year}{2022}
+    \endentry
     \entry{Raskar1998}{inproceedings}{}
       \name{author}{6}{}{%
         {{hash=8843732e3271ea6b1e5a66e24f6c6a43}{%
