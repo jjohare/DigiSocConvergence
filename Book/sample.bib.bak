@@ -13701,9 +13701,6 @@
   publisher = {HeinOnline},
 }
 
-@Article{,
-}
-
 @Article{siyaev2021towards,
   author    = {Siyaev, Aziz and Jo, Geun-Sik},
   journal   = {Sensors},
@@ -13724,6 +13721,13 @@
   pages     = {e1752},
   volume    = {29},
   publisher = {Wiley Online Library},
+}
+
+@TechReport{barrero2021working,
+  author      = {Barrero, Jose Maria and Bloom, Nicholas and Davis, Steven J},
+  institution = {National Bureau of Economic Research},
+  title       = {Why working from home will stick},
+  year        = {2021},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
