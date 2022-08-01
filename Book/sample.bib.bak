@@ -13730,4 +13730,18 @@
   year        = {2021},
 }
 
+@InProceedings{Drobyshev22MP,
+  author  = {Drobyshev, Nikita and Chelishev, Jenya and Khakhulin, Taras and Ivakhnenko, Aleksei and Lempitsky, Victor and Zakharov, Egor},
+  title   = {MegaPortraits: One-shot Megapixel Neural Head Avatars},
+  year    = {2022},
+  journal = {Proceedings of the 30th ACM International Conference on Multimedia},
+}
+
+@Article{BenSasson2022,
+  author  = {Sasson, Eli Ben and Carmon, Dan and Kopparty, Swastik and Levit, David},
+  journal = {TR22 110},
+  title   = {Scalable and Transparent Proofs over All Large Fields, via Elliptic Curves},
+  year    = {2022},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
