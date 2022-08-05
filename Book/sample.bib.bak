@@ -13740,8 +13740,22 @@
 @Article{BenSasson2022,
   author  = {Sasson, Eli Ben and Carmon, Dan and Kopparty, Swastik and Levit, David},
   journal = {TR22 110},
-  title   = {Scalable and Transparent Proofs over All Large Fields, via Elliptic Curves},
+  title   = {Scalable and transparent proofs over all large fields via elliptic curves},
   year    = {2022},
+}
+
+@Article{,
+}
+
+@article{chen2020survey,
+  title={A survey on ethereum systems security: Vulnerabilities, attacks, and defenses},
+  author={Chen, Huashan and Pendleton, Marcus and Njilla, Laurent and Xu, Shouhuai},
+  journal={ACM Computing Surveys (CSUR)},
+  volume={53},
+  number={3},
+  pages={1--43},
+  year={2020},
+  publisher={ACM New York, NY, USA}
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
