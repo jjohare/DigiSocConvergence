@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  5 AUG 2022 09:10
-=======
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.12)  4 AUG 2022 15:52
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  5 AUG 2022 09:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -12,9 +8,9 @@ LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24> (LegrandOrangeBook.cls
 Document Class: LegrandOrangeBook 2022/01/26 The Legrand Orange Book Class v3.0
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
 Document Class: book 2021/10/04 v1.4n Standard LaTeX document class
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/base\fleqn.clo
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/base\fleqn.clo
 File: fleqn.clo 2016/12/29 v1.2b Standard LaTeX option (flush left equations)
 \mathindent=\skip47
 Applying: [2015/01/01] Make \[ robust on input line 50.
@@ -24,7 +20,7 @@ Applying: [2015/01/01] Make \] robust on input line 74.
 LaTeX Info: Redefining \] on input line 75.
 Already applied: [0000/00/00] Make \] robust on input line 83.
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/base\bk12.clo
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/base\bk12.clo
 File: bk12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
@@ -40,31 +36,31 @@ File: bk12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip49
 \bibindent=\dimen138
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
-fg
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cf
+g
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen139
 \Gin@req@width=\dimen140
-) (C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+) (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count194
 \float@exts=\toks17
@@ -72,14 +68,14 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks18
 \@floatcapt=\box51
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3k
-eys2e.sty
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3ke
+ys2e.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
 Package: expl3 2022-02-24 L3 programming layer (loader) 
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
-tex.def
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
+ex.def
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count195
 \l__pdf_internal_box=\box52
@@ -91,19 +87,20 @@ Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 \l__lipsum_a_int=\count197
 \l__lipsum_b_int=\count198
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex))
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex))
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Package option `usenames' ignored on input line 218.
 Package xcolor Info: Driver file: pdftex.def on input line 227.
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
 Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
 \col@sep=\dimen141
 \ar@mcellbox=\box53
@@ -127,10 +124,10 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\svgnam.def
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\svgnam.def
 File: svgnam.def 2021/10/31 v2.13 Predefined colors according to SVG 1.1 (UK)
 ))
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count266
 \calc@Bcount=\count267
@@ -143,25 +140,23 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count268
 \calc@Cskip=\skip55
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/changepage\changepage.s
-ty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/changepage\changepage.st
+y
 Package: changepage 2009/10/20 v1.0c check page and change page layout
 \c@cp@cntr=\count269
 \cp@tempcnt=\count270
-)
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/appendix\appendix.sty
+) (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/appendix\appendix.sty
 Package: appendix 2020/02/08 v1.2c extra appendix facilities
 \c@@pps=\count271
 \c@@ppsavesec=\count272
 \c@@ppsaveapp=\count273
-)
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+) (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count274
@@ -177,19 +172,19 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layoutvoffset=\dimen152
 \Gm@dimlist=\toks21
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks22
 \inpenc@posthook=\toks23
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\avant.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\avant.sty
 Package: avant 2020/03/25 PSNFSS-v9.3 (SPQR) 
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\mathptmx.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\mathptmx.sty
 Package: mathptmx 2020/03/25 PSNFSS-v9.3 Times w/ Math, improved (SPQR, WaS) 
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -225,38 +220,38 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
 LaTeX Info: Redefining \hbar on input line 50.
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
-Package: microtype 2022/06/23 v3.0f Micro-typographical refinements (RS)
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+Package: microtype 2022/02/22 v3.0c Micro-typographical refinements (RS)
+
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count277
 )
 \MT@toks=\toks24
 \MT@tempbox=\box55
 \MT@count=\count278
-LaTeX Info: Redefining \noprotrusionifhmode on input line 1045.
-LaTeX Info: Redefining \leftprotrusion on input line 1046.
-LaTeX Info: Redefining \rightprotrusion on input line 1056.
-LaTeX Info: Redefining \textls on input line 1234.
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1027.
+LaTeX Info: Redefining \leftprotrusion on input line 1028.
+LaTeX Info: Redefining \rightprotrusion on input line 1036.
+LaTeX Info: Redefining \textls on input line 1200.
 \MT@outer@kern=\dimen153
-LaTeX Info: Redefining \textmicrotypecontext on input line 1858.
+LaTeX Info: Redefining \textmicrotypecontext on input line 1786.
 \MT@listname@count=\count279
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdf
-tex.def
-File: microtype-pdftex.def 2022/06/23 v3.0f Definitions specific to pdftex (RS)
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdft
+ex.def
+File: microtype-pdftex.def 2022/02/22 v3.0c Definitions specific to pdftex (RS)
 
-LaTeX Info: Redefining \lsstyle on input line 900.
-LaTeX Info: Redefining \lslig on input line 900.
+LaTeX Info: Redefining \lsstyle on input line 897.
+LaTeX Info: Redefining \lslig on input line 897.
 \MT@outer@space=\skip56
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
-File: microtype.cfg 2022/06/23 v3.0f microtype main configuration file (RS)
-))
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
-Package: fancyhdr 2022/05/18 v4.0.3 Extensive control of page headers and foote
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+File: microtype.cfg 2022/02/22 v3.0c microtype main configuration file (RS)
+)) (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
 rs
 \f@nch@headwidth=\skip57
 \f@nch@O@elh=\skip58
@@ -276,11 +271,10 @@ less on input line 94.
 Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
 less on input line 98.
 
-
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/emptypage\emptypage.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/emptypage\emptypage.sty
 Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty 
 pages
-) (C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+) (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \ttl@box=\box56
 \beforetitleunit=\skip66
@@ -291,45 +285,46 @@ Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \titlewidth=\dimen156
 \titlewidthlast=\dimen157
 \titlewidthfirst=\dimen158
-) (C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titletoc.sty
+)
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titletoc.sty
 Package: titletoc 2021/07/05 v2.14 TOC entries
 \ttl@leftsep=\dimen159
-) (C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+)
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
 Package: biblatex 2022/02/02 v3.17 programmable bibliographies (PK/MW)
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
-.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.
+sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
-ty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.st
+y
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-)
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+) (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
-Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.s
-ty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.st
+y
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-)) (C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+)) (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count280
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -392,7 +387,7 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
 File: blx-dm.def 2022/02/02 v3.17 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex citestyle data model...
@@ -484,12 +479,12 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
 File: blx-compat.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
- (C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
 File: biblatex.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
 \c@textcitecount=\count394
 \c@textcitetotal=\count395
@@ -508,14 +503,13 @@ File: biblatex.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric.bb
-x
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric.bbx
 File: numeric.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.b
-bx
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bb
+x
 File: standard.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count403
 \c@bbx:relatedtotal=\count404
@@ -523,8 +517,7 @@ File: standard.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric.cb
-x
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric.cbx
 File: numeric.cbx 2022/02/02 v3.17 biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
@@ -540,8 +533,7 @@ Package biblatex Info: Redefining '\smartcites'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
-
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+ (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
 File: biblatex.cfg 
 )
 Package biblatex Info: Input encoding 'utf8' detected.
@@ -551,15 +543,14 @@ Package biblatex Info: ... and expl3
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.
+sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse
 .sty
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
-e.sty
 Package: xparse 2022-01-12 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2022/02/02 v3.17 expl3 case changing code for biblatex
-))
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/base\makeidx.sty
+)) (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/base\makeidx.sty
 Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
 )
 \@indexfile=\write4
@@ -567,7 +558,7 @@ Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
 
 
 Writing index file metaverseBTC.idx
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen160
 \lightrulewidth=\dimen161
@@ -587,7 +578,7 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@lastruleclass=\count408
 \@thisrulewidth=\dimen172
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip90
 \enit@outerparindent=\dimen173
@@ -596,43 +587,41 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@count@id=\count409
 \enitdp@description=\count410
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2022-02-21 v7.00n Hypertext links for LaTeX
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
-keys.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinek
+eys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
-ty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.st
+y
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-) (C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+) (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
-.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro.
+sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-)
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+) (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
 \@linkdim=\dimen174
 \Hy@linkcounter=\count411
 \Hy@pagecounter=\count412
-
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+ (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2022-02-21 v7.00n Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count413
- (C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2022-02-21 v7.00n Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -648,11 +637,11 @@ Package hyperref Info: Bookmarks ON on input line 4390.
 LaTeX Info: Redefining \url on input line 4749.
 \XeTeXLinkMargin=\dimen175
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
-.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.
+sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
@@ -669,7 +658,7 @@ Package hyperref Info: PDF/A mode OFF on input line 6057.
 LaTeX Info: Redefining \ref on input line 6097.
 LaTeX Info: Redefining \pageref on input line 6101.
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
@@ -678,10 +667,11 @@ package with kernel methods
 \c@Hfootnote=\count418
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
 File: hpdftex.def 2022-02-21 v7.00n Hyperref driver for pdfTeX
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
@@ -689,12 +679,12 @@ with kernel methods
 \Fld@listcount=\count419
 \c@bookmark@seq@number=\count420
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
-echeck.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfile
+check.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
-ounter.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniqueco
+unter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
@@ -708,30 +698,30 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 501.
 Package hyperref Warning: Option `hyperindex' has already been used,
 (hyperref)                setting the option has no effect on input line 501.
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
 Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
 File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
 \BKM@id=\count421
-)) (C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+)) (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2021/10/15 v2.17l AMS math features
 \@mathmargin=\skip92
 
 For additional information on amsmath, use the `?' option.
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks27
 \ex@=\dimen178
 ))
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen179
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2021/08/26 v2.02 operator names
 )
 \inf@bad=\count422
@@ -772,17 +762,17 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 LaTeX Info: Redefining \[ on input line 2938.
 LaTeX Info: Redefining \] on input line 2939.
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup6
 \symAMSb=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks32
 \thm@bodyfont=\toks33
@@ -804,22 +794,22 @@ Package: amsthm 2020/05/29 v2.20.6
 \c@definitionT=\count441
 \c@corollaryT=\count442
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/mdframed\mdframed.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/mdframed\mdframed.sty
 Package: mdframed 2013/07/01 1.9b: mdframed
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-abspage.sty
-Package: zref-abspage 2022-04-07 v2.34 Module abspage for zref (HO)
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-abspage.sty
+Package: zref-abspage 2020-07-03 v2.32 Module abspage for zref (HO)
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-base.sty
-Package: zref-base 2022-04-07 v2.34 Module base for zref (HO)
-Package zref Info: New property list: main on input line 767.
-Package zref Info: New property: default on input line 768.
-Package zref Info: New property: page on input line 769.
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-base.sty
+Package: zref-base 2020-07-03 v2.32 Module base for zref (HO)
+Package zref Info: New property list: main on input line 764.
+Package zref Info: New property: default on input line 765.
+Package zref Info: New property: page on input line 766.
 )
 \c@abspage=\count443
-Package zref Info: New property: abspage on input line 65.
+Package zref Info: New property: abspage on input line 66.
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/needspace\needspace.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/needspace\needspace.sty
 Package: needspace 2010/09/12 v1.3d reserve vertical space
 )
 \mdf@templength=\skip98
@@ -863,8 +853,7 @@ Package: needspace 2010/09/12 v1.3d reserve vertical space
 \mdf@subsubtitlebelowskip@length=\skip135
 \mdf@subsubtitleinneraboveskip@length=\skip136
 \mdf@subsubtitleinnerbelowskip@length=\skip137
-
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/mdframed\md-frame-0.mdf
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/mdframed\md-frame-0.mdf
 File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 )
 \mdf@frametitlebox=\box60
@@ -911,45 +900,45 @@ File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 \c@mdf@zref@counter=\count449
 Package zref Info: New property: mdf@pagevalue on input line 895.
 ))
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
-sty
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
-y
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
--common.tex
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.s
+ty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty
+
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-
+common.tex
 \pgfutil@everybye=\toks38
 \pgfutil@tempdima=\dimen187
 \pgfutil@tempdimb=\dimen188
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
--common-lists.tex))
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
--latex.def
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-
+common-lists.tex))
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-
+latex.def
 \pgfutil@abb=\box65
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
-code.tex
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.c
+ode.tex
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
 Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
 ))
 Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
-sty
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
-sty
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
-s.code.tex
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.s
+ty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.s
+ty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+.code.tex
 Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
-.code.tex
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.
+code.tex
 \pgfkeys@pathtoks=\toks39
 \pgfkeys@temptoks=\toks40
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
-filtered.code.tex
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeysf
+iltered.code.tex
 \pgfkeys@tmptoks=\toks41
 ))
 \pgf@x=\dimen189
@@ -973,42 +962,42 @@ filtered.code.tex
 \t@pgf@tokc=\toks44
 \pgf@sys@id@count=\count454
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
-fg
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cf
+g
 File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
-s-pdftex.def
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+-pdftex.def
 File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
-s-common-pdf.def
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+-common-pdf.def
 File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
 )))
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
-ssoftpath.code.tex
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+softpath.code.tex
 File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfsyssoftpath@smallbuffer@items=\count455
 \pgfsyssoftpath@bigbuffer@items=\count456
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
-sprotocol.code.tex
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+protocol.code.tex
 File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ))
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-e.code.tex
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+.code.tex
 Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
-.tex
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
-code.tex
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
-code.tex)
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
-r.code.tex
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.
+tex
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.c
+ode.tex
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.c
+ode.tex)
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser
+.code.tex
 \pgfmath@dimen=\dimen199
 \pgfmath@count=\count457
 \pgfmath@box=\box66
@@ -1016,32 +1005,32 @@ r.code.tex
 \pgfmath@stack@operand=\toks46
 \pgfmath@stack@operation=\toks47
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.code.tex
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.basic.code.tex)
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.trigonometric.code.tex)
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.random.code.tex)
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.comparison.code.tex)
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.base.code.tex)
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.round.code.tex)
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.misc.code.tex)
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.integerarithmetics.code.tex)))
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
-.code.tex
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.code.tex
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.basic.code.tex)
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.trigonometric.code.tex)
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.random.code.tex)
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.comparison.code.tex)
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.base.code.tex)
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.round.code.tex)
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.misc.code.tex)
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.integerarithmetics.code.tex)))
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.
+code.tex
 \c@pgfmathroundto@lastzeros=\count458
 ))
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
-tex)
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-epoints.code.tex
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.t
+ex)
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+points.code.tex
 File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@picminx=\dimen256
 \pgf@picmaxx=\dimen257
@@ -1058,132 +1047,132 @@ File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@zx=\dimen268
 \pgf@zy=\dimen269
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-epathconstruct.code.tex
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+pathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@path@lastx=\dimen270
 \pgf@path@lasty=\dimen271
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-epathusage.code.tex
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+pathusage.code.tex
 File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@shorten@end@additional=\dimen272
 \pgf@shorten@start@additional=\dimen273
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-escopes.code.tex
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+scopes.code.tex
 File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfpic=\box67
 \pgf@hbox=\box68
 \pgf@layerbox@main=\box69
 \pgf@picture@serial@count=\count459
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-egraphicstate.code.tex
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+graphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgflinewidth=\dimen274
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-etransformations.code.tex
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+transformations.code.tex
 File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@pt@x=\dimen275
 \pgf@pt@y=\dimen276
 \pgf@pt@temp=\dimen277
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-equick.code.tex
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+quick.code.tex
 File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-eobjects.code.tex
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+objects.code.tex
 File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-epathprocessing.code.tex
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+pathprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-earrows.code.tex
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+arrows.code.tex
 File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfarrowsep=\dimen278
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-eshade.code.tex
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+shade.code.tex
 File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@max=\dimen279
 \pgf@sys@shading@range@num=\count460
 \pgf@shadingcount=\count461
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-eimage.code.tex
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+image.code.tex
 File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-eexternal.code.tex
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+external.code.tex
 File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfexternal@startupbox=\box70
 ))
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-elayers.code.tex
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+layers.code.tex
 File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-etransparency.code.tex
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+transparency.code.tex
 File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-epatterns.code.tex
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+patterns.code.tex
 File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-erdf.code.tex
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+rdf.code.tex
 File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )))
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
-shapes.code.tex
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodules
+hapes.code.tex
 File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfnodeparttextbox=\box71
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
-plot.code.tex
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulep
+lot.code.tex
 File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
-mp-version-0-65.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcom
+p-version-0-65.sty
 Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@nodesepstart=\dimen280
 \pgf@nodesepend=\dimen281
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
-mp-version-1-18.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcom
+p-version-1-18.sty
 Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
 ))
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty
+
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.st
 y
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
-ty
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
-.code.tex))
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
-.tex))
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
-code.tex
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.
+code.tex))
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.
+tex))
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.c
+ode.tex
 Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
-.tex)
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.
+tex)
 \pgffor@iter=\dimen282
 \pgffor@skip=\dimen283
 \pgffor@stack=\toks48
 \pgffor@toks=\toks49
 ))
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z\tikz.code.tex
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+\tikz.code.tex
 Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
-aryplothandlers.code.tex
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibra
+ryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@plot@mark@count=\count462
 \pgfplotmarksize=\dimen284
@@ -1205,8 +1194,8 @@ File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \tikznumberofcurrentchild=\count465
 \tikz@fig@count=\count466
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
-matrix.code.tex
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulem
+atrix.code.tex
 File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfmatrixcurrentrow=\count467
 \pgfmatrixcurrentcolumn=\count468
@@ -1214,8 +1203,8 @@ File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
 \tikz@expandcount=\count470
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z/libraries\tikzlibrarytopaths.code.tex
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )))
 \fminipagebox=\box76
@@ -1224,7 +1213,7 @@ File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 LaTeX Font Info:    Trying to load font information for T1+ptm on input line 76
 .
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ptm.fd
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
 (metaverseBTC.aux
@@ -1256,8 +1245,8 @@ LaTeX Font Info:    ... okay on input line 76.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 76.
 LaTeX Font Info:    ... okay on input line 76.
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
-ii
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
+i
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count473
 \scratchdimen=\dimen293
@@ -1271,14 +1260,14 @@ ii
 \makeMPintoPDFobject=\count478
 \everyMPtoPDFconversion=\toks51
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
-ase.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
+se.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
-fg
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cf
+g
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 *geometry* driver: auto-detecting
@@ -1330,14 +1319,13 @@ LaTeX Info: Redefining \showhyphens on input line 76.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-ptm.cfg
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-ptm.cfg
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lb
-x
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
 File: english.lbx 2022/02/02 v3.17 biblatex localization (PK/MW)
 )
 Package biblatex Info: Input encoding 'utf8' detected.
@@ -1352,14 +1340,14 @@ Package biblatex Info: Reference section=0 on input line 76.
 Package biblatex Info: Reference segment=0 on input line 76.
 Package hyperref Info: Link coloring ON on input line 76.
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
-lestring.sty
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitl
+estring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count479
@@ -1375,7 +1363,7 @@ Package pdftex.def Info: Images//background.pdf  used on input line 91.
 LaTeX Font Info:    Trying to load font information for T1+pag on input line 91
 .
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pag.fd
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pag.fd
 File: t1pag.fd 2001/06/04 font definitions for T1/pag.
 )
 Package microtype Info: Loading generic protrusion settings for font family
@@ -1389,8 +1377,8 @@ LaTeX Font Info:    Font shape `T1/pag/b/n' in size <14.4> not available
 
 [1
 
-{C:/Users/isa_h/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Images//ba
-ckground.pdf>]
+{C:/Users/john/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Images//bac
+kground.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 101--102
 
  []
@@ -1407,7 +1395,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 105--106
 
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
 10.
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
 [2]
@@ -1418,7 +1406,7 @@ Package pdftex.def Info: Images//orange1.jpg  used on input line 128.
 (pdftex.def)             Requested size: 597.50787pt x 267.01932pt.
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
  128.
- (C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ztmcm.fd
+ (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 Package microtype Info: Loading generic protrusion settings for font family
@@ -1427,25 +1415,26 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
  128.
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlztmcm.fd
+
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
  128.
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omsztmcm.fd
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
  128.
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omxztmcm.fd
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
 28.
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
@@ -1455,10 +1444,10 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 128.
 
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-(C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
+(C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 (metaverseBTC.toc
@@ -1566,15 +1555,16 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [16]
-<<<<<<< HEAD
 <Images//goldmanFront.jpg, id=1090, 1287.81125pt x 867.24pt>
-=======
-<Images//goldmanFront.jpg, id=1084, 1287.81125pt x 867.24pt>
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
 File: Images//goldmanFront.jpg Graphic file (type jpg)
 <use Images//goldmanFront.jpg>
-Package pdftex.def Info: Images//goldmanFront.jpg  used on input line 164.
+Package pdftex.def Info: Images//goldmanFront.jpg  used on input line 165.
 (pdftex.def)             Requested size: 213.39568pt x 143.69714pt.
+
+Overfull \hbox (4.7262pt too wide) in paragraph at lines 163--169
+[]\T1/ptm/m/n/12 (-20) >>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872 Of thei
+r re-cent in-vest-ments KPMG
+ []
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -1585,14 +1575,10 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [17 <./Images//goldmanFront.jpg>]
-<<<<<<< HEAD
 <Images//landscapevenn.png, id=1108, 676.62787pt x 505.89pt>
-=======
-<Images//landscapevenn.png, id=1102, 676.62787pt x 505.89pt>
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
 File: Images//landscapevenn.png Graphic file (type png)
 <use Images//landscapevenn.png>
-Package pdftex.def Info: Images//landscapevenn.png  used on input line 189.
+Package pdftex.def Info: Images//landscapevenn.png  used on input line 190.
 (pdftex.def)             Requested size: 426.79135pt x 319.09062pt.
 
 
@@ -1616,14 +1602,10 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 Chapter 2.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
-Package pdftex.def Info: Images//orange2.jpg  used on input line 193.
+Package pdftex.def Info: Images//orange2.jpg  used on input line 194.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
 (02_decentralised_web.tex
-<<<<<<< HEAD
 <Images//semanticWebStack.png, id=1125, 406.51875pt x 406.51875pt>
-=======
-<Images//semanticWebStack.png, id=1119, 406.51875pt x 406.51875pt>
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
 File: Images//semanticWebStack.png Graphic file (type png)
 <use Images//semanticWebStack.png>
 Package pdftex.def Info: Images//semanticWebStack.png  used on input line 8.
@@ -1640,11 +1622,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [21 <./Images//semanticWebStack.png>]
-<<<<<<< HEAD
 <Images//deloitteweb3.png, id=1143, 588.1975pt x 535.50063pt>
-=======
-<Images//deloitteweb3.png, id=1137, 588.1975pt x 535.50063pt>
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
 File: Images//deloitteweb3.png Graphic file (type png)
 <use Images//deloitteweb3.png>
 Package pdftex.def Info: Images//deloitteweb3.png  used on input line 20.
@@ -1659,11 +1637,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [22 <./Images//deloitteweb3.png>]
-<<<<<<< HEAD
 <Images//c-a-e.jpg, id=1153, 602.25pt x 501.875pt>
-=======
-<Images//c-a-e.jpg, id=1147, 602.25pt x 501.875pt>
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
 File: Images//c-a-e.jpg Graphic file (type jpg)
 <use Images//c-a-e.jpg>
 Package pdftex.def Info: Images//c-a-e.jpg  used on input line 30.
@@ -1678,11 +1652,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [23 <./Images//c-a-e.jpg>]
-<<<<<<< HEAD
 <Images//web1web2web3.jpg, id=1163, 999.735pt x 538.01pt>
-=======
-<Images//web1web2web3.jpg, id=1157, 999.735pt x 538.01pt>
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
 File: Images//web1web2web3.jpg Graphic file (type jpg)
 <use Images//web1web2web3.jpg>
 Package pdftex.def Info: Images//web1web2web3.jpg  used on input line 40.
@@ -1715,11 +1685,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [26]
-<<<<<<< HEAD
 <Images//dnssec.jpg, id=1207, 451.6875pt x 265.99374pt>
-=======
-<Images//dnssec.jpg, id=1201, 451.6875pt x 265.99374pt>
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
 File: Images//dnssec.jpg Graphic file (type jpg)
 <use Images//dnssec.jpg>
 Package pdftex.def Info: Images//dnssec.jpg  used on input line 83.
@@ -1743,11 +1709,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [28 <./Images//dnssec.jpg>]
-<<<<<<< HEAD
 <Images//Web3ARK.jpg, id=1235, 2840.6125pt x 1597.97pt>
-=======
-<Images//Web3ARK.jpg, id=1229, 2840.6125pt x 1597.97pt>
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
 File: Images//Web3ARK.jpg Graphic file (type jpg)
 <use Images//Web3ARK.jpg>
 Package pdftex.def Info: Images//Web3ARK.jpg  used on input line 117.
@@ -1765,32 +1727,20 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 Chapter 3.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
-Package pdftex.def Info: Images//orange2.jpg  used on input line 196.
+Package pdftex.def Info: Images//orange2.jpg  used on input line 197.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
 (03_blockchain.tex
-<<<<<<< HEAD
 <Images//prehistory.jpg, id=1260, 1980.39874pt x 1376.14125pt>
-=======
-<Images//prehistory.jpg, id=1254, 1980.39874pt x 1376.14125pt>
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
 File: Images//prehistory.jpg Graphic file (type jpg)
 <use Images//prehistory.jpg>
 Package pdftex.def Info: Images//prehistory.jpg  used on input line 14.
 (pdftex.def)             Requested size: 426.79135pt x 296.55754pt.
-<<<<<<< HEAD
 <Images//bitcointopics.jpg, id=1262, 1927.2pt x 1084.05pt>
-=======
-<Images//bitcointopics.jpg, id=1256, 1927.2pt x 1084.05pt>
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
 File: Images//bitcointopics.jpg Graphic file (type jpg)
 <use Images//bitcointopics.jpg>
 Package pdftex.def Info: Images//bitcointopics.jpg  used on input line 21.
 (pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
-<<<<<<< HEAD
 <Images//venn.png, id=1265, 1606.0pt x 1204.5pt>
-=======
-<Images//venn.png, id=1259, 1606.0pt x 1204.5pt>
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
 File: Images//venn.png Graphic file (type png)
 <use Images//venn.png>
 Package pdftex.def Info: Images//venn.png  used on input line 28.
@@ -1816,20 +1766,12 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [32 <./Images//venn.png (PNG copy)>]
-<<<<<<< HEAD
 <Images//evolvingnarrative.png, id=1304, 1405.25pt x 746.79pt>
-=======
-<Images//evolvingnarrative.png, id=1298, 1405.25pt x 746.79pt>
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
 File: Images//evolvingnarrative.png Graphic file (type png)
 <use Images//evolvingnarrative.png>
 Package pdftex.def Info: Images//evolvingnarrative.png  used on input line 41.
 (pdftex.def)             Requested size: 426.79135pt x 226.80772pt.
-<<<<<<< HEAD
 <Images//optimism.jpg, id=1308, 1897.0875pt x 997.7275pt>
-=======
-<Images//optimism.jpg, id=1302, 1897.0875pt x 997.7275pt>
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
 File: Images//optimism.jpg Graphic file (type jpg)
 <use Images//optimism.jpg>
 Package pdftex.def Info: Images//optimism.jpg  used on input line 48.
@@ -1862,11 +1804,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [34 <./Images//optimism.jpg>]
-<<<<<<< HEAD
 <Images//etherbubble.jpg, id=1347, 1084.05pt x 1107.13625pt>
-=======
-<Images//etherbubble.jpg, id=1340, 1084.05pt x 1107.13625pt>
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
 File: Images//etherbubble.jpg Graphic file (type jpg)
 <use Images//etherbubble.jpg>
 Package pdftex.def Info: Images//etherbubble.jpg  used on input line 71.
@@ -1890,11 +1828,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [36 <./Images//etherbubble.jpg>]
-<<<<<<< HEAD
 <Images//ethemission.png, id=1371, 763.85374pt x 469.755pt>
-=======
-<Images//ethemission.png, id=1363, 763.85374pt x 469.755pt>
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
 File: Images//ethemission.png Graphic file (type png)
 <use Images//ethemission.png>
 Package pdftex.def Info: Images//ethemission.png  used on input line 85.
@@ -1927,11 +1861,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [39]
-<<<<<<< HEAD
 <Images//settlement2021.jpg, id=1445, 1120.185pt x 790.955pt>
-=======
-<Images//settlement2021.jpg, id=1437, 1120.185pt x 790.955pt>
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
 File: Images//settlement2021.jpg Graphic file (type jpg)
 <use Images//settlement2021.jpg>
 Package pdftex.def Info: Images//settlement2021.jpg  used on input line 106.
@@ -1946,11 +1876,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [40 <./Images//settlement2021.jpg>]
-<<<<<<< HEAD
 <Images//gource.png, id=1475, 1016.1162pt x 242.1045pt>
-=======
-<Images//gource.png, id=1467, 1016.1162pt x 242.1045pt>
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
 File: Images//gource.png Graphic file (type png)
 <use Images//gource.png>
 Package pdftex.def Info: Images//gource.png  used on input line 117.
@@ -1965,16 +1891,12 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [41 <./Images//gource.png>]
-<<<<<<< HEAD
 <Images//top500.jpg, id=1496, 1204.5pt x 714.67pt>
 File: Images//top500.jpg Graphic file (type jpg)
 <use Images//top500.jpg>
 Package pdftex.def Info: Images//top500.jpg  used on input line 128.
 (pdftex.def)             Requested size: 426.79135pt x 253.23524pt.
 <Images//energyNYT.png, id=1509, 1204.5pt x 677.53125pt>
-=======
-<Images//energyNYT.png, id=1499, 1204.5pt x 677.53125pt>
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
 File: Images//energyNYT.png Graphic file (type png)
 <use Images//energyNYT.png>
 Package pdftex.def Info: Images//energyNYT.png  used on input line 137.
@@ -1988,7 +1910,6 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-<<<<<<< HEAD
 [42 <./Images//top500.jpg>]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -2000,10 +1921,6 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [43 <./Images//energyNYT.png>]
 <Images//miningshare.png, id=1553, 378.91562pt x 273.02pt>
-=======
-[42]
-<Images//miningshare.png, id=1536, 378.91562pt x 273.02pt>
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
 File: Images//miningshare.png Graphic file (type png)
 <use Images//miningshare.png>
 Package pdftex.def Info: Images//miningshare.png  used on input line 147.
@@ -2018,11 +1935,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [44 <./Images//miningshare.png>]
-<<<<<<< HEAD
 <Images//goldmanvgold.jpg, id=1597, 1174.3875pt x 890.32625pt>
-=======
-<Images//goldmanvgold.jpg, id=1589, 1174.3875pt x 890.32625pt>
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
 File: Images//goldmanvgold.jpg Graphic file (type jpg)
 <use Images//goldmanvgold.jpg>
 Package pdftex.def Info: Images//goldmanvgold.jpg  used on input line 174.
@@ -2046,17 +1959,9 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [46 <./Images//goldmanvgold.jpg>]
-<<<<<<< HEAD
 
 Package hyperref Warning: Suppressing link with empty target on input line 179.
 
-=======
-<Images//ECDSA.png, id=1613, 981.6675pt x 984.67876pt>
-File: Images//ECDSA.png Graphic file (type png)
-<use Images//ECDSA.png>
-Package pdftex.def Info: Images//ECDSA.png  used on input line 186.
-(pdftex.def)             Requested size: 426.79135pt x 428.0914pt.
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -2100,15 +2005,6 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [50]
-<<<<<<< HEAD
-=======
-<Images//seedsigner.jpeg, id=1675, 2312.64pt x 1541.76pt>
-File: Images//seedsigner.jpeg Graphic file (type jpg)
-<use Images//seedsigner.jpeg>
-Package pdftex.def Info: Images//seedsigner.jpeg  used on input line 236.
-(pdftex.def)             Requested size: 426.79135pt x 284.51537pt.
-
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2151,16 +2047,6 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [54]
-<<<<<<< HEAD
-=======
-<Images//lightningAdoption.jpg, id=1745, 712.16063pt x 946.28531pt>
-File: Images//lightningAdoption.jpg Graphic file (type jpg)
-<use Images//lightningAdoption.jpg>
-Package pdftex.def Info: Images//lightningAdoption.jpg  used on input line 279.
-
-(pdftex.def)             Requested size: 426.79135pt x 567.09694pt.
-
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2175,20 +2061,8 @@ File: Images//lightningAdoption.jpg Graphic file (type jpg)
 <use Images//lightningAdoption.jpg>
 Package pdftex.def Info: Images//lightningAdoption.jpg  used on input line 285.
 
-<<<<<<< HEAD
 (pdftex.def)             Requested size: 426.79135pt x 567.09694pt.
 <Images//bolt12keyring.jpg, id=1769, 1541.76pt x 2055.68pt>
-=======
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
-
-[56 <./Images//lightningAdoption.jpg>]
-<Images//bolt12keyring.jpg, id=1762, 1541.76pt x 2055.68pt>
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
 File: Images//bolt12keyring.jpg Graphic file (type jpg)
 <use Images//bolt12keyring.jpg>
 Package pdftex.def Info: Images//bolt12keyring.jpg  used on input line 297.
@@ -2217,7 +2091,6 @@ Overfull \hbox (0.76907pt too wide) in paragraph at lines 321--322
 /wallets. Run for your-self, friends/family,
  []
 
-<<<<<<< HEAD
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2228,9 +2101,6 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [58 <./Images//bolt12keyring.jpg>]
 <Images//LnBitsPoS.png, id=1799, 291.18788pt x 508.90125pt>
-=======
-<Images//LnBitsPoS.png, id=1784, 291.18788pt x 508.90125pt>
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
 File: Images//LnBitsPoS.png Graphic file (type png)
 <use Images//LnBitsPoS.png>
 Package pdftex.def Info: Images//LnBitsPoS.png  used on input line 331.
@@ -2290,11 +2160,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [64]
-<<<<<<< HEAD
 <Images//messariICO.jpg, id=1871, 963.6pt x 542.025pt>
-=======
-<Images//messariICO.jpg, id=1857, 963.6pt x 542.025pt>
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
 File: Images//messariICO.jpg Graphic file (type jpg)
 <use Images//messariICO.jpg>
 Package pdftex.def Info: Images//messariICO.jpg  used on input line 425.
@@ -2357,7 +2223,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 Chapter 4.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
-Package pdftex.def Info: Images//orange2.jpg  used on input line 199.
+Package pdftex.def Info: Images//orange2.jpg  used on input line 200.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
 (04_money.tex [71
 
@@ -2371,7 +2237,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [72]
-<Images//CNNmobile.png, id=1973, 396.58162pt x 551.661pt>
+<Images//CNNmobile.png, id=1974, 396.58162pt x 551.661pt>
 File: Images//CNNmobile.png Graphic file (type png)
 <use Images//CNNmobile.png>
 Package pdftex.def Info: Images//CNNmobile.png  used on input line 39.
@@ -2422,7 +2288,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [77]
-<Images//ukdigitalbill.png, id=2031, 552.56438pt x 343.2825pt>
+<Images//ukdigitalbill.png, id=2032, 552.56438pt x 343.2825pt>
 File: Images//ukdigitalbill.png Graphic file (type png)
 <use Images//ukdigitalbill.png>
 Package pdftex.def Info: Images//ukdigitalbill.png  used on input line 116.
@@ -2437,7 +2303,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [78]
-<Images//CBDClikely.jpg, id=2046, 1202.4925pt x 661.47125pt>
+<Images//CBDClikely.jpg, id=2047, 1202.4925pt x 661.47125pt>
 File: Images//CBDClikely.jpg Graphic file (type jpg)
 <use Images//CBDClikely.jpg>
 Package pdftex.def Info: Images//CBDClikely.jpg  used on input line 131.
@@ -2497,7 +2363,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [84]
-<Images//BitcoinShareOfMoney.jpg, id=2119, 2862.695pt x 1575.8875pt>
+<Images//BitcoinShareOfMoney.jpg, id=2120, 2862.695pt x 1575.8875pt>
 File: Images//BitcoinShareOfMoney.jpg Graphic file (type jpg)
 <use Images//BitcoinShareOfMoney.jpg>
 Package pdftex.def Info: Images//BitcoinShareOfMoney.jpg  used on input line 21
@@ -2536,7 +2402,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [87]
-<Images//talebturkey.png, id=2149, 487.8225pt x 388.45125pt>
+<Images//talebturkey.png, id=2150, 487.8225pt x 388.45125pt>
 File: Images//talebturkey.png Graphic file (type png)
 <use Images//talebturkey.png>
 Package pdftex.def Info: Images//talebturkey.png  used on input line 255.
@@ -2551,7 +2417,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [88]
-<Images//davethewave.jpg, id=2160, 1840.8775pt x 910.40125pt>
+<Images//davethewave.jpg, id=2161, 1840.8775pt x 910.40125pt>
 File: Images//davethewave.jpg Graphic file (type jpg)
 <use Images//davethewave.jpg>
 Package pdftex.def Info: Images//davethewave.jpg  used on input line 271.
@@ -2566,12 +2432,12 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [89 <./Images//talebturkey.png>]
-<Images//btcdistribution.jpg, id=2174, 1373.13pt x 685.56125pt>
+<Images//btcdistribution.jpg, id=2175, 1373.13pt x 685.56125pt>
 File: Images//btcdistribution.jpg Graphic file (type jpg)
 <use Images//btcdistribution.jpg>
 Package pdftex.def Info: Images//btcdistribution.jpg  used on input line 281.
 (pdftex.def)             Requested size: 426.79135pt x 213.0762pt.
-<Images//notselling.jpg, id=2179, 1509.64pt x 1379.1525pt>
+<Images//notselling.jpg, id=2180, 1509.64pt x 1379.1525pt>
 File: Images//notselling.jpg Graphic file (type jpg)
 <use Images//notselling.jpg>
 Package pdftex.def Info: Images//notselling.jpg  used on input line 290.
@@ -2643,12 +2509,12 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 Chapter 5.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
-Package pdftex.def Info: Images//orange2.jpg  used on input line 205.
+Package pdftex.def Info: Images//orange2.jpg  used on input line 206.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
 (06_identity.tex [97
 
 ]
-<Images//DID.jpg, id=2279, 843.90282pt x 585.68813pt>
+<Images//DID.jpg, id=2280, 843.90282pt x 585.68813pt>
 File: Images//DID.jpg Graphic file (type jpg)
 <use Images//DID.jpg>
 Package pdftex.def Info: Images//DID.jpg  used on input line 18.
@@ -2681,7 +2547,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [100]
-<Images//files.jpg, id=2308, 903.375pt x 858.20625pt>
+<Images//files.jpg, id=2309, 903.375pt x 858.20625pt>
 File: Images//files.jpg Graphic file (type jpg)
 <use Images//files.jpg>
 Package pdftex.def Info: Images//files.jpg  used on input line 88.
@@ -2708,12 +2574,12 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 Chapter 6.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
-Package pdftex.def Info: Images//orange2.jpg  used on input line 208.
+Package pdftex.def Info: Images//orange2.jpg  used on input line 209.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
 (07_nft.tex [103
 
 ]
-<Images//solnfts.jpg, id=2340, 916.42375pt x 1063.975pt>
+<Images//solnfts.jpg, id=2341, 916.42375pt x 1063.975pt>
 File: Images//solnfts.jpg Graphic file (type jpg)
 <use Images//solnfts.jpg>
 Package pdftex.def Info: Images//solnfts.jpg  used on input line 13.
@@ -2728,7 +2594,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [104 <./Images//solnfts.jpg>] (07_NFTUmran.tex
-<Images//first5000days.png, id=2354, 495.95288pt x 497.4585pt>
+<Images//first5000days.png, id=2355, 495.95288pt x 497.4585pt>
 File: Images//first5000days.png Graphic file (type png)
 <use Images//first5000days.png>
 Package pdftex.def Info: Images//first5000days.png  used on input line 20.
@@ -2761,7 +2627,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [107]
-<Images//monkey.png, id=2388, 447.17062pt x 406.51875pt>
+<Images//monkey.png, id=2389, 447.17062pt x 406.51875pt>
 File: Images//monkey.png Graphic file (type png)
 <use Images//monkey.png>
 Package pdftex.def Info: Images//monkey.png  used on input line 118.
@@ -2833,7 +2699,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 Chapter 7.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
-Package pdftex.def Info: Images//orange2.jpg  used on input line 211.
+Package pdftex.def Info: Images//orange2.jpg  used on input line 212.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
 (08_metaverse.tex [115
 
@@ -2870,7 +2736,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [118]
-<Images//muskWeb3.png, id=2497, 408.02437pt x 168.63pt>
+<Images//muskWeb3.png, id=2498, 408.02437pt x 168.63pt>
 File: Images//muskWeb3.png Graphic file (type png)
 <use Images//muskWeb3.png>
 Package pdftex.def Info: Images//muskWeb3.png  used on input line 118.
@@ -2971,7 +2837,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [128]
-<Images//murrayeyegaze.jpg, id=2774, 377.15906pt x 241.65282pt>
+<Images//murrayeyegaze.jpg, id=2775, 377.15906pt x 241.65282pt>
 File: Images//murrayeyegaze.jpg Graphic file (type jpg)
 <use Images//murrayeyegaze.jpg>
 Package pdftex.def Info: Images//murrayeyegaze.jpg  used on input line 177.
@@ -2989,7 +2855,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [129]
-<Images//proxemics.png, id=2806, 1927.2pt x 1927.2pt>
+<Images//proxemics.png, id=2807, 1927.2pt x 1927.2pt>
 File: Images//proxemics.png Graphic file (type png)
 <use Images//proxemics.png>
 Package pdftex.def Info: Images//proxemics.png  used on input line 196.
@@ -3076,7 +2942,6 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [138]
-<<<<<<< HEAD
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3086,10 +2951,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [139]
-<Images//frameworkVenn.png, id=3127, 509.40312pt x 432.11438pt>
-=======
-<Images//frameworkVenn.png, id=3109, 509.40312pt x 432.11438pt>
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
+<Images//frameworkVenn.png, id=3129, 509.40312pt x 432.11438pt>
 File: Images//frameworkVenn.png Graphic file (type png)
 <use Images//frameworkVenn.png>
 Package pdftex.def Info: Images//frameworkVenn.png  used on input line 332.
@@ -3223,14 +3085,10 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 Chapter 8.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
-Package pdftex.def Info: Images//orange2.jpg  used on input line 214.
+Package pdftex.def Info: Images//orange2.jpg  used on input line 215.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
 (09_proposition.tex
-<<<<<<< HEAD
-<Images//highlevelstack.png, id=3258, 804.00375pt x 703.62875pt>
-=======
-<Images//highlevelstack.png, id=3241, 804.00375pt x 703.62875pt>
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
+<Images//highlevelstack.png, id=3260, 804.00375pt x 703.62875pt>
 File: Images//highlevelstack.png Graphic file (type png)
 <use Images//highlevelstack.png>
 Package pdftex.def Info: Images//highlevelstack.png  used on input line 3.
@@ -3255,22 +3113,13 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-<<<<<<< HEAD
 [155]
-<Images//globalclassroom.png, id=3278, 1484.04437pt x 1121.18875pt>
-=======
-[154]
-<Images//globalclassroom.png, id=3261, 1484.04437pt x 1121.18875pt>
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
+<Images//globalclassroom.png, id=3280, 1484.04437pt x 1121.18875pt>
 File: Images//globalclassroom.png Graphic file (type png)
 <use Images//globalclassroom.png>
 Package pdftex.def Info: Images//globalclassroom.png  used on input line 142.
 (pdftex.def)             Requested size: 426.79135pt x 322.43335pt.
-<<<<<<< HEAD
-<Images//systemc4.png, id=3279, 1576.89125pt x 1024.82875pt>
-=======
-<Images//systemc4.png, id=3262, 1576.89125pt x 1024.82875pt>
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
+<Images//systemc4.png, id=3281, 1576.89125pt x 1024.82875pt>
 File: Images//systemc4.png Graphic file (type png)
 <use Images//systemc4.png>
 Package pdftex.def Info: Images//systemc4.png  used on input line 148.
@@ -3312,7 +3161,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 [159]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
 37.
- (C:\Users\isa_h\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
+ (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 Package microtype Info: Loading generic protrusion settings for font family
@@ -3572,23 +3421,14 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-<<<<<<< HEAD
 [170]
-<Images//UbuntuDesktop20_04Settings.png, id=3441, 767.86874pt x 371.13657pt>
-=======
-[169]
-<Images//UbuntuDesktop20_04Settings.png, id=3424, 767.86874pt x 371.13657pt>
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
+<Images//UbuntuDesktop20_04Settings.png, id=3443, 767.86874pt x 371.13657pt>
 File: Images//UbuntuDesktop20_04Settings.png Graphic file (type png)
 <use Images//UbuntuDesktop20_04Settings.png>
 Package pdftex.def Info: Images//UbuntuDesktop20_04Settings.png  used on input 
 line 54.
 (pdftex.def)             Requested size: 418.25368pt x 202.16064pt.
-<<<<<<< HEAD
-<Images//UbuntuDesktop20_04SettingsNetwork.png, id=3442, 766.36313pt x 465.2381
-=======
-<Images//UbuntuDesktop20_04SettingsNetwork.png, id=3425, 766.36313pt x 465.2381
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
+<Images//UbuntuDesktop20_04SettingsNetwork.png, id=3444, 766.36313pt x 465.2381
 3pt>
 File: Images//UbuntuDesktop20_04SettingsNetwork.png Graphic file (type png)
 <use Images//UbuntuDesktop20_04SettingsNetwork.png>
@@ -3604,13 +3444,8 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-<<<<<<< HEAD
 [171 <./Images//UbuntuDesktop20_04Settings.png>]
-<Images//UbuntuDesktop20_04VircadiaBuildSettings.png, id=3451, 764.10469pt x 47
-=======
-[170 <./Images//UbuntuDesktop20_04Settings.png>]
-<Images//UbuntuDesktop20_04VircadiaBuildSettings.png, id=3434, 764.10469pt x 47
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
+<Images//UbuntuDesktop20_04VircadiaBuildSettings.png, id=3453, 764.10469pt x 47
 7.28313pt>
 File: Images//UbuntuDesktop20_04VircadiaBuildSettings.png Graphic file (type pn
 g)
@@ -3618,11 +3453,7 @@ g)
 Package pdftex.def Info: Images//UbuntuDesktop20_04VircadiaBuildSettings.png  u
 sed on input line 106.
 (pdftex.def)             Requested size: 418.25368pt x 261.25389pt.
-<<<<<<< HEAD
-<Images//UbuntuDesktop20_04VircadiaQTWarnings.png, id=3452, 765.6103pt x 502.87
-=======
-<Images//UbuntuDesktop20_04VircadiaQTWarnings.png, id=3435, 765.6103pt x 502.87
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
+<Images//UbuntuDesktop20_04VircadiaQTWarnings.png, id=3454, 765.6103pt x 502.87
 875pt>
 File: Images//UbuntuDesktop20_04VircadiaQTWarnings.png Graphic file (type png)
 <use Images//UbuntuDesktop20_04VircadiaQTWarnings.png>
@@ -3686,40 +3517,23 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-<<<<<<< HEAD
 [174]
-<Images//Vircadia1.png, id=3472, 763.35187pt x 572.89032pt>
-=======
-[173]
-<Images//Vircadia1.png, id=3455, 763.35187pt x 572.89032pt>
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
+<Images//Vircadia1.png, id=3474, 763.35187pt x 572.89032pt>
 File: Images//Vircadia1.png Graphic file (type png)
 <use Images//Vircadia1.png>
 Package pdftex.def Info: Images//Vircadia1.png  used on input line 240.
 (pdftex.def)             Requested size: 418.25368pt x 313.89305pt.
-<<<<<<< HEAD
-<Images//Vircadia2.png, id=3473, 764.8575pt x 571.38469pt>
-=======
-<Images//Vircadia2.png, id=3456, 764.8575pt x 571.38469pt>
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
+<Images//Vircadia2.png, id=3475, 764.8575pt x 571.38469pt>
 File: Images//Vircadia2.png Graphic file (type png)
 <use Images//Vircadia2.png>
 Package pdftex.def Info: Images//Vircadia2.png  used on input line 248.
 (pdftex.def)             Requested size: 418.25368pt x 312.4578pt.
-<<<<<<< HEAD
-<Images//Vircadia3.png, id=3474, 766.36313pt x 572.1375pt>
-=======
-<Images//Vircadia3.png, id=3457, 766.36313pt x 572.1375pt>
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
+<Images//Vircadia3.png, id=3476, 766.36313pt x 572.1375pt>
 File: Images//Vircadia3.png Graphic file (type png)
 <use Images//Vircadia3.png>
 Package pdftex.def Info: Images//Vircadia3.png  used on input line 256.
 (pdftex.def)             Requested size: 418.25368pt x 312.25835pt.
-<<<<<<< HEAD
-<Images//Vircadia4.png, id=3475, 766.36313pt x 575.14874pt>
-=======
-<Images//Vircadia4.png, id=3458, 766.36313pt x 575.14874pt>
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
+<Images//Vircadia4.png, id=3477, 766.36313pt x 575.14874pt>
 File: Images//Vircadia4.png Graphic file (type png)
 <use Images//Vircadia4.png>
 Package pdftex.def Info: Images//Vircadia4.png  used on input line 264.
@@ -3733,22 +3547,13 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-<<<<<<< HEAD
 [175 <./Images//Vircadia1.png>]
-<Images//Vircadia5.png, id=3485, 767.11594pt x 572.1375pt>
-=======
-[174 <./Images//Vircadia1.png>]
-<Images//Vircadia5.png, id=3467, 767.11594pt x 572.1375pt>
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
+<Images//Vircadia5.png, id=3487, 767.11594pt x 572.1375pt>
 File: Images//Vircadia5.png Graphic file (type png)
 <use Images//Vircadia5.png>
 Package pdftex.def Info: Images//Vircadia5.png  used on input line 272.
 (pdftex.def)             Requested size: 418.25368pt x 311.9528pt.
-<<<<<<< HEAD
-<Images//Vircadia6.png, id=3486, 764.8575pt x 572.89032pt>
-=======
-<Images//Vircadia6.png, id=3468, 764.8575pt x 572.89032pt>
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
+<Images//Vircadia6.png, id=3488, 764.8575pt x 572.89032pt>
 File: Images//Vircadia6.png Graphic file (type png)
 <use Images//Vircadia6.png>
 Package pdftex.def Info: Images//Vircadia6.png  used on input line 281.
@@ -4278,45 +4083,33 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 [188] (metaverseBTC.ptc) [189
 
 ]
-<<<<<<< HEAD
-<Images//JOH.jpg, id=3600, 110.66344pt x 165.61874pt>
-=======
-<Images//JOH.jpg, id=3583, 110.66344pt x 165.61874pt>
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
+<Images//JOH.jpg, id=3602, 110.66344pt x 165.61874pt>
 File: Images//JOH.jpg Graphic file (type jpg)
 <use Images//JOH.jpg>
-Package pdftex.def Info: Images//JOH.jpg  used on input line 231.
+Package pdftex.def Info: Images//JOH.jpg  used on input line 232.
 (pdftex.def)             Requested size: 124.19986pt x 185.88847pt.
-<<<<<<< HEAD
-<Images//AF.png, id=3602, 379.4175pt x 504.38437pt>
-=======
-<Images//AF.png, id=3585, 379.4175pt x 504.38437pt>
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
+<Images//AF.png, id=3604, 379.4175pt x 504.38437pt>
 File: Images//AF.png Graphic file (type png)
 <use Images//AF.png>
-Package pdftex.def Info: Images//AF.png  used on input line 242.
+Package pdftex.def Info: Images//AF.png  used on input line 243.
 (pdftex.def)             Requested size: 124.19986pt x 165.1005pt.
 
-Overfull \hbox (140.84192pt too wide) in paragraph at lines 226--244
+Overfull \hbox (140.84192pt too wide) in paragraph at lines 227--245
 [][][]$[]$
  []
 
 
-Overfull \hbox (140.84192pt too wide) in paragraph at lines 226--244
+Overfull \hbox (140.84192pt too wide) in paragraph at lines 227--245
 [][][]$[]$ 
  []
 
-<<<<<<< HEAD
-<Images//UA.jpg, id=3604, 200.75pt x 200.75pt>
-=======
-<Images//UA.jpg, id=3587, 200.75pt x 200.75pt>
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
+<Images//UA.jpg, id=3606, 200.75pt x 200.75pt>
 File: Images//UA.jpg Graphic file (type jpg)
 <use Images//UA.jpg>
-Package pdftex.def Info: Images//UA.jpg  used on input line 250.
+Package pdftex.def Info: Images//UA.jpg  used on input line 251.
 (pdftex.def)             Requested size: 124.19986pt x 124.20332pt.
 
-Overfull \hbox (140.84192pt too wide) in paragraph at lines 245--252
+Overfull \hbox (140.84192pt too wide) in paragraph at lines 246--253
 [][][]$[]$ 
  []
 
@@ -4333,13 +4126,13 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 ] [192
 
 ]
-Overfull \hbox (16.93758pt too wide) in paragraph at lines 268--268
+Overfull \hbox (16.93758pt too wide) in paragraph at lines 269--269
 []\T1/ptm/m/n/12 (-20) Yujin Kwon et al. ``Im-pos-si-bil-ity of full de-cen-tra
 l-iza-tion in per-mis-sion-less blockchains''.
  []
 
 
-Overfull \hbox (22.09753pt too wide) in paragraph at lines 268--268
+Overfull \hbox (22.09753pt too wide) in paragraph at lines 269--269
 []\T1/ptm/m/n/12 (-20) Abdelatif Hafid, Ab-del-hakim Sen-haji Hafid, and Mustap
 ha Samih. ``Scal-ing blockchains:
  []
@@ -4353,26 +4146,26 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [193]
-Overfull \hbox (3.98451pt too wide) in paragraph at lines 268--268
+Overfull \hbox (3.98451pt too wide) in paragraph at lines 269--269
 []\T1/ptm/m/n/12 (-20) Cristina Pérez-Solà et al. ``Double-spending pre-ven-tio
 n for bit-coin zero-confirmation
  []
 
 
-Overfull \hbox (16.76208pt too wide) in paragraph at lines 268--268
+Overfull \hbox (16.76208pt too wide) in paragraph at lines 269--269
 \T1/ptm/m/n/12 (-20) trans-ac-tions''. In: \T1/ptm/m/it/12 (-20) In-ter-na-tion
 al Jour-nal of In-for-ma-tion Se-cu-rity \T1/ptm/m/n/12 (-20) 18.4 (2019), page
-s 451^^U
+s 451
  []
 
 
-Overfull \hbox (4.92906pt too wide) in paragraph at lines 268--268
+Overfull \hbox (4.92906pt too wide) in paragraph at lines 269--269
 \T1/ptm/m/it/12 (-20) Con-fer-ence on Fi-nan-cial Cryp-tog-ra-phy and Data Se-c
-u-rity\T1/ptm/m/n/12 (-20) . Springer. 2018, pages 78^^U
+u-rity\T1/ptm/m/n/12 (-20) . Springer. 2018, pages 78
  []
 
 
-Overfull \hbox (0.22218pt too wide) in paragraph at lines 268--268
+Overfull \hbox (0.22218pt too wide) in paragraph at lines 269--269
 \T1/ptm/m/n/12 (-20) Def-i-ni-tions, im-pli-ca-tions, and sep-a-ra-tions for pr
 eim-age re-sis-tance, second-preimage
  []
@@ -4386,7 +4179,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [194]
-Overfull \hbox (3.0101pt too wide) in paragraph at lines 268--268
+Overfull \hbox (3.0101pt too wide) in paragraph at lines 269--269
 \T1/ptm/m/n/12 (-20) and car-bon in-ten-sity per-spec-tive''. In: \T1/ptm/m/it/
 12 (-20) Fi-nance Re-search Let-ters \T1/ptm/m/n/12 (-20) (2021), page 102575
  []
@@ -4409,7 +4202,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [196]
-Overfull \hbox (16.72742pt too wide) in paragraph at lines 268--268
+Overfull \hbox (16.72742pt too wide) in paragraph at lines 269--269
 []\T1/ptm/m/n/12 (-20) Daniel Kraw-isz. ``Hy-per-bit-coiniza-tion''. In: \T1/pt
 m/m/it/12 (-20) On-line ver-füg-bar unter: https://nakamotoin
  []
@@ -4423,7 +4216,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [197]
-Overfull \hbox (8.59767pt too wide) in paragraph at lines 268--268
+Overfull \hbox (8.59767pt too wide) in paragraph at lines 269--269
 \T1/ptm/m/n/12 (-20) Salt Mines: Ethereum Min-ers Ex-tract-ing Value''. In: \T1
 /ptm/m/it/12 (-20) arXiv preprint arXiv:2203.15930
  []
@@ -4439,47 +4232,47 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 [198]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Wolff2008' on input line 267.
+(biblatex)                at entry 'Wolff2008' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Dourish1996' on input line 267.
+(biblatex)                at entry 'Dourish1996' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Criminisi2003' on input line 267.
+(biblatex)                at entry 'Criminisi2003' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Van_Eijk2010' on input line 267.
+(biblatex)                at entry 'Van_Eijk2010' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Chen2002' on input line 267.
+(biblatex)                at entry 'Chen2002' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Roberts2013' on input line 267.
+(biblatex)                at entry 'Roberts2013' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Sellen1992' on input line 267.
+(biblatex)                at entry 'Sellen1992' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Sellen1995' on input line 267.
+(biblatex)                at entry 'Sellen1995' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Monk2002' on input line 267.
+(biblatex)                at entry 'Monk2002' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Gemmell2000' on input line 267.
+(biblatex)                at entry 'Gemmell2000' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Kuster2012' on input line 267.
+(biblatex)                at entry 'Kuster2012' on input line 268.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -4492,31 +4285,31 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 [199]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Pejsa2016' on input line 267.
+(biblatex)                at entry 'Pejsa2016' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Bardram2012' on input line 267.
+(biblatex)                at entry 'Bardram2012' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Adamczyk2007' on input line 267.
+(biblatex)                at entry 'Adamczyk2007' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Ishii1993' on input line 267.
+(biblatex)                at entry 'Ishii1993' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Fullwood2006' on input line 267.
+(biblatex)                at entry 'Fullwood2006' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Nguyen2005' on input line 267.
+(biblatex)                at entry 'Nguyen2005' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Vertegaal2002' on input line 267.
+(biblatex)                at entry 'Vertegaal2002' on input line 268.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -4529,31 +4322,31 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 [200]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Bock2008' on input line 267.
+(biblatex)                at entry 'Bock2008' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Aoki2003' on input line 267.
+(biblatex)                at entry 'Aoki2003' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Heldner2010' on input line 267.
+(biblatex)                at entry 'Heldner2010' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Kleinke1986' on input line 267.
+(biblatex)                at entry 'Kleinke1986' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Otsuka2005' on input line 267.
+(biblatex)                at entry 'Otsuka2005' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Goodwin2000' on input line 267.
+(biblatex)                at entry 'Goodwin2000' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Argyle1976' on input line 267.
+(biblatex)                at entry 'Argyle1976' on input line 268.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -4566,39 +4359,39 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 [201]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Novick1996' on input line 267.
+(biblatex)                at entry 'Novick1996' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Vertegaal2001' on input line 267.
+(biblatex)                at entry 'Vertegaal2001' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Langton2000' on input line 267.
+(biblatex)                at entry 'Langton2000' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Macrae2002' on input line 267.
+(biblatex)                at entry 'Macrae2002' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Kluttz2009' on input line 267.
+(biblatex)                at entry 'Kluttz2009' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Schrammel2007' on input line 267.
+(biblatex)                at entry 'Schrammel2007' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Stiefelhagen2001' on input line 267.
+(biblatex)                at entry 'Stiefelhagen2001' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Stiefelhagen2002' on input line 267.
+(biblatex)                at entry 'Stiefelhagen2002' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Steptoe2009' on input line 267.
+(biblatex)                at entry 'Steptoe2009' on input line 268.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -4611,23 +4404,23 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 [202]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Fagel2010' on input line 267.
+(biblatex)                at entry 'Fagel2010' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Bohannon2013' on input line 267.
+(biblatex)                at entry 'Bohannon2013' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Boker2011' on input line 267.
+(biblatex)                at entry 'Boker2011' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Rienks2010' on input line 267.
+(biblatex)                at entry 'Rienks2010' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Nguyen2009' on input line 267.
+(biblatex)                at entry 'Nguyen2009' on input line 268.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -4640,47 +4433,47 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 [203]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Ekman1993' on input line 267.
+(biblatex)                at entry 'Ekman1993' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Chovil1991' on input line 267.
+(biblatex)                at entry 'Chovil1991' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'schiano2004' on input line 267.
+(biblatex)                at entry 'schiano2004' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'ohba1998' on input line 267.
+(biblatex)                at entry 'ohba1998' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Hofmann2006' on input line 267.
+(biblatex)                at entry 'Hofmann2006' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Iverson2005' on input line 267.
+(biblatex)                at entry 'Iverson2005' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Krauss1996' on input line 267.
+(biblatex)                at entry 'Krauss1996' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Kleinsmith2013' on input line 267.
+(biblatex)                at entry 'Kleinsmith2013' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Ou2005' on input line 267.
+(biblatex)                at entry 'Ou2005' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Murray2009' on input line 267.
+(biblatex)                at entry 'Murray2009' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Tang2010' on input line 267.
+(biblatex)                at entry 'Tang2010' on input line 268.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -4693,39 +4486,39 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 [204]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Tse2007' on input line 267.
+(biblatex)                at entry 'Tse2007' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Tang2006' on input line 267.
+(biblatex)                at entry 'Tang2006' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Norris2013' on input line 267.
+(biblatex)                at entry 'Norris2013' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Norris2012' on input line 267.
+(biblatex)                at entry 'Norris2012' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Luff2011' on input line 267.
+(biblatex)                at entry 'Luff2011' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Tuddenham2009' on input line 267.
+(biblatex)                at entry 'Tuddenham2009' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Jamil2011' on input line 267.
+(biblatex)                at entry 'Jamil2011' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Jetter2011' on input line 267.
+(biblatex)                at entry 'Jetter2011' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Watson1966' on input line 267.
+(biblatex)                at entry 'Watson1966' on input line 268.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -4738,35 +4531,35 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 [205]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Slessor2008' on input line 267.
+(biblatex)                at entry 'Slessor2008' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Yee2007' on input line 267.
+(biblatex)                at entry 'Yee2007' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Bailenson2003' on input line 267.
+(biblatex)                at entry 'Bailenson2003' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Blascovich2002' on input line 267.
+(biblatex)                at entry 'Blascovich2002' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Hager1979' on input line 267.
+(biblatex)                at entry 'Hager1979' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Carlston2013' on input line 267.
+(biblatex)                at entry 'Carlston2013' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Deckers2013' on input line 267.
+(biblatex)                at entry 'Deckers2013' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Gibson1963' on input line 267.
+(biblatex)                at entry 'Gibson1963' on input line 268.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -4779,43 +4572,43 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 [206]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Fels2000' on input line 267.
+(biblatex)                at entry 'Fels2000' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Voida2012' on input line 267.
+(biblatex)                at entry 'Voida2012' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Berger1975' on input line 267.
+(biblatex)                at entry 'Berger1975' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Mihoub2015' on input line 267.
+(biblatex)                at entry 'Mihoub2015' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Chartrand1999' on input line 267.
+(biblatex)                at entry 'Chartrand1999' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Parsons1974' on input line 267.
+(biblatex)                at entry 'Parsons1974' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Risko2011' on input line 267.
+(biblatex)                at entry 'Risko2011' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Kollock1998' on input line 267.
+(biblatex)                at entry 'Kollock1998' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Cuddihy2000' on input line 267.
+(biblatex)                at entry 'Cuddihy2000' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Hancock2004' on input line 267.
+(biblatex)                at entry 'Hancock2004' on input line 268.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -4828,43 +4621,43 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 [207]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Holm2010' on input line 267.
+(biblatex)                at entry 'Holm2010' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Porter2008' on input line 267.
+(biblatex)                at entry 'Porter2008' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Roberts2015' on input line 267.
+(biblatex)                at entry 'Roberts2015' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Schuemie2001' on input line 267.
+(biblatex)                at entry 'Schuemie2001' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Slater1999' on input line 267.
+(biblatex)                at entry 'Slater1999' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Heeter1992' on input line 267.
+(biblatex)                at entry 'Heeter1992' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Fulk1987' on input line 267.
+(biblatex)                at entry 'Fulk1987' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Haythornthwaite1995' on input line 267.
+(biblatex)                at entry 'Haythornthwaite1995' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Gunawardena1997' on input line 267.
+(biblatex)                at entry 'Gunawardena1997' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Bulu2012' on input line 267.
+(biblatex)                at entry 'Bulu2012' on input line 268.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -4877,28 +4670,24 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 [208]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Slater2004' on input line 267.
+(biblatex)                at entry 'Slater2004' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Hauber2006' on input line 267.
+(biblatex)                at entry 'Hauber2006' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Kauff2002' on input line 267.
+(biblatex)                at entry 'Kauff2002' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Jones2009' on input line 267.
+(biblatex)                at entry 'Jones2009' on input line 268.
 
 
-Overfull \hbox (4.6522pt too wide) in paragraph at lines 268--268
+Overfull \hbox (4.6522pt too wide) in paragraph at lines 269--269
 \T1/ptm/m/n/12 (-20) Schmidt. Dor-drecht: Springer Nether-lands, 1995, pages 27
-<<<<<<< HEAD
 9292 (cited on page [][]136[][]). 
-=======
-9^^U292 (cited on page [][]135[][]). 
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
  []
 
 
@@ -4912,41 +4701,41 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 [209]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Okada1994' on input line 267.
+(biblatex)                at entry 'Okada1994' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Kulik2011' on input line 267.
+(biblatex)                at entry 'Kulik2011' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Otsuka2013' on input line 267.
+(biblatex)                at entry 'Otsuka2013' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Tay2008' on input line 267.
+(biblatex)                at entry 'Tay2008' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Eldes2013' on input line 267.
+(biblatex)                at entry 'Eldes2013' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Yendo2010' on input line 267.
+(biblatex)                at entry 'Yendo2010' on input line 268.
 
 
-Overfull \hbox (18.0546pt too wide) in paragraph at lines 268--268
+Overfull \hbox (18.0546pt too wide) in paragraph at lines 269--269
 \T1/cmtt/m/n/12 google . com / file / d / 1i4NJKAggS82wqMamCJ1OHRGgViuyoY6R$[][
 ] \T1/ptm/m/n/12 (-20) (cited on page [][]137[][]). 
  []
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Bartneck2007' on input line 267.
+(biblatex)                at entry 'Bartneck2007' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Mitchell2011' on input line 267.
+(biblatex)                at entry 'Mitchell2011' on input line 268.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -4959,43 +4748,43 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 [210]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Ho2008' on input line 267.
+(biblatex)                at entry 'Ho2008' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Strait2014' on input line 267.
+(biblatex)                at entry 'Strait2014' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Marti2005' on input line 267.
+(biblatex)                at entry 'Marti2005' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Adalgeirsson2010' on input line 267.
+(biblatex)                at entry 'Adalgeirsson2010' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Lee2011' on input line 267.
+(biblatex)                at entry 'Lee2011' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Tsui2011' on input line 267.
+(biblatex)                at entry 'Tsui2011' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Paulos1998' on input line 267.
+(biblatex)                at entry 'Paulos1998' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Kristoffersson2013' on input line 267.
+(biblatex)                at entry 'Kristoffersson2013' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Desai2011' on input line 267.
+(biblatex)                at entry 'Desai2011' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Tsui2012' on input line 267.
+(biblatex)                at entry 'Tsui2012' on input line 268.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -5008,31 +4797,31 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 [211]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Sakamoto2007' on input line 267.
+(biblatex)                at entry 'Sakamoto2007' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Lincoln2009' on input line 267.
+(biblatex)                at entry 'Lincoln2009' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Lincoln2010' on input line 267.
+(biblatex)                at entry 'Lincoln2010' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Oyekoya2012' on input line 267.
+(biblatex)                at entry 'Oyekoya2012' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Pan2014' on input line 267.
+(biblatex)                at entry 'Pan2014' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Pan2012' on input line 267.
+(biblatex)                at entry 'Pan2012' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Nagendran2012' on input line 267.
+(biblatex)                at entry 'Nagendran2012' on input line 268.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -5045,11 +4834,11 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 [212]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Bandyopadhyay2001' on input line 267.
+(biblatex)                at entry 'Bandyopadhyay2001' on input line 268.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Dalsgaard2011' on input line 267.
+(biblatex)                at entry 'Dalsgaard2011' on input line 268.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -5081,21 +4870,13 @@ Package logreq Info: Writing requests to 'metaverseBTC.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
-<<<<<<< HEAD
- 37584 strings out of 478582
- 748841 string characters out of 2844816
+ 37587 strings out of 478582
+ 748865 string characters out of 2844816
  1654037 words of memory out of 3000000
  53528 multiletter control sequences out of 15000+600000
- 595181 words of font info for 483 fonts, out of 8000000 for 9000
-=======
- 37585 strings out of 478582
- 749218 string characters out of 2844344
- 1653031 words of memory out of 3000000
- 53529 multiletter control sequences out of 15000+600000
  595308 words of font info for 485 fonts, out of 8000000 for 9000
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
  1141 hyphenation exceptions out of 8191
- 98i,17n,94p,2419b,1369s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 98i,17n,94p,2419b,1369s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 pdfTeX warning (dest): name{section*.22} has been referenced but does not exist
 , replaced by a fixed one
@@ -5108,7 +4889,6 @@ exist, replaced by a fixed one
 pdfTeX warning (dest): name{ux5cux23ux5cux23Upload-the-ISO-image-to-the-Proxmox
 -VE-server} has been referenced but does not exist, replaced by a fixed one
 
-<<<<<<< HEAD
  <C:\Users\john\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt120
 0.pk>{C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<
 C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/avantgar/uagd8a.pfb
@@ -5117,24 +4897,9 @@ fb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pf
 b><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb
 ><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb
 >
-Output written on metaverseBTC.pdf (214 pages, 28426546 bytes).
+Output written on metaverseBTC.pdf (214 pages, 28427564 bytes).
 PDF statistics:
- 4477 PDF objects out of 5155 (max. 8388607)
+ 4479 PDF objects out of 5155 (max. 8388607)
  1008 named destinations out of 1200 (max. 500000)
  133544 words of extra memory for PDF output out of 154059 (max. 10000000)
-=======
- <C:\Users\isa_h\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt12
-00.pk>{C:/Users/isa_h/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc
-}<C:/Users/isa_h/AppData/Local/Programs/MiKTeX/fonts/type1/urw/avantgar/uagd8a.
-pfb><C:/Users/isa_h/AppData/Local/Programs/MiKTeX/fonts/type1/urw/avantgar/uagk
-8a.pfb><C:/Users/isa_h/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb
-8a.pfb><C:/Users/isa_h/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr
-8a.pfb><C:/Users/isa_h/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr
-i8a.pfb>
-Output written on metaverseBTC.pdf (213 pages, 28333602 bytes).
-PDF statistics:
- 4459 PDF objects out of 5155 (max. 8388607)
- 1005 named destinations out of 1200 (max. 500000)
- 133539 words of extra memory for PDF output out of 154059 (max. 10000000)
->>>>>>> 8526ff52bcfee2222e48c853dade4e17b667b872
 
