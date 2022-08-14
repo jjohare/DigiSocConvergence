@@ -2122,7 +2122,7 @@
       \verb{url}
       \verb https://arxiv.org/abs/2208.01908
       \endverb
-      \keyw{Cryptography and Security (cs.CR),Distributed,Parallel,and Cluster Computing (cs.DC),FOS: Computer and information sciences,FOS: Computer and information sciences}
+      \keyw{Cryptography and Security (cs.CR),Distributed,Parallel,and Cluster Computing (cs.DC),FOS: Computer and information sciences}
     \endentry
     \entry{moser2013inquiry}{inproceedings}{}
       \name{author}{3}{}{%
@@ -2160,6 +2160,35 @@
       \field{year}{2013}
       \field{pages}{1\bibrangedash 14}
       \range{pages}{14}
+    \endentry
+    \entry{anderson2002free}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e027c8df89339344ddc4de634d17acf1}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={Ross},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{e027c8df89339344ddc4de634d17acf1}
+      \strng{fullhash}{e027c8df89339344ddc4de634d17acf1}
+      \strng{bibnamehash}{e027c8df89339344ddc4de634d17acf1}
+      \strng{authorbibnamehash}{e027c8df89339344ddc4de634d17acf1}
+      \strng{authornamehash}{e027c8df89339344ddc4de634d17acf1}
+      \strng{authorfullhash}{e027c8df89339344ddc4de634d17acf1}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computer}
+      \field{number}{6}
+      \field{title}{Free speech online and offline}
+      \field{volume}{35}
+      \field{year}{2002}
+      \field{pages}{28\bibrangedash 30}
+      \range{pages}{3}
     \endentry
     \entry{carlsten2016instability}{inproceedings}{}
       \name{author}{4}{}{%
@@ -2281,8 +2310,8 @@
       \strng{authorbibnamehash}{e3b2a8caec183dc75a77278345d2f616}
       \strng{authornamehash}{e3b2a8caec183dc75a77278345d2f616}
       \strng{authorfullhash}{e3b2a8caec183dc75a77278345d2f616}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{International Journal of Business and Management}
@@ -2635,8 +2664,8 @@
       \strng{authorbibnamehash}{cba56ccfddcb553632b2578254df8851}
       \strng{authornamehash}{cba56ccfddcb553632b2578254df8851}
       \strng{authorfullhash}{cba56ccfddcb553632b2578254df8851}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Wake Forest L. Rev. Online}
@@ -2973,8 +3002,8 @@
       \strng{authorbibnamehash}{2779e00089d476a0e2734d5f68b424cb}
       \strng{authornamehash}{2779e00089d476a0e2734d5f68b424cb}
       \strng{authorfullhash}{2779e00089d476a0e2734d5f68b424cb}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The Network State: How To Start A New Country}
@@ -3231,8 +3260,8 @@
       \strng{authorbibnamehash}{bbd19fb4333892ef6bc54c441fe3ce09}
       \strng{authornamehash}{bbd19fb4333892ef6bc54c441fe3ce09}
       \strng{authorfullhash}{bbd19fb4333892ef6bc54c441fe3ce09}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Florida Law Review (Forthcoming 2022)}
@@ -3253,8 +3282,8 @@
       \strng{authorbibnamehash}{9a33a0300bce8eb7526234a514fff665}
       \strng{authornamehash}{9a33a0300bce8eb7526234a514fff665}
       \strng{authorfullhash}{9a33a0300bce8eb7526234a514fff665}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Indiana Law Journal, Forthcoming}
@@ -6581,8 +6610,8 @@
       \strng{authorbibnamehash}{7427b9e325d39ee12ad1f8487479031d}
       \strng{authornamehash}{7427b9e325d39ee12ad1f8487479031d}
       \strng{authorfullhash}{7427b9e325d39ee12ad1f8487479031d}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Research on Language and Social Interaction}
@@ -10337,8 +10366,8 @@
       \strng{authornamehash}{9eaa7765af4a045bce26dc5ef2015e4c}
       \strng{authorfullhash}{7bf30663bb25cdfeedaa554d6caaf6a6}
       \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The uncanny valley theory proposed by Mori in 1970 has been a hot topic in human robot interaction research, in particular since the development of increasingly human-like androids and computer graphics. In this paper we describe an empirical study that attempts to plot Mori's hypothesized curve. In addition, the influence of framing on the users' perception of the stimuli was investigated. Framing had no significant influence on the measurements. The pictures of robots and humans were rated independently of whether the participants knew a particular picture showed a robot or human. Anthropomorphism had a significant influence on the measurements, but not even pictures of real humans were rated as likeable as the pictures of humanoids or toy robots. As a result we suggest the existence of an uncanny cliff model as an alternative to the uncanny valley model. However, this study focused on the perception of pictures of robots and the results, including the suggested model, may be different for the perception of movies of moving robots or the perception of standing right in front of a moving robot.}
@@ -10383,8 +10412,8 @@
       \strng{authornamehash}{15ff32e9a563369971750b8008589ffb}
       \strng{authorfullhash}{f96d69bb0a77b0279392d94b6c328cd5}
       \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Robot and Human Interactive Communication, 2009.}
