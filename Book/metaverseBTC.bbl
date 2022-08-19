@@ -116,6 +116,7 @@
       \strng{authorbibnamehash}{7a8fa37f931a316fe587067d55ea90fb}
       \strng{authornamehash}{7a8fa37f931a316fe587067d55ea90fb}
       \strng{authorfullhash}{7a8fa37f931a316fe587067d55ea90fb}
+      \field{extraname}{1}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
@@ -2266,6 +2267,58 @@
       \field{pages}{657\bibrangedash 689}
       \range{pages}{33}
     \endentry
+    \entry{homer1996history}{book}{}
+      \name{author}{2}{}{%
+        {{hash=7d6b5035380d9ab1b8d9de0ab9f33916}{%
+           family={Homer},
+           familyi={H\bibinitperiod},
+           given={Sidney},
+           giveni={S\bibinitperiod}}}%
+        {{hash=cd42bc9cc5b8484199bfc2f973e8193b}{%
+           family={Sylla},
+           familyi={S\bibinitperiod},
+           given={Richard\bibnamedelima Eugene},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Rutgers University Press}%
+      }
+      \strng{namehash}{a5220d7f263511e5e66b6059a626d837}
+      \strng{fullhash}{a5220d7f263511e5e66b6059a626d837}
+      \strng{bibnamehash}{a5220d7f263511e5e66b6059a626d837}
+      \strng{authorbibnamehash}{a5220d7f263511e5e66b6059a626d837}
+      \strng{authornamehash}{a5220d7f263511e5e66b6059a626d837}
+      \strng{authorfullhash}{a5220d7f263511e5e66b6059a626d837}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A history of interest rates}
+      \field{year}{1996}
+    \endentry
+    \entry{szabo2002shelling}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7a8fa37f931a316fe587067d55ea90fb}{%
+           family={Szabo},
+           familyi={S\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{7a8fa37f931a316fe587067d55ea90fb}
+      \strng{fullhash}{7a8fa37f931a316fe587067d55ea90fb}
+      \strng{bibnamehash}{7a8fa37f931a316fe587067d55ea90fb}
+      \strng{authorbibnamehash}{7a8fa37f931a316fe587067d55ea90fb}
+      \strng{authornamehash}{7a8fa37f931a316fe587067d55ea90fb}
+      \strng{authorfullhash}{7a8fa37f931a316fe587067d55ea90fb}
+      \field{extraname}{2}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Satoshi Nakamoto Institute}
+      \field{title}{Shelling out: the origins of money}
+      \field{year}{2002}
+    \endentry
     \entry{davies2010history}{book}{}
       \name{author}{1}{}{%
         {{hash=4ee93c737ba34d7335ea70711089dbf5}{%
@@ -2283,8 +2336,8 @@
       \strng{authorbibnamehash}{4ee93c737ba34d7335ea70711089dbf5}
       \strng{authornamehash}{4ee93c737ba34d7335ea70711089dbf5}
       \strng{authorfullhash}{4ee93c737ba34d7335ea70711089dbf5}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{History of money}
@@ -2588,8 +2641,8 @@
       \strng{authorbibnamehash}{969324062b1e1c947cc79ec27e075957}
       \strng{authornamehash}{969324062b1e1c947cc79ec27e075957}
       \strng{authorfullhash}{969324062b1e1c947cc79ec27e075957}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{AIER Sound Money Project Working Paper}
@@ -2611,8 +2664,8 @@
       \strng{authorbibnamehash}{e9b5e182bfaf4cee0f27ef67d2ce9817}
       \strng{authornamehash}{e9b5e182bfaf4cee0f27ef67d2ce9817}
       \strng{authorfullhash}{e9b5e182bfaf4cee0f27ef67d2ce9817}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Kiwi Hellenist: Modern Myths about the Ancient World. Retrieved}
@@ -2637,8 +2690,8 @@
       \strng{authorbibnamehash}{3fe714ad9d56b9d7daae745358a7184a}
       \strng{authornamehash}{3fe714ad9d56b9d7daae745358a7184a}
       \strng{authorfullhash}{3fe714ad9d56b9d7daae745358a7184a}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Money, Credit and Banking}
@@ -2929,8 +2982,8 @@
       \strng{authorbibnamehash}{97221c67145aabda05afac891300d180}
       \strng{authornamehash}{97221c67145aabda05afac891300d180}
       \strng{authorfullhash}{97221c67145aabda05afac891300d180}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Antifragile: how to live in a world we don't understand}
@@ -2974,8 +3027,8 @@
       \strng{authorbibnamehash}{5ed999110bb94ac264d9d68c748ee6fa}
       \strng{authornamehash}{5ed999110bb94ac264d9d68c748ee6fa}
       \strng{authorfullhash}{dd3776117b10720c1ca4eed46a3baf6a}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Personality and Individual Differences}
@@ -3230,8 +3283,8 @@
       \strng{authorbibnamehash}{77c79579ff958e99836be1d3b048a216}
       \strng{authornamehash}{77c79579ff958e99836be1d3b048a216}
       \strng{authorfullhash}{77c79579ff958e99836be1d3b048a216}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Frontiers in Blockchain}
@@ -6581,8 +6634,8 @@
       \strng{authorbibnamehash}{0e00c4f7040a7a654e4979ca86a88241}
       \strng{authornamehash}{0e00c4f7040a7a654e4979ca86a88241}
       \strng{authorfullhash}{0e00c4f7040a7a654e4979ca86a88241}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{People move their hands as they talk - they gesture. Gesturing is a robust phenomenon, found across cultures, ages, and tasks. Gesture is even found in individuals blind from birth. But what purpose, if any, does gesture serve? In this review, I begin by examining gesture when it stands on its own, substituting for speech and clearly serving a communicative function. When called upon to carry the full burden of communication, gesture assumes a language-like form, with structure at word and sentence levels. However, when produced along with speech, gesture assumes a different form - it becomes imagistic and analog. Despite its form, the gesture that accompanies speech also communicates. Trained coders can glean substantive information from gesture - information that is not always identical to that gleaned from speech. Gesture can thus serve as a research tool, shedding light on speakers' unspoken thoughts. The controversial question is whether gesture conveys information to listeners not trained to read them. Do spontaneous gestures communicate to ordinary listeners? Or might they be produced only for speakers themselves? I suggest these are not mutually exclusive functions - gesture serves as both a tool for communication for listeners, and a tool for thinking for speakers.}
@@ -10292,8 +10345,8 @@
       \strng{authorbibnamehash}{6a79e1f833d56e6957dc363bc1f860c0}
       \strng{authornamehash}{6a79e1f833d56e6957dc363bc1f860c0}
       \strng{authorfullhash}{6a79e1f833d56e6957dc363bc1f860c0}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{ACM Transactions in Graphics}
@@ -10320,8 +10373,8 @@
       \strng{authorbibnamehash}{5ed01159856f6b9f10979530bd1a9f31}
       \strng{authornamehash}{5ed01159856f6b9f10979530bd1a9f31}
       \strng{authorfullhash}{5ed01159856f6b9f10979530bd1a9f31}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Energy}
