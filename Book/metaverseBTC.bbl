@@ -1562,6 +1562,65 @@
       \field{pages}{371\bibrangedash 388}
       \range{pages}{18}
     \endentry
+    \entry{mora2018bitcoin}{article}{}
+      \name{author}{7}{}{%
+        {{hash=39d995e5da1adfbb1b5103e57418648a}{%
+           family={Mora},
+           familyi={M\bibinitperiod},
+           given={Camilo},
+           giveni={C\bibinitperiod}}}%
+        {{hash=4b3cccce3c72e6a11c3f975783b85993}{%
+           family={Rollins},
+           familyi={R\bibinitperiod},
+           given={Randi\bibnamedelima L},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=a66fd22277d66b895de7115e8540444e}{%
+           family={Taladay},
+           familyi={T\bibinitperiod},
+           given={Katie},
+           giveni={K\bibinitperiod}}}%
+        {{hash=595ed341875117976440ca6346eadbe2}{%
+           family={Kantar},
+           familyi={K\bibinitperiod},
+           given={Michael\bibnamedelima B},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=2232fcce168f4f6129b5ec28dbb3a2ea}{%
+           family={Chock},
+           familyi={C\bibinitperiod},
+           given={Mason\bibnamedelima K},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=a28cf5b583ff7cdabb7a512c9d1964ff}{%
+           family={Shimada},
+           familyi={S\bibinitperiod},
+           given={Mio},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e02221dc432243c578c0c721cbfc48db}{%
+           family={Franklin},
+           familyi={F\bibinitperiod},
+           given={Erik\bibnamedelima C},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{adb32a0d8293b6cbe25c99f94de3356c}
+      \strng{fullhash}{25efe4003a02b504f9a2342018991fa1}
+      \strng{bibnamehash}{adb32a0d8293b6cbe25c99f94de3356c}
+      \strng{authorbibnamehash}{adb32a0d8293b6cbe25c99f94de3356c}
+      \strng{authornamehash}{adb32a0d8293b6cbe25c99f94de3356c}
+      \strng{authorfullhash}{25efe4003a02b504f9a2342018991fa1}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Climate Change}
+      \field{number}{11}
+      \field{title}{Bitcoin emissions alone could push global warming above 2 C}
+      \field{volume}{8}
+      \field{year}{2018}
+      \field{pages}{931\bibrangedash 933}
+      \range{pages}{3}
+    \endentry
     \entry{cross2021greening}{article}{}
       \name{author}{2}{}{%
         {{hash=360e81eb96b033061329f9a9b3b8c24d}{%
@@ -1694,8 +1753,8 @@
       \strng{authorbibnamehash}{98526eb5477111524c3fb21910495fdd}
       \strng{authornamehash}{98526eb5477111524c3fb21910495fdd}
       \strng{authorfullhash}{98526eb5477111524c3fb21910495fdd}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Finance Research Letters}
@@ -1977,8 +2036,8 @@
       \strng{authorbibnamehash}{02157f4e7f286af5c370f029888cd383}
       \strng{authornamehash}{02157f4e7f286af5c370f029888cd383}
       \strng{authorfullhash}{02157f4e7f286af5c370f029888cd383}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The bitcoin lightning network: Scalable off-chain instant payments}
@@ -2289,8 +2348,8 @@
       \strng{authorbibnamehash}{a5220d7f263511e5e66b6059a626d837}
       \strng{authornamehash}{a5220d7f263511e5e66b6059a626d837}
       \strng{authorfullhash}{a5220d7f263511e5e66b6059a626d837}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{A history of interest rates}
@@ -2352,6 +2411,59 @@
       \field{year}{1996}
       \field{pages}{83\bibrangedash 107}
       \range{pages}{25}
+    \endentry
+    \entry{barsky1987fisher}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b3c0b9bea23096193e5c349e2546e0fe}{%
+           family={Barsky},
+           familyi={B\bibinitperiod},
+           given={Robert\bibnamedelima B},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{b3c0b9bea23096193e5c349e2546e0fe}
+      \strng{fullhash}{b3c0b9bea23096193e5c349e2546e0fe}
+      \strng{bibnamehash}{b3c0b9bea23096193e5c349e2546e0fe}
+      \strng{authorbibnamehash}{b3c0b9bea23096193e5c349e2546e0fe}
+      \strng{authornamehash}{b3c0b9bea23096193e5c349e2546e0fe}
+      \strng{authorfullhash}{b3c0b9bea23096193e5c349e2546e0fe}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of monetary Economics}
+      \field{number}{1}
+      \field{title}{The Fisher hypothesis and the forecastability and persistence of inflation}
+      \field{volume}{19}
+      \field{year}{1987}
+      \field{pages}{3\bibrangedash 24}
+      \range{pages}{22}
+    \endentry
+    \entry{hall2009inflation}{book}{}
+      \name{author}{1}{}{%
+        {{hash=77c1ed02c587f0e6bce66c7ab5b5ea39}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Robert\bibnamedelima E},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{77c1ed02c587f0e6bce66c7ab5b5ea39}
+      \strng{fullhash}{77c1ed02c587f0e6bce66c7ab5b5ea39}
+      \strng{bibnamehash}{77c1ed02c587f0e6bce66c7ab5b5ea39}
+      \strng{authorbibnamehash}{77c1ed02c587f0e6bce66c7ab5b5ea39}
+      \strng{authornamehash}{77c1ed02c587f0e6bce66c7ab5b5ea39}
+      \strng{authorfullhash}{77c1ed02c587f0e6bce66c7ab5b5ea39}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Inflation: causes and effects}
+      \field{year}{2009}
     \endentry
     \entry{davies2010history}{book}{}
       \name{author}{1}{}{%
@@ -2535,8 +2647,8 @@
       \strng{authorbibnamehash}{a8f4f2a49f22416de8db5f639af33b64}
       \strng{authornamehash}{a8f4f2a49f22416de8db5f639af33b64}
       \strng{authorfullhash}{a8f4f2a49f22416de8db5f639af33b64}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Remarks at the Jackson Hole Symposium}
@@ -2558,8 +2670,8 @@
       \strng{authorbibnamehash}{6332254e093b61afcd149b75e35e341e}
       \strng{authornamehash}{6332254e093b61afcd149b75e35e341e}
       \strng{authorfullhash}{6332254e093b61afcd149b75e35e341e}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{World Bank Policy Research Working Paper}
@@ -2589,8 +2701,8 @@
       \strng{authorbibnamehash}{3042dc4038843c1272ef20e3c7fc9411}
       \strng{authornamehash}{3042dc4038843c1272ef20e3c7fc9411}
       \strng{authorfullhash}{3042dc4038843c1272ef20e3c7fc9411}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Gold and the Turning of the Monetary Tides}
@@ -2616,8 +2728,8 @@
       \strng{authorbibnamehash}{ceb9bf68fccb64928a082ddf62bb168e}
       \strng{authornamehash}{ceb9bf68fccb64928a082ddf62bb168e}
       \strng{authorfullhash}{ceb9bf68fccb64928a082ddf62bb168e}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The Asia-Pacific Journal}
@@ -2896,8 +3008,8 @@
       \strng{authorbibnamehash}{bfb8d2bb070d9ca205932dede8e3853f}
       \strng{authornamehash}{bfb8d2bb070d9ca205932dede8e3853f}
       \strng{authorfullhash}{bfb8d2bb070d9ca205932dede8e3853f}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The Future of Money: How the Digital Revolution is Transforming Currencies and Finance}
@@ -2925,8 +3037,8 @@
       \strng{authorbibnamehash}{af8695065272fc2c1ff681f981c353b1}
       \strng{authornamehash}{af8695065272fc2c1ff681f981c353b1}
       \strng{authorfullhash}{af8695065272fc2c1ff681f981c353b1}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Open Economies Review}
@@ -2954,8 +3066,8 @@
       \strng{authorbibnamehash}{7afa24b41101598853c9f506dce425c4}
       \strng{authornamehash}{7afa24b41101598853c9f506dce425c4}
       \strng{authorfullhash}{7afa24b41101598853c9f506dce425c4}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Layered Money}
@@ -3228,8 +3340,8 @@
       \strng{authorbibnamehash}{5654ccd726dd2cd1aeb2383476790b32}
       \strng{authornamehash}{5654ccd726dd2cd1aeb2383476790b32}
       \strng{authorfullhash}{5654ccd726dd2cd1aeb2383476790b32}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The economic limits of bitcoin and the blockchain}
@@ -3260,8 +3372,8 @@
       \strng{authorbibnamehash}{812b435e65b1f74e201dde7520dff995}
       \strng{authornamehash}{812b435e65b1f74e201dde7520dff995}
       \strng{authorfullhash}{812b435e65b1f74e201dde7520dff995}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{arXiv preprint arXiv:2203.15930}
@@ -6606,8 +6718,8 @@
       \strng{authornamehash}{f135c6c65c2e1f2b6c917356b8d160d2}
       \strng{authorfullhash}{f135c6c65c2e1f2b6c917356b8d160d2}
       \field{extraname}{2}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the {SIGCHI} Conference on Human Factors in Computing Systems}
@@ -10144,8 +10256,8 @@
       \strng{authorbibnamehash}{4b965c0e9cd28ba02206e333b7f8e0b1}
       \strng{authornamehash}{4b965c0e9cd28ba02206e333b7f8e0b1}
       \strng{authorfullhash}{7ca35601f48167305df5ae0683a581d8}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Holography is a technique that is used to display objects or scenes in three dimensions. Such three-dimensional (3D) images, or holograms, can be seen with the unassisted eye and are very similar to how humans see the actual environment surrounding them. The concept of 3D telepresence, a real-time dynamic hologram depicting a scene occurring in a different location, has attracted considerable public interest since it was depicted in the original Star Wars film in 1977. However, the lack of sufficient computational power to produce realistic computer-generated holograms and the absence of large-area and dynamically updatable holographic recording media have prevented realization of the concept. Here we use a holographic stereographic technique and a photorefractive polymer material as the recording medium to demonstrate a holographic display that can refresh images every two seconds. A 50\textbackslashquotesinglbase{Ä}{â}Hz nanosecond pulsed laser is used to write the holographic pixels. Multicoloured holographic 3D images are produced by using angular multiplexing, and the full parallax display employs spatial multiplexing. 3D telepresence is demonstrated by taking multiple images from one location and transmitting the information via Ethernet to another location where the hologram is printed with the quasi-real-time dynamic 3D display. Further improvements could bring applications in telemedicine, prototyping, advertising, updatable 3D maps and entertainment.}
@@ -10246,8 +10358,8 @@
       \strng{authorbibnamehash}{1dd04f6191f69d450e6cfcd5d41d6d15}
       \strng{authornamehash}{1dd04f6191f69d450e6cfcd5d41d6d15}
       \strng{authorfullhash}{a815f46f5a9e47f9164f26d761c5e2cb}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Holographic three-dimensional (3D) displays provide realistic images without the need for special eyewear, making them valuable tools for applications that require situational awareness, such as medical, industrial and military imaging. Currently commercially available holographic 3D displays use photopolymers that lack image-updating capability, resulting in restricted use and high cost. Photorefractive polymers are dynamic holographic recording materials that allow updating of images and have a wide range of applications, including optical correlation, imaging through scattering media and optical communication. To be suitable for 3D displays, photorefractive polymers need to have nearly 100\% diffraction efficiency, fast writing time, hours of image persistence, rapid erasure, and large area-a combination of properties that has not been shown before. Here, we report an updatable holographic 3D display based on photorefractive polymers with such properties, capable of recording and displaying new images every few minutes. This is the largest photorefractive 3D display to date (4 x 4 inches in size); it can be recorded within a few minutes, viewed for several hours without the need for refreshing, and can be completely erased and updated with new images when desired.}
@@ -10291,8 +10403,8 @@
       \strng{authorbibnamehash}{f1537f188cc94959b504f6aaa0a0fc06}
       \strng{authornamehash}{f1537f188cc94959b504f6aaa0a0fc06}
       \strng{authorfullhash}{f1537f188cc94959b504f6aaa0a0fc06}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{A new technique for multi-view autostereoscopic projection display is proposed, and demonstrated. The technique uses two mobile projectors, a rotating retro-reflective diffuser screen, and a head-tracking camera. As two dynamic viewing slits are created at the viewer's position, the slits can track the position of the eyes by rotating the screen. The display allows a viewer to move approximately 700 mm along the horizontal axis, and 500 mm along the vertical axis with an average crosstalk below 5 \%. Two screen prototypes with different diffusers have been tried, and they provide luminance levels of 60 Cd/m2, and 160 Cd/m2 within the viewing field.}
