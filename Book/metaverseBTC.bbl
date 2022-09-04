@@ -1671,43 +1671,6 @@
       \field{title}{Short Paper: A Centrality Analysis of the Lightning Network}
       \field{year}{2022}
     \endentry
-    \entry{BenSasson2022}{article}{}
-      \name{author}{4}{}{%
-        {{hash=f36c7ea7c840e1f27464a2e053ff7449}{%
-           family={Sasson},
-           familyi={S\bibinitperiod},
-           given={Eli\bibnamedelima Ben},
-           giveni={E\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
-        {{hash=4f5918844b4f0d9e4f9ed2f5ae668d05}{%
-           family={Carmon},
-           familyi={C\bibinitperiod},
-           given={Dan},
-           giveni={D\bibinitperiod}}}%
-        {{hash=2e5f2317f0ac54b750326520280e9e9f}{%
-           family={Kopparty},
-           familyi={K\bibinitperiod},
-           given={Swastik},
-           giveni={S\bibinitperiod}}}%
-        {{hash=067af4a3fd17f991a35a57e539a6360e}{%
-           family={Levit},
-           familyi={L\bibinitperiod},
-           given={David},
-           giveni={D\bibinitperiod}}}%
-      }
-      \strng{namehash}{4a95da6ad6dbcce834a552b52c8b17b8}
-      \strng{fullhash}{7c8fc62d433e26349cba7dcb160a8a68}
-      \strng{bibnamehash}{4a95da6ad6dbcce834a552b52c8b17b8}
-      \strng{authorbibnamehash}{4a95da6ad6dbcce834a552b52c8b17b8}
-      \strng{authornamehash}{4a95da6ad6dbcce834a552b52c8b17b8}
-      \strng{authorfullhash}{7c8fc62d433e26349cba7dcb160a8a68}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{TR22 110}
-      \field{title}{Scalable and transparent proofs over all large fields via elliptic curves}
-      \field{year}{2022}
-    \endentry
     \entry{https://doi.org/10.48550/arxiv.2208.01908}{misc}{}
       \name{author}{2}{}{%
         {{hash=ad9b0df357c9c505d4b108383e9ef7eb}{%
@@ -1992,8 +1955,8 @@
       \strng{authorbibnamehash}{b3c0b9bea23096193e5c349e2546e0fe}
       \strng{authornamehash}{b3c0b9bea23096193e5c349e2546e0fe}
       \strng{authorfullhash}{b3c0b9bea23096193e5c349e2546e0fe}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of monetary Economics}
@@ -2320,8 +2283,8 @@
       \strng{authorbibnamehash}{2757267655a8e2d265367ee28326f581}
       \strng{authornamehash}{2757267655a8e2d265367ee28326f581}
       \strng{authorfullhash}{2757267655a8e2d265367ee28326f581}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{China Economic Review}
@@ -2657,8 +2620,8 @@
       \strng{authorbibnamehash}{7afa24b41101598853c9f506dce425c4}
       \strng{authornamehash}{7afa24b41101598853c9f506dce425c4}
       \strng{authorfullhash}{7afa24b41101598853c9f506dce425c4}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Layered Money}
@@ -2988,8 +2951,8 @@
       \strng{authorbibnamehash}{d1e996d8dda90032d4a4b7867021c7f7}
       \strng{authornamehash}{d1e996d8dda90032d4a4b7867021c7f7}
       \strng{authorfullhash}{d1e996d8dda90032d4a4b7867021c7f7}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The Cryptopians: Idealism, Greed, Lies, and the Making of the First Big Cryptocurrency Craze}
@@ -3266,8 +3229,8 @@
       \strng{authorbibnamehash}{4dc214c859a01c74a067082d181d6afd}
       \strng{authornamehash}{4dc214c859a01c74a067082d181d6afd}
       \strng{authorfullhash}{4dc214c859a01c74a067082d181d6afd}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Avatars, Affordances, and Interfaces: Virtual Reality Tools for Learning.}
@@ -10367,8 +10330,8 @@
       \strng{authorbibnamehash}{32f02b1387856ff9e40e6969b7803463}
       \strng{authornamehash}{32f02b1387856ff9e40e6969b7803463}
       \strng{authorfullhash}{32f02b1387856ff9e40e6969b7803463}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The Uncanny Valley Hypothesis (UVH) describes the sudden change in a person's affect from affinity to aversion that is evoked by robots that border a human-like appearance. The portion of the human-likeness spectrum in which such aversion is posited to occur is referred to as the ``uncanny valley''. However, evidence in support of the UVH is primarily based on subjectively assessed evaluations. Thus it remains an open question as to whether there are behavioral or neurophysiological manifestations of uncanny valley effects. To address this gap in literature, we investigated the activation of the anterior prefrontal cortex (PFC) - a region of the brain associated with emotion regulation - in response to a series of robots with varying human-likeness. We hypothesized that highly human-like robots - which have been found to receive negative subjective attributions - will also elicit increased activity in the PFC versus humans or robots with lesser degrees of human-likeness in accordance with the UVH. Our results show a ``valley'' in brain activity in the PFC corresponding to the valley observed via subjective measures alone, thus suggesting one neural manifestation (the PFC) of uncanny valley effects and further supporting the affective response (aversion) posited to occur by the UVH. However, the results also reveal a second ``uncanny valley'' in prefrontal hemodynamics, which suggests that the effects (and the contributing factors) are more complex than previously understood.}
