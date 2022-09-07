@@ -64,7 +64,7 @@ chmod +x vircadia-builder
 
 As this setup requires both the domain server and the ICE server, run the following:
 
-./vircadia-builder --build=server,ice-server
+sudo ./vircadia-builder --build=server,ice-server
 
 It is also possible to add a 'client' option but this was not opted for in this setup as the client was [Windows based](#Client-interface).
 
