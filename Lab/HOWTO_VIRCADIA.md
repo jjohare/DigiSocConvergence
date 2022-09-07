@@ -14,7 +14,7 @@ There are [few different options](https://vircadia.com/deploy-a-server/) to depl
 
 ### Prepare a virtual instance of Ubuntu 20.04 in the Proxmox Virtual Environment
 
-First, obtain the Ubuntu 20.04 desktop image.
+First, obtain the Ubuntu 22LTS desktop image.
 
 Then deploy a virtual machine in Proxmox VE as was done with VyOS and Debian in the previous sections. The following values were selected for this setup:
 
@@ -64,7 +64,7 @@ chmod +x vircadia-builder
 
 As this setup requires both the domain server and the ICE server, run the following:
 
-./vircadia-builder --build=server,ice-server
+sudo ./vircadia-builder --build=server,ice-server
 
 It is also possible to add a 'client' option but this was not opted for in this setup as the client was [Windows based](#Client-interface).
 
