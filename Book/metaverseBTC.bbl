@@ -1852,6 +1852,124 @@
       \field{pages}{657\bibrangedash 689}
       \range{pages}{33}
     \endentry
+    \entry{apostolaki2016hijacking}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a9d2ca826f4a644911255f9e48e40882}{%
+           family={Apostolaki},
+           familyi={A\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4dc8e02c1943053c2c553cd83d668173}{%
+           family={Zohar},
+           familyi={Z\bibinitperiod},
+           given={Aviv},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ae2762b7239b93801ec25f9cf2dcfd63}{%
+           family={Vanbever},
+           familyi={V\bibinitperiod},
+           given={Laurent},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{4c7e991cee2fdff79876aa9e874f887e}
+      \strng{fullhash}{4c7e991cee2fdff79876aa9e874f887e}
+      \strng{bibnamehash}{4c7e991cee2fdff79876aa9e874f887e}
+      \strng{authorbibnamehash}{4c7e991cee2fdff79876aa9e874f887e}
+      \strng{authornamehash}{4c7e991cee2fdff79876aa9e874f887e}
+      \strng{authorfullhash}{4c7e991cee2fdff79876aa9e874f887e}
+      \field{extraname}{1}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1605.07524}
+      \field{title}{Hijacking bitcoin: Large-scale network attacks on cryptocurrencies}
+      \field{year}{2016}
+    \endentry
+    \entry{apostolaki2017hijacking}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=a9d2ca826f4a644911255f9e48e40882}{%
+           family={Apostolaki},
+           familyi={A\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4dc8e02c1943053c2c553cd83d668173}{%
+           family={Zohar},
+           familyi={Z\bibinitperiod},
+           given={Aviv},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ae2762b7239b93801ec25f9cf2dcfd63}{%
+           family={Vanbever},
+           familyi={V\bibinitperiod},
+           given={Laurent},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{4c7e991cee2fdff79876aa9e874f887e}
+      \strng{fullhash}{4c7e991cee2fdff79876aa9e874f887e}
+      \strng{bibnamehash}{4c7e991cee2fdff79876aa9e874f887e}
+      \strng{authorbibnamehash}{4c7e991cee2fdff79876aa9e874f887e}
+      \strng{authornamehash}{4c7e991cee2fdff79876aa9e874f887e}
+      \strng{authorfullhash}{4c7e991cee2fdff79876aa9e874f887e}
+      \field{extraname}{2}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2017 IEEE symposium on security and privacy (SP)}
+      \field{title}{Hijacking bitcoin: Routing attacks on cryptocurrencies}
+      \field{year}{2017}
+      \field{pages}{375\bibrangedash 392}
+      \range{pages}{18}
+    \endentry
+    \entry{johnson2014game}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=2ae9924b514a78a6539604c255b40146}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod}}}%
+        {{hash=3dafc75d4263b010a5021b05a9cbf685}{%
+           family={Laszka},
+           familyi={L\bibinitperiod},
+           given={Aron},
+           giveni={A\bibinitperiod}}}%
+        {{hash=22035557fcd32a95d6316aa9f13e5ec8}{%
+           family={Grossklags},
+           familyi={G\bibinitperiod},
+           given={Jens},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b35fa4df43adca44d623890e7fd3d466}{%
+           family={Vasek},
+           familyi={V\bibinitperiod},
+           given={Marie},
+           giveni={M\bibinitperiod}}}%
+        {{hash=daf5b824fdd1f6eefb27ea1c1743e32c}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={Tyler},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{10a37f15cf97416d2c683f7908db5673}
+      \strng{fullhash}{b71644f4d8312ed921063e17c79f8d8c}
+      \strng{bibnamehash}{10a37f15cf97416d2c683f7908db5673}
+      \strng{authorbibnamehash}{10a37f15cf97416d2c683f7908db5673}
+      \strng{authornamehash}{10a37f15cf97416d2c683f7908db5673}
+      \strng{authorfullhash}{b71644f4d8312ed921063e17c79f8d8c}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{International Conference on Financial Cryptography and Data Security}
+      \field{title}{Game-theoretic analysis of DDoS attacks against Bitcoin mining pools}
+      \field{year}{2014}
+      \field{pages}{72\bibrangedash 86}
+      \range{pages}{15}
+    \endentry
     \entry{homer1996history}{book}{}
       \name{author}{2}{}{%
         {{hash=7d6b5035380d9ab1b8d9de0ab9f33916}{%
@@ -1955,8 +2073,8 @@
       \strng{authorbibnamehash}{b3c0b9bea23096193e5c349e2546e0fe}
       \strng{authornamehash}{b3c0b9bea23096193e5c349e2546e0fe}
       \strng{authorfullhash}{b3c0b9bea23096193e5c349e2546e0fe}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of monetary Economics}
@@ -2283,8 +2401,8 @@
       \strng{authorbibnamehash}{2757267655a8e2d265367ee28326f581}
       \strng{authornamehash}{2757267655a8e2d265367ee28326f581}
       \strng{authorfullhash}{2757267655a8e2d265367ee28326f581}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{China Economic Review}
@@ -2620,50 +2738,13 @@
       \strng{authorbibnamehash}{7afa24b41101598853c9f506dce425c4}
       \strng{authornamehash}{7afa24b41101598853c9f506dce425c4}
       \strng{authorfullhash}{7afa24b41101598853c9f506dce425c4}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Layered Money}
       \field{year}{1988}
       \keyw{sample.bib}
-    \endentry
-    \entry{apostolaki2017hijacking}{inproceedings}{}
-      \name{author}{3}{}{%
-        {{hash=a9d2ca826f4a644911255f9e48e40882}{%
-           family={Apostolaki},
-           familyi={A\bibinitperiod},
-           given={Maria},
-           giveni={M\bibinitperiod}}}%
-        {{hash=4dc8e02c1943053c2c553cd83d668173}{%
-           family={Zohar},
-           familyi={Z\bibinitperiod},
-           given={Aviv},
-           giveni={A\bibinitperiod}}}%
-        {{hash=ae2762b7239b93801ec25f9cf2dcfd63}{%
-           family={Vanbever},
-           familyi={V\bibinitperiod},
-           given={Laurent},
-           giveni={L\bibinitperiod}}}%
-      }
-      \list{organization}{1}{%
-        {IEEE}%
-      }
-      \strng{namehash}{4c7e991cee2fdff79876aa9e874f887e}
-      \strng{fullhash}{4c7e991cee2fdff79876aa9e874f887e}
-      \strng{bibnamehash}{4c7e991cee2fdff79876aa9e874f887e}
-      \strng{authorbibnamehash}{4c7e991cee2fdff79876aa9e874f887e}
-      \strng{authornamehash}{4c7e991cee2fdff79876aa9e874f887e}
-      \strng{authorfullhash}{4c7e991cee2fdff79876aa9e874f887e}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{2017 IEEE symposium on security and privacy (SP)}
-      \field{title}{Hijacking bitcoin: Routing attacks on cryptocurrencies}
-      \field{year}{2017}
-      \field{pages}{375\bibrangedash 392}
-      \range{pages}{18}
     \endentry
     \entry{taleb2012antifragile}{book}{}
       \name{author}{1}{}{%
@@ -2951,8 +3032,8 @@
       \strng{authorbibnamehash}{d1e996d8dda90032d4a4b7867021c7f7}
       \strng{authornamehash}{d1e996d8dda90032d4a4b7867021c7f7}
       \strng{authorfullhash}{d1e996d8dda90032d4a4b7867021c7f7}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The Cryptopians: Idealism, Greed, Lies, and the Making of the First Big Cryptocurrency Craze}
@@ -3229,8 +3310,8 @@
       \strng{authorbibnamehash}{4dc214c859a01c74a067082d181d6afd}
       \strng{authornamehash}{4dc214c859a01c74a067082d181d6afd}
       \strng{authorfullhash}{4dc214c859a01c74a067082d181d6afd}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Avatars, Affordances, and Interfaces: Virtual Reality Tools for Learning.}
@@ -10330,8 +10411,8 @@
       \strng{authorbibnamehash}{32f02b1387856ff9e40e6969b7803463}
       \strng{authornamehash}{32f02b1387856ff9e40e6969b7803463}
       \strng{authorfullhash}{32f02b1387856ff9e40e6969b7803463}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The Uncanny Valley Hypothesis (UVH) describes the sudden change in a person's affect from affinity to aversion that is evoked by robots that border a human-like appearance. The portion of the human-likeness spectrum in which such aversion is posited to occur is referred to as the ``uncanny valley''. However, evidence in support of the UVH is primarily based on subjectively assessed evaluations. Thus it remains an open question as to whether there are behavioral or neurophysiological manifestations of uncanny valley effects. To address this gap in literature, we investigated the activation of the anterior prefrontal cortex (PFC) - a region of the brain associated with emotion regulation - in response to a series of robots with varying human-likeness. We hypothesized that highly human-like robots - which have been found to receive negative subjective attributions - will also elicit increased activity in the PFC versus humans or robots with lesser degrees of human-likeness in accordance with the UVH. Our results show a ``valley'' in brain activity in the PFC corresponding to the valley observed via subjective measures alone, thus suggesting one neural manifestation (the PFC) of uncanny valley effects and further supporting the affective response (aversion) posited to occur by the UVH. However, the results also reveal a second ``uncanny valley'' in prefrontal hemodynamics, which suggests that the effects (and the contributing factors) are more complex than previously understood.}
