@@ -3015,30 +3015,6 @@
       \field{title}{Extracting Godl [sic] from the Salt Mines: Ethereum Miners Extracting Value}
       \field{year}{2022}
     \endentry
-    \entry{cryptopians}{book}{}
-      \name{author}{1}{}{%
-        {{hash=d1e996d8dda90032d4a4b7867021c7f7}{%
-           family={Shin},
-           familyi={S\bibinitperiod},
-           given={Laura},
-           giveni={L\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Public Affairs}%
-      }
-      \strng{namehash}{d1e996d8dda90032d4a4b7867021c7f7}
-      \strng{fullhash}{d1e996d8dda90032d4a4b7867021c7f7}
-      \strng{bibnamehash}{d1e996d8dda90032d4a4b7867021c7f7}
-      \strng{authorbibnamehash}{d1e996d8dda90032d4a4b7867021c7f7}
-      \strng{authornamehash}{d1e996d8dda90032d4a4b7867021c7f7}
-      \strng{authorfullhash}{d1e996d8dda90032d4a4b7867021c7f7}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The Cryptopians: Idealism, Greed, Lies, and the Making of the First Big Cryptocurrency Craze}
-      \field{year}{2022}
-    \endentry
     \entry{king1966fisher}{article}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -3098,6 +3074,30 @@
       \field{year}{2021}
       \field{pages}{4}
       \range{pages}{1}
+    \endentry
+    \entry{cryptopians}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d1e996d8dda90032d4a4b7867021c7f7}{%
+           family={Shin},
+           familyi={S\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Public Affairs}%
+      }
+      \strng{namehash}{d1e996d8dda90032d4a4b7867021c7f7}
+      \strng{fullhash}{d1e996d8dda90032d4a4b7867021c7f7}
+      \strng{bibnamehash}{d1e996d8dda90032d4a4b7867021c7f7}
+      \strng{authorbibnamehash}{d1e996d8dda90032d4a4b7867021c7f7}
+      \strng{authornamehash}{d1e996d8dda90032d4a4b7867021c7f7}
+      \strng{authorfullhash}{d1e996d8dda90032d4a4b7867021c7f7}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Cryptopians: Idealism, Greed, Lies, and the Making of the First Big Cryptocurrency Craze}
+      \field{year}{2022}
     \endentry
     \entry{moringiello2021property}{article}{}
       \name{author}{2}{}{%
