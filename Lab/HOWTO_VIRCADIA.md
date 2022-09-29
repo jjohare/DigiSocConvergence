@@ -274,10 +274,11 @@ Receiving objects: 100% (5134/5134), 1.04 MiB | 1.10 MiB/s, done.
 Resolving deltas: 100% (3539/3539), done.
 ```
 
-Change to the vircadia-metaverse directory and run the following command:
+Change to the vircadia-metaverse directory and run the following commands:
 
 ```
 npm install
+npm run build
 ```
 
 Note: As of writing the Git tags were old so the latest commit was opted for.
