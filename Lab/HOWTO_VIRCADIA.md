@@ -544,7 +544,47 @@ You can take inspiration from:
 3) the file used in this setup:
 
 ```
-@todo: insert file
+{
+    "metaverse": {
+        "metaverse-name": "GM Cyber Foundry Metaverse",
+        "metaverse-nick-name": "GMCyberFoundryMetaverse",
+        "metaverse-server-url": "http://a.b.c.d:9400",
+        "default-ice-server-url": "a.b.c.d:7337",
+        "dashboard-url": ""
+    },
+    "server": {
+        "listen-host": "0.0.0.0",
+        "listen-port": 9400,
+        "key-file": "",
+        "cert-file": "",
+        "max-body-size": 300000,
+        "static-base": "/static",
+        "user-config-file": "./iamus.json",
+        "server-version": {
+            "version-tag": "1.1.1-20200101-abcdefg"
+        }
+    },
+    "monitoring": {
+        "enable": true,
+        "history": true
+    },
+    "database": {
+        "db-host": "localhost",
+        "db-port": 27017,
+        "db": "domainstore",
+        "db-user": "cadiauser",
+        "db-pw": "thepassword",
+        "db-authdb": "admin",
+        "db-connection": ""
+    },
+    "backup": {
+        "backup-user": "backuper",
+        "backup-pw": "thepassword",
+        "backup-dir": "",
+        "authenticationDatabase": ""
+    }
+}
+
 ```
 
 ### Configure port forwarding for the metaverse server
@@ -606,7 +646,7 @@ On the metaverse server open a terminal and run:
 ```
 cd vircadia-metaverse
 
-node/dist/index.ts
+node dist/index.ts
 ```
 
 #### ICE server
@@ -670,7 +710,7 @@ For the initial run the following was actioned:
 Open a terminal (PowerShell on Windows in this case), navigate to the folder containing the Vircadia executable and run:
 
 ```
-.\interface.exe --url 84.92.193.1
+.\interface.exe --url a.b.c.d
 ```
 
 Then in the interface navigate to File -> Metaverse: Login / Sign Up
