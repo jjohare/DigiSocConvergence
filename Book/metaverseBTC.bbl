@@ -11954,6 +11954,53 @@
       \field{volume}{1}
       \field{year}{2022}
     \endentry
+    \entry{ruiz2022dreambooth}{article}{}
+      \name{author}{6}{}{%
+        {{hash=a8a6584c0da71baa0b32cfb224a8a521}{%
+           family={Ruiz},
+           familyi={R\bibinitperiod},
+           given={Nataniel},
+           giveni={N\bibinitperiod}}}%
+        {{hash=9541f6fdf7e193e3e0ebcbe9b33340ff}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Yuanzhen},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=08e660cb85b2ce40d958c270e2a0d1cb}{%
+           family={Jampani},
+           familyi={J\bibinitperiod},
+           given={Varun},
+           giveni={V\bibinitperiod}}}%
+        {{hash=431bc98a2ac62901ba9d38297e19b25e}{%
+           family={Pritch},
+           familyi={P\bibinitperiod},
+           given={Yael},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=afbc21c0ba7555cdd6a589cc59eb3c34}{%
+           family={Rubinstein},
+           familyi={R\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=769548eecf1ec8f5523b7a76dc6fc0b7}{%
+           family={Aberman},
+           familyi={A\bibinitperiod},
+           given={Kfir},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{ca5a15d3347ed4d0da8ae3785d341dee}
+      \strng{fullhash}{a2cf5e47381c83dceecdfabf3ebea7d3}
+      \strng{bibnamehash}{ca5a15d3347ed4d0da8ae3785d341dee}
+      \strng{authorbibnamehash}{ca5a15d3347ed4d0da8ae3785d341dee}
+      \strng{authornamehash}{ca5a15d3347ed4d0da8ae3785d341dee}
+      \strng{authorfullhash}{a2cf5e47381c83dceecdfabf3ebea7d3}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{arXiv preprint arxiv:2208.12242}
+      \field{title}{DreamBooth: Fine Tuning Text-to-image Diffusion Models for Subject-Driven Generation}
+      \field{year}{2022}
+    \endentry
     \entry{OHare2018}{incollection}{}
       \name{author}{4}{}{%
         {{hash=37ffb46bedb1a44c6181fd1099ed4ffa}{%
@@ -12129,6 +12176,70 @@
       \field{pages}{99\bibrangedash 106}
       \range{pages}{8}
       \keyw{litsurvey.bib}
+    \endentry
+    \entry{anonymous2023phenaki}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=7079c72c21415131774625ba1d64f4b0}{%
+           family={Anonymous},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{7079c72c21415131774625ba1d64f4b0}
+      \strng{fullhash}{7079c72c21415131774625ba1d64f4b0}
+      \strng{bibnamehash}{7079c72c21415131774625ba1d64f4b0}
+      \strng{authorbibnamehash}{7079c72c21415131774625ba1d64f4b0}
+      \strng{authornamehash}{7079c72c21415131774625ba1d64f4b0}
+      \strng{authorfullhash}{7079c72c21415131774625ba1d64f4b0}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Submitted to The Eleventh International Conference on Learning Representations}
+      \field{note}{under review}
+      \field{title}{Phenaki: Variable Length Video Generation from Open Domain Textual Descriptions}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://openreview.net/forum?id=vOEXS39nOF
+      \endverb
+      \verb{url}
+      \verb https://openreview.net/forum?id=vOEXS39nOF
+      \endverb
+    \endentry
+    \entry{poole2022dreamfusion}{article}{}
+      \name{author}{4}{}{%
+        {{hash=e528fda20644135dfae4f481a342148f}{%
+           family={Poole},
+           familyi={P\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod}}}%
+        {{hash=31ac0835ffc3ba6d612252522a6a2011}{%
+           family={Jain},
+           familyi={J\bibinitperiod},
+           given={Ajay},
+           giveni={A\bibinitperiod}}}%
+        {{hash=562f3254a241932db4a6d44a97473ec5}{%
+           family={Barron},
+           familyi={B\bibinitperiod},
+           given={Jonathan\bibnamedelima T.},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=a3567364ab52973659adf74ee0c6e6f3}{%
+           family={Mildenhall},
+           familyi={M\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{2ab1fa74b3bad871227919987fac4bbc}
+      \strng{fullhash}{5e123f7b7d7c187f27103d018600214d}
+      \strng{bibnamehash}{2ab1fa74b3bad871227919987fac4bbc}
+      \strng{authorbibnamehash}{2ab1fa74b3bad871227919987fac4bbc}
+      \strng{authornamehash}{2ab1fa74b3bad871227919987fac4bbc}
+      \strng{authorfullhash}{5e123f7b7d7c187f27103d018600214d}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv}
+      \field{title}{DreamFusion: Text-to-3D using 2D Diffusion}
+      \field{year}{2022}
     \endentry
     \entry{nightingale2022ai}{article}{}
       \name{author}{2}{}{%

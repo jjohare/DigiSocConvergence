@@ -13877,4 +13877,29 @@
   year    = {2016},
 }
 
+@InProceedings{johnson2014game,
+  author       = {Johnson, Benjamin and Laszka, Aron and Grossklags, Jens and Vasek, Marie and Moore, Tyler},
+  booktitle    = {International Conference on Financial Cryptography and Data Security},
+  title        = {Game-theoretic analysis of DDoS attacks against Bitcoin mining pools},
+  year         = {2014},
+  organization = {Springer},
+  pages        = {72--86},
+}
+
+@Article{poole2022dreamfusion,
+  author  = {Poole, Ben and Jain, Ajay and Barron, Jonathan T. and Mildenhall, Ben},
+  journal = {arXiv},
+  title   = {DreamFusion: Text-to-3D using 2D Diffusion},
+  year    = {2022},
+}
+
+@InProceedings{anonymous2023phenaki,
+  author    = {Anonymous},
+  booktitle = {Submitted to The Eleventh International Conference on Learning Representations},
+  title     = {Phenaki: Variable Length Video Generation from Open Domain Textual Descriptions},
+  year      = {2023},
+  note      = {under review},
+  url       = {https://openreview.net/forum?id=vOEXS39nOF},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
