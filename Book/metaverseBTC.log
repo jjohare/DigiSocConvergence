@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  8 OCT 2022 08:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  8 OCT 2022 09:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3111,6 +3111,11 @@ File: Images//pyramid.jpg Graphic file (type jpg)
 <use Images//pyramid.jpg>
 Package pdftex.def Info: Images//pyramid.jpg  used on input line 8.
 (pdftex.def)             Requested size: 426.79135pt x 344.8382pt.
+<Images//highlevelstack.png, id=3245, 944.52875pt x 703.62875pt>
+File: Images//highlevelstack.png Graphic file (type png)
+<use Images//highlevelstack.png>
+Package pdftex.def Info: Images//highlevelstack.png  used on input line 13.
+(pdftex.def)             Requested size: 426.79135pt x 317.93987pt.
 
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -3121,12 +3126,6 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [152]
-<Images//highlevelstack.png, id=3249, 944.52875pt x 703.62875pt>
-File: Images//highlevelstack.png Graphic file (type png)
-<use Images//highlevelstack.png>
-Package pdftex.def Info: Images//highlevelstack.png  used on input line 13.
-(pdftex.def)             Requested size: 426.79135pt x 317.93987pt.
-
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -4933,11 +4932,11 @@ Package logreq Info: Writing requests to 'metaverseBTC.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37780 strings out of 478582
- 754158 string characters out of 2844816
- 1668433 words of memory out of 3000000
- 53690 multiletter control sequences out of 15000+600000
- 596415 words of font info for 496 fonts, out of 8000000 for 9000
+ 37732 strings out of 478582
+ 753699 string characters out of 2844816
+ 1668429 words of memory out of 3000000
+ 53686 multiletter control sequences out of 15000+600000
+ 591727 words of font info for 467 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  98i,17n,94p,2426b,1373s stack positions out of 5000i,500n,10000p,200000b,80000s
 
@@ -4960,9 +4959,9 @@ fb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pf
 b><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb
 ><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb
 >
-Output written on metaverseBTC.pdf (216 pages, 42313081 bytes).
+Output written on metaverseBTC.pdf (216 pages, 42311127 bytes).
 PDF statistics:
  4513 PDF objects out of 5155 (max. 8388607)
  1018 named destinations out of 1200 (max. 500000)
- 133587 words of extra memory for PDF output out of 154059 (max. 10000000)
+ 127443 words of extra memory for PDF output out of 128383 (max. 10000000)
 
