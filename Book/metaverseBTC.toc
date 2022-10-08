@@ -19,13 +19,13 @@
 \contentsline {subsubsection}{\numberline {3.2.2.2}Energy \& policy response}{37}{subsubsection.3.2.2.2}%
 \contentsline {subsection}{\numberline {3.2.3}Technical overview}{44}{subsection.3.2.3}%
 \contentsline {subsubsection}{\numberline {3.2.3.1}ECDSA / SHA256 / secp256k1}{44}{subsubsection.3.2.3.1}%
-\contentsline {subsubsection}{\numberline {3.2.3.2}Addresses \& UTXOs}{44}{subsubsection.3.2.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.3.2}Addresses \& UTXOs}{46}{subsubsection.3.2.3.2}%
 \contentsline {subsubsection}{\numberline {3.2.3.3}Bitcoin script}{46}{subsubsection.3.2.3.3}%
 \contentsline {subsubsection}{\numberline {3.2.3.4}Halving}{46}{subsubsection.3.2.3.4}%
 \contentsline {subsubsection}{\numberline {3.2.3.5}Difficulty adjustment}{46}{subsubsection.3.2.3.5}%
-\contentsline {subsubsection}{\numberline {3.2.3.6}Bitcoin nodes }{46}{subsubsection.3.2.3.6}%
+\contentsline {subsubsection}{\numberline {3.2.3.6}Bitcoin nodes }{47}{subsubsection.3.2.3.6}%
 \contentsline {subsubsection}{\numberline {3.2.3.7}Wallets, seeds, keys and BIP39}{47}{subsubsection.3.2.3.7}%
-\contentsline {subsubsection}{\numberline {3.2.3.8}Custody}{47}{subsubsection.3.2.3.8}%
+\contentsline {subsubsection}{\numberline {3.2.3.8}Custody}{48}{subsubsection.3.2.3.8}%
 \contentsline {section}{\numberline {3.3}Lightning (Layer 2)}{49}{section.3.3}%
 \contentsline {subsection}{\numberline {3.3.1}Micropayments}{50}{subsection.3.3.1}%
 \contentsline {subsection}{\numberline {3.3.2}BOLT12 and recurring payments}{50}{subsection.3.3.2}%
@@ -39,15 +39,15 @@
 \contentsline {subsection}{\numberline {3.5.3}Spacechains}{57}{subsection.3.5.3}%
 \contentsline {subsection}{\numberline {3.5.4}Statechains, drivechain, softchains}{58}{subsection.3.5.4}%
 \contentsline {section}{\numberline {3.6}Risks and mitigations}{58}{section.3.6}%
-\contentsline {subsection}{\numberline {3.6.1}Digital assets}{58}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.1}Digital assets}{59}{subsection.3.6.1}%
 \contentsline {subsection}{\numberline {3.6.2}Bitcoin specifically}{60}{subsection.3.6.2}%
 \contentsline {chapter}{\numberline {4}Money in the real world}{62}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Defining money}{62}{section.4.1}%
 \contentsline {subsection}{\numberline {4.1.1}Global currency interactions}{64}{subsection.4.1.1}%
 \contentsline {section}{\numberline {4.2}International money transfer networks}{65}{section.4.2}%
 \contentsline {subsection}{\numberline {4.2.1}Swift, ISO 20022, and correspondence banking}{65}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}VISA etc}{65}{subsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.2.3}Money transfer operators}{65}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.2}VISA and Mastercard}{65}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Money transfer operators}{66}{subsection.4.2.3}%
 \contentsline {subsection}{\numberline {4.2.4}Digital disruptive fintech}{66}{subsection.4.2.4}%
 \contentsline {subsection}{\numberline {4.2.5}Stablecoins}{66}{subsection.4.2.5}%
 \contentsline {subsubsection}{\numberline {4.2.5.1}The evolving US position}{69}{subsubsection.4.2.5.1}%
@@ -57,25 +57,25 @@
 \contentsline {section}{\numberline {4.4}Bitcoin as a money}{75}{section.4.4}%
 \contentsline {subsection}{\numberline {4.4.1}Spending it}{76}{subsection.4.4.1}%
 \contentsline {subsubsection}{\numberline {4.4.1.1}Bitcoin based FIAT}{77}{subsubsection.4.4.1.1}%
-\contentsline {subsection}{\numberline {4.4.2}Saving with it}{77}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.2}Saving with it}{78}{subsection.4.4.2}%
 \contentsline {section}{\numberline {4.5}Risks (money, not technical)}{80}{section.4.5}%
 \contentsline {subsection}{\numberline {4.5.1}Risks to Bitcoin the money}{80}{subsection.4.5.1}%
 \contentsline {subsubsection}{\numberline {4.5.1.1}Geopolitics}{80}{subsubsection.4.5.1.1}%
 \contentsline {subsubsection}{\numberline {4.5.1.2}Liquidity Lottery}{81}{subsubsection.4.5.1.2}%
 \contentsline {subsubsection}{\numberline {4.5.1.3}Manipulation of price or the network}{81}{subsubsection.4.5.1.3}%
 \contentsline {subsubsection}{\numberline {4.5.1.4}Rehypothecation}{81}{subsubsection.4.5.1.4}%
-\contentsline {subsubsection}{\numberline {4.5.1.5}Scale}{82}{subsubsection.4.5.1.5}%
-\contentsline {subsubsection}{\numberline {4.5.1.6}Centralisation of the money over time}{82}{subsubsection.4.5.1.6}%
+\contentsline {subsubsection}{\numberline {4.5.1.5}Scale}{81}{subsubsection.4.5.1.5}%
+\contentsline {subsubsection}{\numberline {4.5.1.6}Centralisation of the money over time}{81}{subsubsection.4.5.1.6}%
 \contentsline {subsection}{\numberline {4.5.2}Bitcoin externalities}{82}{subsection.4.5.2}%
 \contentsline {subsubsection}{\numberline {4.5.2.1}Inherent volatility}{82}{subsubsection.4.5.2.1}%
-\contentsline {subsubsection}{\numberline {4.5.2.2}Unfair distribution}{83}{subsubsection.4.5.2.2}%
-\contentsline {subsubsection}{\numberline {4.5.2.3}Endless HODL}{83}{subsubsection.4.5.2.3}%
-\contentsline {subsubsection}{\numberline {4.5.2.4}Reduction of funding source / liquidity in legacy finance}{83}{subsubsection.4.5.2.4}%
-\contentsline {subsubsection}{\numberline {4.5.2.5}Bitcoin collapse system shock}{83}{subsubsection.4.5.2.5}%
+\contentsline {subsubsection}{\numberline {4.5.2.2}Unfair distribution}{82}{subsubsection.4.5.2.2}%
+\contentsline {subsubsection}{\numberline {4.5.2.3}Endless HODL}{82}{subsubsection.4.5.2.3}%
+\contentsline {subsubsection}{\numberline {4.5.2.4}Reduction of funding source / liquidity in legacy finance}{84}{subsubsection.4.5.2.4}%
+\contentsline {subsubsection}{\numberline {4.5.2.5}Bitcoin collapse system shock}{84}{subsubsection.4.5.2.5}%
 \contentsline {subsubsection}{\numberline {4.5.2.6}Stablecoin collapse system shock}{84}{subsubsection.4.5.2.6}%
 \contentsline {subsubsection}{\numberline {4.5.2.7}Tech for techs sake yielding unexpected outcomes}{84}{subsubsection.4.5.2.7}%
-\contentsline {subsubsection}{\numberline {4.5.2.8}No agreed measurable end goal}{84}{subsubsection.4.5.2.8}%
-\contentsline {subsubsection}{\numberline {4.5.2.9}National security / actual warfare}{84}{subsubsection.4.5.2.9}%
+\contentsline {subsubsection}{\numberline {4.5.2.8}No agreed measurable end goal}{85}{subsubsection.4.5.2.8}%
+\contentsline {subsubsection}{\numberline {4.5.2.9}National security / actual warfare}{85}{subsubsection.4.5.2.9}%
 \contentsline {subsubsection}{\numberline {4.5.2.10}Bitcoin as a culture war foil}{85}{subsubsection.4.5.2.10}%
 \contentsline {subsubsection}{\numberline {4.5.2.11}Self reinforcing monocultures}{85}{subsubsection.4.5.2.11}%
 \contentsline {subsubsection}{\numberline {4.5.2.12}Jurisdictional / legislative arbitrage}{85}{subsubsection.4.5.2.12}%
