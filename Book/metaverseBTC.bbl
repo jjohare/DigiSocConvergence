@@ -11954,6 +11954,293 @@
       \field{volume}{1}
       \field{year}{2022}
     \endentry
+    \entry{ruiz2022dreambooth}{article}{}
+      \name{author}{6}{}{%
+        {{hash=a8a6584c0da71baa0b32cfb224a8a521}{%
+           family={Ruiz},
+           familyi={R\bibinitperiod},
+           given={Nataniel},
+           giveni={N\bibinitperiod}}}%
+        {{hash=9541f6fdf7e193e3e0ebcbe9b33340ff}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Yuanzhen},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=08e660cb85b2ce40d958c270e2a0d1cb}{%
+           family={Jampani},
+           familyi={J\bibinitperiod},
+           given={Varun},
+           giveni={V\bibinitperiod}}}%
+        {{hash=431bc98a2ac62901ba9d38297e19b25e}{%
+           family={Pritch},
+           familyi={P\bibinitperiod},
+           given={Yael},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=afbc21c0ba7555cdd6a589cc59eb3c34}{%
+           family={Rubinstein},
+           familyi={R\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=769548eecf1ec8f5523b7a76dc6fc0b7}{%
+           family={Aberman},
+           familyi={A\bibinitperiod},
+           given={Kfir},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{ca5a15d3347ed4d0da8ae3785d341dee}
+      \strng{fullhash}{a2cf5e47381c83dceecdfabf3ebea7d3}
+      \strng{bibnamehash}{ca5a15d3347ed4d0da8ae3785d341dee}
+      \strng{authorbibnamehash}{ca5a15d3347ed4d0da8ae3785d341dee}
+      \strng{authornamehash}{ca5a15d3347ed4d0da8ae3785d341dee}
+      \strng{authorfullhash}{a2cf5e47381c83dceecdfabf3ebea7d3}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{arXiv preprint arxiv:2208.12242}
+      \field{title}{DreamBooth: Fine Tuning Text-to-image Diffusion Models for Subject-Driven Generation}
+      \field{year}{2022}
+    \endentry
+    \entry{OHare2018}{incollection}{}
+      \name{author}{4}{}{%
+        {{hash=37ffb46bedb1a44c6181fd1099ed4ffa}{%
+           family={O'Hare},
+           familyi={O\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5c919a29aa2ead72ec526d3dc109631d}{%
+           family={Fairchild},
+           familyi={F\bibinitperiod},
+           given={Allen\bibnamedelima J},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=a0b0e349e986f8d03e8d56e854fd2f02}{%
+           family={Wolff},
+           familyi={W\bibinitperiod},
+           given={Robin},
+           giveni={R\bibinitperiod}}}%
+        {{hash=778e4e9d3c1020a3048eb7e5b96f14e1}{%
+           family={Roberts},
+           familyi={R\bibinitperiod},
+           given={David\bibnamedelima J},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=14d0c9712f8cde9cb8b4230dafb22748}{%
+           family={Jung},
+           familyi={J\bibinitperiod},
+           given={Timothy},
+           giveni={T\bibinitperiod}}}%
+        {{hash=e3796bd28612e949c9a3d4e08e171856}{%
+           family={Dieck},
+           familyi={D\bibinitperiod},
+           given={M\bibnamedelima Claudia},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={tom},
+           prefixi={t\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{4a23456c5972a08217e1505f37c291ea}
+      \strng{fullhash}{882d8293247f29d94cdd4baeada52636}
+      \strng{bibnamehash}{4a23456c5972a08217e1505f37c291ea}
+      \strng{authorbibnamehash}{4a23456c5972a08217e1505f37c291ea}
+      \strng{authornamehash}{4a23456c5972a08217e1505f37c291ea}
+      \strng{authorfullhash}{882d8293247f29d94cdd4baeada52636}
+      \strng{editorbibnamehash}{7e6ebc75a8db603f951bb9fb3ec7a428}
+      \strng{editornamehash}{7e6ebc75a8db603f951bb9fb3ec7a428}
+      \strng{editorfullhash}{7e6ebc75a8db603f951bb9fb3ec7a428}
+      \field{extraname}{1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The concept of supporting ad hoc or dynamic membership tele-present meetings through pulling up a chair is novel. In real world business situations, people pull up a chair after catching the eye of someone already seated. Telethrone is a situated display on a chair which allows multiple correct views of a remote collaborator. The system has been expanded to support informal meetings where chairs can be moved around. This is facilitated through the novel integration of a 3D reconstructed model of a person, with live viewpoint dependent rendering onto a retro-reflective surface. This removes the need for painstaking alignment of multiple cameras and projectors each time a chair is moved. A between subjects experiment tested accuracy of reconnected mutual gaze mediated by part of the system. Subjectively easier and harder situations are compared. Specifically best and worst cases, both in terms of orientation of eyes in the reconstructed head, and angle of observer gaze onto the display. Discussion compares results to experiments that used other systems to attempt to convey eye gaze by different techniques. This research builds toward a scalable system for ad hoc business meetings; a paradigm poorly supported by current video conferencing. It is also applicable to supporting conversations between seated people in any scenario where seats might be moved, for example in interaction between client and therapist in tele-therapy.}
+      \field{booktitle}{Augmented Reality and Virtual Reality: Empowering Human, Place and Business}
+      \field{title}{Telethrone Reconstructed; Ongoing Testing Toward a More Natural Situated Display}
+      \field{year}{2018}
+      \field{pages}{323\bibrangedash 337}
+      \range{pages}{15}
+      \keyw{litsurvey.bib}
+    \endentry
+    \entry{Fairchild2017}{article}{}
+      \name{author}{6}{}{%
+        {{hash=ed95b1cab0bb06fd2f51c226b3e1447e}{%
+           family={Fairchild},
+           familyi={F\bibinitperiod},
+           given={A\bibnamedelima J},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=ef22981ad092a999a2dd44f7af338429}{%
+           family={Campion},
+           familyi={C\bibinitperiod},
+           given={S\bibnamedelima P},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=4257ffad94cce32c2929223a0a6e38b0}{%
+           family={Garcı́a},
+           familyi={G\bibinitperiod},
+           given={A\bibnamedelima S},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=35e17c51ed3133996ff7cd5b962349ff}{%
+           family={Wolff},
+           familyi={W\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=3d550fee77b7853ff2041896df23d45b}{%
+           family={Fernando},
+           familyi={F\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod}}}%
+        {{hash=8d8b45200e2e98c760d0264d3d876467}{%
+           family={Roberts},
+           familyi={R\bibinitperiod},
+           given={D\bibnamedelima J},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{8209721fd83ce75e1204d6e38b0b93fc}
+      \strng{fullhash}{75143449c2559d5c42fb08ade920ec92}
+      \strng{bibnamehash}{8209721fd83ce75e1204d6e38b0b93fc}
+      \strng{authorbibnamehash}{8209721fd83ce75e1204d6e38b0b93fc}
+      \strng{authornamehash}{8209721fd83ce75e1204d6e38b0b93fc}
+      \strng{authorfullhash}{75143449c2559d5c42fb08ade920ec92}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper presents a mixed reality (MR) system that results from the integration of a telepresence system and an application to improve collaborative space exploration. The system combines free viewpoint video with immersive projection technology to support nonverbal communication (NVC), including eye gaze, interpersonal distance, and facial expression. Importantly, these features can be interpreted together as people move around the simulation, maintaining a natural social distance. The application is a simulation of Mars, within which the collaborators must come to agreement over; for example, where the Rover should land and go. The first contribution is the creation of an MR system supporting contextualization of NVC. Two technological contributions are prototyping a technique to subtract a person from a background that may contain physical objects and/or moving images and a lightweight texturing method for multiview rendering, which provides balance in terms of visual and temporal quality. A practical contribution is the demonstration of pragmatic approaches to sharing space between display systems of distinct levels of immersion. A research tool contribution is a system that allows comparison of conventional authored and video-based reconstructed avatars, within an environment that encourages exploration and social interaction. Aspects of system quality, including the communication of facial expression and end-to-end latency are reported.}
+      \field{journaltitle}{IEEE Trans. Circuits Syst. Video Technol.}
+      \field{month}{\#apr\#}
+      \field{number}{4}
+      \field{title}{A Mixed Reality Telepresence System for Collaborative Space Operation}
+      \field{volume}{27}
+      \field{year}{2017}
+      \field{pages}{814\bibrangedash 827}
+      \range{pages}{14}
+      \keyw{aerospace computing;avatars;digital simulation;face recognition;feature extraction;gaze tracking;groupware;image texture;rendering (computer graphics);space research;video signal processing;mixed reality telepresence system;collaborative space exploration improvement;free viewpoint video;immersive projection technology;nonverbal communication;NVC;eye gaze;interpersonal distance;facial expression;Mars simulation;MR system;moving images;lightweight texturing method;multiview rendering;temporal quality;visual quality;display systems;video-based reconstructed avatars;social interaction;end-to-end latency;Three-dimensional displays;Virtual reality;Space exploration;Rendering (computer graphics);Space research;Collaborative work;3D video-based reconstruction;background-foreground segmentation;computer-supported collaborative work;mixed reality (MR);space science;telepresence;litsurvey.bib}
+    \endentry
+    \entry{OHare2016}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=37ffb46bedb1a44c6181fd1099ed4ffa}{%
+           family={O'Hare},
+           familyi={O\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=12f3ab37384800250d11f7c5f8b249a8}{%
+           family={Bendall},
+           familyi={B\bibinitperiod},
+           given={Robert\bibnamedelimb C\bibnamedelima A},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=681401396c6c063e977ccebb9472713d}{%
+           family={Rae},
+           familyi={R\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=61f4b19bff51a26e78b55f3bf8ef58b7}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={Graham},
+           giveni={G\bibinitperiod}}}%
+        {{hash=46e08aee4d267b0458ee2126541f509e}{%
+           family={Weir},
+           familyi={W\bibinitperiod},
+           given={Bruce},
+           giveni={B\bibinitperiod}}}%
+        {{hash=778e4e9d3c1020a3048eb7e5b96f14e1}{%
+           family={Roberts},
+           familyi={R\bibinitperiod},
+           given={David\bibnamedelima J},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Eurographics Association}%
+      }
+      \strng{namehash}{4a23456c5972a08217e1505f37c291ea}
+      \strng{fullhash}{aef3ef0d82a01c6f6c12205fe5167bd4}
+      \strng{bibnamehash}{4a23456c5972a08217e1505f37c291ea}
+      \strng{authorbibnamehash}{4a23456c5972a08217e1505f37c291ea}
+      \strng{authornamehash}{4a23456c5972a08217e1505f37c291ea}
+      \strng{authorfullhash}{aef3ef0d82a01c6f6c12205fe5167bd4}
+      \field{extraname}{2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{ICAT-EGVE}}
+      \field{title}{Is This Seat Taken? Behavioural Analysis of the Telethrone: A Novel Situated Telepresence Display}
+      \field{year}{2016}
+      \field{pages}{99\bibrangedash 106}
+      \range{pages}{8}
+      \keyw{litsurvey.bib}
+    \endentry
+    \entry{anonymous2023phenaki}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=7079c72c21415131774625ba1d64f4b0}{%
+           family={Anonymous},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{7079c72c21415131774625ba1d64f4b0}
+      \strng{fullhash}{7079c72c21415131774625ba1d64f4b0}
+      \strng{bibnamehash}{7079c72c21415131774625ba1d64f4b0}
+      \strng{authorbibnamehash}{7079c72c21415131774625ba1d64f4b0}
+      \strng{authornamehash}{7079c72c21415131774625ba1d64f4b0}
+      \strng{authorfullhash}{7079c72c21415131774625ba1d64f4b0}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Submitted to The Eleventh International Conference on Learning Representations}
+      \field{note}{under review}
+      \field{title}{Phenaki: Variable Length Video Generation from Open Domain Textual Descriptions}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://openreview.net/forum?id=vOEXS39nOF
+      \endverb
+      \verb{url}
+      \verb https://openreview.net/forum?id=vOEXS39nOF
+      \endverb
+    \endentry
+    \entry{poole2022dreamfusion}{article}{}
+      \name{author}{4}{}{%
+        {{hash=e528fda20644135dfae4f481a342148f}{%
+           family={Poole},
+           familyi={P\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod}}}%
+        {{hash=31ac0835ffc3ba6d612252522a6a2011}{%
+           family={Jain},
+           familyi={J\bibinitperiod},
+           given={Ajay},
+           giveni={A\bibinitperiod}}}%
+        {{hash=562f3254a241932db4a6d44a97473ec5}{%
+           family={Barron},
+           familyi={B\bibinitperiod},
+           given={Jonathan\bibnamedelima T.},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=a3567364ab52973659adf74ee0c6e6f3}{%
+           family={Mildenhall},
+           familyi={M\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{2ab1fa74b3bad871227919987fac4bbc}
+      \strng{fullhash}{5e123f7b7d7c187f27103d018600214d}
+      \strng{bibnamehash}{2ab1fa74b3bad871227919987fac4bbc}
+      \strng{authorbibnamehash}{2ab1fa74b3bad871227919987fac4bbc}
+      \strng{authornamehash}{2ab1fa74b3bad871227919987fac4bbc}
+      \strng{authorfullhash}{5e123f7b7d7c187f27103d018600214d}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv}
+      \field{title}{DreamFusion: Text-to-3D using 2D Diffusion}
+      \field{year}{2022}
+    \endentry
     \entry{nightingale2022ai}{article}{}
       \name{author}{2}{}{%
         {{hash=d92f4dc7ddc9de1ded16a60320cfc8df}{%
