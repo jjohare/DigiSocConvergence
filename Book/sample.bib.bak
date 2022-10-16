@@ -13902,4 +13902,11 @@
   url       = {https://openreview.net/forum?id=vOEXS39nOF},
 }
 
+@Article{ruiz2022dreambooth,
+  author    = {Ruiz, Nataniel and Li, Yuanzhen and Jampani, Varun and Pritch, Yael and Rubinstein, Michael and Aberman, Kfir},
+  title     = {DreamBooth: Fine Tuning Text-to-image Diffusion Models for Subject-Driven Generation},
+  year      = {2022},
+  booktitle = {arXiv preprint arxiv:2208.12242},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
