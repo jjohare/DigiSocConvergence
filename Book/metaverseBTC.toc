@@ -233,85 +233,85 @@
 \contentsline {subsubsection}{\numberline {8.1.4.2}Voices}{157}{subsubsection.8.1.4.2}%
 \contentsline {subsubsection}{\numberline {8.1.4.3}Autonomous tasks}{157}{subsubsection.8.1.4.3}%
 \contentsline {subsection}{\numberline {8.1.5}Governance and safeguarding}{157}{subsection.8.1.5}%
-\contentsline {chapter}{\numberline {9}Our proposition}{158}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Summary TL;DR}{158}{section.9.1}%
-\contentsline {section}{\numberline {9.2}Software stack}{160}{section.9.2}%
-\contentsline {section}{\numberline {9.3}Pathway \& telepresence}{160}{section.9.3}%
-\contentsline {section}{\numberline {9.4}Money in metaverses}{162}{section.9.4}%
-\contentsline {subsection}{\numberline {9.4.1}ML actors and blockchain based bots}{162}{subsection.9.4.1}%
-\contentsline {subsection}{\numberline {9.4.2}AI economic actors in mixed reality}{162}{subsection.9.4.2}%
-\contentsline {section}{\numberline {9.5}Our socialisation best practice}{162}{section.9.5}%
-\contentsline {subsubsection}{\numberline {9.5.0.1}Identity}{162}{subsubsection.9.5.0.1}%
-\contentsline {subsubsection}{\numberline {9.5.0.2}Webs of trust}{162}{subsubsection.9.5.0.2}%
-\contentsline {subsubsection}{\numberline {9.5.0.3}Integration of 'good' actor AI entities}{163}{subsubsection.9.5.0.3}%
-\contentsline {subsection}{\numberline {9.5.1}Emulation of important social cues}{163}{subsection.9.5.1}%
-\contentsline {subsubsection}{\numberline {9.5.1.1}Behaviour incentives, arbitration, and penalties}{163}{subsubsection.9.5.1.1}%
-\contentsline {subsection}{\numberline {9.5.2}Federations of webs of trust and economics}{163}{subsection.9.5.2}%
-\contentsline {section}{\numberline {9.6}Security evaluation}{163}{section.9.6}%
-\contentsline {section}{\numberline {9.7}Potential applications }{163}{section.9.7}%
-\contentsline {subsection}{\numberline {9.7.1}Global cybersec course delivery}{164}{subsection.9.7.1}%
-\contentsline {part}{\numberline {II}Guides for deploying the software}{167}{part.2}%
-\contentsline {section}{\numberline {9.8}Lab - virtualisation, networking, Bitcoin}{168}{section.9.8}%
-\contentsline {subsection}{\numberline {9.8.1}Overview}{168}{subsection.9.8.1}%
-\contentsline {subsubsection}{\numberline {9.8.1.1}Summary of software}{168}{subsubsection.9.8.1.1}%
-\contentsline {subsection}{\numberline {9.8.2}Prerequisites}{168}{subsection.9.8.2}%
-\contentsline {subsection}{\numberline {9.8.3}Network details}{168}{subsection.9.8.3}%
-\contentsline {subsection}{\numberline {9.8.4}Server configuration}{168}{subsection.9.8.4}%
-\contentsline {subsubsection}{\numberline {9.8.4.1}Server hardware details}{168}{subsubsection.9.8.4.1}%
-\contentsline {subsubsection}{\numberline {9.8.4.2}Disk configuration details}{168}{subsubsection.9.8.4.2}%
-\contentsline {subsection}{\numberline {9.8.5}Proxmox VE}{168}{subsection.9.8.5}%
-\contentsline {subsubsection}{\numberline {9.8.5.1}Installation and configuration}{168}{subsubsection.9.8.5.1}%
-\contentsline {paragraph}{Dialogue 1}{168}{paragraph*.4}%
-\contentsline {paragraph}{Dialogue 2}{168}{paragraph*.5}%
-\contentsline {paragraph}{Dialogue 3}{169}{paragraph*.6}%
-\contentsline {paragraph}{Dialogue 4}{169}{paragraph*.7}%
-\contentsline {subsubsection}{\numberline {9.8.5.2}Software updates}{169}{subsubsection.9.8.5.2}%
-\contentsline {subsubsection}{\numberline {9.8.5.3}Proxmox VE hardening}{170}{subsubsection.9.8.5.3}%
-\contentsline {subsection}{\numberline {9.8.6}Setup an internal only network in Proxmox VE}{170}{subsection.9.8.6}%
-\contentsline {subsection}{\numberline {9.8.7}Install and configure Internet gateway server virtual machine}{170}{subsection.9.8.7}%
-\contentsline {subsubsection}{\numberline {9.8.7.1}Create an ISO of the stable version (as of writing 1.3.0)}{170}{subsubsection.9.8.7.1}%
-\contentsline {subsubsection}{\numberline {9.8.7.2}Upload the ISO image to the Proxmox VE server}{171}{subsubsection.9.8.7.2}%
-\contentsline {subsubsection}{\numberline {9.8.7.3}Create VyOS virtual machine}{171}{subsubsection.9.8.7.3}%
-\contentsline {subsubsection}{\numberline {9.8.7.4}Configure VyOS}{171}{subsubsection.9.8.7.4}%
-\contentsline {subsection}{\numberline {9.8.8}Install and configure a Debian virtual machine}{172}{subsection.9.8.8}%
-\contentsline {subsection}{\numberline {9.8.9}Deploying the nix-bitcoin node}{173}{subsection.9.8.9}%
-\contentsline {subsubsection}{\numberline {9.8.9.1}Acquiring NixOS}{173}{subsubsection.9.8.9.1}%
-\contentsline {subsubsection}{\numberline {9.8.9.2}Create a new VM}{173}{subsubsection.9.8.9.2}%
-\contentsline {subsubsection}{\numberline {9.8.9.3}Configure the additional drive (optional)}{174}{subsubsection.9.8.9.3}%
-\contentsline {subsubsection}{\numberline {9.8.9.4}Create port forwarding rules for SSH (optional)}{175}{subsubsection.9.8.9.4}%
-\contentsline {paragraph}{Debian}{175}{paragraph*.8}%
-\contentsline {paragraph}{NixOS}{175}{paragraph*.9}%
-\contentsline {subsubsection}{\numberline {9.8.9.5}Prepare nix-bitcoin NixOS package}{176}{subsubsection.9.8.9.5}%
-\contentsline {paragraph}{Additional hard drive configuration}{178}{paragraph*.10}%
-\contentsline {paragraph}{Static IP configuration}{178}{paragraph*.11}%
-\contentsline {paragraph}{SSH configuration}{179}{paragraph*.12}%
-\contentsline {paragraph}{Services configuration}{179}{paragraph*.13}%
-\contentsline {section}{\numberline {9.9}Lab - Vircadia}{179}{section.9.9}%
-\contentsline {subsection}{\numberline {9.9.1}Overview}{179}{subsection.9.9.1}%
-\contentsline {subsection}{\numberline {9.9.2}Deploy a Vircadia domain server}{179}{subsection.9.9.2}%
-\contentsline {subsubsection}{\numberline {9.9.2.1}Prepare a virtual instance of Ubuntu 20.04 in the Proxmox Virtual Environment}{180}{subsubsection.9.9.2.1}%
-\contentsline {subsubsection}{\numberline {9.9.2.2}Configure port forwarding for Vircadia services}{183}{subsubsection.9.9.2.2}%
-\contentsline {subsubsection}{\numberline {9.9.2.3}Configure port forwarding for the ICE server}{184}{subsubsection.9.9.2.3}%
-\contentsline {subsubsection}{\numberline {9.9.2.4}Configure the Vircadia server}{184}{subsubsection.9.9.2.4}%
-\contentsline {subsection}{\numberline {9.9.3}Deploy a Vircadia metaverse server}{185}{subsection.9.9.3}%
-\contentsline {subsubsection}{\numberline {9.9.3.1}Install Node.js and NPM}{186}{subsubsection.9.9.3.1}%
-\contentsline {subsubsection}{\numberline {9.9.3.2}Installation of the Vircadia metaverse server}{187}{subsubsection.9.9.3.2}%
-\contentsline {subsubsection}{\numberline {9.9.3.3}Configure the Mongo DB for the metaverse server}{188}{subsubsection.9.9.3.3}%
-\contentsline {subsubsection}{\numberline {9.9.3.4}Configure the iamus configuration file}{190}{subsubsection.9.9.3.4}%
-\contentsline {subsubsection}{\numberline {9.9.3.5}Configure port forwarding for the metaverse server}{194}{subsubsection.9.9.3.5}%
-\contentsline {subsubsection}{\numberline {9.9.3.6}Configuring NAT reflection on the VyOS router (testing)}{194}{subsubsection.9.9.3.6}%
-\contentsline {subsubsection}{\numberline {9.9.3.7}Enabling external access}{194}{subsubsection.9.9.3.7}%
-\contentsline {subsubsection}{\numberline {9.9.3.8}Start the services}{195}{subsubsection.9.9.3.8}%
-\contentsline {paragraph}{Metaverse server service}{195}{paragraph*.14}%
-\contentsline {paragraph}{ICE server}{195}{paragraph*.15}%
-\contentsline {paragraph}{Domain server services}{195}{paragraph*.16}%
-\contentsline {paragraph}{Client interface}{195}{paragraph*.17}%
-\contentsline {subsubsection}{\numberline {9.9.3.9}Connecting the Metaverse server and configuring a test Metaverse account}{196}{subsubsection.9.9.3.9}%
-\contentsline {subsubsection}{\numberline {9.9.3.10}Connecting a client}{196}{subsubsection.9.9.3.10}%
-\contentsline {subsubsection}{\numberline {9.9.3.11}Configure SSH access for domain and metaverse servers (optional)}{196}{subsubsection.9.9.3.11}%
-\contentsline {paragraph}{Domain server}{196}{paragraph*.18}%
-\contentsline {paragraph}{Metaverse server}{197}{paragraph*.19}%
-\contentsline {part}{\numberline {III}Appendix}{198}{part.3}%
-\contentsline {section}{\numberline {9.10}Acknowledgements and thanks}{199}{section.9.10}%
-\contentsline {section}{\numberline {9.11}Author Biographies}{199}{section.9.11}%
+\contentsline {chapter}{\numberline {9}Our proposition}{160}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Summary TL;DR}{160}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Software stack}{162}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Pathway \& telepresence}{162}{section.9.3}%
+\contentsline {section}{\numberline {9.4}Money in metaverses}{164}{section.9.4}%
+\contentsline {subsection}{\numberline {9.4.1}ML actors and blockchain based bots}{164}{subsection.9.4.1}%
+\contentsline {subsection}{\numberline {9.4.2}AI economic actors in mixed reality}{164}{subsection.9.4.2}%
+\contentsline {section}{\numberline {9.5}Our socialisation best practice}{164}{section.9.5}%
+\contentsline {subsubsection}{\numberline {9.5.0.1}Identity}{164}{subsubsection.9.5.0.1}%
+\contentsline {subsubsection}{\numberline {9.5.0.2}Webs of trust}{164}{subsubsection.9.5.0.2}%
+\contentsline {subsubsection}{\numberline {9.5.0.3}Integration of 'good' actor AI entities}{165}{subsubsection.9.5.0.3}%
+\contentsline {subsection}{\numberline {9.5.1}Emulation of important social cues}{165}{subsection.9.5.1}%
+\contentsline {subsubsection}{\numberline {9.5.1.1}Behaviour incentives, arbitration, and penalties}{165}{subsubsection.9.5.1.1}%
+\contentsline {subsection}{\numberline {9.5.2}Federations of webs of trust and economics}{165}{subsection.9.5.2}%
+\contentsline {section}{\numberline {9.6}Security evaluation}{165}{section.9.6}%
+\contentsline {section}{\numberline {9.7}Potential applications }{165}{section.9.7}%
+\contentsline {subsection}{\numberline {9.7.1}Global cybersec course delivery}{166}{subsection.9.7.1}%
+\contentsline {part}{\numberline {II}Guides for deploying the software}{169}{part.2}%
+\contentsline {section}{\numberline {9.8}Lab - virtualisation, networking, Bitcoin}{170}{section.9.8}%
+\contentsline {subsection}{\numberline {9.8.1}Overview}{170}{subsection.9.8.1}%
+\contentsline {subsubsection}{\numberline {9.8.1.1}Summary of software}{170}{subsubsection.9.8.1.1}%
+\contentsline {subsection}{\numberline {9.8.2}Prerequisites}{170}{subsection.9.8.2}%
+\contentsline {subsection}{\numberline {9.8.3}Network details}{170}{subsection.9.8.3}%
+\contentsline {subsection}{\numberline {9.8.4}Server configuration}{170}{subsection.9.8.4}%
+\contentsline {subsubsection}{\numberline {9.8.4.1}Server hardware details}{170}{subsubsection.9.8.4.1}%
+\contentsline {subsubsection}{\numberline {9.8.4.2}Disk configuration details}{170}{subsubsection.9.8.4.2}%
+\contentsline {subsection}{\numberline {9.8.5}Proxmox VE}{170}{subsection.9.8.5}%
+\contentsline {subsubsection}{\numberline {9.8.5.1}Installation and configuration}{170}{subsubsection.9.8.5.1}%
+\contentsline {paragraph}{Dialogue 1}{170}{paragraph*.4}%
+\contentsline {paragraph}{Dialogue 2}{170}{paragraph*.5}%
+\contentsline {paragraph}{Dialogue 3}{171}{paragraph*.6}%
+\contentsline {paragraph}{Dialogue 4}{171}{paragraph*.7}%
+\contentsline {subsubsection}{\numberline {9.8.5.2}Software updates}{171}{subsubsection.9.8.5.2}%
+\contentsline {subsubsection}{\numberline {9.8.5.3}Proxmox VE hardening}{172}{subsubsection.9.8.5.3}%
+\contentsline {subsection}{\numberline {9.8.6}Setup an internal only network in Proxmox VE}{172}{subsection.9.8.6}%
+\contentsline {subsection}{\numberline {9.8.7}Install and configure Internet gateway server virtual machine}{172}{subsection.9.8.7}%
+\contentsline {subsubsection}{\numberline {9.8.7.1}Create an ISO of the stable version (as of writing 1.3.0)}{172}{subsubsection.9.8.7.1}%
+\contentsline {subsubsection}{\numberline {9.8.7.2}Upload the ISO image to the Proxmox VE server}{173}{subsubsection.9.8.7.2}%
+\contentsline {subsubsection}{\numberline {9.8.7.3}Create VyOS virtual machine}{173}{subsubsection.9.8.7.3}%
+\contentsline {subsubsection}{\numberline {9.8.7.4}Configure VyOS}{173}{subsubsection.9.8.7.4}%
+\contentsline {subsection}{\numberline {9.8.8}Install and configure a Debian virtual machine}{174}{subsection.9.8.8}%
+\contentsline {subsection}{\numberline {9.8.9}Deploying the nix-bitcoin node}{175}{subsection.9.8.9}%
+\contentsline {subsubsection}{\numberline {9.8.9.1}Acquiring NixOS}{175}{subsubsection.9.8.9.1}%
+\contentsline {subsubsection}{\numberline {9.8.9.2}Create a new VM}{175}{subsubsection.9.8.9.2}%
+\contentsline {subsubsection}{\numberline {9.8.9.3}Configure the additional drive (optional)}{176}{subsubsection.9.8.9.3}%
+\contentsline {subsubsection}{\numberline {9.8.9.4}Create port forwarding rules for SSH (optional)}{177}{subsubsection.9.8.9.4}%
+\contentsline {paragraph}{Debian}{177}{paragraph*.8}%
+\contentsline {paragraph}{NixOS}{177}{paragraph*.9}%
+\contentsline {subsubsection}{\numberline {9.8.9.5}Prepare nix-bitcoin NixOS package}{178}{subsubsection.9.8.9.5}%
+\contentsline {paragraph}{Additional hard drive configuration}{180}{paragraph*.10}%
+\contentsline {paragraph}{Static IP configuration}{180}{paragraph*.11}%
+\contentsline {paragraph}{SSH configuration}{181}{paragraph*.12}%
+\contentsline {paragraph}{Services configuration}{181}{paragraph*.13}%
+\contentsline {section}{\numberline {9.9}Lab - Vircadia}{181}{section.9.9}%
+\contentsline {subsection}{\numberline {9.9.1}Overview}{181}{subsection.9.9.1}%
+\contentsline {subsection}{\numberline {9.9.2}Deploy a Vircadia domain server}{181}{subsection.9.9.2}%
+\contentsline {subsubsection}{\numberline {9.9.2.1}Prepare a virtual instance of Ubuntu 20.04 in the Proxmox Virtual Environment}{182}{subsubsection.9.9.2.1}%
+\contentsline {subsubsection}{\numberline {9.9.2.2}Configure port forwarding for Vircadia services}{185}{subsubsection.9.9.2.2}%
+\contentsline {subsubsection}{\numberline {9.9.2.3}Configure port forwarding for the ICE server}{186}{subsubsection.9.9.2.3}%
+\contentsline {subsubsection}{\numberline {9.9.2.4}Configure the Vircadia server}{186}{subsubsection.9.9.2.4}%
+\contentsline {subsection}{\numberline {9.9.3}Deploy a Vircadia metaverse server}{187}{subsection.9.9.3}%
+\contentsline {subsubsection}{\numberline {9.9.3.1}Install Node.js and NPM}{188}{subsubsection.9.9.3.1}%
+\contentsline {subsubsection}{\numberline {9.9.3.2}Installation of the Vircadia metaverse server}{189}{subsubsection.9.9.3.2}%
+\contentsline {subsubsection}{\numberline {9.9.3.3}Configure the Mongo DB for the metaverse server}{190}{subsubsection.9.9.3.3}%
+\contentsline {subsubsection}{\numberline {9.9.3.4}Configure the iamus configuration file}{192}{subsubsection.9.9.3.4}%
+\contentsline {subsubsection}{\numberline {9.9.3.5}Configure port forwarding for the metaverse server}{196}{subsubsection.9.9.3.5}%
+\contentsline {subsubsection}{\numberline {9.9.3.6}Configuring NAT reflection on the VyOS router (testing)}{196}{subsubsection.9.9.3.6}%
+\contentsline {subsubsection}{\numberline {9.9.3.7}Enabling external access}{196}{subsubsection.9.9.3.7}%
+\contentsline {subsubsection}{\numberline {9.9.3.8}Start the services}{197}{subsubsection.9.9.3.8}%
+\contentsline {paragraph}{Metaverse server service}{197}{paragraph*.14}%
+\contentsline {paragraph}{ICE server}{197}{paragraph*.15}%
+\contentsline {paragraph}{Domain server services}{197}{paragraph*.16}%
+\contentsline {paragraph}{Client interface}{197}{paragraph*.17}%
+\contentsline {subsubsection}{\numberline {9.9.3.9}Connecting the Metaverse server and configuring a test Metaverse account}{198}{subsubsection.9.9.3.9}%
+\contentsline {subsubsection}{\numberline {9.9.3.10}Connecting a client}{198}{subsubsection.9.9.3.10}%
+\contentsline {subsubsection}{\numberline {9.9.3.11}Configure SSH access for domain and metaverse servers (optional)}{198}{subsubsection.9.9.3.11}%
+\contentsline {paragraph}{Domain server}{198}{paragraph*.18}%
+\contentsline {paragraph}{Metaverse server}{199}{paragraph*.19}%
+\contentsline {part}{\numberline {III}Appendix}{200}{part.3}%
+\contentsline {section}{\numberline {9.10}Acknowledgements and thanks}{201}{section.9.10}%
+\contentsline {section}{\numberline {9.11}Author Biographies}{201}{section.9.11}%
 \contentsfinish 
