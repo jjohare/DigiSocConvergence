@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.12)  7 NOV 2022 14:35
-=======
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  10 NOV 2022 11:15
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.12)  11 NOV 2022 10:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2277,7 +2273,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [73]
-<Images//CNNmobile.png, id=2086, 396.58162pt x 551.661pt>
+<Images//CNNmobile.png, id=2087, 396.58162pt x 551.661pt>
 File: Images//CNNmobile.png Graphic file (type png)
 <use Images//CNNmobile.png>
 Package pdftex.def Info: Images//CNNmobile.png  used on input line 48.
@@ -2328,7 +2324,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [78]
-<Images//ukdigitalbill.png, id=2147, 552.56438pt x 343.2825pt>
+<Images//ukdigitalbill.png, id=2148, 552.56438pt x 343.2825pt>
 File: Images//ukdigitalbill.png Graphic file (type png)
 <use Images//ukdigitalbill.png>
 Package pdftex.def Info: Images//ukdigitalbill.png  used on input line 125.
@@ -2343,7 +2339,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [79 <./Images//ukdigitalbill.png>]
-<Images//CBDClikely.jpg, id=2164, 1202.4925pt x 661.47125pt>
+<Images//CBDClikely.jpg, id=2165, 1202.4925pt x 661.47125pt>
 File: Images//CBDClikely.jpg Graphic file (type jpg)
 <use Images//CBDClikely.jpg>
 Package pdftex.def Info: Images//CBDClikely.jpg  used on input line 139.
@@ -2403,11 +2399,16 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [85]
-<<<<<<< HEAD
-<Images//BitcoinShareOfMoney.jpg, id=2242, 2862.695pt x 1575.8875pt>
-=======
-<Images//BitcoinShareOfMoney.jpg, id=2243, 2862.695pt x 1575.8875pt>
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
+
+Package fancyhdr Warning: \headheight is too small (14.22636pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
+
+[86]
+<Images//BitcoinShareOfMoney.jpg, id=2255, 2862.695pt x 1575.8875pt>
 File: Images//BitcoinShareOfMoney.jpg Graphic file (type jpg)
 <use Images//BitcoinShareOfMoney.jpg>
 Package pdftex.def Info: Images//BitcoinShareOfMoney.jpg  used on input line 22
@@ -2422,22 +2423,8 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-<<<<<<< HEAD
-[86 <./Images//BitcoinShareOfMoney.jpg>]
-Overfull \hbox (4.52162pt too wide) in paragraph at lines 238--239
-=======
-[86]
-
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
-
 [87 <./Images//BitcoinShareOfMoney.jpg>]
-Overfull \hbox (4.52162pt too wide) in paragraph at lines 237--238
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
+Overfull \hbox (4.52162pt too wide) in paragraph at lines 238--239
 []\T1/ptm/m/n/12 (-20) Another po-ten-tially im-por-tant dif-fer-en-ti-at-ing a
 f-for-dance is cen-sor-ship re-sis-tance. There's
  []
@@ -2460,10 +2447,10 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [89]
-<Images//talebturkey.png, id=2286, 487.8225pt x 388.45125pt>
+<Images//talebturkey.png, id=2290, 487.8225pt x 388.45125pt>
 File: Images//talebturkey.png Graphic file (type png)
 <use Images//talebturkey.png>
-Package pdftex.def Info: Images//talebturkey.png  used on input line 268.
+Package pdftex.def Info: Images//talebturkey.png  used on input line 272.
 (pdftex.def)             Requested size: 298.75264pt x 237.89734pt.
 
 
@@ -2474,34 +2461,31 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-<<<<<<< HEAD
-[89]
-<Images//davethewave.jpg, id=2287, 1840.8775pt x 910.40125pt>
-=======
-[90 <./Images//talebturkey.png>]
-<Images//davethewave.jpg, id=2298, 1840.8775pt x 910.40125pt>
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
+[90]
+<Images//davethewave.jpg, id=2301, 1840.8775pt x 910.40125pt>
 File: Images//davethewave.jpg Graphic file (type jpg)
 <use Images//davethewave.jpg>
-Package pdftex.def Info: Images//davethewave.jpg  used on input line 284.
+Package pdftex.def Info: Images//davethewave.jpg  used on input line 288.
 (pdftex.def)             Requested size: 426.79135pt x 211.06876pt.
-<<<<<<< HEAD
-<Images//btcdistribution.jpg, id=2291, 1373.13pt x 685.56125pt>
-=======
-<Images//btcdistribution.jpg, id=2302, 1373.13pt x 685.56125pt>
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
+<Images//btcdistribution.jpg, id=2305, 1373.13pt x 685.56125pt>
 File: Images//btcdistribution.jpg Graphic file (type jpg)
 <use Images//btcdistribution.jpg>
-Package pdftex.def Info: Images//btcdistribution.jpg  used on input line 294.
+Package pdftex.def Info: Images//btcdistribution.jpg  used on input line 298.
 (pdftex.def)             Requested size: 426.79135pt x 213.0762pt.
-<<<<<<< HEAD
-<Images//notselling.jpg, id=2296, 1509.64pt x 1379.1525pt>
-=======
-<Images//notselling.jpg, id=2307, 1509.64pt x 1379.1525pt>
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
+
+
+Package fancyhdr Warning: \headheight is too small (14.22636pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
+
+[91 <./Images//talebturkey.png>]
+<Images//notselling.jpg, id=2319, 1509.64pt x 1379.1525pt>
 File: Images//notselling.jpg Graphic file (type jpg)
 <use Images//notselling.jpg>
-Package pdftex.def Info: Images//notselling.jpg  used on input line 303.
+Package pdftex.def Info: Images//notselling.jpg  used on input line 307.
 (pdftex.def)             Requested size: 213.39568pt x 194.93192pt.
 
 
@@ -2512,11 +2496,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-<<<<<<< HEAD
-[90 <./Images//talebturkey.png>]
-=======
-[91 <./Images//davethewave.jpg>]
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
+[92 <./Images//davethewave.jpg>]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2525,20 +2505,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-<<<<<<< HEAD
-[91 <./Images//davethewave.jpg> <./Images//btcdistribution.jpg>]
-=======
-[92 <./Images//btcdistribution.jpg>]
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
-
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
-
-[93 <./Images//notselling.jpg>]
+[93 <./Images//btcdistribution.jpg> <./Images//notselling.jpg>]
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2583,11 +2550,7 @@ Package pdftex.def Info: Images//orange2.jpg  used on input line 212.
 (06_identity.tex [98
 
 ]
-<<<<<<< HEAD
-<Images//DID.jpg, id=2395, 843.90282pt x 585.68813pt>
-=======
-<Images//DID.jpg, id=2406, 843.90282pt x 585.68813pt>
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
+<Images//DID.jpg, id=2411, 843.90282pt x 585.68813pt>
 File: Images//DID.jpg Graphic file (type jpg)
 <use Images//DID.jpg>
 Package pdftex.def Info: Images//DID.jpg  used on input line 18.
@@ -2611,9 +2574,6 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [100]
-<<<<<<< HEAD
-<Images//files.jpg, id=2429, 903.375pt x 858.20625pt>
-=======
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2623,8 +2583,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [101]
-<Images//files.jpg, id=2440, 903.375pt x 858.20625pt>
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
+<Images//files.jpg, id=2445, 903.375pt x 858.20625pt>
 File: Images//files.jpg Graphic file (type jpg)
 <use Images//files.jpg>
 Package pdftex.def Info: Images//files.jpg  used on input line 105.
@@ -2674,11 +2633,7 @@ Package pdftex.def Info: Images//orange2.jpg  used on input line 215.
 (07_nft.tex [106
 
 ]
-<<<<<<< HEAD
-<Images//solnfts.jpg, id=2475, 916.42375pt x 1063.975pt>
-=======
-<Images//solnfts.jpg, id=2486, 916.42375pt x 1063.975pt>
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
+<Images//solnfts.jpg, id=2491, 916.42375pt x 1063.975pt>
 File: Images//solnfts.jpg Graphic file (type jpg)
 <use Images//solnfts.jpg>
 Package pdftex.def Info: Images//solnfts.jpg  used on input line 13.
@@ -2692,13 +2647,8 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-<<<<<<< HEAD
-[106 <./Images//solnfts.jpg>] (07_NFTUmran.tex
-<Images//first5000days.png, id=2489, 495.95288pt x 497.4585pt>
-=======
 [107 <./Images//solnfts.jpg>] (07_NFTUmran.tex
-<Images//first5000days.png, id=2500, 495.95288pt x 497.4585pt>
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
+<Images//first5000days.png, id=2505, 495.95288pt x 497.4585pt>
 File: Images//first5000days.png Graphic file (type png)
 <use Images//first5000days.png>
 Package pdftex.def Info: Images//first5000days.png  used on input line 20.
@@ -2731,9 +2681,6 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [110]
-<<<<<<< HEAD
-<Images//monkey.png, id=2531, 447.17062pt x 406.51875pt>
-=======
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2743,8 +2690,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [111]
-<Images//monkey.png, id=2542, 447.17062pt x 406.51875pt>
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
+<Images//monkey.png, id=2547, 447.17062pt x 406.51875pt>
 File: Images//monkey.png Graphic file (type png)
 <use Images//monkey.png>
 Package pdftex.def Info: Images//monkey.png  used on input line 120.
@@ -2819,11 +2765,7 @@ File: Images//orange2.jpg Graphic file (type jpg)
 Package pdftex.def Info: Images//orange2.jpg  used on input line 218.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
 (08_metaverse.tex
-<<<<<<< HEAD
-<Images//tencent.png, id=2603, 1606.0pt x 1148.29pt>
-=======
-<Images//tencent.png, id=2615, 1606.0pt x 1148.29pt>
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
+<Images//tencent.png, id=2620, 1606.0pt x 1148.29pt>
 File: Images//tencent.png Graphic file (type png)
 <use Images//tencent.png>
 Package pdftex.def Info: Images//tencent.png  used on input line 5.
@@ -2871,13 +2813,8 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-<<<<<<< HEAD
-[122]
-<Images//muskWeb3.png, id=2651, 408.02437pt x 168.63pt>
-=======
 [123]
-<Images//muskWeb3.png, id=2663, 408.02437pt x 168.63pt>
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
+<Images//muskWeb3.png, id=2668, 408.02437pt x 168.63pt>
 File: Images//muskWeb3.png Graphic file (type png)
 <use Images//muskWeb3.png>
 Package pdftex.def Info: Images//muskWeb3.png  used on input line 131.
@@ -2977,13 +2914,8 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-<<<<<<< HEAD
-[132]
-<Images//murrayeyegaze.jpg, id=2927, 377.15906pt x 241.65282pt>
-=======
 [133]
-<Images//murrayeyegaze.jpg, id=2940, 377.15906pt x 241.65282pt>
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
+<Images//murrayeyegaze.jpg, id=2945, 377.15906pt x 241.65282pt>
 File: Images//murrayeyegaze.jpg Graphic file (type jpg)
 <use Images//murrayeyegaze.jpg>
 Package pdftex.def Info: Images//murrayeyegaze.jpg  used on input line 177.
@@ -3000,13 +2932,8 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-<<<<<<< HEAD
-[133]
-<Images//proxemics.png, id=2962, 1927.2pt x 1927.2pt>
-=======
 [134]
-<Images//proxemics.png, id=2974, 1927.2pt x 1927.2pt>
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
+<Images//proxemics.png, id=2979, 1927.2pt x 1927.2pt>
 File: Images//proxemics.png Graphic file (type png)
 <use Images//proxemics.png>
 Package pdftex.def Info: Images//proxemics.png  used on input line 196.
@@ -3096,9 +3023,6 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [143]
-<<<<<<< HEAD
-<Images//frameworkVenn.png, id=3284, 509.40312pt x 432.11438pt>
-=======
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3108,8 +3032,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [144]
-<Images//frameworkVenn.png, id=3296, 509.40312pt x 432.11438pt>
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
+<Images//frameworkVenn.png, id=3301, 509.40312pt x 432.11438pt>
 File: Images//frameworkVenn.png Graphic file (type png)
 <use Images//frameworkVenn.png>
 Package pdftex.def Info: Images//frameworkVenn.png  used on input line 333.
@@ -3160,9 +3083,6 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [149]
-<<<<<<< HEAD
-<Images//applications.png, id=3338, 517.935pt x 295.1025pt>
-=======
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3172,8 +3092,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [150]
-<Images//applications.png, id=3350, 517.935pt x 295.1025pt>
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
+<Images//applications.png, id=3355, 517.935pt x 295.1025pt>
 File: Images//applications.png Graphic file (type png)
 <use Images//applications.png>
 Package pdftex.def Info: Images//applications.png  used on input line 57.
@@ -3232,9 +3151,6 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [155]
-<<<<<<< HEAD
-<Images//time.png, id=3414, 578.16pt x 770.88pt>
-=======
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3244,17 +3160,12 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [156]
-<Images//time.png, id=3426, 578.16pt x 770.88pt>
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
+<Images//time.png, id=3431, 578.16pt x 770.88pt>
 File: Images//time.png Graphic file (type png)
 <use Images//time.png>
 Package pdftex.def Info: Images//time.png  used on input line 295.
 (pdftex.def)             Requested size: 213.39568pt x 284.52715pt.
-<<<<<<< HEAD
-<Images//epicflywheel.jpg, id=3417, 1284.8pt x 1346.02875pt>
-=======
-<Images//epicflywheel.jpg, id=3429, 1284.8pt x 1346.02875pt>
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
+<Images//epicflywheel.jpg, id=3434, 1284.8pt x 1346.02875pt>
 File: Images//epicflywheel.jpg Graphic file (type jpg)
 <use Images//epicflywheel.jpg>
 Package pdftex.def Info: Images//epicflywheel.jpg  used on input line 302.
@@ -3277,13 +3188,8 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-<<<<<<< HEAD
-[157 <./Images//time.png (PNG copy)> <./Images//epicflywheel.jpg>]
-<Images//pathwayrobot.jpg, id=3434, 2055.68pt x 1156.32pt>
-=======
 [158 <./Images//time.png (PNG copy)> <./Images//epicflywheel.jpg>]
-<Images//pathwayrobot.jpg, id=3446, 2055.68pt x 1156.32pt>
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
+<Images//pathwayrobot.jpg, id=3451, 2055.68pt x 1156.32pt>
 File: Images//pathwayrobot.jpg Graphic file (type jpg)
 <use Images//pathwayrobot.jpg>
 Package pdftex.def Info: Images//pathwayrobot.jpg  used on input line 320.
@@ -3318,20 +3224,12 @@ File: Images//orange2.jpg Graphic file (type jpg)
 Package pdftex.def Info: Images//orange2.jpg  used on input line 221.
 (pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
 (09_AIandML.tex
-<<<<<<< HEAD
-<Images//vircadiasd.png, id=3452, 992.70876pt x 1190.4475pt>
-=======
-<Images//vircadiasd.png, id=3464, 992.70876pt x 1190.4475pt>
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
+<Images//vircadiasd.png, id=3469, 992.70876pt x 1190.4475pt>
 File: Images//vircadiasd.png Graphic file (type png)
 <use Images//vircadiasd.png>
 Package pdftex.def Info: Images//vircadiasd.png  used on input line 4.
 (pdftex.def)             Requested size: 426.79135pt x 511.80978pt.
-<<<<<<< HEAD
-<Images//robotvp.png, id=3454, 1025.33063pt x 588.69937pt>
-=======
-<Images//robotvp.png, id=3466, 1025.33063pt x 588.69937pt>
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
+<Images//robotvp.png, id=3471, 1025.33063pt x 588.69937pt>
 File: Images//robotvp.png Graphic file (type png)
 <use Images//robotvp.png>
 Package pdftex.def Info: Images//robotvp.png  used on input line 11.
@@ -3396,22 +3294,13 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-<<<<<<< HEAD
-[165])
-<Images//pyramid.jpg, id=3497, 2791.42876pt x 2255.42625pt>
-=======
 [167])
-<Images//pyramid.jpg, id=3516, 2791.42876pt x 2255.42625pt>
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
+<Images//pyramid.jpg, id=3521, 2791.42876pt x 2255.42625pt>
 File: Images//pyramid.jpg Graphic file (type jpg)
 <use Images//pyramid.jpg>
 Package pdftex.def Info: Images//pyramid.jpg  used on input line 8.
 (pdftex.def)             Requested size: 426.79135pt x 344.8382pt.
-<<<<<<< HEAD
-<Images//highlevelstack.png, id=3498, 944.52875pt x 703.62875pt>
-=======
-<Images//highlevelstack.png, id=3517, 944.52875pt x 703.62875pt>
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
+<Images//highlevelstack.png, id=3522, 944.52875pt x 703.62875pt>
 File: Images//highlevelstack.png Graphic file (type png)
 <use Images//highlevelstack.png>
 Package pdftex.def Info: Images//highlevelstack.png  used on input line 13.
@@ -3444,20 +3333,6 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [170]
-<<<<<<< HEAD
-<Images//globalclassroom.png, id=3545, 1484.04437pt x 1121.18875pt>
-File: Images//globalclassroom.png Graphic file (type png)
-<use Images//globalclassroom.png>
-Package pdftex.def Info: Images//globalclassroom.png  used on input line 186.
-(pdftex.def)             Requested size: 426.79135pt x 322.43335pt.
-<Images//systemc4.png, id=3546, 1576.89125pt x 1024.82875pt>
-File: Images//systemc4.png Graphic file (type png)
-<use Images//systemc4.png>
-Package pdftex.def Info: Images//systemc4.png  used on input line 192.
-(pdftex.def)             Requested size: 426.79135pt x 277.36424pt.
-)
-=======
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3476,12 +3351,12 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
 [172]
-<Images//globalclassroom.png, id=3564, 1484.04437pt x 1121.18875pt>
+<Images//globalclassroom.png, id=3569, 1484.04437pt x 1121.18875pt>
 File: Images//globalclassroom.png Graphic file (type png)
 <use Images//globalclassroom.png>
 Package pdftex.def Info: Images//globalclassroom.png  used on input line 186.
 (pdftex.def)             Requested size: 426.79135pt x 322.43335pt.
-<Images//systemc4.png, id=3565, 1576.89125pt x 1024.82875pt>
+<Images//systemc4.png, id=3570, 1576.89125pt x 1024.82875pt>
 File: Images//systemc4.png Graphic file (type png)
 <use Images//systemc4.png>
 Package pdftex.def Info: Images//systemc4.png  used on input line 192.
@@ -3784,23 +3659,14 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-<<<<<<< HEAD
-[185]
-<Images//UbuntuDesktop20_04Settings.png, id=3707, 767.86874pt x 371.13657pt>
-=======
 [187]
-<Images//UbuntuDesktop20_04Settings.png, id=3727, 767.86874pt x 371.13657pt>
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
+<Images//UbuntuDesktop20_04Settings.png, id=3732, 767.86874pt x 371.13657pt>
 File: Images//UbuntuDesktop20_04Settings.png Graphic file (type png)
 <use Images//UbuntuDesktop20_04Settings.png>
 Package pdftex.def Info: Images//UbuntuDesktop20_04Settings.png  used on input 
 line 54.
 (pdftex.def)             Requested size: 418.25368pt x 202.16064pt.
-<<<<<<< HEAD
-<Images//UbuntuDesktop20_04SettingsNetwork.png, id=3708, 766.36313pt x 465.2381
-=======
-<Images//UbuntuDesktop20_04SettingsNetwork.png, id=3728, 766.36313pt x 465.2381
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
+<Images//UbuntuDesktop20_04SettingsNetwork.png, id=3733, 766.36313pt x 465.2381
 3pt>
 File: Images//UbuntuDesktop20_04SettingsNetwork.png Graphic file (type png)
 <use Images//UbuntuDesktop20_04SettingsNetwork.png>
@@ -3816,13 +3682,8 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-<<<<<<< HEAD
-[186 <./Images//UbuntuDesktop20_04Settings.png>]
-<Images//UbuntuDesktop20_04VircadiaBuildSettings.png, id=3717, 764.10469pt x 47
-=======
 [188 <./Images//UbuntuDesktop20_04Settings.png>]
-<Images//UbuntuDesktop20_04VircadiaBuildSettings.png, id=3737, 764.10469pt x 47
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
+<Images//UbuntuDesktop20_04VircadiaBuildSettings.png, id=3742, 764.10469pt x 47
 7.28313pt>
 File: Images//UbuntuDesktop20_04VircadiaBuildSettings.png Graphic file (type pn
 g)
@@ -3830,11 +3691,7 @@ g)
 Package pdftex.def Info: Images//UbuntuDesktop20_04VircadiaBuildSettings.png  u
 sed on input line 106.
 (pdftex.def)             Requested size: 418.25368pt x 261.25389pt.
-<<<<<<< HEAD
-<Images//UbuntuDesktop20_04VircadiaQTWarnings.png, id=3718, 765.6103pt x 502.87
-=======
-<Images//UbuntuDesktop20_04VircadiaQTWarnings.png, id=3738, 765.6103pt x 502.87
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
+<Images//UbuntuDesktop20_04VircadiaQTWarnings.png, id=3743, 765.6103pt x 502.87
 875pt>
 File: Images//UbuntuDesktop20_04VircadiaQTWarnings.png Graphic file (type png)
 <use Images//UbuntuDesktop20_04VircadiaQTWarnings.png>
@@ -3898,40 +3755,23 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-<<<<<<< HEAD
-[189]
-<Images//Vircadia1.png, id=3739, 763.35187pt x 572.89032pt>
-=======
 [191]
-<Images//Vircadia1.png, id=3758, 763.35187pt x 572.89032pt>
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
+<Images//Vircadia1.png, id=3763, 763.35187pt x 572.89032pt>
 File: Images//Vircadia1.png Graphic file (type png)
 <use Images//Vircadia1.png>
 Package pdftex.def Info: Images//Vircadia1.png  used on input line 240.
 (pdftex.def)             Requested size: 418.25368pt x 313.89305pt.
-<<<<<<< HEAD
-<Images//Vircadia2.png, id=3740, 764.8575pt x 571.38469pt>
-=======
-<Images//Vircadia2.png, id=3759, 764.8575pt x 571.38469pt>
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
+<Images//Vircadia2.png, id=3764, 764.8575pt x 571.38469pt>
 File: Images//Vircadia2.png Graphic file (type png)
 <use Images//Vircadia2.png>
 Package pdftex.def Info: Images//Vircadia2.png  used on input line 248.
 (pdftex.def)             Requested size: 418.25368pt x 312.4578pt.
-<<<<<<< HEAD
-<Images//Vircadia3.png, id=3741, 766.36313pt x 572.1375pt>
-=======
-<Images//Vircadia3.png, id=3760, 766.36313pt x 572.1375pt>
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
+<Images//Vircadia3.png, id=3765, 766.36313pt x 572.1375pt>
 File: Images//Vircadia3.png Graphic file (type png)
 <use Images//Vircadia3.png>
 Package pdftex.def Info: Images//Vircadia3.png  used on input line 256.
 (pdftex.def)             Requested size: 418.25368pt x 312.25835pt.
-<<<<<<< HEAD
-<Images//Vircadia4.png, id=3742, 766.36313pt x 575.14874pt>
-=======
-<Images//Vircadia4.png, id=3761, 766.36313pt x 575.14874pt>
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
+<Images//Vircadia4.png, id=3766, 766.36313pt x 575.14874pt>
 File: Images//Vircadia4.png Graphic file (type png)
 <use Images//Vircadia4.png>
 Package pdftex.def Info: Images//Vircadia4.png  used on input line 264.
@@ -3945,22 +3785,13 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.27362pt}.
 
-<<<<<<< HEAD
-[190 <./Images//Vircadia1.png>]
-<Images//Vircadia5.png, id=3751, 767.11594pt x 572.1375pt>
-=======
 [192 <./Images//Vircadia1.png>]
-<Images//Vircadia5.png, id=3770, 767.11594pt x 572.1375pt>
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
+<Images//Vircadia5.png, id=3775, 767.11594pt x 572.1375pt>
 File: Images//Vircadia5.png Graphic file (type png)
 <use Images//Vircadia5.png>
 Package pdftex.def Info: Images//Vircadia5.png  used on input line 272.
 (pdftex.def)             Requested size: 418.25368pt x 311.9528pt.
-<<<<<<< HEAD
-<Images//Vircadia6.png, id=3752, 764.8575pt x 572.89032pt>
-=======
-<Images//Vircadia6.png, id=3771, 764.8575pt x 572.89032pt>
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
+<Images//Vircadia6.png, id=3776, 764.8575pt x 572.89032pt>
 File: Images//Vircadia6.png Graphic file (type png)
 <use Images//Vircadia6.png>
 Package pdftex.def Info: Images//Vircadia6.png  used on input line 281.
@@ -4490,20 +4321,12 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 [205] (metaverseBTC.ptc) [206
 
 ]
-<<<<<<< HEAD
-<Images//JOH.jpg, id=3866, 110.66344pt x 165.61874pt>
-=======
-<Images//JOH.jpg, id=3886, 110.66344pt x 165.61874pt>
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
+<Images//JOH.jpg, id=3891, 110.66344pt x 165.61874pt>
 File: Images//JOH.jpg Graphic file (type jpg)
 <use Images//JOH.jpg>
 Package pdftex.def Info: Images//JOH.jpg  used on input line 241.
 (pdftex.def)             Requested size: 124.19986pt x 185.88847pt.
-<<<<<<< HEAD
-<Images//AF.png, id=3868, 379.4175pt x 504.38437pt>
-=======
-<Images//AF.png, id=3888, 379.4175pt x 504.38437pt>
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
+<Images//AF.png, id=3893, 379.4175pt x 504.38437pt>
 File: Images//AF.png Graphic file (type png)
 <use Images//AF.png>
 Package pdftex.def Info: Images//AF.png  used on input line 252.
@@ -4518,11 +4341,7 @@ Overfull \hbox (140.84192pt too wide) in paragraph at lines 236--254
 [][][]$[]$ 
  []
 
-<<<<<<< HEAD
-<Images//UA.jpg, id=3870, 200.75pt x 200.75pt>
-=======
-<Images//UA.jpg, id=3890, 200.75pt x 200.75pt>
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
+<Images//UA.jpg, id=3895, 200.75pt x 200.75pt>
 File: Images//UA.jpg Graphic file (type jpg)
 <use Images//UA.jpg>
 Package pdftex.def Info: Images//UA.jpg  used on input line 260.
@@ -5120,11 +4939,7 @@ Package biblatex Warning: Month out of range or not an integer
 
 Overfull \hbox (4.6522pt too wide) in paragraph at lines 278--278
 \T1/ptm/m/n/12 (-20) Schmidt. Dor-drecht: Springer Nether-lands, 1995, pages 27
-<<<<<<< HEAD
-9^^U292 (cited on page [][]140[][]). 
-=======
-9292 (cited on page [][]141[][]). 
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
+9^^U292 (cited on page [][]145[][]). 
  []
 
 
@@ -5163,7 +4978,7 @@ Package biblatex Warning: Month out of range or not an integer
 
 Overfull \hbox (18.0546pt too wide) in paragraph at lines 278--278
 \T1/cmtt/m/n/12 google . com / file / d / 1i4NJKAggS82wqMamCJ1OHRGgViuyoY6R$[][
-] \T1/ptm/m/n/12 (-20) (cited on page [][]142[][]). 
+] \T1/ptm/m/n/12 (-20) (cited on page [][]146[][]). 
  []
 
 
@@ -5319,17 +5134,10 @@ Package logreq Info: Writing requests to 'metaverseBTC.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
-<<<<<<< HEAD
- 37930 strings out of 478582
- 759311 string characters out of 2844344
- 1682244 words of memory out of 3000000
+ 37936 strings out of 478582
+ 759407 string characters out of 2844344
+ 1682303 words of memory out of 3000000
  53822 multiletter control sequences out of 15000+600000
-=======
- 37917 strings out of 478582
- 758580 string characters out of 2844816
- 1681882 words of memory out of 3000000
- 53803 multiletter control sequences out of 15000+600000
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
  594977 words of font info for 474 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  98i,17n,94p,2426b,1373s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -5345,7 +5153,6 @@ exist, replaced by a fixed one
 pdfTeX warning (dest): name{ux5cux23ux5cux23Upload-the-ISO-image-to-the-Proxmox
 -VE-server} has been referenced but does not exist, replaced by a fixed one
 
-<<<<<<< HEAD
  <C:\Users\isa_h\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt12
 00.pk>{C:/Users/isa_h/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc
 }<C:/Users/isa_h/AppData/Local/Programs/MiKTeX/fonts/type1/urw/avantgar/uagd8a.
@@ -5355,24 +5162,9 @@ pfb><C:/Users/isa_h/AppData/Local/Programs/MiKTeX/fonts/type1/urw/avantgar/uagk
 i8a.pfb><C:/Users/isa_h/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utm
 r8a.pfb><C:/Users/isa_h/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utm
 ri8a.pfb>
-Output written on metaverseBTC.pdf (230 pages, 44353737 bytes).
+Output written on metaverseBTC.pdf (232 pages, 44362987 bytes).
 PDF statistics:
- 4798 PDF objects out of 5155 (max. 8388607)
- 1066 named destinations out of 1200 (max. 500000)
-=======
- <C:\Users\john\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt120
-0.pk>{C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<
-C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/avantgar/uagd8a.pfb
-><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/avantgar/uagk8a.p
-fb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pf
-b><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pf
-b><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb
-><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb
->
-Output written on metaverseBTC.pdf (232 pages, 44359357 bytes).
-PDF statistics:
- 4818 PDF objects out of 5155 (max. 8388607)
+ 4823 PDF objects out of 5155 (max. 8388607)
  1072 named destinations out of 1200 (max. 500000)
->>>>>>> df0b9947c4775e21612b63ee8fef3449fe8134ca
  131564 words of extra memory for PDF output out of 154059 (max. 10000000)
 
