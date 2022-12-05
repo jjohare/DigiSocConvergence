@@ -13938,4 +13938,19 @@
   year    = {2022},
 }
 
+@Article{ferranti2022hedging,
+  author  = {Ferranti, Matthew},
+  journal = {arXiv preprint arXiv},
+  title   = {Hedging Sanctions Risk: Cryptocurrency in Central Bank Reserves},
+  year    = {2022},
+  url     = {https://sites.google.com/view/matthewferranti/research},
+}
+
+@Article{bahdanau2014neural,
+  author  = {Bahdanau, Dzmitry and Cho, Kyunghyun and Bengio, Yoshua},
+  journal = {arXiv preprint arXiv:1409.0473},
+  title   = {Neural machine translation by jointly learning to align and translate},
+  year    = {2014},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
