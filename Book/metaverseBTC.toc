@@ -226,40 +226,46 @@
 \contentsline {chapter}{\numberline {8}AI and ML features}{225}{chapter.8}%
 \contentsline {section}{\numberline {8.1}Augmented intelligence and ML}{225}{section.8.1}%
 \contentsline {subsection}{\numberline {8.1.1}Overview of tools and terms}{225}{subsection.8.1.1}%
-\contentsline {subsection}{\numberline {8.1.2}Novel VP render pipeline}{226}{subsection.8.1.2}%
-\contentsline {subsection}{\numberline {8.1.3}Accessibility}{228}{subsection.8.1.3}%
-\contentsline {subsubsection}{\numberline {8.1.3.1}Real time transcription}{228}{subsubsection.8.1.3.1}%
-\contentsline {subsubsection}{\numberline {8.1.3.2}Real time translation}{228}{subsubsection.8.1.3.2}%
-\contentsline {subsubsection}{\numberline {8.1.3.3}Real time description}{230}{subsubsection.8.1.3.3}%
-\contentsline {subsubsection}{\numberline {8.1.3.4}Interfaces}{230}{subsubsection.8.1.3.4}%
-\contentsline {subsubsection}{\numberline {8.1.3.5}Text to sound}{230}{subsubsection.8.1.3.5}%
-\contentsline {subsection}{\numberline {8.1.4}Virtual humans}{230}{subsection.8.1.4}%
-\contentsline {subsubsection}{\numberline {8.1.4.1}Real time human to avatar mapping}{230}{subsubsection.8.1.4.1}%
-\contentsline {subsection}{\numberline {8.1.5}AI actors}{230}{subsection.8.1.5}%
-\contentsline {subsubsection}{\numberline {8.1.5.1}Faces}{230}{subsubsection.8.1.5.1}%
-\contentsline {subsubsection}{\numberline {8.1.5.2}Voices}{230}{subsubsection.8.1.5.2}%
-\contentsline {subsubsection}{\numberline {8.1.5.3}Autonomous tasks}{230}{subsubsection.8.1.5.3}%
-\contentsline {subsection}{\numberline {8.1.6}Governance and safeguarding}{230}{subsection.8.1.6}%
-\contentsline {subsubsection}{\numberline {8.1.6.1}Governance in the Virtual Reality Space}{230}{subsubsection.8.1.6.1}%
-\contentsline {subsubsection}{\numberline {8.1.6.2}Safeguarding in the Metaverse}{231}{subsubsection.8.1.6.2}%
-\contentsline {subsubsection}{\numberline {8.1.6.3}How to fight against cybercrime in the Metaverse?}{231}{subsubsection.8.1.6.3}%
-\contentsline {chapter}{\numberline {9}Our proposition}{233}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Summary TL;DR}{233}{section.9.1}%
-\contentsline {section}{\numberline {9.2}Software stack}{236}{section.9.2}%
-\contentsline {section}{\numberline {9.3}Pathway \& telepresence}{236}{section.9.3}%
-\contentsline {section}{\numberline {9.4}Money in metaverses}{239}{section.9.4}%
-\contentsline {subsection}{\numberline {9.4.1}ML actors and blockchain based bots}{239}{subsection.9.4.1}%
-\contentsline {subsection}{\numberline {9.4.2}AI economic actors in mixed reality}{239}{subsection.9.4.2}%
-\contentsline {section}{\numberline {9.5}Our socialisation best practice}{239}{section.9.5}%
-\contentsline {subsubsection}{\numberline {9.5.0.1}Identity}{239}{subsubsection.9.5.0.1}%
-\contentsline {subsubsection}{\numberline {9.5.0.2}Webs of trust}{239}{subsubsection.9.5.0.2}%
-\contentsline {subsubsection}{\numberline {9.5.0.3}Integration of 'good' actor AI entities}{240}{subsubsection.9.5.0.3}%
-\contentsline {subsection}{\numberline {9.5.1}Emulation of important social cues}{240}{subsection.9.5.1}%
-\contentsline {subsubsection}{\numberline {9.5.1.1}Behaviour incentives, arbitration, and penalties}{240}{subsubsection.9.5.1.1}%
-\contentsline {subsection}{\numberline {9.5.2}Federations of webs of trust and economics}{240}{subsection.9.5.2}%
-\contentsline {section}{\numberline {9.6}Security evaluation}{240}{section.9.6}%
-\contentsline {section}{\numberline {9.7}notes for later}{240}{section.9.7}%
-\contentsline {part}{\numberline {II}Appendix}{243}{part.2}%
-\contentsline {section}{\numberline {9.8}Acknowledgements and thanks}{245}{section.9.8}%
-\contentsline {section}{\numberline {9.9}Author Biographies}{246}{section.9.9}%
+\contentsline {subsubsection}{\numberline {8.1.1.1}TPUs}{225}{subsubsection.8.1.1.1}%
+\contentsline {subsubsection}{\numberline {8.1.1.2}Tensorflow}{226}{subsubsection.8.1.1.2}%
+\contentsline {subsubsection}{\numberline {8.1.1.3}PyTorch}{226}{subsubsection.8.1.1.3}%
+\contentsline {subsubsection}{\numberline {8.1.1.4}NumPy}{226}{subsubsection.8.1.1.4}%
+\contentsline {subsection}{\numberline {8.1.2}RunwayML}{227}{subsection.8.1.2}%
+\contentsline {subsection}{\numberline {8.1.3}ChatGPT}{227}{subsection.8.1.3}%
+\contentsline {subsection}{\numberline {8.1.4}Novel VP render pipeline}{228}{subsection.8.1.4}%
+\contentsline {subsection}{\numberline {8.1.5}Accessibility}{228}{subsection.8.1.5}%
+\contentsline {subsubsection}{\numberline {8.1.5.1}Real time transcription}{228}{subsubsection.8.1.5.1}%
+\contentsline {subsubsection}{\numberline {8.1.5.2}Real time translation}{229}{subsubsection.8.1.5.2}%
+\contentsline {subsubsection}{\numberline {8.1.5.3}Real time description}{230}{subsubsection.8.1.5.3}%
+\contentsline {subsubsection}{\numberline {8.1.5.4}Interfaces}{230}{subsubsection.8.1.5.4}%
+\contentsline {subsubsection}{\numberline {8.1.5.5}Text to sound}{230}{subsubsection.8.1.5.5}%
+\contentsline {subsection}{\numberline {8.1.6}Virtual humans}{231}{subsection.8.1.6}%
+\contentsline {subsubsection}{\numberline {8.1.6.1}Real time human to avatar mapping}{231}{subsubsection.8.1.6.1}%
+\contentsline {subsection}{\numberline {8.1.7}AI actors}{231}{subsection.8.1.7}%
+\contentsline {subsubsection}{\numberline {8.1.7.1}Faces}{231}{subsubsection.8.1.7.1}%
+\contentsline {subsubsection}{\numberline {8.1.7.2}Voices}{231}{subsubsection.8.1.7.2}%
+\contentsline {subsubsection}{\numberline {8.1.7.3}Autonomous tasks}{231}{subsubsection.8.1.7.3}%
+\contentsline {subsection}{\numberline {8.1.8}Governance and safeguarding}{231}{subsection.8.1.8}%
+\contentsline {subsubsection}{\numberline {8.1.8.1}Governance in the Virtual Reality Space}{231}{subsubsection.8.1.8.1}%
+\contentsline {subsubsection}{\numberline {8.1.8.2}Safeguarding in the Metaverse}{231}{subsubsection.8.1.8.2}%
+\contentsline {subsubsection}{\numberline {8.1.8.3}How to fight against cybercrime in the Metaverse?}{232}{subsubsection.8.1.8.3}%
+\contentsline {chapter}{\numberline {9}Our proposition}{235}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Summary TL;DR}{235}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Software stack}{238}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Pathway \& telepresence}{238}{section.9.3}%
+\contentsline {section}{\numberline {9.4}Money in metaverses}{241}{section.9.4}%
+\contentsline {subsection}{\numberline {9.4.1}ML actors and blockchain based bots}{241}{subsection.9.4.1}%
+\contentsline {subsection}{\numberline {9.4.2}AI economic actors in mixed reality}{241}{subsection.9.4.2}%
+\contentsline {section}{\numberline {9.5}Our socialisation best practice}{241}{section.9.5}%
+\contentsline {subsubsection}{\numberline {9.5.0.1}Identity}{241}{subsubsection.9.5.0.1}%
+\contentsline {subsubsection}{\numberline {9.5.0.2}Webs of trust}{241}{subsubsection.9.5.0.2}%
+\contentsline {subsubsection}{\numberline {9.5.0.3}Integration of 'good' actor AI entities}{242}{subsubsection.9.5.0.3}%
+\contentsline {subsection}{\numberline {9.5.1}Emulation of important social cues}{242}{subsection.9.5.1}%
+\contentsline {subsubsection}{\numberline {9.5.1.1}Behaviour incentives, arbitration, and penalties}{242}{subsubsection.9.5.1.1}%
+\contentsline {subsection}{\numberline {9.5.2}Federations of webs of trust and economics}{242}{subsection.9.5.2}%
+\contentsline {section}{\numberline {9.6}Security evaluation}{242}{section.9.6}%
+\contentsline {section}{\numberline {9.7}notes for later}{242}{section.9.7}%
+\contentsline {part}{\numberline {II}Appendix}{245}{part.2}%
+\contentsline {section}{\numberline {9.8}Acknowledgements and thanks}{247}{section.9.8}%
+\contentsline {section}{\numberline {9.9}Author Biographies}{248}{section.9.9}%
 \contentsfinish 
