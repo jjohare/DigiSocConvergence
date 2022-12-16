@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  15 DEC 2022 12:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  16 DEC 2022 17:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2206,19 +2206,22 @@ Package pdftex.def Info: Images//highlevelstack.png  used on input line 13.
 [230 <./Images//pyramid.jpg>]
 Underfull \vbox (badness 5726) has occurred while \output is active []
 
- [231 <./Images//highlevelstack.png>] [232]
+ [231 <./Images//highlevelstack.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [232]
 Overfull \hbox (1.8628pt too wide) in paragraph at lines 51--52
 \T1/ptm/m/n/10 (-20) We will base our iden-tity and ob-ject man-age-ment on Nos
 tr pub-lic/private
  []
 
 [233]
-<Images//globalclassroom.png, id=3858, 1484.04437pt x 1121.18875pt>
+<Images//globalclassroom.png, id=3855, 1484.04437pt x 1121.18875pt>
 File: Images//globalclassroom.png Graphic file (type png)
 <use Images//globalclassroom.png>
 Package pdftex.def Info: Images//globalclassroom.png  used on input line 71.
 (pdftex.def)             Requested size: 278.83702pt x 210.65007pt.
-<Images//systemc4.png, id=3859, 1576.89125pt x 1024.82875pt>
+<Images//systemc4.png, id=3856, 1576.89125pt x 1024.82875pt>
 File: Images//systemc4.png Graphic file (type png)
 <use Images//systemc4.png>
 Package pdftex.def Info: Images//systemc4.png  used on input line 77.
@@ -2227,12 +2230,12 @@ Package pdftex.def Info: Images//systemc4.png  used on input line 77.
 [236
 
 ] (metaverseBTC.ptc) [237] [238]
-<Images//JOH.jpg, id=3885, 110.66344pt x 165.61874pt>
+<Images//JOH.jpg, id=3882, 110.66344pt x 165.61874pt>
 File: Images//JOH.jpg Graphic file (type jpg)
 <use Images//JOH.jpg>
 Package pdftex.def Info: Images//JOH.jpg  used on input line 200.
 (pdftex.def)             Requested size: 103.49965pt x 154.90579pt.
-<Images//AF.png, id=3887, 379.4175pt x 504.38437pt>
+<Images//AF.png, id=3884, 379.4175pt x 504.38437pt>
 File: Images//AF.png Graphic file (type png)
 <use Images//AF.png>
 Package pdftex.def Info: Images//AF.png  used on input line 211.
@@ -2247,7 +2250,7 @@ Overfull \hbox (92.01671pt too wide) in paragraph at lines 195--213
 [][][]$[]$ 
  []
 
-<Images//UA.jpg, id=3889, 200.75pt x 200.75pt>
+<Images//UA.jpg, id=3886, 200.75pt x 200.75pt>
 File: Images//UA.jpg Graphic file (type jpg)
 <use Images//UA.jpg>
 Package pdftex.def Info: Images//UA.jpg  used on input line 219.
@@ -2943,7 +2946,7 @@ Package logreq Info: Writing requests to 'metaverseBTC.run.xml'.
 Here is how much of TeX's memory you used:
  37787 strings out of 478582
  753415 string characters out of 2844816
- 1683250 words of memory out of 3000000
+ 1683235 words of memory out of 3000000
  53723 multiletter control sequences out of 15000+600000
  606280 words of font info for 524 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -2961,9 +2964,9 @@ b><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pf
 b><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb
 ><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb
 >
-Output written on metaverseBTC.pdf (276 pages, 42930559 bytes).
+Output written on metaverseBTC.pdf (276 pages, 42930104 bytes).
 PDF statistics:
- 4830 PDF objects out of 5155 (max. 8388607)
+ 4827 PDF objects out of 5155 (max. 8388607)
  977 named destinations out of 1000 (max. 500000)
  142263 words of extra memory for PDF output out of 154059 (max. 10000000)
 
