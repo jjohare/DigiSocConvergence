@@ -32,13 +32,23 @@ The core principles of distributed identity are that there should be persistent 
 All classic DID is underpinned by a DID document what bootstrap the services it's connected to. It is made up of one or more public keys. The documents can make use of services such as timestamps, cryptographic signatures, proofs, delegations, and authorisations. They should contain the minimum amount of information to accomplish the specific task required of them.
 
 \section{Newer Technologies}
+This section about newer technologies is perhaps best \href{https://www.getrevue.co/profile/jackjack/issues/a-native-internet-protocol-for-social-media-1503112?via=twitter-card&client=DesktopWeb&element=issue-card}{summarised by Jack Dorsey}, ex CEO of twitter, paraphrased here:\\
+\textit{``I'll start with the
+principles I've come to believe based on everything I've learned and experienced through my past actions as a Twitter co-founder and Lead:
+\begin{itemize}
+\item Social media must be resilient to corporate and government control.
+\item Only the original author may remove content they produce.
+\item Moderation is best implemented by algorithmic choice.
+\end{itemize} 
+The biggest mistake I made was
+continuing to invest in building tools
+for us to manage the public conversation versus building tools for the people using Twitter to easily manage it for themselves this burdened the company with too much power and opened us to significant outside pressure such as advertising budgets. I generally think companies have become far too powerful. The only way I know of to truly live up to these three principles is a free and open protocol for social media that is not owned by a single company or group of companies and is resilient to corporate and government influence the problem today is that we have companies who own both the protocol and discovery of content which ultimately puts one person in charge of what's available and seen or not this is by definition a single point of failure no matter how great the person and over time will fracture the public conversation and may lead to more control by governments and
+corporations around the world.}\par
 
+The following technologies were selected for this book long before Dorsey wrote those words, but they \textit{are} the technologies in which he is investing his time and money to further those 3 principles.
 %modelling reputation diagram 2.3.2 %\cite{mui2002computational}
 \subsection{Lightning}
 It is possible to log into a website using only Lighting, as in \href{https://stacker.news/login?callbackUrl=https://stacker.news/}{Stacker News}.
-\subsection{Slashtags}
-Slashtags is a new distributed identity open method being developed by Bitfinex and Tether under the Synonym suite. It uses Bitcoin keys for authentication, but communicates a schema through a metadata exchange.\\
-This section needs a rebuild as they have landed a terrific ecosystems and we will certainly have to integrate some of it.
 \subsection{Web5, Bluesky, \& Microsoft ION}
 Promisingly Jack Dorsey's company TBD is working on a project \href{https://developer.tbd.website/projects/web5/}{called ``Web5''}. Details are scant but the promise is decentralised and/or self hosted data and identity running on Bitcoin, without recourse to a new token. \textit{``Components include decentralized identifiers (DIDs), decentralized web node (DWNs), self-sovereign identity service (SSIS) and a self-sovereign identity software development kit (ssi-sdk)''}.\par
 Web5 leverages the ION identity stack. All this looks to be exactly what our metaverse system requires, but the complexity is likely to be quite high as it is to be built on existing DID/SSI research which is pretty complex and perhaps has problems.\par 
@@ -80,9 +90,11 @@ Nostr is ``The simplest open protocol that is able to create a censorship-resist
 \item it can likely be scaled to provide one to many bulletin board style applications within the metaverse
 \item it can easily operate outside of the walled garden of the metaverse, extending the reach of the messages
 \end{itemize} 
-Nostr is incredibly promising, and integrating these relays in the metaverse servers and clients of the proposed technology stack in this book might allow us globally provable identity, with privacy by design. It can provide message passing. If all entities in the metaverse scenegraphs are also Nostr key pairs then schema can be applied consistently with the economic layer using the same key system as Bitcoin. A curated list of projects and libraries is \href{https://github.com/aljazceru/awesome-nostr}{available on github}.\par
-
-Can we pair this with \href{https://cblgh.org/trustnet/}{trustnet}?
+Nostr is incredibly promising, and integrating these relays in the metaverse servers and clients of the proposed technology stack in this book might allow us globally provable identity, with privacy by design. It can provide message passing. If all entities in the metaverse scenegraphs are also Nostr key pairs then schema can be applied consistently with the economic layer using the same key system as Bitcoin. Nostr has just received a substantial grant from Dorsey. It is core to the design later in the book. A curated list of projects and libraries is \href{https://github.com/aljazceru/awesome-nostr}{available on github}.\par
+\subsection{Slashtags}
+Slashtags is a new distributed identity open method being developed by Bitfinex and Tether under the Synonym suite. It uses Bitcoin keys for authentication, but communicates a schema through a metadata exchange.\\
+This section needs a rebuild as they have landed a terrific ecosystems and we will certainly have to integrate some of it.
+%Can we pair this with \href{https://cblgh.org/trustnet/}{trustnet}?
 \subsubsection{Anigma}
 Anigma is a Nostr based clone of popular messenger client Telegram. This provides a web2 interface into the metaverse providing:
 \begin{itemize}
