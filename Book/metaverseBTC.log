@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  19 DEC 2022 22:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  22 DEC 2022 21:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1541,40 +1541,38 @@ Package pdftex.def Info: Images//orange2.jpg  used on input line 156.
 <Images//pathway.png, id=1100, 440.24475pt x 343.2825pt>
 File: Images//pathway.png Graphic file (type png)
 <use Images//pathway.png>
-Package pdftex.def Info: Images//pathway.png  used on input line 8.
+Package pdftex.def Info: Images//pathway.png  used on input line 10.
 (pdftex.def)             Requested size: 278.83702pt x 217.43196pt.
-) (01_introduction.tex [20 <./Images//pathway.png>] [21] [22]
-<Images//landscapevenn.png, id=1125, 507.99788pt x 395.076pt>
+) (01_introduction.tex [20]
+[21 <./Images//pathway.png>] [22] [23]
+<Images//landscapevenn.png, id=1129, 507.99788pt x 395.076pt>
 File: Images//landscapevenn.png Graphic file (type png)
 <use Images//landscapevenn.png>
 Package pdftex.def Info: Images//landscapevenn.png  used on input line 24.
 (pdftex.def)             Requested size: 278.83702pt x 216.86446pt.
- [23]
+
 
 Package hyperref Warning: Suppressing link with empty target on input line 30.
 
-<Images//goldmanFront.jpg, id=1140, 1287.81125pt x 867.24pt>
+[24 <./Images//landscapevenn.png>]
+<Images//goldmanFront.jpg, id=1146, 1287.81125pt x 867.24pt>
 File: Images//goldmanFront.jpg Graphic file (type jpg)
 <use Images//goldmanFront.jpg>
 Package pdftex.def Info: Images//goldmanFront.jpg  used on input line 32.
 (pdftex.def)             Requested size: 139.4185pt x 93.88812pt.
-
-Underfull \vbox (badness 2012) has occurred while \output is active []
-
- [24 <./Images//landscapevenn.png>]
-<Images//pgim.jpg, id=1152, 803.0pt x 419.5675pt>
+ [25 <./Images//goldmanFront.jpg>]
+<Images//pgim.jpg, id=1157, 803.0pt x 419.5675pt>
 File: Images//pgim.jpg Graphic file (type jpg)
 <use Images//pgim.jpg>
 Package pdftex.def Info: Images//pgim.jpg  used on input line 39.
 (pdftex.def)             Requested size: 139.4185pt x 72.84282pt.
- [25 <./Images//goldmanFront.jpg> <./Images//pgim.jpg>]
-[26]
-<Images//gartners.png, id=1176, 1227.6264pt x 1128.8574pt>
+ [26 <./Images//pgim.jpg>]
+<Images//gartners.png, id=1175, 1227.6264pt x 1128.8574pt>
 File: Images//gartners.png Graphic file (type png)
 <use Images//gartners.png>
 Package pdftex.def Info: Images//gartners.png  used on input line 59.
 (pdftex.def)             Requested size: 250.95161pt x 230.76271pt.
- [27 <./Images//gartners.png>]) [28]
+ [27]) [28 <./Images//gartners.png>]
 Chapter 2.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
@@ -2977,7 +2975,7 @@ b><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pf
 b><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb
 ><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb
 >
-Output written on metaverseBTC.pdf (278 pages, 42934570 bytes).
+Output written on metaverseBTC.pdf (278 pages, 42935316 bytes).
 PDF statistics:
  4842 PDF objects out of 5155 (max. 8388607)
  979 named destinations out of 1000 (max. 500000)
