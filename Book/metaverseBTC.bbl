@@ -3333,6 +3333,35 @@
       \field{pages}{111453}
       \range{pages}{1}
     \endentry
+    \entry{va2010neoconservatism}{book}{}
+      \name{author}{2}{}{%
+        {{hash=4fdad7c2c70ca47612cd5e61c6fbcf09}{%
+           family={Va'isse},
+           familyi={V\bibinitperiod},
+           given={Justin},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1fdb89980a84cbf89cc6779a22ede5d3}{%
+           family={Vaı̈sse},
+           familyi={V\bibinitperiod},
+           given={Justin},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{b2e9fe5875ce385dfc89fad652f12404}
+      \strng{fullhash}{b2e9fe5875ce385dfc89fad652f12404}
+      \strng{bibnamehash}{b2e9fe5875ce385dfc89fad652f12404}
+      \strng{authorbibnamehash}{b2e9fe5875ce385dfc89fad652f12404}
+      \strng{authornamehash}{b2e9fe5875ce385dfc89fad652f12404}
+      \strng{authorfullhash}{b2e9fe5875ce385dfc89fad652f12404}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Neoconservatism: The biography of a movement}
+      \field{year}{2010}
+    \endentry
     \entry{Srinivasan2022}{book}{}
       \name{author}{1}{}{%
         {{hash=2779e00089d476a0e2734d5f68b424cb}{%
@@ -6755,8 +6784,8 @@
       \strng{authorbibnamehash}{9c0c0e116ae05e9e60c091d9e9911c29}
       \strng{authornamehash}{9c0c0e116ae05e9e60c091d9e9911c29}
       \strng{authorfullhash}{f535c629f3e29dbe2110d6bad2719de6}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Research on when and how to use three-dimensional (3D) perspective views on flat screens for operational tasks such as air traffic control is complex. We propose a functional distinction between tasks: those that require shape understanding versus those that require precise judgments of relative position. The distortions inherent in 3D displays hamper judging relative positions, whereas the integration of dimensions in 3D displays facilitates shape understanding. We confirmed these hypotheses with two initial experiments involving simple block shapes. The shape-understanding tasks were identification or mental rotation. The relative-position tasks were locating shadows and determining directions and distances between objects. We then extended the results to four experiments involving complex natural terrain. We compare our distinction with the integral/separable task distinction of Haskel and Wickens (1993). Applications for this research include displays for air traffic control, geoplots for military command and control, and potentially, any display of 3D information.}
@@ -10021,8 +10050,8 @@
       \strng{authorbibnamehash}{ab16f86d6be6c335fcd98f933fee7467}
       \strng{authornamehash}{ab16f86d6be6c335fcd98f933fee7467}
       \strng{authorfullhash}{293e24d3796f2e50112f55d2e222b535}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{{ACM} {SIGGRAPH} 2009 Emerging Technologies}
