@@ -12473,6 +12473,107 @@
       \field{volume}{1}
       \field{year}{2022}
     \endentry
+    \entry{immerwahr202221}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=35e34b832625194dd69dce91a37d977d}{%
+           family={Immerwahr},
+           familyi={I\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Columbia University Press}%
+      }
+      \strng{namehash}{35e34b832625194dd69dce91a37d977d}
+      \strng{fullhash}{35e34b832625194dd69dce91a37d977d}
+      \strng{bibnamehash}{35e34b832625194dd69dce91a37d977d}
+      \strng{authorbibnamehash}{35e34b832625194dd69dce91a37d977d}
+      \strng{authornamehash}{35e34b832625194dd69dce91a37d977d}
+      \strng{authorfullhash}{35e34b832625194dd69dce91a37d977d}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Ideology in US Foreign Relations}
+      \field{title}{21 The Galactic Vietnam: Technology, Modernization, and Empire in George Lucas’s Star Wars}
+      \field{year}{2022}
+      \field{pages}{435\bibrangedash 451}
+      \range{pages}{17}
+    \endentry
+    \entry{radford2021learning}{inproceedings}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=a812c46caad94fc8701be37871f303ba}{%
+           family={Radford},
+           familyi={R\bibinitperiod},
+           given={Alec},
+           giveni={A\bibinitperiod}}}%
+        {{hash=37a96525bc70870f8509160f7eccf4b7}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Jong\bibnamedelima Wook},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=4d5d078d439e163a02d9d1ba0002bb12}{%
+           family={Hallacy},
+           familyi={H\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+        {{hash=82063a12702e7b2c026ae0ff03b8f102}{%
+           family={Ramesh},
+           familyi={R\bibinitperiod},
+           given={Aditya},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e5e3e996c0a95da7e97cae269822bbef}{%
+           family={Goh},
+           familyi={G\bibinitperiod},
+           given={Gabriel},
+           giveni={G\bibinitperiod}}}%
+        {{hash=abe4801e322e893b23785fd6d0800b5c}{%
+           family={Agarwal},
+           familyi={A\bibinitperiod},
+           given={Sandhini},
+           giveni={S\bibinitperiod}}}%
+        {{hash=3c1d9a663596faaf544c1a65aac581be}{%
+           family={Sastry},
+           familyi={S\bibinitperiod},
+           given={Girish},
+           giveni={G\bibinitperiod}}}%
+        {{hash=1e84eff933be9f4887bf369cf181bf12}{%
+           family={Askell},
+           familyi={A\bibinitperiod},
+           given={Amanda},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2321e04943bcadb0275819652b980521}{%
+           family={Mishkin},
+           familyi={M\bibinitperiod},
+           given={Pamela},
+           giveni={P\bibinitperiod}}}%
+        {{hash=1480c861b1a73e1d1de1b227e985b179}{%
+           family={Clark},
+           familyi={C\bibinitperiod},
+           given={Jack},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {PMLR}%
+      }
+      \strng{namehash}{ca3baa5a22057195db1c71be39b4c922}
+      \strng{fullhash}{ed1b50fbade7def4ab8cde47cdabaff0}
+      \strng{bibnamehash}{ca3baa5a22057195db1c71be39b4c922}
+      \strng{authorbibnamehash}{ca3baa5a22057195db1c71be39b4c922}
+      \strng{authornamehash}{ca3baa5a22057195db1c71be39b4c922}
+      \strng{authorfullhash}{ed1b50fbade7def4ab8cde47cdabaff0}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{International Conference on Machine Learning}
+      \field{title}{Learning transferable visual models from natural language supervision}
+      \field{year}{2021}
+      \field{pages}{8748\bibrangedash 8763}
+      \range{pages}{16}
+    \endentry
     \entry{bahdanau2014neural}{article}{}
       \name{author}{3}{}{%
         {{hash=6d80adec79a13a33e73215c5f46f1605}{%
