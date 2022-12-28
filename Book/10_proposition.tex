@@ -41,6 +41,20 @@ Current workstreams:
 \item All assets switch over to Unreal metaverse and become consistent (optimised) digital set which can be visited by stakeholders, funders, VIPs etc. Public can visit later for a fee? Digital assets can be bought from the set.
 \end{itemize}
 
+\section{Novel VP render pipeline}
+Putting the ML image generation on the end of a real-time tracked camera render pipeline might remove the need for detail in set building. To describe how this might work, the set designer, DP, director, etc will be able to ideate in a headset based metaverse of the set design, dropping very basic chairs, windows, light sources whatever. There is -no need- then to create a scene in detail. If the interframe consistency (img2img) can deliver then the output on the VP screen can simply inherit the artistic style from the text prompts, and render production quality from the basic building blocks. Everyone in the set (or just DP/director) could then switch in headset to the final output and ideate (verbally) to create the look and feel (lens, bokeh, light, artistic style etc). This isn’t ready yet as the frames need to generate much faster (100x), but it’s very likely coming in months not years. This ``next level pre-vis'' is being trailed by Pathway in the Vircadia collaborative environment described in this book, and can be seen illustrated in Figure \ref{fig:vircadiasd}.\par
+\begin{figure}[ht]\centering 	\includegraphics[width=\linewidth]{vircadiasd}
+	\caption{Top panel is a screen grab from Vircadia and the bottom panel is a quick pass through img2img from Stable Diffusion.}
+	\label{fig:vircadiasd}
+\end{figure}
+
+This can be done now through the use of camera robots. A scene can be built in basic outline, the camera tracks can be encoded into the robot, and the scene can be rapidly post rendered by Stability with high inter frame consistency.\par
+With the help of AI projects such as \href{https://nv-tlabs.github.io/LION/}{LION} it may be possible to pass simple geometry and instructions to ML systems which can create complex textured geometry back into the scene.
+\begin{figure}[ht]\centering 	\includegraphics[width=\linewidth]{robotvp}
+	\caption{Robot VP}
+	\label{fig:robotvp}
+\end{figure}
+
 \section{Money in metaverses}
 \subsection{ML actors and blockchain based bots}
 Stablity AI is an open source imitative to bring ML/AL capabilities to the world. This is a hugely exciting emergent area and much more will be developed here.
@@ -48,7 +62,7 @@ Stablity AI is an open source imitative to bring ML/AL capabilities to the world
 AI actors can now be trusted visually \cite{nightingale2022ai}. We have some thinking on this which links the external web to our proposed metaverse \href{https://melbotz.github.io/melbot_20220713/}{using tooling} developed by Melvin Carvelho. He is working on economically empowered bots which leverage Nostr and RGB to perform functions within our metaverse, and outside in the WWW, as well as interacting economically through trusted cryptography with other bots, anywhere, and human participants, anywhere. This is incredibly powerful and is assured by the Bitcoin security model. Imagine being able to interact with a bot flower seller representing all the real world florists it had found. In the metaverse you could handle the flowers and take advice and guidance from the bot agent, then it would be able to take your money to buy you flowers to send to a real world address, and later find you to tell you when it's delivered. These possibilities are endless. The AI chat element, the AI translation of images on websites to 3D assets in the Metaverse are difficult but possible challenges, but the secure movement of money from the local context in the metaverse to the real world is within reach using these bots, and they are completely autonomous and distributed.
 \section{Our socialisation best practice}
 \subsubsection{Identity}
-We will base our identity and object management on Nostr public/private key pairs. The public key of these will generate LNBits economic wallets which will interact with RGB and Lightning globally.
+We will base our identity and object management on Nostr public/private key pairs. The public key of these enable lightning based exchange of value globally. Additional work will be needed to allow objects generated through RGB to be passed between federated worlds.
 \subsubsection{Webs of trust}
 Webs of trust will be built within worlds using economically costly (but private) social rating systems, between any actor, human or AI. It should be too costly to attack an individual aggressively. This implies an increased weighting for scores issued in short time periods. Poorly behaving AI's will eventually be excluded through lack of funds.
 \subsubsection{Integration of 'good' actor AI entities}
