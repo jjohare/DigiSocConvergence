@@ -272,7 +272,68 @@
 \contentsline {subsection}{\numberline {9.6.2}Federations of webs of trust and economics}{240}{subsection.9.6.2}%
 \contentsline {section}{\numberline {9.7}Security evaluation}{241}{section.9.7}%
 \contentsline {section}{\numberline {9.8}notes for later}{241}{section.9.8}%
-\contentsline {part}{\numberline {II}Appendix}{245}{part.2}%
-\contentsline {section}{\numberline {9.9}Acknowledgements and thanks}{247}{section.9.9}%
-\contentsline {section}{\numberline {9.10}Author Biographies}{247}{section.9.10}%
+\contentsline {part}{\numberline {II}Guides for deploying the software}{245}{part.2}%
+\contentsline {section}{\numberline {9.9}Lab - virtualisation, networking, Bitcoin}{247}{section.9.9}%
+\contentsline {subsection}{\numberline {9.9.1}Overview}{247}{subsection.9.9.1}%
+\contentsline {subsubsection}{\numberline {9.9.1.1}Summary of software}{247}{subsubsection.9.9.1.1}%
+\contentsline {subsection}{\numberline {9.9.2}Prerequisites}{247}{subsection.9.9.2}%
+\contentsline {subsection}{\numberline {9.9.3}Network details}{247}{subsection.9.9.3}%
+\contentsline {subsection}{\numberline {9.9.4}Server configuration}{247}{subsection.9.9.4}%
+\contentsline {subsubsection}{\numberline {9.9.4.1}Server hardware details}{247}{subsubsection.9.9.4.1}%
+\contentsline {subsubsection}{\numberline {9.9.4.2}Disk configuration details}{247}{subsubsection.9.9.4.2}%
+\contentsline {subsection}{\numberline {9.9.5}Proxmox VE}{248}{subsection.9.9.5}%
+\contentsline {subsubsection}{\numberline {9.9.5.1}Installation and configuration}{248}{subsubsection.9.9.5.1}%
+\contentsline {paragraph}{Dialogue 1}{248}{paragraph*.4}%
+\contentsline {paragraph}{Dialogue 2}{248}{paragraph*.5}%
+\contentsline {paragraph}{Dialogue 3}{248}{paragraph*.6}%
+\contentsline {paragraph}{Dialogue 4}{248}{paragraph*.7}%
+\contentsline {subsubsection}{\numberline {9.9.5.2}Software updates}{248}{subsubsection.9.9.5.2}%
+\contentsline {subsubsection}{\numberline {9.9.5.3}Proxmox VE hardening}{249}{subsubsection.9.9.5.3}%
+\contentsline {subsection}{\numberline {9.9.6}Setup an internal only network in Proxmox VE}{249}{subsection.9.9.6}%
+\contentsline {subsection}{\numberline {9.9.7}Install and configure Internet gateway server virtual machine}{250}{subsection.9.9.7}%
+\contentsline {subsubsection}{\numberline {9.9.7.1}Create an ISO of the stable version (as of writing 1.3.0)}{250}{subsubsection.9.9.7.1}%
+\contentsline {subsubsection}{\numberline {9.9.7.2}Upload the ISO image to the Proxmox VE server}{250}{subsubsection.9.9.7.2}%
+\contentsline {subsubsection}{\numberline {9.9.7.3}Create VyOS virtual machine}{251}{subsubsection.9.9.7.3}%
+\contentsline {subsubsection}{\numberline {9.9.7.4}Configure VyOS}{251}{subsubsection.9.9.7.4}%
+\contentsline {subsection}{\numberline {9.9.8}Install and configure a Debian virtual machine}{252}{subsection.9.9.8}%
+\contentsline {subsection}{\numberline {9.9.9}Deploying the nix-bitcoin node}{253}{subsection.9.9.9}%
+\contentsline {subsubsection}{\numberline {9.9.9.1}Acquiring NixOS}{253}{subsubsection.9.9.9.1}%
+\contentsline {subsubsection}{\numberline {9.9.9.2}Create a new VM}{253}{subsubsection.9.9.9.2}%
+\contentsline {subsubsection}{\numberline {9.9.9.3}Configure the additional drive (optional)}{255}{subsubsection.9.9.9.3}%
+\contentsline {subsubsection}{\numberline {9.9.9.4}Create port forwarding rules for SSH (optional)}{256}{subsubsection.9.9.9.4}%
+\contentsline {paragraph}{Debian}{256}{paragraph*.8}%
+\contentsline {paragraph}{NixOS}{256}{paragraph*.9}%
+\contentsline {subsubsection}{\numberline {9.9.9.5}Prepare nix-bitcoin NixOS package}{257}{subsubsection.9.9.9.5}%
+\contentsline {paragraph}{Additional hard drive configuration}{259}{paragraph*.10}%
+\contentsline {paragraph}{Static IP configuration}{260}{paragraph*.11}%
+\contentsline {paragraph}{SSH configuration}{260}{paragraph*.12}%
+\contentsline {paragraph}{Services configuration}{261}{paragraph*.13}%
+\contentsline {section}{\numberline {9.10}Lab - Vircadia}{261}{section.9.10}%
+\contentsline {subsection}{\numberline {9.10.1}Overview}{261}{subsection.9.10.1}%
+\contentsline {subsection}{\numberline {9.10.2}Deploy a Vircadia domain server}{261}{subsection.9.10.2}%
+\contentsline {subsubsection}{\numberline {9.10.2.1}Prepare a virtual instance of Ubuntu 20.04 in the Proxmox Virtual Environment}{261}{subsubsection.9.10.2.1}%
+\contentsline {subsubsection}{\numberline {9.10.2.2}Configure port forwarding for Vircadia services}{265}{subsubsection.9.10.2.2}%
+\contentsline {subsubsection}{\numberline {9.10.2.3}Configure port forwarding for the ICE server}{266}{subsubsection.9.10.2.3}%
+\contentsline {subsubsection}{\numberline {9.10.2.4}Configure the Vircadia server}{266}{subsubsection.9.10.2.4}%
+\contentsline {subsection}{\numberline {9.10.3}Deploy a Vircadia metaverse server}{269}{subsection.9.10.3}%
+\contentsline {subsubsection}{\numberline {9.10.3.1}Install Node.js and NPM}{270}{subsubsection.9.10.3.1}%
+\contentsline {subsubsection}{\numberline {9.10.3.2}Installation of the Vircadia metaverse server}{271}{subsubsection.9.10.3.2}%
+\contentsline {subsubsection}{\numberline {9.10.3.3}Configure the Mongo DB for the metaverse server}{271}{subsubsection.9.10.3.3}%
+\contentsline {subsubsection}{\numberline {9.10.3.4}Configure the iamus configuration file}{273}{subsubsection.9.10.3.4}%
+\contentsline {subsubsection}{\numberline {9.10.3.5}Configure port forwarding for the metaverse server}{277}{subsubsection.9.10.3.5}%
+\contentsline {subsubsection}{\numberline {9.10.3.6}Configuring NAT reflection on the VyOS router (testing)}{277}{subsubsection.9.10.3.6}%
+\contentsline {subsubsection}{\numberline {9.10.3.7}Enabling external access}{278}{subsubsection.9.10.3.7}%
+\contentsline {subsubsection}{\numberline {9.10.3.8}Start the services}{279}{subsubsection.9.10.3.8}%
+\contentsline {paragraph}{Metaverse server service}{279}{paragraph*.14}%
+\contentsline {paragraph}{ICE server}{279}{paragraph*.15}%
+\contentsline {paragraph}{Domain server services}{279}{paragraph*.16}%
+\contentsline {paragraph}{Client interface}{280}{paragraph*.17}%
+\contentsline {subsubsection}{\numberline {9.10.3.9}Connecting the Metaverse server and configuring a test Metaverse account}{280}{subsubsection.9.10.3.9}%
+\contentsline {subsubsection}{\numberline {9.10.3.10}Connecting a client}{280}{subsubsection.9.10.3.10}%
+\contentsline {subsubsection}{\numberline {9.10.3.11}Configure SSH access for domain and metaverse servers (optional)}{280}{subsubsection.9.10.3.11}%
+\contentsline {paragraph}{Domain server}{281}{paragraph*.18}%
+\contentsline {paragraph}{Metaverse server}{281}{paragraph*.19}%
+\contentsline {part}{\numberline {III}Appendix}{283}{part.3}%
+\contentsline {section}{\numberline {9.11}Acknowledgements and thanks}{285}{section.9.11}%
+\contentsline {section}{\numberline {9.12}Author Biographies}{285}{section.9.12}%
 \contentsfinish 
