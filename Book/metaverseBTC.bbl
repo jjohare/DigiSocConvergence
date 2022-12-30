@@ -12473,6 +12473,207 @@
       \field{volume}{1}
       \field{year}{2022}
     \endentry
+    \entry{kerskens2022experimental}{article}{}
+      \name{author}{2}{}{%
+        {{hash=c74b7a0765cf810ec627bd5a6a60b0fa}{%
+           family={Kerskens},
+           familyi={K\bibinitperiod},
+           given={Christian\bibnamedelima Matthias},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=6f85d926e77d597d0a3b45f311872587}{%
+           family={Pérez},
+           familyi={P\bibinitperiod},
+           given={David\bibnamedelima López},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IOP Publishing}%
+      }
+      \strng{namehash}{4d336272ce8342869ec7b90e685c728e}
+      \strng{fullhash}{4d336272ce8342869ec7b90e685c728e}
+      \strng{bibnamehash}{4d336272ce8342869ec7b90e685c728e}
+      \strng{authorbibnamehash}{4d336272ce8342869ec7b90e685c728e}
+      \strng{authornamehash}{4d336272ce8342869ec7b90e685c728e}
+      \strng{authorfullhash}{4d336272ce8342869ec7b90e685c728e}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Physics Communications}
+      \field{number}{10}
+      \field{title}{Experimental indications of non-classical brain functions}
+      \field{volume}{6}
+      \field{year}{2022}
+      \field{pages}{105001}
+      \range{pages}{1}
+    \endentry
+    \entry{larson2021myth}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=ca4c7ac00a823c4d435119dcab75afab}{%
+           family={Larson},
+           familyi={L\bibinitperiod},
+           given={Erik\bibnamedelima J},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{ca4c7ac00a823c4d435119dcab75afab}
+      \strng{fullhash}{ca4c7ac00a823c4d435119dcab75afab}
+      \strng{bibnamehash}{ca4c7ac00a823c4d435119dcab75afab}
+      \strng{authorbibnamehash}{ca4c7ac00a823c4d435119dcab75afab}
+      \strng{authornamehash}{ca4c7ac00a823c4d435119dcab75afab}
+      \strng{authorfullhash}{ca4c7ac00a823c4d435119dcab75afab}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Myth of Artificial Intelligence}
+      \field{title}{The Myth of Artificial Intelligence}
+      \field{year}{2021}
+    \endentry
+    \entry{searle1980minds}{article}{}
+      \name{author}{1}{}{%
+        {{hash=932676a29fb955b21e5599a8c1c5e6ca}{%
+           family={Searle},
+           familyi={S\bibinitperiod},
+           given={John\bibnamedelima R},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{932676a29fb955b21e5599a8c1c5e6ca}
+      \strng{fullhash}{932676a29fb955b21e5599a8c1c5e6ca}
+      \strng{bibnamehash}{932676a29fb955b21e5599a8c1c5e6ca}
+      \strng{authorbibnamehash}{932676a29fb955b21e5599a8c1c5e6ca}
+      \strng{authornamehash}{932676a29fb955b21e5599a8c1c5e6ca}
+      \strng{authorfullhash}{932676a29fb955b21e5599a8c1c5e6ca}
+      \field{extraname}{1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Behavioral and brain sciences}
+      \field{number}{3}
+      \field{title}{Minds, brains, and programs}
+      \field{volume}{3}
+      \field{year}{1980}
+      \field{pages}{417\bibrangedash 424}
+      \range{pages}{8}
+    \endentry
+    \entry{turing1950computing}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=d6d9f41ce7ab57b0d45edbe153331923}{%
+           family={Turing},
+           familyi={T\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {LIX}%
+      }
+      \strng{namehash}{d6d9f41ce7ab57b0d45edbe153331923}
+      \strng{fullhash}{d6d9f41ce7ab57b0d45edbe153331923}
+      \strng{bibnamehash}{d6d9f41ce7ab57b0d45edbe153331923}
+      \strng{authorbibnamehash}{d6d9f41ce7ab57b0d45edbe153331923}
+      \strng{authornamehash}{d6d9f41ce7ab57b0d45edbe153331923}
+      \strng{authorfullhash}{d6d9f41ce7ab57b0d45edbe153331923}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Computing machinery and intelligence in “Mind”, vol}
+      \field{year}{1950}
+    \endentry
+    \entry{french2012moving}{article}{}
+      \name{author}{1}{}{%
+        {{hash=efa86063531ce0dc159a0a1bd5c0feaa}{%
+           family={French},
+           familyi={F\bibinitperiod},
+           given={Robert\bibnamedelima M},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACM New York, NY, USA}%
+      }
+      \strng{namehash}{efa86063531ce0dc159a0a1bd5c0feaa}
+      \strng{fullhash}{efa86063531ce0dc159a0a1bd5c0feaa}
+      \strng{bibnamehash}{efa86063531ce0dc159a0a1bd5c0feaa}
+      \strng{authorbibnamehash}{efa86063531ce0dc159a0a1bd5c0feaa}
+      \strng{authornamehash}{efa86063531ce0dc159a0a1bd5c0feaa}
+      \strng{authorfullhash}{efa86063531ce0dc159a0a1bd5c0feaa}
+      \field{extraname}{1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Communications of the ACM}
+      \field{number}{12}
+      \field{title}{Moving beyond the Turing test}
+      \field{volume}{55}
+      \field{year}{2012}
+      \field{pages}{74\bibrangedash 77}
+      \range{pages}{4}
+    \endentry
+    \entry{french2000turing}{article}{}
+      \name{author}{1}{}{%
+        {{hash=efa86063531ce0dc159a0a1bd5c0feaa}{%
+           family={French},
+           familyi={F\bibinitperiod},
+           given={Robert\bibnamedelima M},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{efa86063531ce0dc159a0a1bd5c0feaa}
+      \strng{fullhash}{efa86063531ce0dc159a0a1bd5c0feaa}
+      \strng{bibnamehash}{efa86063531ce0dc159a0a1bd5c0feaa}
+      \strng{authorbibnamehash}{efa86063531ce0dc159a0a1bd5c0feaa}
+      \strng{authornamehash}{efa86063531ce0dc159a0a1bd5c0feaa}
+      \strng{authorfullhash}{efa86063531ce0dc159a0a1bd5c0feaa}
+      \field{extraname}{2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Trends in cognitive sciences}
+      \field{number}{3}
+      \field{title}{The Turing Test: the first 50 years}
+      \field{volume}{4}
+      \field{year}{2000}
+      \field{pages}{115\bibrangedash 122}
+      \range{pages}{8}
+    \endentry
+    \entry{searle2009turing}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=932676a29fb955b21e5599a8c1c5e6ca}{%
+           family={Searle},
+           familyi={S\bibinitperiod},
+           given={John\bibnamedelima R},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{932676a29fb955b21e5599a8c1c5e6ca}
+      \strng{fullhash}{932676a29fb955b21e5599a8c1c5e6ca}
+      \strng{bibnamehash}{932676a29fb955b21e5599a8c1c5e6ca}
+      \strng{authorbibnamehash}{932676a29fb955b21e5599a8c1c5e6ca}
+      \strng{authornamehash}{932676a29fb955b21e5599a8c1c5e6ca}
+      \strng{authorfullhash}{932676a29fb955b21e5599a8c1c5e6ca}
+      \field{extraname}{2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Parsing the Turing Test}
+      \field{title}{The Turing test: 55 years later}
+      \field{year}{2009}
+      \field{pages}{139\bibrangedash 150}
+      \range{pages}{12}
+    \endentry
     \entry{immerwahr202221}{incollection}{}
       \name{author}{1}{}{%
         {{hash=35e34b832625194dd69dce91a37d977d}{%

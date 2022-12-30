@@ -14005,9 +14005,6 @@
   pages        = {8748--8763},
 }
 
-@Article{,
-}
-
 @incollection{immerwahr202221,
   title={21 The Galactic Vietnam: Technology, Modernization, and Empire in George Lucas’s Star Wars},
   author={Immerwahr, Daniel},
@@ -14015,6 +14012,43 @@
   pages={435--451},
   year={2022},
   publisher={Columbia University Press}
+}
+
+@Article{kerskens2022experimental,
+  author    = {Kerskens, Christian Matthias and P{\'e}rez, David L{\'o}pez},
+  journal   = {Journal of Physics Communications},
+  title     = {Experimental indications of non-classical brain functions},
+  year      = {2022},
+  number    = {10},
+  pages     = {105001},
+  volume    = {6},
+  publisher = {IOP Publishing},
+}
+
+@InCollection{larson2021myth,
+  author    = {Larson, Erik J},
+  booktitle = {The Myth of Artificial Intelligence},
+  publisher = {Harvard University Press},
+  title     = {The Myth of Artificial Intelligence},
+  year      = {2021},
+}
+
+@Article{searle1980minds,
+  author    = {Searle, John R},
+  journal   = {Behavioral and brain sciences},
+  title     = {Minds, brains, and programs},
+  year      = {1980},
+  number    = {3},
+  pages     = {417--424},
+  volume    = {3},
+  publisher = {Cambridge University Press},
+}
+
+@Misc{turing1950computing,
+  author    = {Turing, Alan},
+  title     = {Computing machinery and intelligence in “Mind”, vol},
+  year      = {1950},
+  publisher = {LIX},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
