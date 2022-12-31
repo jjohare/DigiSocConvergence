@@ -14051,4 +14051,35 @@
   publisher = {LIX},
 }
 
+@Article{french2012moving,
+  author    = {French, Robert M},
+  journal   = {Communications of the ACM},
+  title     = {Moving beyond the Turing test},
+  year      = {2012},
+  number    = {12},
+  pages     = {74--77},
+  volume    = {55},
+  publisher = {ACM New York, NY, USA},
+}
+
+@Article{french2000turing,
+  author    = {French, Robert M},
+  journal   = {Trends in cognitive sciences},
+  title     = {The Turing Test: the first 50 years},
+  year      = {2000},
+  number    = {3},
+  pages     = {115--122},
+  volume    = {4},
+  publisher = {Elsevier},
+}
+
+@InCollection{searle2009turing,
+  author    = {Searle, John R},
+  booktitle = {Parsing the Turing Test},
+  publisher = {Springer},
+  title     = {The Turing test: 55 years later},
+  year      = {2009},
+  pages     = {139--150},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

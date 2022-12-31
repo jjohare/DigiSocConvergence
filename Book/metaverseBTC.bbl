@@ -12586,6 +12586,40 @@
       \field{title}{Computing machinery and intelligence in “Mind”, vol}
       \field{year}{1950}
     \endentry
+    \entry{warwick2016can}{article}{}
+      \name{author}{2}{}{%
+        {{hash=30f04cf63faaa91705a4f86600c0d4f6}{%
+           family={Warwick},
+           familyi={W\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=aa0793f9372abc6516f7195cdfe5af87}{%
+           family={Shah},
+           familyi={S\bibinitperiod},
+           given={Huma},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{c9018a9fec3c9b47d5f1e20b99eb3856}
+      \strng{fullhash}{c9018a9fec3c9b47d5f1e20b99eb3856}
+      \strng{bibnamehash}{c9018a9fec3c9b47d5f1e20b99eb3856}
+      \strng{authorbibnamehash}{c9018a9fec3c9b47d5f1e20b99eb3856}
+      \strng{authornamehash}{c9018a9fec3c9b47d5f1e20b99eb3856}
+      \strng{authorfullhash}{c9018a9fec3c9b47d5f1e20b99eb3856}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of experimental \& Theoretical artificial Intelligence}
+      \field{number}{6}
+      \field{title}{Can machines think? A report on Turing test experiments at the Royal Society}
+      \field{volume}{28}
+      \field{year}{2016}
+      \field{pages}{989\bibrangedash 1007}
+      \range{pages}{19}
+    \endentry
     \entry{french2012moving}{article}{}
       \name{author}{1}{}{%
         {{hash=efa86063531ce0dc159a0a1bd5c0feaa}{%
