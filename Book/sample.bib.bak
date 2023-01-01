@@ -14082,4 +14082,44 @@
   pages     = {139--150},
 }
 
+@Article{warwick2016can,
+  author    = {Warwick, Kevin and Shah, Huma},
+  journal   = {Journal of experimental \& Theoretical artificial Intelligence},
+  title     = {Can machines think? A report on Turing test experiments at the Royal Society},
+  year      = {2016},
+  number    = {6},
+  pages     = {989--1007},
+  volume    = {28},
+  publisher = {Taylor \& Francis},
+}
+
+@Article{elkins2020can,
+  author    = {Elkins, Katherine and Chun, Jon},
+  journal   = {Journal of Cultural Analytics},
+  title     = {Can GPT-3 pass a Writer’s turing test?},
+  year      = {2020},
+  number    = {2},
+  pages     = {17212},
+  volume    = {5},
+  publisher = {Department of Languages, Literatures, and Cultures},
+}
+
+@Article{marcus2020gpt,
+  author  = {Marcus, Gary and Davis, Ernest},
+  journal = {Technology Review},
+  title   = {GPT-3, Bloviator: OpenAI’s language generator has no idea what it’s talking about},
+  year    = {2020},
+}
+
+@InCollection{sep-turing-test,
+  author       = {Oppy, Graham and Dowe, David},
+  booktitle    = {The {Stanford} Encyclopedia of Philosophy},
+  publisher    = {Metaphysics Research Lab, Stanford University},
+  title        = {{The Turing Test}},
+  year         = {2021},
+  edition      = {{W}inter 2021},
+  editor       = {Edward N. Zalta},
+  howpublished = {\url{https://plato.stanford.edu/archives/win2021/entries/turing-test/}},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

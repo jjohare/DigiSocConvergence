@@ -12562,6 +12562,48 @@
       \field{pages}{417\bibrangedash 424}
       \range{pages}{8}
     \endentry
+    \entry{sep-turing-test}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=cc57a5acdb9de4f88c1a8aa9294d0ee8}{%
+           family={Oppy},
+           familyi={O\bibinitperiod},
+           given={Graham},
+           giveni={G\bibinitperiod}}}%
+        {{hash=157491da49a1c800e9d56c025011e7d3}{%
+           family={Dowe},
+           familyi={D\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=5ff1c29ff1cc8f6336533b0ffd842a79}{%
+           family={Zalta},
+           familyi={Z\bibinitperiod},
+           given={Edward\bibnamedelima N.},
+           giveni={E\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Metaphysics Research Lab, Stanford University}%
+      }
+      \strng{namehash}{c5dce6963a02049e3a924b3e69090903}
+      \strng{fullhash}{c5dce6963a02049e3a924b3e69090903}
+      \strng{bibnamehash}{c5dce6963a02049e3a924b3e69090903}
+      \strng{authorbibnamehash}{c5dce6963a02049e3a924b3e69090903}
+      \strng{authornamehash}{c5dce6963a02049e3a924b3e69090903}
+      \strng{authorfullhash}{c5dce6963a02049e3a924b3e69090903}
+      \strng{editorbibnamehash}{5ff1c29ff1cc8f6336533b0ffd842a79}
+      \strng{editornamehash}{5ff1c29ff1cc8f6336533b0ffd842a79}
+      \strng{editorfullhash}{5ff1c29ff1cc8f6336533b0ffd842a79}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The {Stanford} Encyclopedia of Philosophy}
+      \field{edition}{{W}inter 2021}
+      \field{howpublished}{\url{https://plato.stanford.edu/archives/win2021/entries/turing-test/}}
+      \field{title}{{The Turing Test}}
+      \field{year}{2021}
+    \endentry
     \entry{turing1950computing}{misc}{}
       \name{author}{1}{}{%
         {{hash=d6d9f41ce7ab57b0d45edbe153331923}{%
@@ -12707,6 +12749,68 @@
       \field{year}{2009}
       \field{pages}{139\bibrangedash 150}
       \range{pages}{12}
+    \endentry
+    \entry{elkins2020can}{article}{}
+      \name{author}{2}{}{%
+        {{hash=4423c726761664110e10a1ae9a7672ef}{%
+           family={Elkins},
+           familyi={E\bibinitperiod},
+           given={Katherine},
+           giveni={K\bibinitperiod}}}%
+        {{hash=b1eaf2891879298127cb7ae67cbcc435}{%
+           family={Chun},
+           familyi={C\bibinitperiod},
+           given={Jon},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Department of Languages, Literatures,}%
+        {Cultures}%
+      }
+      \strng{namehash}{5e70f2c8a24f831115e7d0d2e3f41bb7}
+      \strng{fullhash}{5e70f2c8a24f831115e7d0d2e3f41bb7}
+      \strng{bibnamehash}{5e70f2c8a24f831115e7d0d2e3f41bb7}
+      \strng{authorbibnamehash}{5e70f2c8a24f831115e7d0d2e3f41bb7}
+      \strng{authornamehash}{5e70f2c8a24f831115e7d0d2e3f41bb7}
+      \strng{authorfullhash}{5e70f2c8a24f831115e7d0d2e3f41bb7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Cultural Analytics}
+      \field{number}{2}
+      \field{title}{Can GPT-3 pass a Writer’s turing test?}
+      \field{volume}{5}
+      \field{year}{2020}
+      \field{pages}{17212}
+      \range{pages}{1}
+    \endentry
+    \entry{marcus2020gpt}{article}{}
+      \name{author}{2}{}{%
+        {{hash=199868cb9a5ee49454615e31ec8cc1ae}{%
+           family={Marcus},
+           familyi={M\bibinitperiod},
+           given={Gary},
+           giveni={G\bibinitperiod}}}%
+        {{hash=5e313a551f14d86a5958c804b661f644}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={Ernest},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{fb6020b65b2a69b8faa4a6c8bc1a7506}
+      \strng{fullhash}{fb6020b65b2a69b8faa4a6c8bc1a7506}
+      \strng{bibnamehash}{fb6020b65b2a69b8faa4a6c8bc1a7506}
+      \strng{authorbibnamehash}{fb6020b65b2a69b8faa4a6c8bc1a7506}
+      \strng{authornamehash}{fb6020b65b2a69b8faa4a6c8bc1a7506}
+      \strng{authorfullhash}{fb6020b65b2a69b8faa4a6c8bc1a7506}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Technology Review}
+      \field{title}{GPT-3, Bloviator: OpenAI’s language generator has no idea what it’s talking about}
+      \field{year}{2020}
     \endentry
     \entry{immerwahr202221}{incollection}{}
       \name{author}{1}{}{%
