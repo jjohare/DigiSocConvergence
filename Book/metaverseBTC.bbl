@@ -2373,6 +2373,33 @@
       \field{pages}{72\bibrangedash 86}
       \range{pages}{15}
     \endentry
+    \entry{stinner2022proof}{article}{}
+      \name{author}{2}{}{%
+        {{hash=0a3c62a4413fee0b9b449eb0caa67eec}{%
+           family={Stinner},
+           familyi={S\bibinitperiod},
+           given={Jona},
+           giveni={J\bibinitperiod}}}%
+        {{hash=11cf6f49167d9a87d542eeaa7d999426}{%
+           family={Tyrell},
+           familyi={T\bibinitperiod},
+           given={Marcel},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{1dc3c28686fed14de27317a44be31e88}
+      \strng{fullhash}{1dc3c28686fed14de27317a44be31e88}
+      \strng{bibnamehash}{1dc3c28686fed14de27317a44be31e88}
+      \strng{authorbibnamehash}{1dc3c28686fed14de27317a44be31e88}
+      \strng{authornamehash}{1dc3c28686fed14de27317a44be31e88}
+      \strng{authorfullhash}{1dc3c28686fed14de27317a44be31e88}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Available at SSRN 4032034}
+      \field{title}{Proof-of-work consensus under exogenous distress: Evidence from mining shocks in the Bitcoin ecosystem}
+      \field{year}{2022}
+    \endentry
     \entry{homer1996history}{book}{}
       \name{author}{2}{}{%
         {{hash=7d6b5035380d9ab1b8d9de0ab9f33916}{%
