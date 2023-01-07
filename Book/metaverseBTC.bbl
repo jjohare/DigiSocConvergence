@@ -1932,6 +1932,43 @@
       \field{pages}{379\bibrangedash 395}
       \range{pages}{17}
     \endentry
+    \entry{gayoso2018secure}{incollection}{}
+      \name{author}{3}{}{%
+        {{hash=0e1759afac5b77ed134cde6b5fc5daa9}{%
+           family={Gayoso\bibnamedelima Martinez},
+           familyi={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Victor},
+           giveni={V\bibinitperiod}}}%
+        {{hash=dd62764df06c2bbc9e31ba038c0c2ce9}{%
+           family={Gonzalez-Manzano},
+           familyi={G\bibinithyphendelim M\bibinitperiod},
+           given={Lorena},
+           giveni={L\bibinitperiod}}}%
+        {{hash=bfc83048f8e1d3a3771b313dcc2ae1a1}{%
+           family={Martin\bibnamedelima Munoz},
+           familyi={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Agustin},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{3fad60e6532cddb72f0fd50a13a7d1b8}
+      \strng{fullhash}{3fad60e6532cddb72f0fd50a13a7d1b8}
+      \strng{bibnamehash}{3fad60e6532cddb72f0fd50a13a7d1b8}
+      \strng{authorbibnamehash}{3fad60e6532cddb72f0fd50a13a7d1b8}
+      \strng{authornamehash}{3fad60e6532cddb72f0fd50a13a7d1b8}
+      \strng{authorfullhash}{3fad60e6532cddb72f0fd50a13a7d1b8}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Computer and Network Security Essentials}
+      \field{title}{Secure elliptic curves in cryptography}
+      \field{year}{2018}
+      \field{pages}{283\bibrangedash 298}
+      \range{pages}{16}
+    \endentry
     \entry{schnorr1989efficient}{inproceedings}{}
       \name{author}{1}{}{%
         {{hash=0cd5bbd149e4d6d600854c7f315a0dc9}{%
@@ -2280,8 +2317,8 @@
       \strng{authornamehash}{4c7e991cee2fdff79876aa9e874f887e}
       \strng{authorfullhash}{4c7e991cee2fdff79876aa9e874f887e}
       \field{extraname}{1}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{arXiv preprint arXiv:1605.07524}
@@ -2316,8 +2353,8 @@
       \strng{authornamehash}{4c7e991cee2fdff79876aa9e874f887e}
       \strng{authorfullhash}{4c7e991cee2fdff79876aa9e874f887e}
       \field{extraname}{2}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{2017 IEEE symposium on security and privacy (SP)}
@@ -2363,8 +2400,8 @@
       \strng{authorbibnamehash}{10a37f15cf97416d2c683f7908db5673}
       \strng{authornamehash}{10a37f15cf97416d2c683f7908db5673}
       \strng{authorfullhash}{b71644f4d8312ed921063e17c79f8d8c}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{International Conference on Financial Cryptography and Data Security}
@@ -2392,8 +2429,8 @@
       \strng{authorbibnamehash}{1dc3c28686fed14de27317a44be31e88}
       \strng{authornamehash}{1dc3c28686fed14de27317a44be31e88}
       \strng{authorfullhash}{1dc3c28686fed14de27317a44be31e88}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Available at SSRN 4032034}
@@ -2683,8 +2720,8 @@
       \strng{authorbibnamehash}{1c81fcf257f44be3fc86cc2c941f0efb}
       \strng{authornamehash}{1c81fcf257f44be3fc86cc2c941f0efb}
       \strng{authorfullhash}{1c81fcf257f44be3fc86cc2c941f0efb}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Financial crash, commodity prices and global imbalances}
@@ -2708,8 +2745,8 @@
       \strng{authorbibnamehash}{5d7da40e30408d9a488fa3744359c2a6}
       \strng{authornamehash}{5d7da40e30408d9a488fa3744359c2a6}
       \strng{authorfullhash}{5d7da40e30408d9a488fa3744359c2a6}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The hidden hand of American hegemony}
@@ -3019,8 +3056,8 @@
       \strng{authorbibnamehash}{cba56ccfddcb553632b2578254df8851}
       \strng{authornamehash}{cba56ccfddcb553632b2578254df8851}
       \strng{authorfullhash}{cba56ccfddcb553632b2578254df8851}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Wake Forest L. Rev. Online}
@@ -3304,8 +3341,8 @@
       \strng{authorbibnamehash}{97221c67145aabda05afac891300d180}
       \strng{authornamehash}{97221c67145aabda05afac891300d180}
       \strng{authorfullhash}{97221c67145aabda05afac891300d180}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Antifragile: how to live in a world we don't understand}
@@ -3367,8 +3404,8 @@
            familyi={V\bibinitperiod},
            given={Justin},
            giveni={J\bibinitperiod}}}%
-        {{hash=1fdb89980a84cbf89cc6779a22ede5d3}{%
-           family={Vaı̈sse},
+        {{hash=0694d534cdbb7a07b10efff26fac9ac9}{%
+           family={Va'sse},
            familyi={V\bibinitperiod},
            given={Justin},
            giveni={J\bibinitperiod}}}%
@@ -3376,12 +3413,12 @@
       \list{publisher}{1}{%
         {Harvard University Press}%
       }
-      \strng{namehash}{b2e9fe5875ce385dfc89fad652f12404}
-      \strng{fullhash}{b2e9fe5875ce385dfc89fad652f12404}
-      \strng{bibnamehash}{b2e9fe5875ce385dfc89fad652f12404}
-      \strng{authorbibnamehash}{b2e9fe5875ce385dfc89fad652f12404}
-      \strng{authornamehash}{b2e9fe5875ce385dfc89fad652f12404}
-      \strng{authorfullhash}{b2e9fe5875ce385dfc89fad652f12404}
+      \strng{namehash}{2a04e905ada5cc832fd92c379426f5fb}
+      \strng{fullhash}{2a04e905ada5cc832fd92c379426f5fb}
+      \strng{bibnamehash}{2a04e905ada5cc832fd92c379426f5fb}
+      \strng{authorbibnamehash}{2a04e905ada5cc832fd92c379426f5fb}
+      \strng{authornamehash}{2a04e905ada5cc832fd92c379426f5fb}
+      \strng{authorfullhash}{2a04e905ada5cc832fd92c379426f5fb}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
@@ -6761,8 +6798,8 @@
       \strng{authorbibnamehash}{bc6360074e4ba0420622421785bf077c}
       \strng{authornamehash}{bc6360074e4ba0420622421785bf077c}
       \strng{authorfullhash}{d4b288a31cdb70b2bb4da32416f39e6c}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{During conversation, women tend to nod their heads more frequently and more vigorously than men. An individual speaking with a woman tends to nod his or her head more than when speaking with a man. Is this due to social expectation or due to coupled motion dynamics between the speakers? We present a novel methodology that allows us to randomly assign apparent identity during free conversation in a video-conference, thereby dissociating apparent sex from motion dynamics. The method uses motion-tracked synthesized avatars that are accepted by naive participants as being live video. We find that 1) motion dynamics affect head movements but that apparent sex does not; 2) judgments of sex are driven almost entirely by appearance; and 3) ratings of masculinity and femininity rely on a combination of both appearance and dynamics. Together, these findings are consistent with the hypothesis of separate perceptual streams for appearance and biological motion. In addition, our results are consistent with a view that head movements in conversation form a low level perception and action system that can operate independently from top-down social expectations.}
@@ -10010,8 +10047,8 @@
       \strng{authorbibnamehash}{9ce8dcbea9846de5783d979cc7ce0e2c}
       \strng{authornamehash}{9ce8dcbea9846de5783d979cc7ce0e2c}
       \strng{authorfullhash}{04ff646fe25cbefd41457e31672e83fe}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{International Workshop on Immersive Telepresence ({ITP} '02)}

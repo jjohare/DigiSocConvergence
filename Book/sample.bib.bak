@@ -14129,14 +14129,20 @@
   year    = {2022},
 }
 
-@Article{,
-}
-
 @book{fisher2014ghosts,
   title={Ghosts of my life: Writings on depression, hauntology and lost futures},
   author={Fisher, Mark},
   year={2014},
   publisher={John Hunt Publishing}
+}
+
+@InCollection{gayoso2018secure,
+  author    = {Gayoso Martinez, Victor and Gonzalez-Manzano, Lorena and Martin Munoz, Agustin},
+  booktitle = {Computer and Network Security Essentials},
+  publisher = {Springer},
+  title     = {Secure elliptic curves in cryptography},
+  year      = {2018},
+  pages     = {283--298},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
