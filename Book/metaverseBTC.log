@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  15 JAN 2023 19:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  16 JAN 2023 13:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2113,49 +2113,61 @@ Package pdftex.def Info: Images//tencent.png  used on input line 27.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [186]
-[187 <./Images//tencent.png>] [188] [189] [190] [191]
-<Images//muskWeb3.png, id=3287, 408.02437pt x 168.63pt>
+[187 <./Images//tencent.png>] [188] [189] [190] [191] [192]
+<Images//muskWeb3.png, id=3294, 408.02437pt x 168.63pt>
 File: Images//muskWeb3.png Graphic file (type png)
 <use Images//muskWeb3.png>
-Package pdftex.def Info: Images//muskWeb3.png  used on input line 153.
+Package pdftex.def Info: Images//muskWeb3.png  used on input line 152.
 (pdftex.def)             Requested size: 278.83702pt x 115.24324pt.
- (08_b2b_telepresence.tex
-[192] [193 <./Images//muskWeb3.png>] [194] [195]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+
+(08_b2b_telepresence.tex [193 <./Images//muskWeb3.png>] [194] [195]
+Underfull \vbox (badness 1668) has occurred while \output is active []
 
  [196]
 [197] [198] [199] [200] [201] [202] [203] [204] [205] [206]
-<Images//murrayeyegaze.jpg, id=3591, 377.15906pt x 241.65282pt>
+<Images//murrayeyegaze.jpg, id=3587, 377.15906pt x 241.65282pt>
 File: Images//murrayeyegaze.jpg Graphic file (type jpg)
 <use Images//murrayeyegaze.jpg>
 Package pdftex.def Info: Images//murrayeyegaze.jpg  used on input line 178.
 (pdftex.def)             Requested size: 278.83702pt x 178.65434pt.
 
-Underfull \vbox (badness 1325) has occurred while \output is active []
 
- [207 <./Images//murrayeyegaze.jpg>]
-<Images//proxemics.png, id=3612, 1927.2pt x 1927.2pt>
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [207]
+[208 <./Images//murrayeyegaze.jpg>]
+<Images//proxemics.png, id=3625, 1927.2pt x 1927.2pt>
 File: Images//proxemics.png Graphic file (type png)
 <use Images//proxemics.png>
 Package pdftex.def Info: Images//proxemics.png  used on input line 197.
 (pdftex.def)             Requested size: 278.83702pt x 278.83401pt.
 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[209]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [208]
-[209 <./Images//proxemics.png>] [210]
+ [210 <./Images//proxemics.png>] [211]
 Overfull \hbox (16.4177pt too wide) in paragraph at lines 216--216
 []\T1/ptm/m/n/10 (-20) Interacting sub-jects progress con-ver-sa-tion through s
 o-called `perception-
  []
 
-[211] [212] [213] [214] [215] [216] [217] [218] [219] [220]
+[212] [213] [214] [215] [216] [217] [218]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [219]
+[220] [221]
 Overfull \hbox (0.36453pt too wide) in paragraph at lines 323--323
 |[]\T1/pag/db/n/14.4 (-20) Theoretical Frame-work to-ward meta-verse| 
  []
 
-[221]
-<Images//frameworkVenn.png, id=3963, 509.40312pt x 432.11438pt>
+[222]
+<Images//frameworkVenn.png, id=3970, 509.40312pt x 432.11438pt>
 File: Images//frameworkVenn.png Graphic file (type png)
 <use Images//frameworkVenn.png>
 Package pdftex.def Info: Images//frameworkVenn.png  used on input line 334.
@@ -2164,110 +2176,120 @@ Package pdftex.def Info: Images//frameworkVenn.png  used on input line 334.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[222]
+[223]
 Underfull \vbox (badness 1838) has occurred while \output is active []
 
- [223 <./Images//frameworkVenn.png>] [224]) [225]
-Overfull \hbox (11.18533pt too wide) in paragraph at lines 169--170
+ [224 <./Images//frameworkVenn.png>]) [225]
+Overfull \hbox (11.18533pt too wide) in paragraph at lines 168--169
 []\T1/ptm/m/n/10 (-20) They as-sert that strong reg-u-la-tory cap-ture, iden-ti
 -fi-ca-tion, KYC/AML
  []
 
-(08_market_numbers.tex
-Underfull \vbox (badness 1028) has occurred while \output is active []
+
+Underfull \vbox (badness 5359) has occurred while \output is active []
 
  [226]
-[227] [228]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+(08_market_numbers.tex [227] [228]
+Underfull \vbox (badness 5359) has occurred while \output is active []
 
  [229]
-<Images//applications.png, id=4025, 517.935pt x 295.1025pt>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [230]
+<Images//applications.png, id=4032, 517.935pt x 295.1025pt>
 File: Images//applications.png Graphic file (type png)
 <use Images//applications.png>
 Package pdftex.def Info: Images//applications.png  used on input line 57.
 (pdftex.def)             Requested size: 278.83702pt x 158.88016pt.
 )
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [230]
-
-Package hyperref Warning: Suppressing link with empty target on input line 179.
-
-
 [231 <./Images//applications.png>]
-Underfull \vbox (badness 1082) has occurred while \output is active []
+
+Package hyperref Warning: Suppressing link with empty target on input line 178.
+
+
+
+Underfull \vbox (badness 6995) has occurred while \output is active []
 
  [232]
-[233]
+Underfull \vbox (badness 2875) has occurred while \output is active []
 
-Package hyperref Warning: Suppressing link with empty target on input line 222.
+ [233]
+[234]
+
+Package hyperref Warning: Suppressing link with empty target on input line 221.
 
 
-[234] (08_vircadia.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [235]
-Overfull \hbox (4.11322pt too wide) in paragraph at lines 234--235
+(08_vircadia.tex [235])
+Overfull \hbox (4.11322pt too wide) in paragraph at lines 233--234
 \T1/ptm/m/n/10 (-20) verse. It is a vir-tual re-al-ity plat-form pow-ered by th
 e Ethereum blockchain.
  []
 
-[236] [237]
-<Images//time.png, id=4111, 578.16pt x 770.88pt>
+[236]
+Underfull \vbox (badness 3240) has occurred while \output is active []
+
+ [237]
+[238]
+<Images//time.png, id=4120, 578.16pt x 770.88pt>
 File: Images//time.png Graphic file (type png)
 <use Images//time.png>
-Package pdftex.def Info: Images//time.png  used on input line 317.
+Package pdftex.def Info: Images//time.png  used on input line 316.
 (pdftex.def)             Requested size: 139.4185pt x 185.88542pt.
-<Images//epicflywheel.jpg, id=4114, 1284.8pt x 1346.02875pt>
+<Images//epicflywheel.jpg, id=4123, 1284.8pt x 1346.02875pt>
 File: Images//epicflywheel.jpg Graphic file (type jpg)
 <use Images//epicflywheel.jpg>
-Package pdftex.def Info: Images//epicflywheel.jpg  used on input line 324.
+Package pdftex.def Info: Images//epicflywheel.jpg  used on input line 323.
 (pdftex.def)             Requested size: 195.18506pt x 204.48347pt.
- [238] [239 <./Images//time.png (PNG copy)> <./Images//epicflywheel.jpg>]
-<Images//pathwayrobot.jpg, id=4129, 2055.68pt x 1156.32pt>
+ [239 <./Images//time.png (PNG copy)>]
+<Images//pathwayrobot.jpg, id=4132, 2055.68pt x 1156.32pt>
 File: Images//pathwayrobot.jpg Graphic file (type jpg)
 <use Images//pathwayrobot.jpg>
-Package pdftex.def Info: Images//pathwayrobot.jpg  used on input line 342.
+Package pdftex.def Info: Images//pathwayrobot.jpg  used on input line 341.
 (pdftex.def)             Requested size: 195.18506pt x 109.78096pt.
- [240 <./Images//pathwayrobot.jpg>] (08_MR.tex) [241]
-Underfull \hbox (badness 10000) in paragraph at lines 381--382
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [240 <./Images//epicflywheel.jpg>] (08_MR.tex) [241 <./Images//pathwayrobot.jp
+g>]
+[242]
+Underfull \hbox (badness 10000) in paragraph at lines 380--381
 
  []
 
-) [242]
+) [243] [244
+
+]
 Chapter 8.
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 183.
 (pdftex.def)             Requested size: 421.10078pt x 194.94781pt.
-(09_AIandML.tex [243
-
-]
-<Images//ai.jpg, id=4178, 642.4pt x 636.3775pt>
+(09_AIandML.tex [245]
+<Images//ai.jpg, id=4189, 642.4pt x 636.3775pt>
 File: Images//ai.jpg Graphic file (type jpg)
 <use Images//ai.jpg>
 Package pdftex.def Info: Images//ai.jpg  used on input line 8.
 (pdftex.def)             Requested size: 278.83702pt x 276.22964pt.
- [244 <./Images//ai.jpg>]
-<Images//gpt.png, id=4187, 258.9675pt x 195.73125pt>
+ [246 <./Images//ai.jpg>]
+<Images//gpt.png, id=4198, 258.9675pt x 195.73125pt>
 File: Images//gpt.png Graphic file (type png)
 <use Images//gpt.png>
 Package pdftex.def Info: Images//gpt.png  used on input line 33.
 (pdftex.def)             Requested size: 278.83702pt x 210.77135pt.
- [245] [246 <./Images//gpt.png (PNG copy)>] [247] [248] [249] [250] [251]
+ [247] [248 <./Images//gpt.png (PNG copy)>] [249] [250] [251] [252] [253]
 Underfull \vbox (badness 4242) has occurred while \output is active []
 
- [252]
+ [254]
 Underfull \hbox (badness 10000) in paragraph at lines 115--116
 
  []
 
-[253]
+[255]
 Underfull \hbox (badness 10000) in paragraph at lines 129--130
 
  []
 
-[254]) [255] [256
+[256]) [257] [258
 
 ]
 Chapter 9.
@@ -2275,7 +2297,7 @@ File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
 Package pdftex.def Info: Images//orange2.jpg  used on input line 186.
 (pdftex.def)             Requested size: 421.10078pt x 194.94781pt.
-(10_proposition.tex (08_metaverse_points.tex [257]
+(10_proposition.tex (08_metaverse_points.tex [259]
 Overfull \hbox (4.25616pt too wide) in paragraph at lines 13--14
 []\T1/ptm/m/n/10 (-20) Uniting these at-tempts, with portable (trans-fer-able) 
 ``goods'' across
@@ -2290,61 +2312,61 @@ ng blockchain
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [258]
+ [260]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [259])
-<Images//pyramid.jpg, id=4310, 2791.42876pt x 2255.42625pt>
+ [261])
+<Images//pyramid.jpg, id=4321, 2791.42876pt x 2255.42625pt>
 File: Images//pyramid.jpg Graphic file (type jpg)
 <use Images//pyramid.jpg>
 Package pdftex.def Info: Images//pyramid.jpg  used on input line 8.
 (pdftex.def)             Requested size: 278.83702pt x 225.28052pt.
-<Images//highlevelstack.png, id=4311, 1066.98625pt x 704.6325pt>
+<Images//highlevelstack.png, id=4322, 1066.98625pt x 704.6325pt>
 File: Images//highlevelstack.png Graphic file (type png)
 <use Images//highlevelstack.png>
 Package pdftex.def Info: Images//highlevelstack.png  used on input line 13.
 (pdftex.def)             Requested size: 278.83702pt x 184.13554pt.
 
-[260] [261 <./Images//pyramid.jpg>]
+[262] [263 <./Images//pyramid.jpg>]
 Underfull \vbox (badness 5519) has occurred while \output is active []
 
- [262 <./Images//highlevelstack.png>]
-<Images//vircadiasd.png, id=4339, 992.70876pt x 1190.4475pt>
+ [264 <./Images//highlevelstack.png>]
+<Images//vircadiasd.png, id=4350, 992.70876pt x 1190.4475pt>
 File: Images//vircadiasd.png Graphic file (type png)
 <use Images//vircadiasd.png>
 Package pdftex.def Info: Images//vircadiasd.png  used on input line 46.
 (pdftex.def)             Requested size: 278.83702pt x 334.37659pt.
-<Images//robotvp.png, id=4341, 1025.33063pt x 588.69937pt>
+<Images//robotvp.png, id=4352, 1025.33063pt x 588.69937pt>
 File: Images//robotvp.png Graphic file (type png)
 <use Images//robotvp.png>
 Package pdftex.def Info: Images//robotvp.png  used on input line 53.
 (pdftex.def)             Requested size: 278.83702pt x 160.09177pt.
- [263]
+ [265]
 Overfull \hbox (1.8628pt too wide) in paragraph at lines 70--72
 \T1/ptm/m/n/10 (-20) We will base our iden-tity and ob-ject man-age-ment on Nos
 tr pub-lic/private
  []
 
-[264]
+[266]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [265]
-<Images//globalclassroom.png, id=4366, 1484.04437pt x 1121.18875pt>
+ [267]
+<Images//globalclassroom.png, id=4378, 1484.04437pt x 1121.18875pt>
 File: Images//globalclassroom.png Graphic file (type png)
 <use Images//globalclassroom.png>
 Package pdftex.def Info: Images//globalclassroom.png  used on input line 91.
 (pdftex.def)             Requested size: 278.83702pt x 210.65007pt.
-<Images//systemc4.png, id=4367, 1576.89125pt x 1024.82875pt>
+<Images//systemc4.png, id=4379, 1576.89125pt x 1024.82875pt>
 File: Images//systemc4.png Graphic file (type png)
 <use Images//systemc4.png>
 Package pdftex.def Info: Images//systemc4.png  used on input line 97.
 (pdftex.def)             Requested size: 278.83702pt x 181.20859pt.
 )
-[266] [267 <./Images//vircadiasd.png (PNG copy)>] [268 <./Images//robotvp.png> 
-<./Images//globalclassroom.png>] [269 <./Images//systemc4.png>] [270
+[268] [269 <./Images//vircadiasd.png (PNG copy)>] [270 <./Images//robotvp.png> 
+<./Images//globalclassroom.png>] [271 <./Images//systemc4.png>] [272
 
 ]
-(metaverseBTC.ptc) [271] [272] (HOWTO.tex [273]
+(metaverseBTC.ptc) [273] [274] (HOWTO.tex [275]
 Overfull \hbox (124.16394pt too wide) in paragraph at lines 81--86
 []\T1/ptm/m/n/10 (-20) Keep in mind that this setup uses the Prox-mox VE in-sta
 ller (https://www.proxmox.com/en/proxmox-
@@ -2371,7 +2393,7 @@ Overfull \hbox (38.71043pt too wide) in paragraph at lines 148--148
  
  []
 
-[274]
+[276]
 Overfull \hbox (93.82198pt too wide) in paragraph at lines 150--150
 []\T1/cmtt/m/n/10 deb http://download.proxmox.com/debian/pve bullseye pve-no-su
 bscription[] 
@@ -2423,7 +2445,7 @@ Overfull \hbox (125.31429pt too wide) in paragraph at lines 175--175
 ity main contrib[] 
  []
 
-[275]
+[277]
 Underfull \hbox (badness 10000) in paragraph at lines 216--218
 \T1/ptm/m/n/10 (-7) only-isolated-network-for-guest-os-virtual-machines-vm-on-p
 roxmox-
@@ -2447,7 +2469,7 @@ Overfull \hbox (188.2989pt too wide) in paragraph at lines 254--254
 yos/vyos-build:equuleus bash[] 
  []
 
-[276] [277]
+[278] [279]
 Overfull \hbox (88.31082pt too wide) in paragraph at lines 369--369
 []\T1/cmtt/m/n/10 set protocols static route 0.0.0.0/0 next-hop 192.168.x.254 d
 istance 1[] 
@@ -2464,7 +2486,7 @@ Overfull \hbox (11.1717pt too wide) in paragraph at lines 394--396
 .github.io/cheat-
  []
 
-[278]
+[280]
 Overfull \hbox (9.51027pt too wide) in paragraph at lines 428--429
 []\T1/ptm/m/n/10 (-20) https://github.com/fort-nix/nix-bitcoin/blob/master/docs
 /hardware.md 
@@ -2482,13 +2504,13 @@ Overfull \hbox (1.8337pt too wide) in paragraph at lines 450--451
 nload.html) 
  []
 
-[279]
+[281]
 Overfull \hbox (67.57838pt too wide) in paragraph at lines 532--532
 []\T1/cmtt/m/n/10 $ ip route add 192.168.y.0/24 dev ens18 scope link src 192.16
 8.y.3[] 
  []
 
-[280] [281]
+[282] [283]
 Overfull \hbox (165.20454pt too wide) in paragraph at lines 631--631
 []\T1/cmtt/m/n/10 set nat destination rule 12 description 'Port Forward: 2222 t
 o 22 SSH on 192.168.y.2'[] 
@@ -2512,7 +2534,7 @@ Overfull \hbox (39.2353pt too wide) in paragraph at lines 661--661
 [] 
  []
 
-[282]
+[284]
 Overfull \hbox (124.56813pt too wide) in paragraph at lines 729--730
 []\T1/cmtt/m/n/10 curl -o install-nix-2.6.0 https://releases.nixos.org/nix/nix-
 2.6.0/install 
@@ -2540,13 +2562,13 @@ Overfull \hbox (14.49846pt too wide) in paragraph at lines 743--745
 download.html#nix-
  []
 
-[283]
+[285]
 Overfull \hbox (134.2371pt too wide) in paragraph at lines 804--804
 []    \T1/cmtt/m/n/10 "hardware-configuration.nix".file = toString ../hardware-
 configuration.nix;[] 
  []
 
-[284]
+[286]
 Overfull \hbox (55.50633pt too wide) in paragraph at lines 812--812
 []  \T1/cmtt/m/n/10 source = import ./sources.nix { inherit extraSources krops;
  };[] 
@@ -2582,20 +2604,20 @@ Overfull \hbox (296.94737pt too wide) in paragraph at lines 847--847
 " "virtio_pci" "virtio_scsi" "sd_mod" "sr_mod" ];[] 
  []
 
-[285]
+[287]
 Overfull \hbox (239.21147pt too wide) in paragraph at lines 862--862
 []  \T1/cmtt/m/n/10 hardware.cpu.intel.updateMicrocode = lib.mkDefault config.h
 ardware.enableRedistributableFirmware;[] 
  []
 
-[286]) (HOWTO_VIRCADIA.tex
+[288]) (HOWTO_VIRCADIA.tex
 pdfTeX warning (ext4): destination with the same identifier (name{overview}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.5 \subsection{Overview}\label{overview}}
-                                           [287]
-<Images//UbuntuDesktop20_04Settings.png, id=4560, 767.86874pt x 371.13657pt>
+                                           [289]
+<Images//UbuntuDesktop20_04Settings.png, id=4573, 767.86874pt x 371.13657pt>
 File: Images//UbuntuDesktop20_04Settings.png Graphic file (type png)
 <use Images//UbuntuDesktop20_04Settings.png>
 Package pdftex.def Info: Images//UbuntuDesktop20_04Settings.png  used on input 
@@ -2606,7 +2628,7 @@ Overfull \hbox (15.93224pt too wide) in paragraph at lines 54--55
  [][] 
  []
 
-<Images//UbuntuDesktop20_04SettingsNetwork.png, id=4561, 766.36313pt x 465.2381
+<Images//UbuntuDesktop20_04SettingsNetwork.png, id=4574, 766.36313pt x 465.2381
 3pt>
 File: Images//UbuntuDesktop20_04SettingsNetwork.png Graphic file (type png)
 <use Images//UbuntuDesktop20_04SettingsNetwork.png>
@@ -2623,8 +2645,8 @@ Overfull \hbox (25.58864pt too wide) in paragraph at lines 87--87
 []\T1/cmtt/m/n/10 git clone https://github.com/vircadia/vircadia-builder.git 
  []
 
-[288 <./Images//UbuntuDesktop20_04Settings.png>]
-<Images//UbuntuDesktop20_04VircadiaBuildSettings.png, id=4569, 764.10469pt x 47
+[290 <./Images//UbuntuDesktop20_04Settings.png>]
+<Images//UbuntuDesktop20_04VircadiaBuildSettings.png, id=4582, 764.10469pt x 47
 7.28313pt>
 File: Images//UbuntuDesktop20_04VircadiaBuildSettings.png Graphic file (type pn
 g)
@@ -2637,7 +2659,7 @@ Overfull \hbox (15.93224pt too wide) in paragraph at lines 106--107
  [][] 
  []
 
-<Images//UbuntuDesktop20_04VircadiaQTWarnings.png, id=4570, 765.6103pt x 502.87
+<Images//UbuntuDesktop20_04VircadiaQTWarnings.png, id=4583, 765.6103pt x 502.87
 875pt>
 File: Images//UbuntuDesktop20_04VircadiaQTWarnings.png Graphic file (type png)
 <use Images//UbuntuDesktop20_04VircadiaQTWarnings.png>
@@ -2649,7 +2671,7 @@ Overfull \hbox (15.93224pt too wide) in paragraph at lines 119--120
  [][] 
  []
 
-[289 <./Images//UbuntuDesktop20_04SettingsNetwork.png>] [290 <./Images//UbuntuD
+[291 <./Images//UbuntuDesktop20_04SettingsNetwork.png>] [292 <./Images//UbuntuD
 esktop20_04VircadiaBuildSettings.png> <./Images//UbuntuDesktop20_04VircadiaQTWa
 rnings.png>]
 Overfull \hbox (36.08607pt too wide) in paragraph at lines 138--138
@@ -2693,7 +2715,7 @@ Overfull \hbox (333.16353pt too wide) in paragraph at lines 186--186
 (+2): (udp) main connection from clients on 192.168.y.4'[] 
  []
 
-[291]
+[293]
 Overfull \hbox (39.2353pt too wide) in paragraph at lines 190--190
 []\T1/cmtt/m/n/10 set nat destination rule 17 translation address '192.168.y.4'
 [] 
@@ -2729,7 +2751,7 @@ Overfull \hbox (23.53879pt too wide) in paragraph at lines 228--232
  http://localhost:40100)
  []
 
-<Images//Vircadia1.png, id=4590, 763.35187pt x 572.89032pt>
+<Images//Vircadia1.png, id=4602, 763.35187pt x 572.89032pt>
 File: Images//Vircadia1.png Graphic file (type png)
 <use Images//Vircadia1.png>
 Package pdftex.def Info: Images//Vircadia1.png  used on input line 240.
@@ -2739,7 +2761,7 @@ Overfull \hbox (15.93224pt too wide) in paragraph at lines 240--241
  [][] 
  []
 
-<Images//Vircadia2.png, id=4591, 764.8575pt x 571.38469pt>
+<Images//Vircadia2.png, id=4603, 764.8575pt x 571.38469pt>
 File: Images//Vircadia2.png Graphic file (type png)
 <use Images//Vircadia2.png>
 Package pdftex.def Info: Images//Vircadia2.png  used on input line 248.
@@ -2749,7 +2771,7 @@ Overfull \hbox (15.93224pt too wide) in paragraph at lines 248--249
  [][] 
  []
 
-<Images//Vircadia3.png, id=4592, 766.36313pt x 572.1375pt>
+<Images//Vircadia3.png, id=4604, 766.36313pt x 572.1375pt>
 File: Images//Vircadia3.png Graphic file (type png)
 <use Images//Vircadia3.png>
 Package pdftex.def Info: Images//Vircadia3.png  used on input line 256.
@@ -2759,7 +2781,7 @@ Overfull \hbox (15.93224pt too wide) in paragraph at lines 256--257
  [][] 
  []
 
-<Images//Vircadia4.png, id=4593, 766.36313pt x 575.14874pt>
+<Images//Vircadia4.png, id=4605, 766.36313pt x 575.14874pt>
 File: Images//Vircadia4.png Graphic file (type png)
 <use Images//Vircadia4.png>
 Package pdftex.def Info: Images//Vircadia4.png  used on input line 264.
@@ -2769,7 +2791,7 @@ Overfull \hbox (15.93224pt too wide) in paragraph at lines 264--265
  [][] 
  []
 
-<Images//Vircadia5.png, id=4594, 767.11594pt x 572.1375pt>
+<Images//Vircadia5.png, id=4606, 767.11594pt x 572.1375pt>
 File: Images//Vircadia5.png Graphic file (type png)
 <use Images//Vircadia5.png>
 Package pdftex.def Info: Images//Vircadia5.png  used on input line 272.
@@ -2779,9 +2801,9 @@ Overfull \hbox (15.93224pt too wide) in paragraph at lines 272--273
  [][] 
  []
 
-[292] [293 <./Images//Vircadia1.png> <./Images//Vircadia2.png>] [294 <./Images/
+[294] [295 <./Images//Vircadia1.png> <./Images//Vircadia2.png>] [296 <./Images/
 /Vircadia3.png> <./Images//Vircadia4.png>]
-<Images//Vircadia6.png, id=4615, 764.8575pt x 572.89032pt>
+<Images//Vircadia6.png, id=4628, 764.8575pt x 572.89032pt>
 File: Images//Vircadia6.png Graphic file (type png)
 <use Images//Vircadia6.png>
 Package pdftex.def Info: Images//Vircadia6.png  used on input line 281.
@@ -2791,13 +2813,13 @@ Overfull \hbox (15.93224pt too wide) in paragraph at lines 281--282
  [][] 
  []
 
-[295 <./Images//Vircadia5.png>]
+[297 <./Images//Vircadia5.png>]
 Overfull \hbox (92.77223pt too wide) in paragraph at lines 344--344
 []\T1/cmtt/m/n/10 sudo tar -xJvf node-v16.14.2-linux-x64.tar.xz -C /usr/local/l
 ib/nodejs/[] 
  []
 
-[296 <./Images//Vircadia6.png>]
+[298 <./Images//Vircadia6.png>]
 Overfull \hbox (72.8271pt too wide) in paragraph at lines 352--352
 []\T1/cmtt/m/n/10 export PATH=/usr/local/lib/nodejs/node-v16.14.2-linux-x64/bin
 :$PATH 
@@ -2827,7 +2849,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 407--408
 b-on-
  []
 
-[297]
+[299]
 Overfull \hbox (183.05019pt too wide) in paragraph at lines 418--418
 []\T1/cmtt/m/n/10 connecting to: mongodb://127.0.0.1:27017/?compressors=disable
 d&gssapiServiceName=mongodb[] 
@@ -2912,7 +2934,7 @@ Overfull \hbox (166.25429pt too wide) in paragraph at lines 454--454
 ", roles: [ "backup" ]})[] 
  []
 
-[298]
+[300]
 Overfull \hbox (328.96455pt too wide) in paragraph at lines 456--456
 []\T1/cmtt/m/n/10 db.createUser({user:"cadiauser", pwd: "aReallyComplexPassword
 3", roles: [{ role: "readWrite", db: "domainstore" }]})[] 
@@ -2935,7 +2957,7 @@ Overfull \hbox (78.07582pt too wide) in paragraph at lines 503--503
 o.json"[] 
  []
 
-[299]
+[301]
 Overfull \hbox (46.58351pt too wide) in paragraph at lines 532--532
 []        \T1/cmtt/m/n/10 'metaverse-server-url': '',   // if empty, set to sel
 f[] 
@@ -3012,7 +3034,7 @@ Overfull \hbox (204.04506pt too wide) in paragraph at lines 560--560
 omain, place, account, ... name[] 
  []
 
-[300]
+[302]
 Overfull \hbox (272.2784pt too wide) in paragraph at lines 563--563
 []        \T1/cmtt/m/n/10 'heartbeat-seconds-until-offline': 5 * 60,      // se
 conds until non-heartbeating user is offline[] 
@@ -3195,7 +3217,7 @@ Overfull \hbox (223.99019pt too wide) in paragraph at lines 603--603
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [301]
+ [303]
 Overfull \hbox (280.15147pt too wide) in paragraph at lines 604--604
 []        \T1/cmtt/m/n/10 'email-verification-success-redirect': 'METAVERSE_SER
 VER_URL/static/verificationEmailSuccess.html',[] 
@@ -3282,7 +3304,7 @@ or backup user. Optional. Defaults to "admin"[]
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [302]
+ [304]
 Overfull \hbox (30.83736pt too wide) in paragraph at lines 646--646
 []        \T1/cmtt/m/n/10 'log-to-files': true,         // if to log to files[]
  
@@ -3383,7 +3405,7 @@ Overfull \hbox (39.2353pt too wide) in paragraph at lines 690--690
 [] 
  []
 
-[303]
+[305]
 Overfull \hbox (30.83736pt too wide) in paragraph at lines 713--713
 []\T1/cmtt/m/n/10 set nat destination rule 16 destination address 192.168.x.z 
  []
@@ -3420,14 +3442,14 @@ Overfull \hbox (14.99995pt too wide) in paragraph at lines 743--766
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [304]
-[305]
+ [306]
+[307]
 Overfull \hbox (35.24425pt too wide) in paragraph at lines 843--849
 []\T1/ptm/m/n/10 (-20) A new page should open (http://a.b.c.d:9400/static/Domai
 nTokenLogin.html)
  []
 
-[306]
+[308]
 Overfull \hbox (165.20454pt too wide) in paragraph at lines 904--904
 []\T1/cmtt/m/n/10 set nat destination rule 14 description 'Port Forward: 2224 t
 o 22 SSH on 192.168.y.4'[] 
@@ -3451,7 +3473,7 @@ Overfull \hbox (39.2353pt too wide) in paragraph at lines 932--932
 [] 
  []
 
-) [307] [308
+) [309] [310
 
 ]
 Chapter 10.
@@ -3477,7 +3499,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--15
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [309]
+ [311]
 Underfull \hbox (badness 10000) in paragraph at lines 16--18
 
  []
@@ -3500,7 +3522,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--30
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [310]
+ [312]
 Underfull \hbox (badness 10000) in paragraph at lines 31--32
 
  []
@@ -3513,7 +3535,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--54
 
 Underfull \vbox (badness 1117) has occurred while \output is active []
 
- [311]
+ [313]
 Underfull \hbox (badness 10000) in paragraph at lines 61--74
 
  []
@@ -3536,7 +3558,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 81--84
 
 Underfull \vbox (badness 8019) has occurred while \output is active []
 
- [312]
+ [314]
 Underfull \hbox (badness 10000) in paragraph at lines 86--89
 
  []
@@ -3556,7 +3578,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 104--108
 
  []
 
-[313]
+[315]
 Underfull \hbox (badness 10000) in paragraph at lines 109--120
 
  []
@@ -3587,15 +3609,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 127--130
 
  []
 
-) [314] (metaverseBTC.ptc) [315
+) [316] (metaverseBTC.ptc) [317
 
-] [316]
-<Images//JOH.jpg, id=4861, 110.66344pt x 165.61874pt>
+] [318]
+<Images//JOH.jpg, id=4873, 110.66344pt x 165.61874pt>
 File: Images//JOH.jpg Graphic file (type jpg)
 <use Images//JOH.jpg>
 Package pdftex.def Info: Images//JOH.jpg  used on input line 206.
 (pdftex.def)             Requested size: 103.49965pt x 154.90579pt.
-<Images//AF.png, id=4863, 379.4175pt x 504.38437pt>
+<Images//AF.png, id=4875, 379.4175pt x 504.38437pt>
 File: Images//AF.png Graphic file (type png)
 <use Images//AF.png>
 Package pdftex.def Info: Images//AF.png  used on input line 217.
@@ -3610,7 +3632,7 @@ Overfull \hbox (92.01671pt too wide) in paragraph at lines 201--219
 [][][]$[]$ 
  []
 
-<Images//UA.jpg, id=4865, 200.75pt x 200.75pt>
+<Images//UA.jpg, id=4877, 200.75pt x 200.75pt>
 File: Images//UA.jpg Graphic file (type jpg)
 <use Images//UA.jpg>
 Package pdftex.def Info: Images//UA.jpg  used on input line 225.
@@ -3620,12 +3642,12 @@ Overfull \hbox (92.01671pt too wide) in paragraph at lines 220--227
 [][][]$[]$ 
  []
 
-[317 <./Images//JOH.jpg> <./Images//AF.png>] [318 <./Images//UA.jpg>] [319
+[319 <./Images//JOH.jpg> <./Images//AF.png>] [320 <./Images//UA.jpg>] [321
 
 ]
-[320
+[322
 
-] [321]
+] [323]
 Overfull \hbox (5.94284pt too wide) in paragraph at lines 245--245
 []\T1/ptm/m/n/10 (-20) Various. \T1/ptm/m/it/10 (-20) Cypher Punks Mail-ing Lis
 t Archives\T1/ptm/m/n/10 (-20) . 1990. \T1/ptm/m/sc/10 (-20) url\T1/ptm/m/n/10 
@@ -3662,19 +3684,19 @@ Overfull \hbox (6.89291pt too wide) in paragraph at lines 245--245
 blockchain
  []
 
-[322]
+[324]
 Overfull \hbox (1.51773pt too wide) in paragraph at lines 245--245
 \T1/ptm/m/it/10 (-20) IEEE Ac-cess \T1/ptm/m/n/10 (-20) 8 (2020), pages 125244
 125262 (cited on page [][]54[][]). 
  []
 
-[323] [324]
+[325] [326]
 Overfull \hbox (8.55547pt too wide) in paragraph at lines 245--245
 []\T1/ptm/m/n/10 (-20) Victor Gayoso Mar-tinez, Lorena Gonzalez-Manzano, and Ag
 ustin
  []
 
-[325] [326] [327] [328]
+[327] [328] [329] [330]
 Overfull \hbox (25.2342pt too wide) in paragraph at lines 245--245
 []\T1/ptm/m/n/10 (-20) J. Wang. \T1/ptm/m/it/10 (-20) Cen-tral Bank-ing 101\T1/
 ptm/m/n/10 (-20) . JOSEPH, 2021. \T1/ptm/m/sc/10 (-20) isbn\T1/ptm/m/n/10 (-20)
@@ -3697,19 +3719,19 @@ oreno.
 Package biblatex Warning: No driver for entry type 'other'.
 (biblatex)                Using fallback driver on input line 242.
 
-[329]
+[331]
 Overfull \hbox (4.76137pt too wide) in paragraph at lines 245--245
 [][]$\T1/cmtt/m/n/10 https : / / books . google . co . uk / books ? id = 14onzw
 EACAAJ$[][]
  []
 
-[330]
+[332]
 Overfull \hbox (2.1522pt too wide) in paragraph at lines 245--245
 []\T1/ptm/m/n/10 (-20) Stylianos Mys-takidis. ``Meta-verse''. In: \T1/ptm/m/it/
 10 (-20) En-cy-clo-pe-dia \T1/ptm/m/n/10 (-20) 2.1 (2022),
  []
 
-[331]
+[333]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Wolff2008' on input line 242.
@@ -3740,11 +3762,11 @@ Package biblatex Warning: Month out of range or not an integer
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Roberts2013' on input line 242.
 
+[334]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Sellen1992' on input line 242.
 
-[332]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Sellen1995' on input line 242.
@@ -3775,11 +3797,11 @@ pported
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Bardram2012' on input line 242.
 
+[335]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Adamczyk2007' on input line 242.
 
-[333]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Ishii1993' on input line 242.
@@ -3796,7 +3818,7 @@ Package biblatex Warning: Month out of range or not an integer
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Vertegaal2002' on input line 242.
 
-[334]
+[336]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Bock2008' on input line 242.
@@ -3817,7 +3839,7 @@ Package biblatex Warning: Month out of range or not an integer
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Otsuka2005' on input line 242.
 
-[335]
+[337]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Goodwin2000' on input line 242.
@@ -3850,7 +3872,7 @@ Package biblatex Warning: Month out of range or not an integer
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Langton2000' on input line 242.
 
-[336]
+[338]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Macrae2002' on input line 242.
@@ -3881,7 +3903,7 @@ Overfull \hbox (5.93826pt too wide) in paragraph at lines 245--245
 -mediated
  []
 
-[337]
+[339]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Fagel2010' on input line 242.
@@ -3894,7 +3916,7 @@ Package biblatex Warning: Month out of range or not an integer
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Boker2011' on input line 242.
 
-[338]
+[340]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Rienks2010' on input line 242.
@@ -3933,7 +3955,7 @@ Package biblatex Warning: Month out of range or not an integer
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Iverson2005' on input line 242.
 
-[339]
+[341]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Krauss1996' on input line 242.
@@ -3968,7 +3990,7 @@ Package biblatex Warning: Month out of range or not an integer
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Tang2006' on input line 242.
 
-[340]
+[342]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Norris2013' on input line 242.
@@ -3999,7 +4021,7 @@ Package biblatex Warning: Month out of range or not an integer
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Jetter2011' on input line 242.
 
-[341]
+[343]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Watson1966' on input line 242.
@@ -4028,7 +4050,7 @@ Package biblatex Warning: Month out of range or not an integer
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Carlston2013' on input line 242.
 
-[342]
+[344]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Deckers2013' on input line 242.
@@ -4049,7 +4071,7 @@ Package biblatex Warning: Month out of range or not an integer
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Berger1975' on input line 242.
 
-[343]
+[345]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Mihoub2015' on input line 242.
@@ -4078,7 +4100,7 @@ Package biblatex Warning: Month out of range or not an integer
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Hancock2004' on input line 242.
 
-[344]
+[346]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Holm2010' on input line 242.
@@ -4115,7 +4137,7 @@ Package biblatex Warning: Month out of range or not an integer
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Gunawardena1997' on input line 242.
 
-[345]
+[347]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Bulu2012' on input line 242.
@@ -4140,7 +4162,7 @@ dimensional
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Hauber2006' on input line 242.
 
-[346]
+[348]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Kauff2002' on input line 242.
@@ -4159,7 +4181,7 @@ Package biblatex Warning: Month out of range or not an integer
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Okada1994' on input line 242.
 
-[347]
+[349]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Kulik2011' on input line 242.
@@ -4184,7 +4206,7 @@ Package biblatex Warning: Month out of range or not an integer
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Bartneck2007' on input line 242.
 
-[348]
+[350]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Mitchell2011' on input line 242.
@@ -4213,7 +4235,7 @@ Package biblatex Warning: Month out of range or not an integer
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Tsui2011' on input line 242.
 
-[349]
+[351]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Paulos1998' on input line 242.
@@ -4242,7 +4264,7 @@ Package biblatex Warning: Month out of range or not an integer
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Lincoln2010' on input line 242.
 
-[350]
+[352]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Oyekoya2012' on input line 242.
@@ -4265,7 +4287,7 @@ Package biblatex Warning: Month out of range or not an integer
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Nagendran2012' on input line 242.
 
-[351]
+[353]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Bandyopadhyay2001' on input line 242.
@@ -4274,7 +4296,7 @@ Package biblatex Warning: Month out of range or not an integer
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Dalsgaard2011' on input line 242.
 
-[352] [353]
+[354] [355]
 Overfull \hbox (8.79591pt too wide) in paragraph at lines 245--245
 \T1/ptm/m/n/10 (-20) ing test?'' In: \T1/ptm/m/it/10 (-20) Jour-nal of Cul-tura
 l An-a-lyt-ics \T1/ptm/m/n/10 (-20) 5.2 (2020), page 17212
@@ -4286,12 +4308,12 @@ Overfull \hbox (1.22823pt too wide) in paragraph at lines 245--245
 Neu-
  []
 
-[354]
+[356]
 
 Package biblatex Warning: Month out of range or not an integer
 (biblatex)                at entry 'Fairchild2017' on input line 242.
 
-[355] [356
+[357] [358
 
 ] (metaverseBTC.ind)
 \tf@ptc=\write9
@@ -4313,10 +4335,10 @@ Package logreq Info: Writing requests to 'metaverseBTC.run.xml'.
 ### simple group (level 1) entered at line 58 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 38464 strings out of 478582
- 769232 string characters out of 2844816
- 1717396 words of memory out of 3000000
- 54025 multiletter control sequences out of 15000+600000
+ 38471 strings out of 478582
+ 769444 string characters out of 2844816
+ 1718857 words of memory out of 3000000
+ 54029 multiletter control sequences out of 15000+600000
  609241 words of font info for 550 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  98i,12n,94p,2444b,1575s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -4341,9 +4363,9 @@ b><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pf
 b><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb
 ><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb
 >
-Output written on metaverseBTC.pdf (356 pages, 45737187 bytes).
+Output written on metaverseBTC.pdf (358 pages, 45741984 bytes).
 PDF statistics:
- 5932 PDF objects out of 6186 (max. 8388607)
- 1288 named destinations out of 1440 (max. 500000)
+ 5948 PDF objects out of 6186 (max. 8388607)
+ 1291 named destinations out of 1440 (max. 500000)
  142354 words of extra memory for PDF output out of 154059 (max. 10000000)
 

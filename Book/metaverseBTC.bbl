@@ -3982,6 +3982,58 @@
       \field{pages}{86\bibrangedash 94}
       \range{pages}{9}
     \endentry
+    \entry{hennig2022social}{article}{}
+      \name{author}{6}{}{%
+        {{hash=7bfde80ecc3a91d346e4e0efb789052f}{%
+           family={Hennig-Thurau},
+           familyi={H\bibinithyphendelim T\bibinitperiod},
+           given={Thorsten},
+           giveni={T\bibinitperiod}}}%
+        {{hash=61dcd19b66220ee0765738e8ad88ca21}{%
+           family={Aliman},
+           familyi={A\bibinitperiod},
+           given={Dorothea\bibnamedelima N},
+           giveni={D\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=f8ce8396fc2264056f9ac9b5f226da24}{%
+           family={Herting},
+           familyi={H\bibinitperiod},
+           given={Alina\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=e326c108cc0ccd1458f8671eb8142274}{%
+           family={Cziehso},
+           familyi={C\bibinitperiod},
+           given={Gerrit\bibnamedelima P},
+           giveni={G\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=63f11d8f3dd4e97e3d2173d8b3cc2534}{%
+           family={Linder},
+           familyi={L\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1c143ac79a68475ff77ec3d6d41feb22}{%
+           family={Kübler},
+           familyi={K\bibinitperiod},
+           given={Raoul\bibnamedelima V},
+           giveni={R\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{c27048d3f8a2a74c5160a6d3d1e8ac4d}
+      \strng{fullhash}{3af2fe829c549c59d02d55817cd5abfa}
+      \strng{bibnamehash}{c27048d3f8a2a74c5160a6d3d1e8ac4d}
+      \strng{authorbibnamehash}{c27048d3f8a2a74c5160a6d3d1e8ac4d}
+      \strng{authornamehash}{c27048d3f8a2a74c5160a6d3d1e8ac4d}
+      \strng{authorfullhash}{3af2fe829c549c59d02d55817cd5abfa}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Academy of Marketing Science}
+      \field{title}{Social interactions in the metaverse: Framework, initial evidence, and research roadmap}
+      \field{year}{2022}
+      \field{pages}{1\bibrangedash 25}
+      \range{pages}{25}
+    \endentry
     \entry{Bloom2015}{article}{}
       \name{author}{4}{}{%
         {{hash=1f9ed1162402cc5a63ec1d1f470ea527}{%
@@ -9947,8 +9999,8 @@
       \strng{authornamehash}{d72f3cc85b88a1d81e31890ad3eda6f3}
       \strng{authorfullhash}{7de8249aa7746fa4af39301cde124cb0}
       \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 2006 20th anniversary conference on Computer supported cooperative work}
