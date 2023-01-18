@@ -56,7 +56,7 @@ Reinforcement learning is a type of machine learning that involves an agent lear
 
 \subsubsection{TPUs}
 Tensor Processing Units (TPUs) are specialized hardware accelerators for machine learning workloads, developed by Google. TPUs are designed to speed up the training and inference of machine learning models, particularly large deep neural networks. They are highly parallel and optimized for low-precision arithmetic, which allows them to perform computations much faster than traditional CPUs or GPUs. TPUs can be used in a variety of machine learning applications, such as natural language processing, computer vision, and speech recognition. Google has integrated TPUs into its cloud platform, allowing developers to easily use them for their machine learning workloads. Overall, TPUs provide a powerful and efficient platform for machine learning.
-The top of the line Nvidia tensorflow unit at this time is \href{Accelerating TensorFlow on NVIDIA A100 GPUs}{the A100}, and it is comparable if more generalised hardware.
+The top of the line Nvidia tensorflow unit at this time is the A100, and it is comparable if more generalised hardware.
 \subsubsection{Tensorflow}
 TensorFlow is a popular open-source machine learning framework developed by Google and was instrumental in kicking off a lot of this research area. It is still widely used for training and deploying machine learning models in a variety of applications, such as natural language processing, computer vision, and speech recognition, but is being somewhat superceded by JAX. The consensus seems to be that JAX itself is more specialised and harder to use, but works well with Googles hardware cloud systems. Time will tell if this upgrade gets community traction. TensorFlow provides a flexible and high-performance platform for building and deploying machine learning models. It allows users to define, train, and evaluate models using a variety of deep learning algorithms, such as convolutional neural networks and recurrent neural networks. TensorFlow also has a strong emphasis on scalability and performance, with support for distributed training and deployment on a variety of platforms, including GPUs and TPUs. Overall, TensorFlow is a powerful tool for building and deploying machine learning models.
 \subsubsection{PyTorch}
@@ -75,7 +75,26 @@ Runway is VFX software in the cloud, trained with Stable Diffusion machine learn
 \subsubsection{ChatGPT}
 ChatGPT is a neural network-based natural language processing (NLP) model developed by OpenAI. It is based on the GPT-3, being described as OpenAI as the version 3.5 model, which is a transformer-based architecture that uses self-attention mechanisms to generate high-quality text in a variety of different languages. ChatGPT is specifically designed for conversational text generation, and has been trained on a large corpus of dialogue data in order to produce responses that are natural, diverse, and relevant to a given conversation. Because it is a large language model, ChatGPT has a vast amount of knowledge and can generate responses to a wide range of questions and prompts. This allows it to generate responses that are relevant, natural-sounding, and diverse in nature. It has been incredibly popular recently, demonstrating uncanny abilities for natural conversation, code generation, copy writing and more. It is substantially flawed in that it `speaks' with authority but often makes things up completely. This extended recently to creating academic references to back it's assertions, completely out of thin air. The beta interface and APIs seem to be evolving and improving in real time.\par
 The model uses a transformer-based architecture, which means that it consists of a series of interconnected ``blocks'' that process the input data and generate the output text. Each block contains multiple self-attention mechanisms, which allow the model to focus on different aspects of the input data and generate a response that is coherent and relevant to the conversation. In addition to its transformer-based architecture, ChatGPT also uses a variety of other techniques to improve its performance. For example, it uses beam search to generate multiple candidate responses for each input, and then selects the best one based on a combination of factors such as relevance, coherence, and diversity. This allows the model to generate high-quality responses that are appropriate for a given conversation. Additionally, ChatGPT uses a technique called ``response conditioning'' to bias the model towards generating responses that are appropriate for a given conversation context. This allows the model to generate more relevant and coherent responses, even when faced with challenging input data.
-
+\subsubsection{Faerie AI}
+Faerie AI is a new chat AI product paid for with lightning. As such is it perfect for us to integrate and play around with at this time. \href{https://faerie.ai/}{Their website says}:
+\begin{itemize}
+\item A chatbot with multiple chats, similar to ChatGPT
+\item Built on OpenAI APIs, which are way more reliable than ChatGPT itself
+\item Configurable - try different models/temperatures/prompts to find what works best for you
+\item Not free! Pay as you go, no subscription.
+Pay with Bitcoin Lightning
+\item ChatGPT's delays/limits/outages make it increasingly unusable
+\item ChatGPT's algorithms and built-in prompts keep changing and you can't edit its high temperature setting, so it's hard to get consistent results
+\item Faster, more reliable, ~100\% uptime, longer sessions, no aggressive rate limits
+\item Responses render all at once, without the slow letter-by-letter animation
+\item Option to use choose specific models and config options
+\item Most recent chats go to the top of the list
+Your code blocks (in backticks) are formatted nicely same as in responses
+\item Not as good as ChatGPT as intuiting your intent
+\item Its conversational memory is currently very simple, just including the last 10 messages
+\item Not optimized for mobile
+\item Conversations are saved to database in plaintext. Don't share sensitive information.
+\end{itemize}
 \subsection{Accessibility}
 \subsubsection{Real time transcription}
 Real-time language translation can be applied to text interfaces within metaverse applications. This can be useful in situations where users are typing or reading text, rather than speaking.\par
@@ -91,6 +110,7 @@ One of the challenges of using NMT in metaverse applications is the need for rea
 The use of NMT in metaverse applications is also an active area of research, with a number of papers exploring the potential of this technology. For example, the paper "Real-Time Neural Machine Translation for Virtual Reality" by Chen et al. describes the use of NMT algorithms in virtual reality environments, showing how they can be used to support real-time communication between users speaking different languages.\par
 Overall, the use of machine learning for real-time language translation is a rapidly-evolving field, with many exciting developments and applications. As the technology continues to advance, we can expect to see even more impressive results and applications in the future.
 \href{https://openai.com/blog/whisper/}{OpenAI whisper}
+
 \subsubsection{Real time description}
 \subsubsection{Interfaces}
 \href{https://tech.fb.com/ar-vr/2021/03/inside-facebook-reality-labs-wrist-based-interaction-for-the-next-computing-platform/}{emg}
