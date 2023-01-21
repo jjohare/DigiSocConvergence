@@ -1,6 +1,6 @@
 \section{Augmented intelligence and ML}
 \subsection{The Cambrian explosion of ML/AI}
-Even during the writing of this book there has been an inflection point in machine learning, to the point where the term ``artificial intelligence'' is feeling intuitively and subjectively real for the first time.  To be clear AI is still a pretty meaningless term. `Intelligence' is one of those slippery words which is highly dependent on context. A satnav system running on a phone can make an intelligent choice about a route by synthesising data and presenting comprehensible results, but it seems absurd to ascribe an intelligence to it. It's possible that there's some kind of ``spoooky'' quantum activity in play in a conscious human brain, something of an unknown unknown \cite{kerskens2022experimental}, and that we'll never get to what's called `strong' or `general' AI \cite{larson2021myth, searle1980minds}, reserved by some scientists for ``true consciousness'', whatever that means. With that said we may be approaching the threshold of the `Turing Test` \cite{sep-turing-test}, initially posited by Alan Turing in 1950 \cite{turing1950computing}, and the goalposts have begun to move in response to claims that there have been successful examples \cite{warwick2016can, french2012moving, french2000turing, searle2009turing}.\par
+During the writing of this book we have seen an inflection point in machine learning, to the point where the term ``artificial intelligence'' is feeling intuitively and subjectively real for the first time.  To be clear AI is still a pretty meaningless term. `Intelligence' is one of those slippery words which is highly dependent on context. A satnav system running on a phone can make an intelligent choice about a route by synthesising data and presenting comprehensible results, but it seems absurd to ascribe an intelligence to it. It's possible that there's some kind of ``spoooky'' quantum activity in play in a conscious human brain, something of an unknown unknown \cite{kerskens2022experimental}, and that we'll never get to what's called `strong' or `general' AI \cite{larson2021myth, searle1980minds}, reserved by some scientists for ``true consciousness'', whatever that means. With that said we may be approaching the threshold of the `Turing Test` \cite{sep-turing-test}, initially posited by Alan Turing in 1950 \cite{turing1950computing}, and the goalposts have begun to move in response to claims that there have been successful examples \cite{warwick2016can, french2012moving, french2000turing, searle2009turing}.\par
 To set the tone here let's have OpenAI's ChatGPT give us a definition:
 \textit{Intelligence is the ability to acquire and apply knowledge and skills in order to solve problems and adapt to new situations. It can involve a range of cognitive abilities, such as perception, learning, memory, reasoning, and decision-making. Intelligence is a complex and multifaceted concept that has been studied by psychologists, philosophers, and scientists for centuries.}\par
 The Oxford English Dictionary defines Artificial intelligence as ``The capacity of computers or other machines to exhibit or simulate intelligent behaviour''. This is very murky territory. The boundary line between very capable trained systems and something that \textit{feels} like intelligence is obviously a subjective one, and different for each person and context, (Figure \ref{fig:aiVenn}.\par
@@ -70,6 +70,51 @@ For example, in a generative model for images, the latent space may encode the f
 
 The latent space is an important aspect of generative models because it allows the model to capture the underlying structure of the data in a compact and efficient way. It also provides a way to control the generation process, such as by interpolating between latent space points to generate smooth transitions between samples. At this time the navigation through that mathematical space is steered by vectors into the space, which come from a separate and parallel integration of a natural language model. This crucial bridge came from research at OpenAI, and has been instrumental in the current explosion of usability of the systems \cite{radford2021learning}.
 \subsection{Consumer tools}
+Gozalo-Brizuela and Garrido-Merchan provide a helpful review and taxonomy of recent generative ML systems in their paper `ChatGPT is not all you need' \cite{gozalo2023chatgpt}, with Figure \ref{fig:MLtaxonomy} showing some of the main categories and systems. 
+
+\begin{figure}
+  \centering
+    \includegraphics[width=\linewidth]{mltaxonomy}
+  \caption{Taxonomy of \href{https://arxiv.org/abs/2301.04655}{recent generative ML systems} by Gozalo-Brizuela and Garrido-Merchan used with permission.}
+  \label{fig:MLtaxonomy}
+\end{figure}
+
+\begin{comment}
+-Text-to-Image
+DALL-E2
+Stable diffusion
+Muse
+Imagen
+-Text-to-3D
+dreamfusion
+magic3d
+-image-to-text
+Flamingo
+VisualGPT
+-Text-to-video
+Phenaki
+Soundify
+-Text-to-code
+Codex
+Alphacode
+-Text-to-Audio
+AudioLM
+Whisper
+Jukebox
+-Text-To-Text
+ChatGPT3
+PEER
+LaMDA
+Speech From Brain
+-Text-to-science
+Galactica
+Minerva
+-Other models
+Alphatensor
+GATO
+Human motion diffusion model
+\end{comment}
+
 \subsubsection{RunwayML}
 Runway is VFX software in the cloud, trained with Stable Diffusion machine learning. They are demonstrating incredible results for video editing.
 \subsubsection{ChatGPT}
