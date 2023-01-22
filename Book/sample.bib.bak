@@ -14190,4 +14190,21 @@
   year    = {2023},
 }
 
+@Article{Adams2023,
+  author  = {Adams, Austin and Lader, Mary-Catherine and Liao, Gordon and Puth, David and Wan, Xin},
+  journal = {SSRN:},
+  title   = {On-Chain Foreign Exchange and Cross-Border Payments},
+  year    = {2023},
+  month   = jan,
+}
+
+@InProceedings{sood2019implementation,
+  author       = {Sood, Aabhas and Simon, Rajbala},
+  booktitle    = {2019 4th international conference on information systems and computer networks (ISCON)},
+  title        = {Implementation of blockchain in cross border money transfer},
+  year         = {2019},
+  organization = {IEEE},
+  pages        = {104--107},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

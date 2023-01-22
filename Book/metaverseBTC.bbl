@@ -3665,6 +3665,80 @@
       \field{title}{On-Chain Foreign Exchange and Cross-Border Payments}
       \field{year}{2023}
     \endentry
+    \entry{sood2019implementation}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=83496cf1b81d7c3b25a96a59fa5b0b2d}{%
+           family={Sood},
+           familyi={S\bibinitperiod},
+           given={Aabhas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=bfccd9c6ea92272fa96f626676099c80}{%
+           family={Simon},
+           familyi={S\bibinitperiod},
+           given={Rajbala},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{ede444ffa87edc90ac24c8330c7ebe51}
+      \strng{fullhash}{ede444ffa87edc90ac24c8330c7ebe51}
+      \strng{bibnamehash}{ede444ffa87edc90ac24c8330c7ebe51}
+      \strng{authorbibnamehash}{ede444ffa87edc90ac24c8330c7ebe51}
+      \strng{authornamehash}{ede444ffa87edc90ac24c8330c7ebe51}
+      \strng{authorfullhash}{ede444ffa87edc90ac24c8330c7ebe51}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2019 4th international conference on information systems and computer networks (ISCON)}
+      \field{title}{Implementation of blockchain in cross border money transfer}
+      \field{year}{2019}
+      \field{pages}{104\bibrangedash 107}
+      \range{pages}{4}
+    \endentry
+    \entry{bechtel2022future}{incollection}{}
+      \name{author}{4}{}{%
+        {{hash=94f07537937d14db79b463f6f12aeeb1}{%
+           family={Bechtel},
+           familyi={B\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a6e1f3bc1e09a797ac5536fdb98c9ea8}{%
+           family={Ferreira},
+           familyi={F\bibinitperiod},
+           given={Agata},
+           giveni={A\bibinitperiod}}}%
+        {{hash=17ea017205e9eee4ad8fe688e3544bd8}{%
+           family={Gross},
+           familyi={G\bibinitperiod},
+           given={Jonas},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4f84a325c1f05cd8bca73cd94f99ce16}{%
+           family={Sandner},
+           familyi={S\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer, Singapore}%
+      }
+      \strng{namehash}{44588e2f1e3d5b0cace496a6f9c8a2f7}
+      \strng{fullhash}{758f915109c0b7b214ada1da829736dd}
+      \strng{bibnamehash}{44588e2f1e3d5b0cace496a6f9c8a2f7}
+      \strng{authorbibnamehash}{44588e2f1e3d5b0cace496a6f9c8a2f7}
+      \strng{authornamehash}{44588e2f1e3d5b0cace496a6f9c8a2f7}
+      \strng{authorfullhash}{758f915109c0b7b214ada1da829736dd}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Future of Financial Systems in the Digital Age}
+      \field{title}{The Future of Payments in a DLT-based European Economy: A Roadmap}
+      \field{year}{2022}
+      \field{pages}{89\bibrangedash 116}
+      \range{pages}{28}
+    \endentry
     \entry{swartz2008guerilla}{article}{}
       \name{author}{1}{}{%
         {{hash=044176fb833c1638f7abe20cde6a3077}{%
@@ -6805,8 +6879,8 @@
       \strng{authorbibnamehash}{9a98f628ab3fe1be021290a58f218ebe}
       \strng{authornamehash}{9a98f628ab3fe1be021290a58f218ebe}
       \strng{authorfullhash}{9a98f628ab3fe1be021290a58f218ebe}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{1581136307}
