@@ -3067,6 +3067,30 @@
       \field{pages}{131}
       \range{pages}{1}
     \endentry
+    \entry{giancarlo2021cryptodad}{book}{}
+      \name{author}{1}{}{%
+        {{hash=94d8c332d8d11a528019b2613f936e24}{%
+           family={Giancarlo},
+           familyi={G\bibinitperiod},
+           given={J\bibnamedelima Christopher},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons}%
+      }
+      \strng{namehash}{94d8c332d8d11a528019b2613f936e24}
+      \strng{fullhash}{94d8c332d8d11a528019b2613f936e24}
+      \strng{bibnamehash}{94d8c332d8d11a528019b2613f936e24}
+      \strng{authorbibnamehash}{94d8c332d8d11a528019b2613f936e24}
+      \strng{authornamehash}{94d8c332d8d11a528019b2613f936e24}
+      \strng{authorfullhash}{94d8c332d8d11a528019b2613f936e24}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{CryptoDad: The Fight for the Future of Money}
+      \field{year}{2021}
+    \endentry
     \entry{wang2021central}{book}{}
       \name{author}{1}{}{%
         {{hash=3702f1c146e64a6c91fc47b81ea59fc7}{%
@@ -6848,8 +6872,8 @@
       \strng{authorbibnamehash}{c4f80e71867ede3ef70425f350e10ab4}
       \strng{authornamehash}{c4f80e71867ede3ef70425f350e10ab4}
       \strng{authorfullhash}{c4f80e71867ede3ef70425f350e10ab4}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of graphics interface}

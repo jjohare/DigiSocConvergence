@@ -75,13 +75,14 @@ On the surface then it might seem that the choice is Bitcoin again, and indeed t
 \subsection{Slashtags}
 Slashtags is a distributed identity open method being developed by Bitfinex and Tether under the Synonym suite. It's origins date back to 2011 and was initially seeded through academia, and government innovation grants to build on the concepts of BitTorrent, and later \href{https://dat-ecosystem.org/timeline.html}{DAT}. This eventually became the Hypercore protocol, with an additional rebranding to Holepunch in 2021. It is essentially this system, a mobile app UX, and Bitcoin integration which forms the Synonym/Slashtags stack. There is a lot of historical investment, new focus, and promising product design in the Synonym ecosystem which is forming about the this `web of trust' distributed data system. The suite will rely on Pear Credits to enable Tether dollars to be passed around within the system. This may foster adoption in emerging markets. The critical path nature of the Tether integration, and the complex intermingling of Synonym, Hypercore, Bitfinex, Tether, and Pear credits are potentially red flags, and though the technology stack is quite interesting only Pear Credit are really useful to our design. 
 \subsection{Nostr}
-Nostr is ``The simplest open protocol that is able to create a censorship-resistant global "social" network once and for all.'' according to it's \href{https://github.com/fiatjaf/nostr}{github page}. More than that it's a client side validated proof of who a user is interacting with, hence being in this identity section. To be clear, it's not a completely peer to peer system in that it uses relay servers, but this gives it some of the best characteristics of both paradigms. This has the following advantages for our metaverse application; 
+Nostr is ``The simplest open protocol that is able to create a censorship-resistant global "social" network once and for all.'' according to it's \href{https://github.com/fiatjaf/nostr}{github page}. More than that it's a client side validated proof of who a user is interacting with, hence being in this identity section. To be clear, it's not a completely peer to peer system in that it uses (very dumb) relay servers, but this gives it some of the best characteristics of both paradigms. This has the following advantages for our metaverse application; 
 \begin{itemize}
 \item it's lightweight, with minimal network overhead and complexity
 \item it's real-time using websockets
 \item anyone can run a relay server, so one can be run in the deployment in the final section of the book.
 \item Each of the client peers connecting to the metaverse can be a relay and able to pass messages and proofs to the other clients without the metaverse server seeing the data or being online 
-\item it's opensource
+\item it's open-source
+\item it is itself \href{https://snort.social/e/note1evkdgcg0dw8ckyqsqhnk4wy55h7w97twjf8etcq2tr9sv5urlszqjc9p6v}{Turing Complete} and therefore able to execute any code within it's message protocol
 \item there are multiple usable libraries and tools
 \item it's under active development with an excellent team. The lead, `Fiatjaf' is one of the most \href{https://github.com/fiatjaf}{prolific developers} in the lightning space.
 \item it's based on the same underlying cryptographic technology we are using elsewhere, indeed with it's use of Bitcoin keys the identity system is global
@@ -89,7 +90,9 @@ Nostr is ``The simplest open protocol that is able to create a censorship-resist
 \item it enables message passing
 \item it scales to be a social network as required
 \item it need not rely on anything outside of a relay hosted on the metaverse server
-\item it can likely be scaled to provide one to many bulletin board style applications within the metaverse
+\item it can be scaled to provide one to many bulletin board style applications within the metaverse
+\item we can use it in private, group, and public modes as required
+\item it integrates with the torrent network allowing storage and external referencing of arbitrary data
 \item it can easily operate outside of the walled garden of the metaverse, extending the reach of the messages
 \end{itemize} 
 \href{https://www.forbes.com/sites/rogerhuang/2022/12/29/nostr-is-the-decentralized-protocol-that-might-replace-elon-musks-twitter/}{Nostr is incredibly promising}, and integrating these relays in the metaverse servers and clients of the proposed technology stack in this book might allow us globally provable identity, with privacy by design. It can provide message passing. If all entities in the metaverse scenegraphs are also Nostr key pairs then schema can be applied consistently with the economic layer using the same key system as Bitcoin. Nostr has just received a substantial grant from Dorsey. It is core to the design later in the book. A curated list of projects and libraries is \href{https://github.com/aljazceru/awesome-nostr}{available on github}.\par
