@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  28 JAN 2023 19:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  28 JAN 2023 19:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1212,7 +1212,7 @@ File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
    defining Unicode char U+0301 (decimal 769)
 \@quotelevel=\count473
 \@quotereset=\count474
-LaTeX Font Info:    Trying to load font information for T1+ptm on input line 79
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 77
 .
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ptm.fd
@@ -1228,24 +1228,24 @@ LaTeX Warning: Label `overview' multiply defined.
 )
 \openout1 = `metaverseBTC.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
 i
@@ -1306,18 +1306,18 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 79.
-Package microtype Info: Applying patch `item' on input line 79.
-Package microtype Info: Applying patch `toc' on input line 79.
-Package microtype Info: Applying patch `eqnum' on input line 79.
-Package microtype Info: Applying patch `footnote' on input line 79.
+LaTeX Info: Redefining \microtypecontext on input line 77.
+Package microtype Info: Applying patch `item' on input line 77.
+Package microtype Info: Applying patch `toc' on input line 77.
+Package microtype Info: Applying patch `eqnum' on input line 77.
+Package microtype Info: Applying patch `footnote' on input line 77.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 79.
+LaTeX Info: Redefining \showhyphens on input line 77.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1338,9 +1338,9 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'metaverseBTC.bbl' found.
  (metaverseBTC.bbl)
-Package biblatex Info: Reference section=0 on input line 79.
-Package biblatex Info: Reference segment=0 on input line 79.
-Package hyperref Info: Link coloring ON on input line 79.
+Package biblatex Info: Reference section=0 on input line 77.
+Package biblatex Info: Reference segment=0 on input line 77.
+Package hyperref Info: Link coloring ON on input line 77.
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -1354,9 +1354,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count481
 )
-LaTeX Info: Redefining \ref on input line 79.
-LaTeX Info: Redefining \pageref on input line 79.
-LaTeX Info: Redefining \nameref on input line 79.
+LaTeX Info: Redefining \ref on input line 77.
+LaTeX Info: Redefining \pageref on input line 77.
+LaTeX Info: Redefining \nameref on input line 77.
 
 
 pdfTeX warning: pdflatex (file ./Images//background.pdf): PDF inclusion: found 
@@ -1364,9 +1364,9 @@ PDF version <1.6>, but at most version <1.5> allowed
 <Images//background.pdf, id=6, 597.45204pt x 845.1575pt>
 File: Images//background.pdf Graphic file (type pdf)
 <use Images//background.pdf>
-Package pdftex.def Info: Images//background.pdf  used on input line 94.
+Package pdftex.def Info: Images//background.pdf  used on input line 92.
 (pdftex.def)             Requested size: 421.10078pt x 595.69427pt.
-LaTeX Font Info:    Trying to load font information for T1+pag on input line 94
+LaTeX Font Info:    Trying to load font information for T1+pag on input line 92
 .
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pag.fd
 File: t1pag.fd 2001/06/04 font definitions for T1/pag.
@@ -1376,14 +1376,19 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <24.88> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 94.
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 92.
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <12> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 94.
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 92.
 
 [1
 
 {C:/Users/john/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Images//bac
 kground.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 104--105
 
  []
@@ -1393,13 +1398,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 106--107
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 108--109
-
- []
-
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
-13.
+11.
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
@@ -1407,12 +1407,12 @@ File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 <Images//orange1.jpg, id=27, 770.88pt x 513.92pt>
 File: Images//orange1.jpg Graphic file (type jpg)
 <use Images//orange1.jpg>
-Package pdftex.def Info: Images//orange1.jpg  used on input line 131.
+Package pdftex.def Info: Images//orange1.jpg  used on input line 129.
 (pdftex.def)             Requested size: 421.10078pt x 280.72778pt.
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <20.74> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 131.
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 129.
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
- 131.
+ 129.
  (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
@@ -1421,35 +1421,35 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
- 131.
+ 129.
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
- 131.
+ 129.
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
- 131.
+ 129.
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
-31.
+29.
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20.74> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 131.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 129.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 131.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 129.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 131.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 129.
 
 (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
@@ -1498,7 +1498,7 @@ Overfull \hbox (243.00336pt too wide) detected at line 351
  [8]
 File: Images//orange1.jpg Graphic file (type jpg)
 <use Images//orange1.jpg>
-Package pdftex.def Info: Images//orange1.jpg  used on input line 133.
+Package pdftex.def Info: Images//orange1.jpg  used on input line 131.
 (pdftex.def)             Requested size: 421.10078pt x 280.72778pt.
  (metaverseBTC.lof
 Overfull \hbox (5.92441pt too wide) in paragraph at lines 16--16
@@ -1539,7 +1539,7 @@ tems[][] by Gozalo-Brizuela
  [12]
 File: Images//orange1.jpg Graphic file (type jpg)
 <use Images//orange1.jpg>
-Package pdftex.def Info: Images//orange1.jpg  used on input line 135.
+Package pdftex.def Info: Images//orange1.jpg  used on input line 133.
 (pdftex.def)             Requested size: 421.10078pt x 280.72778pt.
  (metaverseBTC.lot)
 \tf@lot=\write8
@@ -1552,9 +1552,9 @@ Package pdftex.def Info: Images//orange1.jpg  used on input line 135.
 ]
 \c@ttl@toc@part=\count482
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <220> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 145.
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 143.
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <30> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 145.
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 143.
  (metaverseBTC.ptc) [15
 
 ] [16] (conflicts.tex) [17] [18
@@ -1564,7 +1564,7 @@ Chapter 1.
 <Images//orange2.jpg, id=1277, 770.88pt x 513.92pt>
 File: Images//orange2.jpg Graphic file (type jpg)
 <use Images//orange2.jpg>
-Package pdftex.def Info: Images//orange2.jpg  used on input line 159.
+Package pdftex.def Info: Images//orange2.jpg  used on input line 157.
 (pdftex.def)             Requested size: 421.10078pt x 280.72778pt.
 (00_overview.tex [19 <./Images//orange2.jpg>]
 <Images//pathway.jpg, id=1286, 440.24475pt x 343.2825pt>
@@ -1618,7 +1618,7 @@ Chapter 2.
 <Images//orange3.jpg, id=1394, 770.88pt x 513.92pt>
 File: Images//orange3.jpg Graphic file (type jpg)
 <use Images//orange3.jpg>
-Package pdftex.def Info: Images//orange3.jpg  used on input line 164.
+Package pdftex.def Info: Images//orange3.jpg  used on input line 162.
 (pdftex.def)             Requested size: 421.10078pt x 280.72778pt.
 (02_decentralised_web.tex [31 <./Images//orange3.jpg>]
 <Images//deloitteweb3.jpg, id=1408, 588.1975pt x 535.50063pt>
@@ -1655,7 +1655,7 @@ Chapter 3.
 <Images//orange4.jpg, id=1494, 770.88pt x 513.92pt>
 File: Images//orange4.jpg Graphic file (type jpg)
 <use Images//orange4.jpg>
-Package pdftex.def Info: Images//orange4.jpg  used on input line 167.
+Package pdftex.def Info: Images//orange4.jpg  used on input line 165.
 (pdftex.def)             Requested size: 421.10078pt x 280.72778pt.
 (03_blockchain.tex [41
 
@@ -1884,7 +1884,7 @@ Chapter 4.
 <Images//orange5.jpg, id=2313, 770.88pt x 513.92pt>
 File: Images//orange5.jpg Graphic file (type jpg)
 <use Images//orange5.jpg>
-Package pdftex.def Info: Images//orange5.jpg  used on input line 170.
+Package pdftex.def Info: Images//orange5.jpg  used on input line 168.
 (pdftex.def)             Requested size: 421.10078pt x 280.72778pt.
 (04_money.tex [97
 
@@ -2002,7 +2002,7 @@ Chapter 5.
 <Images//orange6.jpg, id=2801, 764.8575pt x 513.92pt>
 File: Images//orange6.jpg Graphic file (type jpg)
 <use Images//orange6.jpg>
-Package pdftex.def Info: Images//orange6.jpg  used on input line 175.
+Package pdftex.def Info: Images//orange6.jpg  used on input line 173.
 (pdftex.def)             Requested size: 421.10078pt x 282.947pt.
 (05_change_and_geopolitics.tex [139
 
@@ -2027,7 +2027,7 @@ Chapter 6.
 <Images//orange7.jpg, id=2858, 770.88pt x 513.92pt>
 File: Images//orange7.jpg Graphic file (type jpg)
 <use Images//orange7.jpg>
-Package pdftex.def Info: Images//orange7.jpg  used on input line 178.
+Package pdftex.def Info: Images//orange7.jpg  used on input line 176.
 (pdftex.def)             Requested size: 421.10078pt x 280.72778pt.
 (06_identity.tex [151
 
@@ -2108,7 +2108,7 @@ Chapter 7.
 <Images//orange8.jpg, id=2999, 770.88pt x 513.92pt>
 File: Images//orange8.jpg Graphic file (type jpg)
 <use Images//orange8.jpg>
-Package pdftex.def Info: Images//orange8.jpg  used on input line 181.
+Package pdftex.def Info: Images//orange8.jpg  used on input line 179.
 (pdftex.def)             Requested size: 421.10078pt x 280.72778pt.
 (07_nft.tex [173
 
@@ -2166,7 +2166,7 @@ Chapter 8.
 <Images//orange9.jpg, id=3178, 770.88pt x 513.92pt>
 File: Images//orange9.jpg Graphic file (type jpg)
 <use Images//orange9.jpg>
-Package pdftex.def Info: Images//orange9.jpg  used on input line 184.
+Package pdftex.def Info: Images//orange9.jpg  used on input line 182.
 (pdftex.def)             Requested size: 421.10078pt x 280.72778pt.
 (08_metaverse.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--4
@@ -2330,7 +2330,7 @@ Chapter 9.
 <Images//orange10.jpg, id=4121, 770.88pt x 513.92pt>
 File: Images//orange10.jpg Graphic file (type jpg)
 <use Images//orange10.jpg>
-Package pdftex.def Info: Images//orange10.jpg  used on input line 187.
+Package pdftex.def Info: Images//orange10.jpg  used on input line 185.
 (pdftex.def)             Requested size: 421.10078pt x 280.72778pt.
 (09_AIandML.tex [251 <./Images//orange10.jpg>]
 <Images//ai.jpg, id=4145, 642.4pt x 636.3775pt>
@@ -2385,7 +2385,7 @@ Chapter 10.
 <Images//orange11.jpg, id=4284, 770.88pt x 513.92pt>
 File: Images//orange11.jpg Graphic file (type jpg)
 <use Images//orange11.jpg>
-Package pdftex.def Info: Images//orange11.jpg  used on input line 190.
+Package pdftex.def Info: Images//orange11.jpg  used on input line 188.
 (pdftex.def)             Requested size: 421.10078pt x 280.72778pt.
 (10_proposition.tex (08_metaverse_points.tex [267 <./Images//orange11.jpg>]
 Overfull \hbox (4.25616pt too wide) in paragraph at lines 13--14
@@ -2504,7 +2504,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [292] (metaverseBTC.ptc)
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 195.
+(hyperref)                removing `\\' on input line 193.
 
 [293
 
@@ -3633,30 +3633,30 @@ Overfull \hbox (39.2353pt too wide) in paragraph at lines 932--932
 <Images//JOH.jpg, id=5021, 110.66344pt x 165.61874pt>
 File: Images//JOH.jpg Graphic file (type jpg)
 <use Images//JOH.jpg>
-Package pdftex.def Info: Images//JOH.jpg  used on input line 212.
+Package pdftex.def Info: Images//JOH.jpg  used on input line 210.
 (pdftex.def)             Requested size: 103.49965pt x 154.90579pt.
 <Images//AF.jpg, id=5023, 379.4175pt x 504.38437pt>
 File: Images//AF.jpg Graphic file (type jpg)
 <use Images//AF.jpg>
-Package pdftex.def Info: Images//AF.jpg  used on input line 223.
+Package pdftex.def Info: Images//AF.jpg  used on input line 221.
 (pdftex.def)             Requested size: 103.49965pt x 137.58632pt.
 
-Overfull \hbox (92.01671pt too wide) in paragraph at lines 207--225
+Overfull \hbox (92.01671pt too wide) in paragraph at lines 205--223
 [][][]$[]$
  []
 
 
-Overfull \hbox (92.01671pt too wide) in paragraph at lines 207--225
+Overfull \hbox (92.01671pt too wide) in paragraph at lines 205--223
 [][][]$[]$ 
  []
 
 <Images//UA.jpg, id=5025, 200.75pt x 200.75pt>
 File: Images//UA.jpg Graphic file (type jpg)
 <use Images//UA.jpg>
-Package pdftex.def Info: Images//UA.jpg  used on input line 231.
+Package pdftex.def Info: Images//UA.jpg  used on input line 229.
 (pdftex.def)             Requested size: 103.49965pt x 103.50226pt.
 
-Overfull \hbox (92.01671pt too wide) in paragraph at lines 226--233
+Overfull \hbox (92.01671pt too wide) in paragraph at lines 224--231
 [][][]$[]$ 
  []
 
@@ -3668,91 +3668,91 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ] [336
 
 ]
-Overfull \hbox (5.94284pt too wide) in paragraph at lines 251--251
+Overfull \hbox (5.94284pt too wide) in paragraph at lines 249--249
 []\T1/ptm/m/n/10 (-20) Various. \T1/ptm/m/it/10 (-20) Cypher Punks Mail-ing Lis
 t Archives\T1/ptm/m/n/10 (-20) . 1990. \T1/ptm/m/sc/10 (-20) url\T1/ptm/m/n/10 
 (-20) : [][]$\T1/cmtt/m/n/10 https :
  []
 
 [337]
-Overfull \hbox (8.26096pt too wide) in paragraph at lines 251--251
+Overfull \hbox (8.26096pt too wide) in paragraph at lines 249--249
 []\T1/ptm/m/n/10 (-20) Adam Back et al. ``Hashcash-a de-nial of ser-vice counte
 r-measure''.
  []
 
 
-Overfull \hbox (20.05603pt too wide) in paragraph at lines 251--251
+Overfull \hbox (20.05603pt too wide) in paragraph at lines 249--249
 []\T1/ptm/m/n/10 (-20) Wei Dai. ``b-money, 1998''. In: \T1/ptm/m/it/10 (-20) UR
 L http://www. wei-dai. com/bmoney.
  []
 
 
-Overfull \hbox (5.14595pt too wide) in paragraph at lines 251--251
+Overfull \hbox (5.14595pt too wide) in paragraph at lines 249--249
 \T1/ptm/m/it/10 (-20) fer-ence on Ad-vances in Fi-nan-cial Tech-nolo-gies\T1/pt
 m/m/n/10 (-20) . 2019, pages 110
  []
 
 
-Overfull \hbox (7.03786pt too wide) in paragraph at lines 251--251
+Overfull \hbox (7.03786pt too wide) in paragraph at lines 249--249
 []\T1/ptm/m/n/10 (-20) David Golumbia. ``Cryp-tocur-rency Is Garbage. So Is Blo
 ckchain.''
  []
 
 
-Overfull \hbox (6.89291pt too wide) in paragraph at lines 251--251
+Overfull \hbox (6.89291pt too wide) in paragraph at lines 249--249
 []\T1/ptm/m/n/10 (-20) Sarwar Say-eed and Hec-tor Marco-Gisbert. ``As-sess-ing 
 blockchain
  []
 
 [338]
-Overfull \hbox (1.51773pt too wide) in paragraph at lines 251--251
+Overfull \hbox (1.51773pt too wide) in paragraph at lines 249--249
 \T1/ptm/m/it/10 (-20) IEEE Ac-cess \T1/ptm/m/n/10 (-20) 8 (2020), pages 125244
 125262 (cited on page [][]48[][]). 
  []
 
 [339] [340]
-Overfull \hbox (8.55547pt too wide) in paragraph at lines 251--251
+Overfull \hbox (8.55547pt too wide) in paragraph at lines 249--249
 []\T1/ptm/m/n/10 (-20) Victor Gayoso Mar-tinez, Lorena Gonzalez-Manzano, and Ag
 ustin
  []
 
 [341] [342] [343] [344]
-Overfull \hbox (25.2342pt too wide) in paragraph at lines 251--251
+Overfull \hbox (25.2342pt too wide) in paragraph at lines 249--249
 []\T1/ptm/m/n/10 (-20) J. Wang. \T1/ptm/m/it/10 (-20) Cen-tral Bank-ing 101\T1/
 ptm/m/n/10 (-20) . JOSEPH, 2021. \T1/ptm/m/sc/10 (-20) isbn\T1/ptm/m/n/10 (-20)
  : 9780999136744.
  []
 
 
-Overfull \hbox (26.51881pt too wide) in paragraph at lines 251--251
+Overfull \hbox (26.51881pt too wide) in paragraph at lines 249--249
 \T1/ptm/m/sc/10 (-20) url\T1/ptm/m/n/10 (-20) : [][]$\T1/cmtt/m/n/10 https : / 
 / books . google . co . uk / books ? id = nwoozgEACAAJ$[][]
  []
 
 
-Overfull \hbox (1.36856pt too wide) in paragraph at lines 251--251
+Overfull \hbox (1.36856pt too wide) in paragraph at lines 249--249
 []\T1/ptm/m/n/10 (-20) Andrew J Fi-lardo, Mad-husu-dan S Mo-hanty, and Ra-mon M
 oreno.
  []
 
 
 Package biblatex Warning: No driver for entry type 'other'.
-(biblatex)                Using fallback driver on input line 248.
+(biblatex)                Using fallback driver on input line 246.
 
 [345]
-Overfull \hbox (4.76137pt too wide) in paragraph at lines 251--251
+Overfull \hbox (4.76137pt too wide) in paragraph at lines 249--249
 [][]$\T1/cmtt/m/n/10 https : / / books . google . co . uk / books ? id = 14onzw
 EACAAJ$[][]
  []
 
 
-Overfull \hbox (5.38113pt too wide) in paragraph at lines 251--251
+Overfull \hbox (5.38113pt too wide) in paragraph at lines 249--249
 []\T1/ptm/m/n/10 (-20) Aabhas Sood and Ra-jbala Si-mon. ``Im-ple-men-ta-tion of
  blockchain
  []
 
 [346]
-Overfull \hbox (2.1522pt too wide) in paragraph at lines 251--251
+Overfull \hbox (2.1522pt too wide) in paragraph at lines 249--249
 []\T1/ptm/m/n/10 (-20) Stylianos Mys-takidis. ``Meta-verse''. In: \T1/ptm/m/it/
 10 (-20) En-cy-clo-pe-dia \T1/ptm/m/n/10 (-20) 2.1 (2022),
  []
@@ -3760,128 +3760,128 @@ Overfull \hbox (2.1522pt too wide) in paragraph at lines 251--251
 [347]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Wolff2008' on input line 248.
+(biblatex)                at entry 'Wolff2008' on input line 246.
 
 
-Overfull \hbox (13.8525pt too wide) in paragraph at lines 251--251
+Overfull \hbox (13.8525pt too wide) in paragraph at lines 249--249
 \T1/ptm/m/n/10 (-20) with-out Root-ing Par-tic-i-pants to the Spot''. In: \T1/p
 tm/m/it/10 (-20) 2008 12th IEEE/ACM
  []
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Dourish1996' on input line 248.
+(biblatex)                at entry 'Dourish1996' on input line 246.
 
 [348]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Criminisi2003' on input line 248.
+(biblatex)                at entry 'Criminisi2003' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Van_Eijk2010' on input line 248.
+(biblatex)                at entry 'Van_Eijk2010' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Chen2002' on input line 248.
+(biblatex)                at entry 'Chen2002' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Roberts2013' on input line 248.
+(biblatex)                at entry 'Roberts2013' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Sellen1992' on input line 248.
+(biblatex)                at entry 'Sellen1992' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Sellen1995' on input line 248.
+(biblatex)                at entry 'Sellen1995' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Monk2002' on input line 248.
+(biblatex)                at entry 'Monk2002' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Gemmell2000' on input line 248.
+(biblatex)                at entry 'Gemmell2000' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Kuster2012' on input line 248.
+(biblatex)                at entry 'Kuster2012' on input line 246.
 
 [349]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Pejsa2016' on input line 248.
+(biblatex)                at entry 'Pejsa2016' on input line 246.
 
 
-Overfull \hbox (8.92233pt too wide) in paragraph at lines 251--251
+Overfull \hbox (8.92233pt too wide) in paragraph at lines 249--249
 \T1/ptm/m/it/10 (-20) Pro-ceed-ings of the 19th ACM Con-fer-ence on Computer-Su
 pported
  []
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Bardram2012' on input line 248.
+(biblatex)                at entry 'Bardram2012' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Adamczyk2007' on input line 248.
+(biblatex)                at entry 'Adamczyk2007' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Ishii1993' on input line 248.
+(biblatex)                at entry 'Ishii1993' on input line 246.
 
 [350]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Fullwood2006' on input line 248.
+(biblatex)                at entry 'Fullwood2006' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Nguyen2005' on input line 248.
+(biblatex)                at entry 'Nguyen2005' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Vertegaal2002' on input line 248.
+(biblatex)                at entry 'Vertegaal2002' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Bock2008' on input line 248.
+(biblatex)                at entry 'Bock2008' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Aoki2003' on input line 248.
+(biblatex)                at entry 'Aoki2003' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Heldner2010' on input line 248.
+(biblatex)                at entry 'Heldner2010' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Kleinke1986' on input line 248.
+(biblatex)                at entry 'Kleinke1986' on input line 246.
 
 [351]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Otsuka2005' on input line 248.
+(biblatex)                at entry 'Otsuka2005' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Goodwin2000' on input line 248.
+(biblatex)                at entry 'Goodwin2000' on input line 246.
 
 
-Overfull \hbox (8.2695pt too wide) in paragraph at lines 251--251
+Overfull \hbox (8.2695pt too wide) in paragraph at lines 249--249
 \T1/ptm/m/n/10 (-20) man in-ter-ac-tion''. In: \T1/ptm/m/it/10 (-20) J. Prag-ma
 t. \T1/ptm/m/n/10 (-20) 32.10 (#sep# 2000), pages 1489
  []
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Argyle1976' on input line 248.
+(biblatex)                at entry 'Argyle1976' on input line 246.
 
 
-Overfull \hbox (7.97658pt too wide) in paragraph at lines 251--251
+Overfull \hbox (7.97658pt too wide) in paragraph at lines 249--249
 \T1/ptm/m/n/10 (-20) Af-fil-i-a-tion''. In: JS-TOR, 1965, pages 289304 (cited 
 on pages [][]208[][],
  []
@@ -3889,453 +3889,453 @@ on pages [][]208[][],
 [352]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Novick1996' on input line 248.
+(biblatex)                at entry 'Novick1996' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Vertegaal2001' on input line 248.
+(biblatex)                at entry 'Vertegaal2001' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Langton2000' on input line 248.
+(biblatex)                at entry 'Langton2000' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Macrae2002' on input line 248.
+(biblatex)                at entry 'Macrae2002' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Kluttz2009' on input line 248.
+(biblatex)                at entry 'Kluttz2009' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Schrammel2007' on input line 248.
+(biblatex)                at entry 'Schrammel2007' on input line 246.
 
 [353]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Stiefelhagen2001' on input line 248.
+(biblatex)                at entry 'Stiefelhagen2001' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Stiefelhagen2002' on input line 248.
+(biblatex)                at entry 'Stiefelhagen2002' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Steptoe2009' on input line 248.
+(biblatex)                at entry 'Steptoe2009' on input line 246.
 
 
-Overfull \hbox (5.93826pt too wide) in paragraph at lines 251--251
+Overfull \hbox (5.93826pt too wide) in paragraph at lines 249--249
 []\T1/ptm/m/n/10 (-20) William Arthur Hugh Step-toe. ``Eye track-ing and avatar
 -mediated
  []
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Fagel2010' on input line 248.
+(biblatex)                at entry 'Fagel2010' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Bohannon2013' on input line 248.
+(biblatex)                at entry 'Bohannon2013' on input line 246.
 
 [354]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Boker2011' on input line 248.
+(biblatex)                at entry 'Boker2011' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Rienks2010' on input line 248.
+(biblatex)                at entry 'Rienks2010' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Nguyen2009' on input line 248.
+(biblatex)                at entry 'Nguyen2009' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Ekman1993' on input line 248.
+(biblatex)                at entry 'Ekman1993' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Chovil1991' on input line 248.
+(biblatex)                at entry 'Chovil1991' on input line 246.
 
 [355]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'schiano2004' on input line 248.
+(biblatex)                at entry 'schiano2004' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'ohba1998' on input line 248.
+(biblatex)                at entry 'ohba1998' on input line 246.
 
 
-Overfull \hbox (34.05103pt too wide) in paragraph at lines 251--251
+Overfull \hbox (34.05103pt too wide) in paragraph at lines 249--249
 []\T1/ptm/m/n/10 (-20) K Ohba et al. ``Fa-cial ex-pres-sion space for smooth te
 le-communications''.
  []
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Hofmann2006' on input line 248.
+(biblatex)                at entry 'Hofmann2006' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Iverson2005' on input line 248.
+(biblatex)                at entry 'Iverson2005' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Krauss1996' on input line 248.
+(biblatex)                at entry 'Krauss1996' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Kleinsmith2013' on input line 248.
+(biblatex)                at entry 'Kleinsmith2013' on input line 246.
 
 
-Overfull \hbox (3.53996pt too wide) in paragraph at lines 251--251
+Overfull \hbox (3.53996pt too wide) in paragraph at lines 249--249
 \T1/ptm/m/it/10 (-20) Trans-ac-tions on Af-fec-tive Com-put-ing \T1/ptm/m/n/10 
 (-20) 4.1 (#jan# 2013), pages 15
  []
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Ou2005' on input line 248.
+(biblatex)                at entry 'Ou2005' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Murray2009' on input line 248.
+(biblatex)                at entry 'Murray2009' on input line 246.
 
 [356]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Tang2010' on input line 248.
+(biblatex)                at entry 'Tang2010' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Tse2007' on input line 248.
+(biblatex)                at entry 'Tse2007' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Tang2006' on input line 248.
+(biblatex)                at entry 'Tang2006' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Norris2013' on input line 248.
+(biblatex)                at entry 'Norris2013' on input line 246.
 
 
-Overfull \hbox (4.96794pt too wide) in paragraph at lines 251--251
+Overfull \hbox (4.96794pt too wide) in paragraph at lines 249--249
 []\T1/ptm/m/n/10 (-20) James Nor-ris, Hol-ger M Schnädel-bach, and Paul K Luff.
  ``Putting
  []
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Norris2012' on input line 248.
+(biblatex)                at entry 'Norris2012' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Luff2011' on input line 248.
+(biblatex)                at entry 'Luff2011' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Tuddenham2009' on input line 248.
+(biblatex)                at entry 'Tuddenham2009' on input line 246.
 
 [357]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Jamil2011' on input line 248.
+(biblatex)                at entry 'Jamil2011' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Jetter2011' on input line 248.
+(biblatex)                at entry 'Jetter2011' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Watson1966' on input line 248.
+(biblatex)                at entry 'Watson1966' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Slessor2008' on input line 248.
+(biblatex)                at entry 'Slessor2008' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Yee2007' on input line 248.
+(biblatex)                at entry 'Yee2007' on input line 246.
 
 [358]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Bailenson2003' on input line 248.
+(biblatex)                at entry 'Bailenson2003' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Blascovich2002' on input line 248.
+(biblatex)                at entry 'Blascovich2002' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Hager1979' on input line 248.
+(biblatex)                at entry 'Hager1979' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Carlston2013' on input line 248.
+(biblatex)                at entry 'Carlston2013' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Deckers2013' on input line 248.
+(biblatex)                at entry 'Deckers2013' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Gibson1963' on input line 248.
+(biblatex)                at entry 'Gibson1963' on input line 246.
 
 [359]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Fels2000' on input line 248.
+(biblatex)                at entry 'Fels2000' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Voida2012' on input line 248.
+(biblatex)                at entry 'Voida2012' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Berger1975' on input line 248.
+(biblatex)                at entry 'Berger1975' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Mihoub2015' on input line 248.
+(biblatex)                at entry 'Mihoub2015' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Chartrand1999' on input line 248.
+(biblatex)                at entry 'Chartrand1999' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Parsons1974' on input line 248.
+(biblatex)                at entry 'Parsons1974' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Risko2011' on input line 248.
+(biblatex)                at entry 'Risko2011' on input line 246.
 
 [360]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Kollock1998' on input line 248.
+(biblatex)                at entry 'Kollock1998' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Cuddihy2000' on input line 248.
+(biblatex)                at entry 'Cuddihy2000' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Hancock2004' on input line 248.
+(biblatex)                at entry 'Hancock2004' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Holm2010' on input line 248.
+(biblatex)                at entry 'Holm2010' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Porter2008' on input line 248.
+(biblatex)                at entry 'Porter2008' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Roberts2015' on input line 248.
+(biblatex)                at entry 'Roberts2015' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Schuemie2001' on input line 248.
+(biblatex)                at entry 'Schuemie2001' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Slater1999' on input line 248.
+(biblatex)                at entry 'Slater1999' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Heeter1992' on input line 248.
+(biblatex)                at entry 'Heeter1992' on input line 246.
 
 [361]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Fulk1987' on input line 248.
+(biblatex)                at entry 'Fulk1987' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Haythornthwaite1995' on input line 248.
+(biblatex)                at entry 'Haythornthwaite1995' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Gunawardena1997' on input line 248.
+(biblatex)                at entry 'Gunawardena1997' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Bulu2012' on input line 248.
+(biblatex)                at entry 'Bulu2012' on input line 246.
 
 
-Overfull \hbox (8.80014pt too wide) in paragraph at lines 251--251
+Overfull \hbox (8.80014pt too wide) in paragraph at lines 249--249
 []\T1/ptm/m/n/10 (-20) Saniye Tugba Bulu. ``Place pres-ence, so-cial pres-ence,
  co-presence,
  []
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Slater2004' on input line 248.
+(biblatex)                at entry 'Slater2004' on input line 246.
 
 [362]
-Overfull \hbox (3.69826pt too wide) in paragraph at lines 251--251
+Overfull \hbox (3.69826pt too wide) in paragraph at lines 249--249
 []\T1/ptm/m/n/10 (-20) Jörg Hauber et al. ``So-cial pres-ence in two-and three-
 dimensional
  []
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Hauber2006' on input line 248.
+(biblatex)                at entry 'Hauber2006' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Kauff2002' on input line 248.
+(biblatex)                at entry 'Kauff2002' on input line 246.
 
 
-Overfull \hbox (3.3879pt too wide) in paragraph at lines 251--251
+Overfull \hbox (3.3879pt too wide) in paragraph at lines 249--249
 []\T1/ptm/m/n/10 (-20) Peter Kauff and Oliver Schreer. ``Vir-tual team user env
 ironments-
  []
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Jones2009' on input line 248.
+(biblatex)                at entry 'Jones2009' on input line 246.
 
 [363]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Okada1994' on input line 248.
+(biblatex)                at entry 'Okada1994' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Kulik2011' on input line 248.
+(biblatex)                at entry 'Kulik2011' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Otsuka2013' on input line 248.
+(biblatex)                at entry 'Otsuka2013' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Tay2008' on input line 248.
+(biblatex)                at entry 'Tay2008' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Eldes2013' on input line 248.
+(biblatex)                at entry 'Eldes2013' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Yendo2010' on input line 248.
+(biblatex)                at entry 'Yendo2010' on input line 246.
 
 [364]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Bartneck2007' on input line 248.
+(biblatex)                at entry 'Bartneck2007' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Mitchell2011' on input line 248.
+(biblatex)                at entry 'Mitchell2011' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Ho2008' on input line 248.
+(biblatex)                at entry 'Ho2008' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Strait2014' on input line 248.
+(biblatex)                at entry 'Strait2014' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Marti2005' on input line 248.
+(biblatex)                at entry 'Marti2005' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Adalgeirsson2010' on input line 248.
+(biblatex)                at entry 'Adalgeirsson2010' on input line 246.
 
 [365]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Lee2011' on input line 248.
+(biblatex)                at entry 'Lee2011' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Tsui2011' on input line 248.
+(biblatex)                at entry 'Tsui2011' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Paulos1998' on input line 248.
+(biblatex)                at entry 'Paulos1998' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Kristoffersson2013' on input line 248.
+(biblatex)                at entry 'Kristoffersson2013' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Desai2011' on input line 248.
+(biblatex)                at entry 'Desai2011' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Tsui2012' on input line 248.
+(biblatex)                at entry 'Tsui2012' on input line 246.
 
 [366]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Sakamoto2007' on input line 248.
+(biblatex)                at entry 'Sakamoto2007' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Lincoln2009' on input line 248.
+(biblatex)                at entry 'Lincoln2009' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Lincoln2010' on input line 248.
+(biblatex)                at entry 'Lincoln2010' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Oyekoya2012' on input line 248.
+(biblatex)                at entry 'Oyekoya2012' on input line 246.
 
 
-Overfull \hbox (0.43985pt too wide) in paragraph at lines 251--251
+Overfull \hbox (0.43985pt too wide) in paragraph at lines 249--249
 []\T1/ptm/m/n/10 (-20) Oyewole Oyekoya, William Step-toe, and An-thony Steed. `
 `Sphe-
  []
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Pan2014' on input line 248.
+(biblatex)                at entry 'Pan2014' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Pan2012' on input line 248.
+(biblatex)                at entry 'Pan2012' on input line 246.
 
 [367]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Nagendran2012' on input line 248.
+(biblatex)                at entry 'Nagendran2012' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Bandyopadhyay2001' on input line 248.
+(biblatex)                at entry 'Bandyopadhyay2001' on input line 246.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Dalsgaard2011' on input line 248.
+(biblatex)                at entry 'Dalsgaard2011' on input line 246.
 
 [368] [369]
-Overfull \hbox (8.79591pt too wide) in paragraph at lines 251--251
+Overfull \hbox (8.79591pt too wide) in paragraph at lines 249--249
 \T1/ptm/m/n/10 (-20) ing test?'' In: \T1/ptm/m/it/10 (-20) Jour-nal of Cul-tura
 l An-a-lyt-ics \T1/ptm/m/n/10 (-20) 5.2 (2020), page 17212
  []
 
 [370]
-Overfull \hbox (1.22823pt too wide) in paragraph at lines 251--251
+Overfull \hbox (1.22823pt too wide) in paragraph at lines 249--249
 []\T1/ptm/m/n/10 (-20) Dzmitry Bah-danau, Kyunghyun Cho, and Yoshua Ben-gio. ``
 Neu-
  []
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Fairchild2017' on input line 248.
+(biblatex)                at entry 'Fairchild2017' on input line 246.
 
 [371] [372] (metaverseBTC.ind)
 \tf@ptc=\write9
@@ -4381,7 +4381,7 @@ b><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pf
 b><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb
 ><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb
 >
-Output written on metaverseBTC.pdf (372 pages, 21010491 bytes).
+Output written on metaverseBTC.pdf (372 pages, 21010477 bytes).
 PDF statistics:
  6105 PDF objects out of 6186 (max. 8388607)
  1289 named destinations out of 1440 (max. 500000)
