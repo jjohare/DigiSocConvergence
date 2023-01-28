@@ -2437,6 +2437,35 @@
       \field{title}{Proof-of-work consensus under exogenous distress: Evidence from mining shocks in the Bitcoin ecosystem}
       \field{year}{2022}
     \endentry
+    \entry{dymydiuk2020rubicon}{article}{}
+      \name{author}{1}{}{%
+        {{hash=588e252256837d0c32833edfd9513172}{%
+           family={Dymydiuk},
+           familyi={D\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{588e252256837d0c32833edfd9513172}
+      \strng{fullhash}{588e252256837d0c32833edfd9513172}
+      \strng{bibnamehash}{588e252256837d0c32833edfd9513172}
+      \strng{authorbibnamehash}{588e252256837d0c32833edfd9513172}
+      \strng{authornamehash}{588e252256837d0c32833edfd9513172}
+      \strng{authorfullhash}{588e252256837d0c32833edfd9513172}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Intelligence and National Security}
+      \field{number}{5}
+      \field{title}{RUBICON and revelation: the curious robustness of the ‘secret’CIA-BND operation with Crypto AG}
+      \field{volume}{35}
+      \field{year}{2020}
+      \field{pages}{641\bibrangedash 658}
+      \range{pages}{18}
+    \endentry
     \entry{homer1996history}{book}{}
       \name{author}{2}{}{%
         {{hash=7d6b5035380d9ab1b8d9de0ab9f33916}{%
@@ -2681,8 +2710,8 @@
       \strng{authorbibnamehash}{1b6e5f06c310d21901672df564878338}
       \strng{authornamehash}{1b6e5f06c310d21901672df564878338}
       \strng{authorfullhash}{1b6e5f06c310d21901672df564878338}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Contemporary History}
@@ -3003,8 +3032,8 @@
       \strng{authorbibnamehash}{e9b5e182bfaf4cee0f27ef67d2ce9817}
       \strng{authornamehash}{e9b5e182bfaf4cee0f27ef67d2ce9817}
       \strng{authorfullhash}{e9b5e182bfaf4cee0f27ef67d2ce9817}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Kiwi Hellenist: Modern Myths about the Ancient World. Retrieved}
@@ -3029,8 +3058,8 @@
       \strng{authorbibnamehash}{3fe714ad9d56b9d7daae745358a7184a}
       \strng{authornamehash}{3fe714ad9d56b9d7daae745358a7184a}
       \strng{authorfullhash}{3fe714ad9d56b9d7daae745358a7184a}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Money, Credit and Banking}
@@ -3340,8 +3369,8 @@
       \strng{authorbibnamehash}{7afa24b41101598853c9f506dce425c4}
       \strng{authornamehash}{7afa24b41101598853c9f506dce425c4}
       \strng{authorfullhash}{7afa24b41101598853c9f506dce425c4}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Layered Money}
@@ -6844,8 +6873,8 @@
       \strng{authorbibnamehash}{a1349f3cd628300199b86780afb56b67}
       \strng{authornamehash}{a1349f3cd628300199b86780afb56b67}
       \strng{authorfullhash}{a1349f3cd628300199b86780afb56b67}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Videoconferencing allows geographically dispersed parties to communicate by simultaneous audio and video transmissions. It is used in a variety of application scenarios with a wide range of coordination needs and efforts, such as private chat, discussion meetings, and negotiation tasks. In particular, in scenarios requiring certain levels of trust and judgement non-verbal communication, cues are highly important for effective communication. Mutual gaze support plays a central role in those high coordination need scenarios but generally lacks adequate technical support from videoconferencing systems. In this paper, we review technical concepts and implementations for mutual gaze support in videoconferencing, classify them, evaluate them according to a defined set of criteria, and give recommendations for future developments. Our review gives decision makers, researchers, and developers a tool to systematically apply and further develop videoconferencing systems in ``serious'' settings requiring mutual gaze. This should lead to well-informed decisions regarding the use and development of this technology and to a more widespread exploitation of the benefits of videoconferencing in general. For example, if videoconferencing systems supported high-quality mutual gaze in an easy-to-set-up and easy-to-use way, we could hold more effective and efficient recruitment interviews, court hearings, or contract negotiations.}
@@ -10075,8 +10104,8 @@
       \strng{authorbibnamehash}{ce134d655c8e79e6d3ee60ed18f8e55d}
       \strng{authornamehash}{ce134d655c8e79e6d3ee60ed18f8e55d}
       \strng{authorfullhash}{ce134d655c8e79e6d3ee60ed18f8e55d}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Measuring presence: A guide to current measurement approaches}
@@ -10102,8 +10131,8 @@
       \strng{authorbibnamehash}{c81d13fb38c7e5832addcb722d2abe6e}
       \strng{authornamehash}{c81d13fb38c7e5832addcb722d2abe6e}
       \strng{authorfullhash}{c81d13fb38c7e5832addcb722d2abe6e}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Internal consistency and reliability of the networked minds measure of social presence}
