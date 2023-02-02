@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  2 FEB 2023 12:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  2 FEB 2023 19:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2002,16 +2002,20 @@ File: Images//orange6.jpg Graphic file (type jpg)
 <use Images//orange6.jpg>
 Package pdftex.def Info: Images//orange6.jpg  used on input line 173.
 (pdftex.def)             Requested size: 421.10078pt x 282.947pt.
-(05_change_and_geopolitics.tex [141 <./Images//orange6.jpg>] [142] [143]
-[144]
-Underfull \vbox (badness 5359) has occurred while \output is active []
+(05_change_and_geopolitics.tex [141 <./Images//orange6.jpg>]
+
+LaTeX Warning: Citation 'balassa2013theory' on page 142 undefined on input line
+ 5.
+
+[142] [143] [144]
+Underfull \vbox (badness 1668) has occurred while \output is active []
 
  [145]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [146]
 [147]
-Underfull \vbox (badness 1838) has occurred while \output is active []
+Underfull \vbox (badness 6204) has occurred while \output is active []
 
  [148]
 [149]
@@ -4492,7 +4496,7 @@ Package logreq Info: Writing requests to 'metaverseBTC.run.xml'.
 Here is how much of TeX's memory you used:
  39023 strings out of 478582
  778834 string characters out of 2844816
- 1725962 words of memory out of 3000000
+ 1726124 words of memory out of 3000000
  54208 multiletter control sequences out of 15000+600000
  608261 words of font info for 541 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -4522,7 +4526,7 @@ b><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pf
 b><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb
 ><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb
 >
-Output written on metaverseBTC.pdf (384 pages, 21074227 bytes).
+Output written on metaverseBTC.pdf (384 pages, 21075060 bytes).
 PDF statistics:
  6368 PDF objects out of 7423 (max. 8388607)
  1665 named destinations out of 1728 (max. 500000)
