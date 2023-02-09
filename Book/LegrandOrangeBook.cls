@@ -34,6 +34,7 @@
 \usepackage{graphicx} % Required for including pictures
 \graphicspath{{Images/}} % Specifies the directory where pictures are stored
 \usepackage{verbatim}
+\usepackage{textcomp}
 \usepackage{float} % Allows more precisely positioning floats e.g. \begin{figure}[H]
 
 \usepackage{lipsum} % Required to insert dummy text. To be removed otherwise
