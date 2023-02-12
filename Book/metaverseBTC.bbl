@@ -3261,6 +3261,38 @@
       \field{title}{The Future of Money: How the Digital Revolution is Transforming Currencies and Finance}
       \field{year}{2021}
     \endentry
+    \entry{bertomeu2023uncle}{article}{}
+      \name{author}{3}{}{%
+        {{hash=62a35b2d4278440f7105317c7f965827}{%
+           family={Bertomeu},
+           familyi={B\bibinitperiod},
+           given={Jeremy},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d08bd8ec12ec2171ac94267b3798e794}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={Xiumin},
+           giveni={X\bibinitperiod}}}%
+        {{hash=723880e9114b4bc67b9aa4c427ad3318}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Sheryl},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{c449b17077120b0946c7f10ca1c5df1c}
+      \strng{fullhash}{c449b17077120b0946c7f10ca1c5df1c}
+      \strng{bibnamehash}{c449b17077120b0946c7f10ca1c5df1c}
+      \strng{authorbibnamehash}{c449b17077120b0946c7f10ca1c5df1c}
+      \strng{authornamehash}{c449b17077120b0946c7f10ca1c5df1c}
+      \strng{authorfullhash}{c449b17077120b0946c7f10ca1c5df1c}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Available at SSRN 4320431}
+      \field{title}{Uncle Sam’s Stimulus and Crypto Boom}
+      \field{year}{2023}
+    \endentry
     \entry{ponzi2021alden}{other}{}
       \name{author}{1}{}{%
         {{hash=98ddf16a82be76d96f6be0e4fac15aaa}{%
@@ -3340,8 +3372,8 @@
       \strng{authorbibnamehash}{027beadc78f198c647b4687a8bb627f5}
       \strng{authornamehash}{027beadc78f198c647b4687a8bb627f5}
       \strng{authorfullhash}{027beadc78f198c647b4687a8bb627f5}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of political economy}
@@ -3845,6 +3877,30 @@
       \field{pages}{232\bibrangedash 245}
       \range{pages}{14}
     \endentry
+    \entry{balassa2013theory}{book}{}
+      \name{author}{1}{}{%
+        {{hash=fe0b8096ee37214413e70c8aba10bfa3}{%
+           family={Balassa},
+           familyi={B\bibinitperiod},
+           given={Bela},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{fe0b8096ee37214413e70c8aba10bfa3}
+      \strng{fullhash}{fe0b8096ee37214413e70c8aba10bfa3}
+      \strng{bibnamehash}{fe0b8096ee37214413e70c8aba10bfa3}
+      \strng{authorbibnamehash}{fe0b8096ee37214413e70c8aba10bfa3}
+      \strng{authornamehash}{fe0b8096ee37214413e70c8aba10bfa3}
+      \strng{authorfullhash}{fe0b8096ee37214413e70c8aba10bfa3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The theory of economic integration}
+      \field{year}{2013}
+    \endentry
     \entry{swartz2008guerilla}{article}{}
       \name{author}{1}{}{%
         {{hash=044176fb833c1638f7abe20cde6a3077}{%
@@ -4002,6 +4058,33 @@
       \field{year}{2003}
       \field{pages}{258\bibrangedash 274}
       \range{pages}{17}
+    \endentry
+    \entry{Kaloudis2023}{article}{}
+      \name{author}{1}{}{%
+        {{hash=915fcc0b3369a9e3ec2c5adde70058f6}{%
+           family={Kaloudis},
+           familyi={K\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{915fcc0b3369a9e3ec2c5adde70058f6}
+      \strng{fullhash}{915fcc0b3369a9e3ec2c5adde70058f6}
+      \strng{bibnamehash}{915fcc0b3369a9e3ec2c5adde70058f6}
+      \strng{authorbibnamehash}{915fcc0b3369a9e3ec2c5adde70058f6}
+      \strng{authornamehash}{915fcc0b3369a9e3ec2c5adde70058f6}
+      \strng{authorfullhash}{915fcc0b3369a9e3ec2c5adde70058f6}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{How Bitcoin NFTs Might Accidentally Fix Bitcoin's Security Budget}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.coindesk.com/consensus-magazine/2023/02/06/how-bitcoin-nfts-might-accidentally-fix-bitcoins-security-budget/
+      \endverb
+      \verb{url}
+      \verb https://www.coindesk.com/consensus-magazine/2023/02/06/how-bitcoin-nfts-might-accidentally-fix-bitcoins-security-budget/
+      \endverb
     \endentry
     \entry{komlo2020frost}{inproceedings}{}
       \name{author}{2}{}{%
@@ -4708,6 +4791,7 @@
       \strng{authorbibnamehash}{1db4ece4b6891b7738b9537881246b2e}
       \strng{authornamehash}{1db4ece4b6891b7738b9537881246b2e}
       \strng{authorfullhash}{1db4ece4b6891b7738b9537881246b2e}
+      \field{extraname}{1}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
@@ -6794,8 +6878,8 @@
       \strng{authorbibnamehash}{6711edaf1a5dacf076cad3e1193b234f}
       \strng{authornamehash}{6711edaf1a5dacf076cad3e1193b234f}
       \strng{authorfullhash}{3306460d9bf71f31499edeea102e082f}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 3rd international workshop on Affective interaction in natural environments}
@@ -6839,8 +6923,8 @@
       \strng{authorbibnamehash}{d365248c83ab5c36faefb3026f11298a}
       \strng{authornamehash}{d365248c83ab5c36faefb3026f11298a}
       \strng{authorfullhash}{b7b22f6316aa6f7e884557d2edf4a59e}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{A relatively new form of human communication, video-conferencing has become more popular as video technology improves and with increasing demands for real-time communication across greater distances. The full effects of video-conferencing on human communication are still being explored. Video-conferencing is presumed to be a somewhat richer form of communication than email and telephone, but not quite as informative as face-to-face communication. This review explores research into the influence of eye contact on communication and how video-conferencing mediates both verbal and non-verbal interactions. Facilitation of eye contact is a challenge that must be addressed so that video-conferencing can approach the rich interactions of face-to-face communication.}
@@ -10024,8 +10108,8 @@
       \strng{authornamehash}{df83b602f850d5091f5ab7de4726e66e}
       \strng{authorfullhash}{df83b602f850d5091f5ab7de4726e66e}
       \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This paper argues that a scientific basis for ?presence? as it's usually understood in virtual environments research, can not be established on the basis of postexperience presence questionnaires alone. To illustrate the point, an arbitrary mental attribute called ?colorfulness of the experience? is conjured up, and a set of questions administered to 74 respondents with an online questionnaire. The results suggested that colorfulness of yesterday's experiences was associated with the extent to which a person accomplished their tasks, and also associated with yesterday being a ?good?, ?pleasant?, but not frustrating day. The meaning lessness of this analysis illustrates that the equivalent methodology used by presence researchers, may, similarly, bring into being the idea of presence in the minds of VE participants. However, it is argued that there can be no evidence on this methodological basis that presence played any role in their actual mental activity or behavior at the time of the experience. It is concluded that presence researchers must move away from heavy reliance on questionnaires in order to make any progress in this area.}
@@ -10071,8 +10155,8 @@
       \strng{authorbibnamehash}{b55f7962ab104d9084080653cc5df1a3}
       \strng{authornamehash}{b55f7962ab104d9084080653cc5df1a3}
       \strng{authorfullhash}{1e4b34a3f8bc08ef44d7acf415db80fc}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{A between-group experiment was carried out to assess whether two different presence questionnaires can distinguish between real and virtual experiences. One group of ten subjects searched for a box in a real office environment. A second group of ten subjects carried out the same task in a virtual environment that simulated the same office. Immediately after their experience, subjects were given two different presence questionnaires in randomized order: the Witmer and Singer Presence (WS), and the questionnaire developed by Slater, Usoh, and Steed (SUS). The paper argues that questionnaires should be able to pass a ``reality test,'' whereby under current conditions the presence scores should be higher for real experiences than for virtual ones. Nevertheless, only the SUS had a marginally higher mean score for the real compared to the virtual, and there was no significant difference at all between the WS mean scores. It is concluded that, although such questionnaires may be useful when all subjects experience the same type of environment, their utility is doubtful for the comparison of experiences across environments, such as immersive virtual compared to real, or desktop compared to immersive virtual. ABSTRACT FROM AUTHOR Copyright of Presence: Teleoperators \& Virtual Environments is the property of MIT Press and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder's express written permission. However, users may print, download, or email articles for individual use. This abstract may be abridged. No warranty is given about the accuracy of the copy. Users should refer to the original published version of the material for the full abstract. (Copyright applies to all Abstracts)}
@@ -12701,6 +12785,156 @@
       \field{journaltitle}{arXiv preprint arXiv:2203.09738}
       \field{title}{Blockchain for the Metaverse: A Review}
       \field{year}{2022}
+    \endentry
+    \entry{iser1993fictive}{book}{}
+      \name{author}{1}{}{%
+        {{hash=f440edc15b8b3cd434cf87cc927b70b5}{%
+           family={Iser},
+           familyi={I\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Johns Hopkins University Press}%
+      }
+      \strng{namehash}{f440edc15b8b3cd434cf87cc927b70b5}
+      \strng{fullhash}{f440edc15b8b3cd434cf87cc927b70b5}
+      \strng{bibnamehash}{f440edc15b8b3cd434cf87cc927b70b5}
+      \strng{authorbibnamehash}{f440edc15b8b3cd434cf87cc927b70b5}
+      \strng{authornamehash}{f440edc15b8b3cd434cf87cc927b70b5}
+      \strng{authorfullhash}{f440edc15b8b3cd434cf87cc927b70b5}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The fictive and the imaginary: Charting literary anthropology}
+      \field{year}{1993}
+    \endentry
+    \entry{taylor2009play}{book}{}
+      \name{author}{1}{}{%
+        {{hash=70b3bfb638c5fe22fd5d029268cb555f}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={Tina\bibnamedelima L},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MIT press}%
+      }
+      \strng{namehash}{70b3bfb638c5fe22fd5d029268cb555f}
+      \strng{fullhash}{70b3bfb638c5fe22fd5d029268cb555f}
+      \strng{bibnamehash}{70b3bfb638c5fe22fd5d029268cb555f}
+      \strng{authorbibnamehash}{70b3bfb638c5fe22fd5d029268cb555f}
+      \strng{authornamehash}{70b3bfb638c5fe22fd5d029268cb555f}
+      \strng{authorfullhash}{70b3bfb638c5fe22fd5d029268cb555f}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Play between worlds: Exploring online game culture}
+      \field{year}{2009}
+    \endentry
+    \entry{glas2013battlefields}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4672a9f60577447ef83e61631cd322ed}{%
+           family={Glas},
+           familyi={G\bibinitperiod},
+           given={René},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Amsterdam University Press}%
+      }
+      \strng{namehash}{4672a9f60577447ef83e61631cd322ed}
+      \strng{fullhash}{4672a9f60577447ef83e61631cd322ed}
+      \strng{bibnamehash}{4672a9f60577447ef83e61631cd322ed}
+      \strng{authorbibnamehash}{4672a9f60577447ef83e61631cd322ed}
+      \strng{authornamehash}{4672a9f60577447ef83e61631cd322ed}
+      \strng{authorfullhash}{4672a9f60577447ef83e61631cd322ed}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Battlefields of negotiation: Control, agency, and ownership in World of Warcraft}
+      \field{year}{2013}
+    \endentry
+    \entry{chen2011leet}{book}{}
+      \name{author}{1}{}{%
+        {{hash=fb15a691583ec94aafe0be6e7da4878f}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Peter Lang Publishing, New York}%
+      }
+      \strng{namehash}{fb15a691583ec94aafe0be6e7da4878f}
+      \strng{fullhash}{fb15a691583ec94aafe0be6e7da4878f}
+      \strng{bibnamehash}{fb15a691583ec94aafe0be6e7da4878f}
+      \strng{authorbibnamehash}{fb15a691583ec94aafe0be6e7da4878f}
+      \strng{authornamehash}{fb15a691583ec94aafe0be6e7da4878f}
+      \strng{authorfullhash}{fb15a691583ec94aafe0be6e7da4878f}
+      \field{extraname}{2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Leet noobs}
+      \field{year}{2011}
+    \endentry
+    \entry{serapis2008coming}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=640a40c5b70348902acc862d4acdd07a}{%
+           family={Serapis},
+           familyi={S\bibinitperiod},
+           given={Zicodas},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{640a40c5b70348902acc862d4acdd07a}
+      \strng{fullhash}{640a40c5b70348902acc862d4acdd07a}
+      \strng{bibnamehash}{640a40c5b70348902acc862d4acdd07a}
+      \strng{authorbibnamehash}{640a40c5b70348902acc862d4acdd07a}
+      \strng{authornamehash}{640a40c5b70348902acc862d4acdd07a}
+      \strng{authorfullhash}{640a40c5b70348902acc862d4acdd07a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Coming of age in second life: an anthropologist explores the virtually human}
+      \field{year}{2008}
+    \endentry
+    \entry{cole2013call}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7170092bbf0f8904c752b25e2c880c7f}{%
+           family={Cole},
+           familyi={C\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Duke University Press}%
+      }
+      \strng{namehash}{7170092bbf0f8904c752b25e2c880c7f}
+      \strng{fullhash}{7170092bbf0f8904c752b25e2c880c7f}
+      \strng{bibnamehash}{7170092bbf0f8904c752b25e2c880c7f}
+      \strng{authorbibnamehash}{7170092bbf0f8904c752b25e2c880c7f}
+      \strng{authornamehash}{7170092bbf0f8904c752b25e2c880c7f}
+      \strng{authorfullhash}{7170092bbf0f8904c752b25e2c880c7f}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{the minnesota review}
+      \field{number}{80}
+      \field{title}{The Call of ThingsA Critique of Object-Oriented Ontologies}
+      \field{volume}{2013}
+      \field{year}{2013}
+      \field{pages}{106\bibrangedash 118}
+      \range{pages}{13}
     \endentry
     \entry{siyaev2021towards}{article}{}
       \name{author}{2}{}{%
