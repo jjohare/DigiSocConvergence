@@ -1932,6 +1932,34 @@
       \field{pages}{379\bibrangedash 395}
       \range{pages}{17}
     \endentry
+    \entry{Wouters2022}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1a1770cca5b8c523c9bd613e9684f66b}{%
+           family={Wouters},
+           familyi={W\bibinitperiod},
+           given={Sam},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{1a1770cca5b8c523c9bd613e9684f66b}
+      \strng{fullhash}{1a1770cca5b8c523c9bd613e9684f66b}
+      \strng{bibnamehash}{1a1770cca5b8c523c9bd613e9684f66b}
+      \strng{authorbibnamehash}{1a1770cca5b8c523c9bd613e9684f66b}
+      \strng{authornamehash}{1a1770cca5b8c523c9bd613e9684f66b}
+      \strng{authorfullhash}{1a1770cca5b8c523c9bd613e9684f66b}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{River Research}
+      \field{title}{What Could Bitcoin Mining Look Like at One Zettahash?}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://river.com/learn/files/river-bitcoin-mining-zettahash-report.pdf
+      \endverb
+      \verb{url}
+      \verb https://river.com/learn/files/river-bitcoin-mining-zettahash-report.pdf
+      \endverb
+    \endentry
     \entry{gayoso2018secure}{incollection}{}
       \name{author}{3}{}{%
         {{hash=0e1759afac5b77ed134cde6b5fc5daa9}{%
@@ -2013,8 +2041,8 @@
       \strng{authorbibnamehash}{b3d53ddcf5bac5ec57f03cce3976f96e}
       \strng{authornamehash}{b3d53ddcf5bac5ec57f03cce3976f96e}
       \strng{authorfullhash}{b3d53ddcf5bac5ec57f03cce3976f96e}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The Blocksize War: The battle for control over Bitcoin’s protocol rules}
@@ -2282,8 +2310,8 @@
       \strng{authorbibnamehash}{6636241e9ba636217a3b215ef8d84bff}
       \strng{authornamehash}{6636241e9ba636217a3b215ef8d84bff}
       \strng{authorfullhash}{6636241e9ba636217a3b215ef8d84bff}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Annual International Conference on the Theory and Applications of Cryptographic Techniques}
@@ -2681,8 +2709,8 @@
       \strng{authorbibnamehash}{e3b2a8caec183dc75a77278345d2f616}
       \strng{authornamehash}{e3b2a8caec183dc75a77278345d2f616}
       \strng{authorfullhash}{e3b2a8caec183dc75a77278345d2f616}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{International Journal of Business and Management}
@@ -2981,8 +3009,8 @@
       \strng{authorbibnamehash}{969324062b1e1c947cc79ec27e075957}
       \strng{authornamehash}{969324062b1e1c947cc79ec27e075957}
       \strng{authorfullhash}{969324062b1e1c947cc79ec27e075957}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{AIER Sound Money Project Working Paper}
@@ -3004,8 +3032,8 @@
       \strng{authorbibnamehash}{12bdbcfd8e2a306fbdad6a9aec6aa9cc}
       \strng{authornamehash}{12bdbcfd8e2a306fbdad6a9aec6aa9cc}
       \strng{authorfullhash}{12bdbcfd8e2a306fbdad6a9aec6aa9cc}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{arXiv preprint arXiv}
@@ -3343,8 +3371,8 @@
       \strng{authorbibnamehash}{af8695065272fc2c1ff681f981c353b1}
       \strng{authornamehash}{af8695065272fc2c1ff681f981c353b1}
       \strng{authorfullhash}{af8695065272fc2c1ff681f981c353b1}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Open Economies Review}
@@ -6826,8 +6854,8 @@
       \strng{authorbibnamehash}{bd21ce75a6a60a33677b9b23d308d4eb}
       \strng{authornamehash}{bd21ce75a6a60a33677b9b23d308d4eb}
       \strng{authorfullhash}{bd21ce75a6a60a33677b9b23d308d4eb}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Reviews research on gaze and mutual gaze in social interaction and discusses techniques of measurement. The perception of different patterns is described, as well as the linkage between gaze and speech, deviant problems of gaze in psychiatric cases, and cross-cultural differences. Data are drawn principally from experimental research, but literary and anthropological sources are included where appropriate. It is concluded that gaze is one of the main nonverbal signals and that knowledge of its uses has important practical implications for treatment and training in social skills and for the design of communications equipment. (33 ref) (PsycINFO Database Record (c) 2010 APA, all rights reserved)}
