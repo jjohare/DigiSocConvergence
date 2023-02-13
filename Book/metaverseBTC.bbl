@@ -13468,6 +13468,75 @@
       \field{pages}{435\bibrangedash 451}
       \range{pages}{17}
     \endentry
+    \entry{brundage2018malicious}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=491f407436bc852bea5077f37f0d5055}{%
+           family={Brundage},
+           familyi={B\bibinitperiod},
+           given={Miles},
+           giveni={M\bibinitperiod}}}%
+        {{hash=cd58c9e04ec3707d463b0a385bbf121b}{%
+           family={Avin},
+           familyi={A\bibinitperiod},
+           given={Shahar},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1480c861b1a73e1d1de1b227e985b179}{%
+           family={Clark},
+           familyi={C\bibinitperiod},
+           given={Jack},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f0a1c28380ca315a3d852e88ad370b9c}{%
+           family={Toner},
+           familyi={T\bibinitperiod},
+           given={Helen},
+           giveni={H\bibinitperiod}}}%
+        {{hash=13f6c14b142861ec281b6e049c9ceddd}{%
+           family={Eckersley},
+           familyi={E\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=1506c4b05710cef755340740cdfa96c2}{%
+           family={Garfinkel},
+           familyi={G\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod}}}%
+        {{hash=f8465387f1aef0e52a00f2712e5f31a1}{%
+           family={Dafoe},
+           familyi={D\bibinitperiod},
+           given={Allan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=59276b764387a3ce1bc6c69882020e07}{%
+           family={Scharre},
+           familyi={S\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=7b12ba2748c12be7d54901794228b9aa}{%
+           family={Zeitzoff},
+           familyi={Z\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=ac67717841b00e9cbd05416a5a3a7afc}{%
+           family={Filar},
+           familyi={F\bibinitperiod},
+           given={Bobby},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{81e0eb7b4422a055546632351671d6ab}
+      \strng{fullhash}{fe1fb3771e04961aa70f69f953756afd}
+      \strng{bibnamehash}{81e0eb7b4422a055546632351671d6ab}
+      \strng{authorbibnamehash}{81e0eb7b4422a055546632351671d6ab}
+      \strng{authornamehash}{81e0eb7b4422a055546632351671d6ab}
+      \strng{authorfullhash}{fe1fb3771e04961aa70f69f953756afd}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1802.07228}
+      \field{title}{The malicious use of artificial intelligence: Forecasting, prevention, and mitigation}
+      \field{year}{2018}
+    \endentry
     \entry{radford2021learning}{inproceedings}{}
       \true{moreauthor}
       \true{morelabelname}
