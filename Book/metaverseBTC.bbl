@@ -4087,33 +4087,6 @@
       \field{pages}{258\bibrangedash 274}
       \range{pages}{17}
     \endentry
-    \entry{Kaloudis2023}{article}{}
-      \name{author}{1}{}{%
-        {{hash=915fcc0b3369a9e3ec2c5adde70058f6}{%
-           family={Kaloudis},
-           familyi={K\bibinitperiod},
-           given={George},
-           giveni={G\bibinitperiod}}}%
-      }
-      \strng{namehash}{915fcc0b3369a9e3ec2c5adde70058f6}
-      \strng{fullhash}{915fcc0b3369a9e3ec2c5adde70058f6}
-      \strng{bibnamehash}{915fcc0b3369a9e3ec2c5adde70058f6}
-      \strng{authorbibnamehash}{915fcc0b3369a9e3ec2c5adde70058f6}
-      \strng{authornamehash}{915fcc0b3369a9e3ec2c5adde70058f6}
-      \strng{authorfullhash}{915fcc0b3369a9e3ec2c5adde70058f6}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{How Bitcoin NFTs Might Accidentally Fix Bitcoin's Security Budget}
-      \field{year}{2023}
-      \verb{urlraw}
-      \verb https://www.coindesk.com/consensus-magazine/2023/02/06/how-bitcoin-nfts-might-accidentally-fix-bitcoins-security-budget/
-      \endverb
-      \verb{url}
-      \verb https://www.coindesk.com/consensus-magazine/2023/02/06/how-bitcoin-nfts-might-accidentally-fix-bitcoins-security-budget/
-      \endverb
-    \endentry
     \entry{komlo2020frost}{inproceedings}{}
       \name{author}{2}{}{%
         {{hash=090a69bfa3bfdcc29b769288582f75e9}{%
@@ -4145,6 +4118,33 @@
       \field{year}{2020}
       \field{pages}{34\bibrangedash 65}
       \range{pages}{32}
+    \endentry
+    \entry{Kaloudis2023}{article}{}
+      \name{author}{1}{}{%
+        {{hash=915fcc0b3369a9e3ec2c5adde70058f6}{%
+           family={Kaloudis},
+           familyi={K\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{915fcc0b3369a9e3ec2c5adde70058f6}
+      \strng{fullhash}{915fcc0b3369a9e3ec2c5adde70058f6}
+      \strng{bibnamehash}{915fcc0b3369a9e3ec2c5adde70058f6}
+      \strng{authorbibnamehash}{915fcc0b3369a9e3ec2c5adde70058f6}
+      \strng{authornamehash}{915fcc0b3369a9e3ec2c5adde70058f6}
+      \strng{authorfullhash}{915fcc0b3369a9e3ec2c5adde70058f6}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{How Bitcoin NFTs Might Accidentally Fix Bitcoin's Security Budget}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.coindesk.com/consensus-magazine/2023/02/06/how-bitcoin-nfts-might-accidentally-fix-bitcoins-security-budget/
+      \endverb
+      \verb{url}
+      \verb https://www.coindesk.com/consensus-magazine/2023/02/06/how-bitcoin-nfts-might-accidentally-fix-bitcoins-security-budget/
+      \endverb
     \endentry
     \entry{mystakidis2022metaverse}{article}{}
       \name{author}{1}{}{%
