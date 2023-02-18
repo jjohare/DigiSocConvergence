@@ -13144,6 +13144,7 @@
       \strng{authorbibnamehash}{e991f27d8c6fc97a2b19d4975fca378e}
       \strng{authornamehash}{e991f27d8c6fc97a2b19d4975fca378e}
       \strng{authorfullhash}{e991f27d8c6fc97a2b19d4975fca378e}
+      \field{extraname}{1}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
@@ -13518,6 +13519,29 @@
       \field{year}{2022}
       \field{pages}{435\bibrangedash 451}
       \range{pages}{17}
+    \endentry
+    \entry{Rosenberg2023}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=7cce582f3849a16b2e0ebd1f90725a79}{%
+           family={Rosenberg},
+           familyi={R\bibinitperiod},
+           given={Louis},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{7cce582f3849a16b2e0ebd1f90725a79}
+      \strng{fullhash}{7cce582f3849a16b2e0ebd1f90725a79}
+      \strng{bibnamehash}{7cce582f3849a16b2e0ebd1f90725a79}
+      \strng{authorbibnamehash}{7cce582f3849a16b2e0ebd1f90725a79}
+      \strng{authornamehash}{7cce582f3849a16b2e0ebd1f90725a79}
+      \strng{authorfullhash}{7cce582f3849a16b2e0ebd1f90725a79}
+      \field{extraname}{2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{03}
+      \field{title}{The Metaverse and Conversational AI as a Threat Vector for Targeted Influence}
+      \field{year}{2023}
     \endentry
     \entry{brundage2018malicious}{article}{}
       \true{moreauthor}
