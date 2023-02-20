@@ -954,6 +954,35 @@
       \field{pages}{1\bibrangedash 43}
       \range{pages}{43}
     \endentry
+    \entry{Lowery2023}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5d3ac9648fa5e35edd156537a5f6d8d0}{%
+           family={Lowery},
+           familyi={L\bibinitperiod},
+           given={Jason\bibnamedelima Paul},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{5d3ac9648fa5e35edd156537a5f6d8d0}
+      \strng{fullhash}{5d3ac9648fa5e35edd156537a5f6d8d0}
+      \strng{bibnamehash}{5d3ac9648fa5e35edd156537a5f6d8d0}
+      \strng{authorbibnamehash}{5d3ac9648fa5e35edd156537a5f6d8d0}
+      \strng{authornamehash}{5d3ac9648fa5e35edd156537a5f6d8d0}
+      \strng{authorfullhash}{5d3ac9648fa5e35edd156537a5f6d8d0}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{979-8371524188}
+      \field{journaltitle}{self published}
+      \field{title}{Softwar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.amazon.com/dp/B0BW358F37
+      \endverb
+      \verb{url}
+      \verb https://www.amazon.com/dp/B0BW358F37
+      \endverb
+    \endentry
     \entry{liu2022empirical}{article}{}
       \name{author}{6}{}{%
         {{hash=45013475b7175b160f9391fb1f2ccc00}{%
@@ -1050,8 +1079,8 @@
       \strng{authorbibnamehash}{0dfa611b56902aa5bb59ce0226183038}
       \strng{authornamehash}{0dfa611b56902aa5bb59ce0226183038}
       \strng{authorfullhash}{0dfa611b56902aa5bb59ce0226183038}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Cryptology ePrint Archive}
@@ -1346,8 +1375,8 @@
       \strng{authorbibnamehash}{785a5108f23d07c3b3a4b1916e3d9b57}
       \strng{authornamehash}{785a5108f23d07c3b3a4b1916e3d9b57}
       \strng{authorfullhash}{785a5108f23d07c3b3a4b1916e3d9b57}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Blockchain Analysis of the Bitcoin Market}
@@ -1762,8 +1791,8 @@
       \strng{authorbibnamehash}{98526eb5477111524c3fb21910495fdd}
       \strng{authornamehash}{98526eb5477111524c3fb21910495fdd}
       \strng{authorfullhash}{98526eb5477111524c3fb21910495fdd}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Finance Research Letters}
@@ -2014,8 +2043,8 @@
       \strng{authorbibnamehash}{0cd5bbd149e4d6d600854c7f315a0dc9}
       \strng{authornamehash}{0cd5bbd149e4d6d600854c7f315a0dc9}
       \strng{authorfullhash}{0cd5bbd149e4d6d600854c7f315a0dc9}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Conference on the Theory and Application of Cryptology}
@@ -2273,8 +2302,8 @@
       \strng{authorbibnamehash}{3f27eddce3a607e7c80192306357d060}
       \strng{authornamehash}{3f27eddce3a607e7c80192306357d060}
       \strng{authorfullhash}{21c98029c1148dfe2fa12d4ee18a436f}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security}
@@ -2682,8 +2711,8 @@
       \strng{authorbibnamehash}{4ee93c737ba34d7335ea70711089dbf5}
       \strng{authornamehash}{4ee93c737ba34d7335ea70711089dbf5}
       \strng{authorfullhash}{4ee93c737ba34d7335ea70711089dbf5}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{History of money}
@@ -3335,8 +3364,8 @@
       \strng{authorbibnamehash}{98ddf16a82be76d96f6be0e4fac15aaa}
       \strng{authornamehash}{98ddf16a82be76d96f6be0e4fac15aaa}
       \strng{authorfullhash}{98ddf16a82be76d96f6be0e4fac15aaa}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{blogarticle}
@@ -3461,6 +3490,30 @@
       \field{title}{Antifragile: how to live in a world we don't understand}
       \field{volume}{3}
       \field{year}{2012}
+    \endentry
+    \entry{warren2023bitcoin}{book}{}
+      \name{author}{1}{}{%
+        {{hash=7e5fa932138117b42ca9ebcd54aed7d7}{%
+           family={Warren},
+           familyi={W\bibinitperiod},
+           given={Micah},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Walter de Gruyter GmbH}%
+      }
+      \strng{namehash}{7e5fa932138117b42ca9ebcd54aed7d7}
+      \strng{fullhash}{7e5fa932138117b42ca9ebcd54aed7d7}
+      \strng{bibnamehash}{7e5fa932138117b42ca9ebcd54aed7d7}
+      \strng{authorbibnamehash}{7e5fa932138117b42ca9ebcd54aed7d7}
+      \strng{authornamehash}{7e5fa932138117b42ca9ebcd54aed7d7}
+      \strng{authorfullhash}{7e5fa932138117b42ca9ebcd54aed7d7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Bitcoin: A Game Theoretic Analysis}
+      \field{year}{2023}
     \endentry
     \entry{martin2022dark}{article}{}
       \name{author}{5}{}{%
@@ -6726,8 +6779,8 @@
       \strng{authorbibnamehash}{89b476244643bca57ef812c03ef13b10}
       \strng{authornamehash}{89b476244643bca57ef812c03ef13b10}
       \strng{authorfullhash}{89b476244643bca57ef812c03ef13b10}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 2001 workshop on Perceptive user interfaces}
@@ -6756,8 +6809,8 @@
       \strng{authorbibnamehash}{c3514fe522675a7dff97151dbfcd1162}
       \strng{authornamehash}{c3514fe522675a7dff97151dbfcd1162}
       \strng{authorfullhash}{c3514fe522675a7dff97151dbfcd1162}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The author presents an overview of his work on tracking focus of attention in meeting situations. He has developed a system capable of estimating participants' focus of attention from multiple cues. In the system he employs an omni-directional camera to simultaneously track the faces of participants sitting around a meeting table and uses neural networks to estimate their head poses. In addition, he uses microphones to detect who is speaking. The system predicts participants' focus of attention from acoustic and visual information separately, and then combines the output of the audio- and video-based focus of attention predictors. In addition he reports recent experimental results: In order to determine how well we can predict a subject's focus of attention solely on the basis of his or her head orientation, he has conducted an experiment in which he recorded head and eye orientations of participants in a meeting using special tracking equipment. The results demonstrate that head orientation was a sufficient indicator of the subjects' focus target in 89\% of the time. Furthermore he discusses how the neural networks used to estimate head orientation can be adapted to work in new locations and under new illumination conditions.}
@@ -6821,8 +6874,8 @@
       \strng{authorbibnamehash}{d9f5308fe722a6e675192f48579d5791}
       \strng{authornamehash}{d9f5308fe722a6e675192f48579d5791}
       \strng{authorfullhash}{83cbe5e0dab23c180f71b6ab7cfc5aaa}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In face-to-face collaboration, eye gaze is used both as a bidirectional signal to monitor and indicate focus of attention and action, as well as a resource to manage the interaction. In remote interaction supported by immersive collaborative virtual environments (ICVEs), embodied avatars representing and controlled by each participant share a virtual space. We report on a study designed to evaluate methods of avatar eye gaze control during an object-focused puzzle scenario performed between three networked CAVEtrade-like systems. We compare tracked gaze, in which avatars' eyes are controlled by head-mounted mobile eye trackers worn by participants, to a gaze model informed by head orientation for saccade generation, and static gaze featuring non-moving eyes. We analyse task performance, subjective user experience, and interactional behaviour. While not providing statistically significant benefit over static gaze, tracked gaze is observed as the highest performing condition. However, the gaze model resulted in significantly lower task performance and increased error rate.}
@@ -10097,8 +10150,8 @@
       \strng{authorbibnamehash}{ebf5f537b49e63d063530168de15b194}
       \strng{authornamehash}{ebf5f537b49e63d063530168de15b194}
       \strng{authorfullhash}{ebf5f537b49e63d063530168de15b194}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Critical Inquiry In A Text-based Environment: Computer Conferencing In Higher Education}
@@ -14114,8 +14167,8 @@
       \strng{authorbibnamehash}{2ab1fa74b3bad871227919987fac4bbc}
       \strng{authornamehash}{2ab1fa74b3bad871227919987fac4bbc}
       \strng{authorfullhash}{5e123f7b7d7c187f27103d018600214d}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{arXiv}
@@ -14139,8 +14192,8 @@
       \strng{authorbibnamehash}{f0864881d931f2f32dce82025b36ad6e}
       \strng{authornamehash}{f0864881d931f2f32dce82025b36ad6e}
       \strng{authorfullhash}{f0864881d931f2f32dce82025b36ad6e}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Ghosts of my life: Writings on depression, hauntology and lost futures}
@@ -14168,8 +14221,8 @@
       \strng{authorbibnamehash}{c65744538adbcd6a5aab2b665ac15808}
       \strng{authornamehash}{c65744538adbcd6a5aab2b665ac15808}
       \strng{authorfullhash}{c65744538adbcd6a5aab2b665ac15808}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Proceedings of the National Academy of Sciences}
