@@ -13830,6 +13830,70 @@
       \field{title}{Exploring the Unprecedented Privacy Risks of the Metaverse}
       \field{year}{2022}
     \endentry
+    \entry{Nair2023}{article}{}
+      \name{author}{7}{}{%
+        {{hash=e9c616412e81a967ba9d7b125e95c9c5}{%
+           family={Nair},
+           familyi={N\bibinitperiod},
+           given={Vivek},
+           giveni={V\bibinitperiod}}}%
+        {{hash=75474cc57cfd80a53aa7250252317f98}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Wenbo},
+           giveni={W\bibinitperiod}}}%
+        {{hash=a977ed6de6fae5b2257b99b76a71c7c7}{%
+           family={Mattern},
+           familyi={M\bibinitperiod},
+           given={Justus},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9a8e37c2db183faff113a94a5dbc4914}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Rui},
+           giveni={R\bibinitperiod}}}%
+        {{hash=3a381be4244c89e43d5b1a034fe51272}{%
+           family={O'Brien},
+           familyi={O\bibinitperiod},
+           given={James\bibnamedelima F.},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=7cce582f3849a16b2e0ebd1f90725a79}{%
+           family={Rosenberg},
+           familyi={R\bibinitperiod},
+           given={Louis},
+           giveni={L\bibinitperiod}}}%
+        {{hash=d458d5f9b64652055bd81d57e4777b22}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Dawn},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{dbf5524215b7c32795082eeb0669af50}
+      \strng{fullhash}{9d75616760b91f27532c303dec1e5704}
+      \strng{bibnamehash}{dbf5524215b7c32795082eeb0669af50}
+      \strng{authorbibnamehash}{dbf5524215b7c32795082eeb0669af50}
+      \strng{authornamehash}{dbf5524215b7c32795082eeb0669af50}
+      \strng{authorfullhash}{9d75616760b91f27532c303dec1e5704}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Unique Identification of 50,000 Virtual Reality Users from Head Hand Motion Data}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.48550/ARXIV.2302.08927
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2302.08927
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2302.08927
+      \endverb
+      \keyw{Cryptography and Security (cs.CR),Machine Learning (cs.LG),FOS: Computer and information sciences}
+    \endentry
     \entry{cameron2012splendid}{article}{}
       \name{author}{1}{}{%
         {{hash=d9836fe1eae82aebf69ee7dfd0777789}{%
