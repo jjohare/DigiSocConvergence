@@ -2168,6 +2168,33 @@
       \field{title}{Short Paper: A Centrality Analysis of the Lightning Network}
       \field{year}{2022}
     \endentry
+    \entry{mirzaei2022daric}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=acb4a64de03cdef7187dbc3a472bc776}{%
+           family={Mirzaei},
+           familyi={M\bibinitperiod},
+           given={Arash},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{acb4a64de03cdef7187dbc3a472bc776}
+      \strng{fullhash}{acb4a64de03cdef7187dbc3a472bc776}
+      \strng{bibnamehash}{acb4a64de03cdef7187dbc3a472bc776}
+      \strng{authorbibnamehash}{acb4a64de03cdef7187dbc3a472bc776}
+      \strng{authornamehash}{acb4a64de03cdef7187dbc3a472bc776}
+      \strng{authorfullhash}{acb4a64de03cdef7187dbc3a472bc776}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2022 52nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks-Supplemental Volume (DSN-S)}
+      \field{title}{Daric: A Storage Efficient Payment Channel With Penalization Mechanism}
+      \field{year}{2022}
+      \field{pages}{51\bibrangedash 52}
+      \range{pages}{2}
+    \endentry
     \entry{https://doi.org/10.48550/arxiv.2208.01908}{misc}{}
       \name{author}{2}{}{%
         {{hash=ad9b0df357c9c505d4b108383e9ef7eb}{%
@@ -2261,8 +2288,8 @@
       \strng{authorbibnamehash}{e027c8df89339344ddc4de634d17acf1}
       \strng{authornamehash}{e027c8df89339344ddc4de634d17acf1}
       \strng{authorfullhash}{e027c8df89339344ddc4de634d17acf1}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Computer}
@@ -2687,8 +2714,8 @@
       \strng{authorbibnamehash}{77c1ed02c587f0e6bce66c7ab5b5ea39}
       \strng{authornamehash}{77c1ed02c587f0e6bce66c7ab5b5ea39}
       \strng{authorfullhash}{77c1ed02c587f0e6bce66c7ab5b5ea39}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Inflation: causes and effects}
@@ -3011,8 +3038,8 @@
       \strng{authorbibnamehash}{55a037e4185ad0d2257a2a9936d0553a}
       \strng{authornamehash}{55a037e4185ad0d2257a2a9936d0553a}
       \strng{authorfullhash}{55a037e4185ad0d2257a2a9936d0553a}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Verlag, ISLET}
@@ -3342,8 +3369,8 @@
       \strng{authorbibnamehash}{c449b17077120b0946c7f10ca1c5df1c}
       \strng{authornamehash}{c449b17077120b0946c7f10ca1c5df1c}
       \strng{authorfullhash}{c449b17077120b0946c7f10ca1c5df1c}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Available at SSRN 4320431}
@@ -6733,8 +6760,8 @@
       \strng{authorbibnamehash}{dfdb55d6d1d9b476ce4d6bfab68237ee}
       \strng{authornamehash}{dfdb55d6d1d9b476ce4d6bfab68237ee}
       \strng{authorfullhash}{f7536b7221615e95d89772d4583fa477}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the {SIGCHI} Conference on Human Factors in Computing Systems}
@@ -13766,6 +13793,27 @@
       \field{title}{ChatGPT is not all you need. A State of the Art Review of large Generative AI models}
       \field{year}{2023}
     \endentry
+    \entry{Sheng2023}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b99fbe22103d2d6f803495267ee1cac9}{%
+           family={Sheng},
+           familyi={S\bibinitperiod},
+           given={Ying},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{b99fbe22103d2d6f803495267ee1cac9}
+      \strng{fullhash}{b99fbe22103d2d6f803495267ee1cac9}
+      \strng{bibnamehash}{b99fbe22103d2d6f803495267ee1cac9}
+      \strng{authorbibnamehash}{b99fbe22103d2d6f803495267ee1cac9}
+      \strng{authornamehash}{b99fbe22103d2d6f803495267ee1cac9}
+      \strng{authorfullhash}{b99fbe22103d2d6f803495267ee1cac9}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{High-throughput Generative Inference of Large Language Models with a Single GPU Ying}
+      \field{year}{2023}
+    \endentry
     \entry{bahdanau2014neural}{article}{}
       \name{author}{3}{}{%
         {{hash=6d80adec79a13a33e73215c5f46f1605}{%
@@ -14052,8 +14100,8 @@
       \strng{editornamehash}{7e6ebc75a8db603f951bb9fb3ec7a428}
       \strng{editorfullhash}{7e6ebc75a8db603f951bb9fb3ec7a428}
       \field{extraname}{1}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The concept of supporting ad hoc or dynamic membership tele-present meetings through pulling up a chair is novel. In real world business situations, people pull up a chair after catching the eye of someone already seated. Telethrone is a situated display on a chair which allows multiple correct views of a remote collaborator. The system has been expanded to support informal meetings where chairs can be moved around. This is facilitated through the novel integration of a 3D reconstructed model of a person, with live viewpoint dependent rendering onto a retro-reflective surface. This removes the need for painstaking alignment of multiple cameras and projectors each time a chair is moved. A between subjects experiment tested accuracy of reconnected mutual gaze mediated by part of the system. Subjectively easier and harder situations are compared. Specifically best and worst cases, both in terms of orientation of eyes in the reconstructed head, and angle of observer gaze onto the display. Discussion compares results to experiments that used other systems to attempt to convey eye gaze by different techniques. This research builds toward a scalable system for ad hoc business meetings; a paradigm poorly supported by current video conferencing. It is also applicable to supporting conversations between seated people in any scenario where seats might be moved, for example in interaction between client and therapist in tele-therapy.}
@@ -14106,8 +14154,8 @@
       \strng{authorbibnamehash}{8209721fd83ce75e1204d6e38b0b93fc}
       \strng{authornamehash}{8209721fd83ce75e1204d6e38b0b93fc}
       \strng{authorfullhash}{75143449c2559d5c42fb08ade920ec92}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This paper presents a mixed reality (MR) system that results from the integration of a telepresence system and an application to improve collaborative space exploration. The system combines free viewpoint video with immersive projection technology to support nonverbal communication (NVC), including eye gaze, interpersonal distance, and facial expression. Importantly, these features can be interpreted together as people move around the simulation, maintaining a natural social distance. The application is a simulation of Mars, within which the collaborators must come to agreement over; for example, where the Rover should land and go. The first contribution is the creation of an MR system supporting contextualization of NVC. Two technological contributions are prototyping a technique to subtract a person from a background that may contain physical objects and/or moving images and a lightweight texturing method for multiview rendering, which provides balance in terms of visual and temporal quality. A practical contribution is the demonstration of pragmatic approaches to sharing space between display systems of distinct levels of immersion. A research tool contribution is a system that allows comparison of conventional authored and video-based reconstructed avatars, within an environment that encourages exploration and social interaction. Aspects of system quality, including the communication of facial expression and end-to-end latency are reported.}
@@ -14164,8 +14212,8 @@
       \strng{authornamehash}{4a23456c5972a08217e1505f37c291ea}
       \strng{authorfullhash}{aef3ef0d82a01c6f6c12205fe5167bd4}
       \field{extraname}{2}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{{ICAT-EGVE}}
@@ -14187,8 +14235,8 @@
       \strng{authorbibnamehash}{7079c72c21415131774625ba1d64f4b0}
       \strng{authornamehash}{7079c72c21415131774625ba1d64f4b0}
       \strng{authorfullhash}{7079c72c21415131774625ba1d64f4b0}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Submitted to The Eleventh International Conference on Learning Representations}

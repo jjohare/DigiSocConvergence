@@ -34,58 +34,60 @@
 \contentsline {figure}{\numberline {3.21}{\ignorespaces Given a start point on the curve and a number of reflection operations it's trivial to find a number at the end point, but impossible to find the number of \href {https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch04.asciidoc}{hops} from the two end points alone. (CC Mastering Bitcoin second edition)}}{74}{figure.3.21}%
 \contentsline {figure}{\numberline {3.22}{\ignorespaces Seedsigner is an inexpensive open source project which scans the master seed in from a QR code to enable signing. One device can run a quorum based wallet (multisig) and manage Nostr identity.}}{79}{figure.3.22}%
 \contentsline {figure}{\numberline {3.23}{\ignorespaces \href {https://www.research.arcane.no/the-state-of-lightning}{Arcane research lightning adoption overview}.}}{85}{figure.3.23}%
-\contentsline {figure}{\numberline {3.24}{\ignorespaces \href {https://twitter.com/SeedMint21/status/1518934554840600579}{A key fob with a Bolt12 QR code}}}{87}{figure.3.24}%
-\contentsline {figure}{\numberline {3.25}{\ignorespaces Two of the many \href {https://rapaygo.com/}{prebuilt} and \href {https://github.com/arcbtc/LNURLPoS}{kit} options for Lightning `point of sale'}}{89}{figure.3.25}%
+\contentsline {figure}{\numberline {3.24}{\ignorespaces Within weeks of launch thousands of people are pinging micropayments to one another}}{86}{figure.3.24}%
+\contentsline {figure}{\numberline {3.25}{\ignorespaces \href {https://twitter.com/SeedMint21/status/1518934554840600579}{A key fob with a Bolt12 QR code}}}{87}{figure.3.25}%
+\contentsline {figure}{\numberline {3.26}{\ignorespaces Two of the many \href {https://rapaygo.com/}{prebuilt} and \href {https://github.com/arcbtc/LNURLPoS}{kit} options for Lightning `point of sale'}}{89}{figure.3.26}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Comparison of mobile based payment systems}}{108}{figure.4.1}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces The UK signs into law regulation of digital representatives of value}}{114}{figure.4.2}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces More than half of central banks \href {https://www.bis.org/publ/bppdf/bispap125.htm}{surveyed by the BIS} said they saw issuance of a CBDC as possible.}}{116}{figure.4.3}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces The UK is clearly making moves to staff a new department for CBDC.}}{121}{figure.4.4}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Potential market exposure to Bitcoin as a money}}{129}{figure.4.5}%
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Nassim Taleb's Turkey Problem}}{136}{figure.4.6}%
-\contentsline {figure}{\numberline {4.7}{\ignorespaces \href {https://davethewave.substack.com/p/cycle-theory-revisited?s=r}{Cycle theory revisited blog post} [Image used with permission]}}{137}{figure.4.7}%
-\contentsline {figure}{\numberline {4.8}{\ignorespaces \href {https://twitter.com/Geertjancap/status/1380972132990136322/photo/1}{Bitcoin distribution is skewed to s few early holders, but it likely \textbf {is} fair.} [Image used with permission]}}{138}{figure.4.8}%
-\contentsline {figure}{\numberline {4.9}{\ignorespaces Supply of bitcoin that \href {https://en.macromicro.me/charts/32355/bitcoin-supply-last-active-1plus-years-ago}{hasn't moved} for over 1 year}}{138}{figure.4.9}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Comparison of mobile based payment systems}}{110}{figure.4.1}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces The UK signs into law regulation of digital representatives of value}}{116}{figure.4.2}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces More than half of central banks \href {https://www.bis.org/publ/bppdf/bispap125.htm}{surveyed by the BIS} said they saw issuance of a CBDC as possible.}}{118}{figure.4.3}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces The UK is clearly making moves to staff a new department for CBDC.}}{123}{figure.4.4}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Potential market exposure to Bitcoin as a money}}{131}{figure.4.5}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Nassim Taleb's Turkey Problem}}{138}{figure.4.6}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces \href {https://davethewave.substack.com/p/cycle-theory-revisited?s=r}{Cycle theory revisited blog post} [Image used with permission]}}{139}{figure.4.7}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces \href {https://twitter.com/Geertjancap/status/1380972132990136322/photo/1}{Bitcoin distribution is skewed to s few early holders, but it likely \textbf {is} fair.} [Image used with permission]}}{140}{figure.4.8}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Supply of bitcoin that \href {https://en.macromicro.me/charts/32355/bitcoin-supply-last-active-1plus-years-ago}{hasn't moved} for over 1 year}}{140}{figure.4.9}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Part of the DID SSI specs}}{169}{figure.6.1}%
-\contentsline {figure}{\numberline {6.2}{\ignorespaces An illustration of the enthusiasm for Nostr compared to traditional DID based on GitHub `stars'.}}{177}{figure.6.2}%
-\contentsline {figure}{\numberline {6.3}{\ignorespaces Comparison of distributed file stores}}{186}{figure.6.3}%
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Part of the DID SSI specs}}{171}{figure.6.1}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces An illustration of the enthusiasm for Nostr compared to traditional DID based on GitHub `stars'.}}{179}{figure.6.2}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Comparison of distributed file stores}}{188}{figure.6.3}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {7.1}{\ignorespaces Solana NFT markets are enjoying growth compared to Opensea on Ethereum, even in the downturn.}}{193}{figure.7.1}%
-\contentsline {figure}{\numberline {7.2}{\ignorespaces Beeple: First 5000 days, \href {https://onlineonly.christies.com/s/beeple-first-5000-days/lots/2020}{taken from the Christies website, assumed fair use}.}}{195}{figure.7.2}%
-\contentsline {figure}{\numberline {7.3}{\ignorespaces The \href {https://www.coingecko.com/en/nft/bored-ape-yacht-club}{bubble bursts} on Yuga Bored Apes for now.}}{199}{figure.7.3}%
-\contentsline {figure}{\numberline {7.4}{\ignorespaces The press has been quick to note the phase change to digital objects on Bitcoin}}{209}{figure.7.4}%
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Solana NFT markets are enjoying growth compared to Opensea on Ethereum, even in the downturn.}}{195}{figure.7.1}%
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Beeple: First 5000 days, \href {https://onlineonly.christies.com/s/beeple-first-5000-days/lots/2020}{taken from the Christies website, assumed fair use}.}}{197}{figure.7.2}%
+\contentsline {figure}{\numberline {7.3}{\ignorespaces The \href {https://www.coingecko.com/en/nft/bored-ape-yacht-club}{bubble bursts} on Yuga Bored Apes for now.}}{201}{figure.7.3}%
+\contentsline {figure}{\numberline {7.4}{\ignorespaces The press has been quick to note the phase change to digital objects on Bitcoin}}{211}{figure.7.4}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {8.1}{\ignorespaces \href {https://www.notboring.co/p/tencents-dreams}{McCormick attempts to guess the Tencent metaverse}}}{213}{figure.8.1}%
-\contentsline {figure}{\numberline {8.2}{\ignorespaces Elon Musk agrees with this on Twitter. It's notable that Musk is now Twitters' \href {https://twitter.com/paraga/status/1511320953598357505}{biggest shareholder}, and has been vocal about web censorship on the platform.}}{219}{figure.8.2}%
-\contentsline {figure}{\numberline {8.3}{\ignorespaces Eye tracked eye gaze awareness in VR. Murray et al. used immersive and semi immersive systems alongside eye trackers to examine the ability of two avatars to detect the gaze awareness of a similarly immersed collaborator.}}{234}{figure.8.3}%
-\contentsline {figure}{\numberline {8.4}{\ignorespaces Bands of social space around a person Image CC0 \href {https://en.wikipedia.org/wiki/Proxemics}{from wikipedia}.}}{236}{figure.8.4}%
-\contentsline {figure}{\numberline {8.5}{\ignorespaces The Venn diagram shows areas of research which have been identified in blue. These interlock and overlap as shown. The most relevant identified researchers from the literature are shown in black close to the fields of study which they represent. This diagram is a view of the core assumptions for the research, with the most important fields at the centre. }}{250}{figure.8.5}%
-\contentsline {figure}{\numberline {8.6}{\ignorespaces \href {https://www.ipsos.com/en/global-advisor-metaverse-extended-reality-may-2022}{IPSOS poll predicted applications}}}{257}{figure.8.6}%
-\contentsline {figure}{\numberline {8.7}{\ignorespaces Time magazine Metaverse Cover 2022}}{267}{figure.8.7}%
-\contentsline {figure}{\numberline {8.8}{\ignorespaces Epic games flywheel by Matthew Ball}}{268}{figure.8.8}%
-\contentsline {figure}{\numberline {8.9}{\ignorespaces John O'Hare (author) with a virtualproduction robot at PathwatXR.}}{269}{figure.8.9}%
+\contentsline {figure}{\numberline {8.1}{\ignorespaces \href {https://www.notboring.co/p/tencents-dreams}{McCormick attempts to guess the Tencent metaverse}}}{215}{figure.8.1}%
+\contentsline {figure}{\numberline {8.2}{\ignorespaces Elon Musk agrees with this on Twitter. It's notable that Musk is now Twitters' \href {https://twitter.com/paraga/status/1511320953598357505}{biggest shareholder}, and has been vocal about web censorship on the platform.}}{221}{figure.8.2}%
+\contentsline {figure}{\numberline {8.3}{\ignorespaces Eye tracked eye gaze awareness in VR. Murray et al. used immersive and semi immersive systems alongside eye trackers to examine the ability of two avatars to detect the gaze awareness of a similarly immersed collaborator.}}{236}{figure.8.3}%
+\contentsline {figure}{\numberline {8.4}{\ignorespaces Bands of social space around a person Image CC0 \href {https://en.wikipedia.org/wiki/Proxemics}{from wikipedia}.}}{238}{figure.8.4}%
+\contentsline {figure}{\numberline {8.5}{\ignorespaces The Venn diagram shows areas of research which have been identified in blue. These interlock and overlap as shown. The most relevant identified researchers from the literature are shown in black close to the fields of study which they represent. This diagram is a view of the core assumptions for the research, with the most important fields at the centre. }}{252}{figure.8.5}%
+\contentsline {figure}{\numberline {8.6}{\ignorespaces \href {https://www.ipsos.com/en/global-advisor-metaverse-extended-reality-may-2022}{IPSOS poll predicted applications}}}{259}{figure.8.6}%
+\contentsline {figure}{\numberline {8.7}{\ignorespaces Time magazine Metaverse Cover 2022}}{269}{figure.8.7}%
+\contentsline {figure}{\numberline {8.8}{\ignorespaces Epic games flywheel by Matthew Ball}}{270}{figure.8.8}%
+\contentsline {figure}{\numberline {8.9}{\ignorespaces John O'Hare (author) with a virtualproduction robot at PathwatXR.}}{271}{figure.8.9}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {9.1}{\ignorespaces The terminology in the field is both somewhat blurred and highly `nested'.}}{274}{figure.9.1}%
-\contentsline {figure}{\numberline {9.2}{\ignorespaces The OpenAI GPT4 data corpus is the last ever snapshot of truly human creativity. It was gathered before the data obfuscation introduced by GPT3.}}{276}{figure.9.2}%
-\contentsline {figure}{\numberline {9.3}{\ignorespaces Taxonomy of \href {https://arxiv.org/abs/2301.04655}{recent generative ML systems} by Gozalo-Brizuela and Garrido-Merchan used with permission.}}{282}{figure.9.3}%
-\contentsline {figure}{\numberline {9.4}{\ignorespaces SD tools website shows elements of creation and training.}}{287}{figure.9.4}%
+\contentsline {figure}{\numberline {9.1}{\ignorespaces The terminology in the field is both somewhat blurred and highly `nested'.}}{276}{figure.9.1}%
+\contentsline {figure}{\numberline {9.2}{\ignorespaces Major stands of generative AI and their associated models at the time of print.}}{277}{figure.9.2}%
+\contentsline {figure}{\numberline {9.3}{\ignorespaces The OpenAI GPT4 data corpus is the last ever snapshot of truly human creativity. It was gathered before the data obfuscation introduced by GPT3.}}{279}{figure.9.3}%
+\contentsline {figure}{\numberline {9.4}{\ignorespaces Taxonomy of \href {https://arxiv.org/abs/2301.04655}{recent generative ML systems} by Gozalo-Brizuela and Garrido-Merchan used with permission.}}{285}{figure.9.4}%
+\contentsline {figure}{\numberline {9.5}{\ignorespaces SD tools website shows elements of creation and training.}}{290}{figure.9.5}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {10.1}{\ignorespaces Pyramid showing the components for sats, stablecoins on lightning, asssets, and trust}}{295}{figure.10.1}%
-\contentsline {figure}{\numberline {10.2}{\ignorespaces High level overview showing the components for sats, stablecoins on lightning, asssets, and trust}}{296}{figure.10.2}%
-\contentsline {figure}{\numberline {10.3}{\ignorespaces Top panel is a screen grab from Vircadia and the bottom panel is a quick pass through img2img from Stable Diffusion.}}{302}{figure.10.3}%
-\contentsline {figure}{\numberline {10.4}{\ignorespaces Robot VP}}{303}{figure.10.4}%
-\contentsline {figure}{\numberline {10.5}{\ignorespaces Functional elements for infrastructure.}}{303}{figure.10.5}%
-\contentsline {figure}{\numberline {10.6}{\ignorespaces Client server C4 diagrams.}}{304}{figure.10.6}%
-\contentsline {figure}{\numberline {10.7}{\ignorespaces Ubuntu 20.04 Desktop Settings}}{342}{figure.10.7}%
-\contentsline {figure}{\numberline {10.8}{\ignorespaces Ubuntu 20.04 Desktop Settings - Network}}{343}{figure.10.8}%
-\contentsline {figure}{\numberline {10.9}{\ignorespaces Vircadia build settings and installation screen grab}}{344}{figure.10.9}%
-\contentsline {figure}{\numberline {10.10}{\ignorespaces Vircadia build Qt warning}}{344}{figure.10.10}%
-\contentsline {figure}{\numberline {10.11}{\ignorespaces Vircadia server configuration landing page}}{347}{figure.10.11}%
-\contentsline {figure}{\numberline {10.12}{\ignorespaces Vircadia server configuration import page}}{347}{figure.10.12}%
-\contentsline {figure}{\numberline {10.13}{\ignorespaces Vircadia server configuration import page}}{348}{figure.10.13}%
-\contentsline {figure}{\numberline {10.14}{\ignorespaces Vircadia server configuration import page}}{348}{figure.10.14}%
-\contentsline {figure}{\numberline {10.15}{\ignorespaces Vircadia server configuration import page}}{349}{figure.10.15}%
-\contentsline {figure}{\numberline {10.16}{\ignorespaces Vircadia server configuration import page}}{349}{figure.10.16}%
+\contentsline {figure}{\numberline {10.1}{\ignorespaces Pyramid showing the components for sats, stablecoins on lightning, asssets, and trust}}{299}{figure.10.1}%
+\contentsline {figure}{\numberline {10.2}{\ignorespaces High level overview showing the components for sats, stablecoins on lightning, asssets, and trust}}{300}{figure.10.2}%
+\contentsline {figure}{\numberline {10.3}{\ignorespaces Top panel is a screen grab from Vircadia and the bottom panel is a quick pass through img2img from Stable Diffusion.}}{306}{figure.10.3}%
+\contentsline {figure}{\numberline {10.4}{\ignorespaces Robot VP}}{307}{figure.10.4}%
+\contentsline {figure}{\numberline {10.5}{\ignorespaces Functional elements for infrastructure.}}{307}{figure.10.5}%
+\contentsline {figure}{\numberline {10.6}{\ignorespaces Client server C4 diagrams.}}{308}{figure.10.6}%
+\contentsline {figure}{\numberline {10.7}{\ignorespaces Ubuntu 20.04 Desktop Settings}}{346}{figure.10.7}%
+\contentsline {figure}{\numberline {10.8}{\ignorespaces Ubuntu 20.04 Desktop Settings - Network}}{347}{figure.10.8}%
+\contentsline {figure}{\numberline {10.9}{\ignorespaces Vircadia build settings and installation screen grab}}{348}{figure.10.9}%
+\contentsline {figure}{\numberline {10.10}{\ignorespaces Vircadia build Qt warning}}{348}{figure.10.10}%
+\contentsline {figure}{\numberline {10.11}{\ignorespaces Vircadia server configuration landing page}}{351}{figure.10.11}%
+\contentsline {figure}{\numberline {10.12}{\ignorespaces Vircadia server configuration import page}}{351}{figure.10.12}%
+\contentsline {figure}{\numberline {10.13}{\ignorespaces Vircadia server configuration import page}}{352}{figure.10.13}%
+\contentsline {figure}{\numberline {10.14}{\ignorespaces Vircadia server configuration import page}}{352}{figure.10.14}%
+\contentsline {figure}{\numberline {10.15}{\ignorespaces Vircadia server configuration import page}}{353}{figure.10.15}%
+\contentsline {figure}{\numberline {10.16}{\ignorespaces Vircadia server configuration import page}}{353}{figure.10.16}%
 \contentsfinish 
