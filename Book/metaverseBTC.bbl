@@ -1525,6 +1525,41 @@
       \field{title}{El Salvador bitcoin experiment comes with risks}
       \field{year}{2021}
     \endentry
+    \entry{katterbauer2022impact}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e5e8b98fb64ffd2b1d5ad4a296f597ff}{%
+           family={Katterbauer},
+           familyi={K\bibinitperiod},
+           given={Klemens},
+           giveni={K\bibinitperiod}}}%
+        {{hash=410f4cf805bac82d7f3e0629da9c9b39}{%
+           family={Syed},
+           familyi={S\bibinitperiod},
+           given={Hassan},
+           giveni={H\bibinitperiod}}}%
+        {{hash=8517bbb0096e30112de7f4a26041958a}{%
+           family={Cleenewerck},
+           familyi={C\bibinitperiod},
+           given={Laurent},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{f2eeffdbb9452b495ac5a45f459f2ce1}
+      \strng{fullhash}{f2eeffdbb9452b495ac5a45f459f2ce1}
+      \strng{bibnamehash}{f2eeffdbb9452b495ac5a45f459f2ce1}
+      \strng{authorbibnamehash}{f2eeffdbb9452b495ac5a45f459f2ce1}
+      \strng{authornamehash}{f2eeffdbb9452b495ac5a45f459f2ce1}
+      \strng{authorfullhash}{f2eeffdbb9452b495ac5a45f459f2ce1}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cuadernos de Economı́a}
+      \field{title}{The impact of the legalization of Bitcoin in the Central African Republic--a legal analysis}
+      \field{volume}{713}
+      \field{year}{2022}
+      \field{pages}{746}
+      \range{pages}{1}
+    \endentry
     \entry{rogaway2004cryptographic}{inproceedings}{}
       \name{author}{2}{}{%
         {{hash=2198941c13b8201b0e0d2127034bb263}{%
@@ -1758,8 +1793,8 @@
       \strng{authorbibnamehash}{360797d29ca6304e913fc67358fdfe69}
       \strng{authornamehash}{360797d29ca6304e913fc67358fdfe69}
       \strng{authorfullhash}{45d51370f0cf36600e7faeb6b4531f53}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Renewable and Sustainable Energy Reviews}
@@ -2016,8 +2051,8 @@
       \strng{authorbibnamehash}{3fad60e6532cddb72f0fd50a13a7d1b8}
       \strng{authornamehash}{3fad60e6532cddb72f0fd50a13a7d1b8}
       \strng{authorfullhash}{3fad60e6532cddb72f0fd50a13a7d1b8}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Computer and Network Security Essentials}
@@ -2261,8 +2296,8 @@
       \strng{authorbibnamehash}{c81d66467c1e75d1303fc933194ecfd5}
       \strng{authornamehash}{c81d66467c1e75d1303fc933194ecfd5}
       \strng{authorfullhash}{c81d66467c1e75d1303fc933194ecfd5}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{2013 APWG eCrime researchers summit}
@@ -2685,8 +2720,8 @@
       \strng{authorbibnamehash}{b3c0b9bea23096193e5c349e2546e0fe}
       \strng{authornamehash}{b3c0b9bea23096193e5c349e2546e0fe}
       \strng{authorfullhash}{b3c0b9bea23096193e5c349e2546e0fe}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of monetary Economics}
@@ -3013,8 +3048,8 @@
       \strng{authorbibnamehash}{2757267655a8e2d265367ee28326f581}
       \strng{authornamehash}{2757267655a8e2d265367ee28326f581}
       \strng{authorfullhash}{2757267655a8e2d265367ee28326f581}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{China Economic Review}
@@ -3338,8 +3373,8 @@
       \strng{authorbibnamehash}{bfb8d2bb070d9ca205932dede8e3853f}
       \strng{authornamehash}{bfb8d2bb070d9ca205932dede8e3853f}
       \strng{authorfullhash}{bfb8d2bb070d9ca205932dede8e3853f}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The Future of Money: How the Digital Revolution is Transforming Currencies and Finance}
@@ -6711,8 +6746,8 @@
       \strng{authorbibnamehash}{08e88983fada14a869fb42cd53ca94c8}
       \strng{authornamehash}{08e88983fada14a869fb42cd53ca94c8}
       \strng{authorfullhash}{4ddbfa72270f375c7abe280edfcc0742}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Perception of head orientation}
@@ -10139,8 +10174,8 @@
       \strng{authorbibnamehash}{d9bba8b2f808cb2046c3294588aa319a}
       \strng{authornamehash}{d9bba8b2f808cb2046c3294588aa319a}
       \strng{authorfullhash}{d9bba8b2f808cb2046c3294588aa319a}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Toward a more robust theory and measure of social presence: Review and suggested criteria}
@@ -14039,8 +14074,8 @@
       \strng{authorbibnamehash}{ca5a15d3347ed4d0da8ae3785d341dee}
       \strng{authornamehash}{ca5a15d3347ed4d0da8ae3785d341dee}
       \strng{authorfullhash}{a2cf5e47381c83dceecdfabf3ebea7d3}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{arXiv preprint arxiv:2208.12242}
