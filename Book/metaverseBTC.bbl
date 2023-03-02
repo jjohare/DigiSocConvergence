@@ -13269,6 +13269,35 @@
       \field{volume}{1}
       \field{year}{2022}
     \endentry
+    \entry{penrose1990emperor}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=f51dfd339a12125d0f82a2d93e66d9b7}{%
+           family={Penrose},
+           familyi={P\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod}}}%
+        {{hash=711617251066ebdd9d8e58c101e03ed3}{%
+           family={Mermin},
+           familyi={M\bibinitperiod},
+           given={N\bibnamedelima David},
+           giveni={N\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Association of Physics Teachers}%
+      }
+      \strng{namehash}{19e4840a46fc9d9095d675e62717ee8f}
+      \strng{fullhash}{19e4840a46fc9d9095d675e62717ee8f}
+      \strng{bibnamehash}{19e4840a46fc9d9095d675e62717ee8f}
+      \strng{authorbibnamehash}{19e4840a46fc9d9095d675e62717ee8f}
+      \strng{authornamehash}{19e4840a46fc9d9095d675e62717ee8f}
+      \strng{authorfullhash}{19e4840a46fc9d9095d675e62717ee8f}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The emperor’s new mind: Concerning computers, minds, and the laws of physics}
+      \field{year}{1990}
+    \endentry
     \entry{kerskens2022experimental}{article}{}
       \name{author}{2}{}{%
         {{hash=c74b7a0765cf810ec627bd5a6a60b0fa}{%
@@ -13994,8 +14023,8 @@
       \strng{authorbibnamehash}{d9836fe1eae82aebf69ee7dfd0777789}
       \strng{authornamehash}{d9836fe1eae82aebf69ee7dfd0777789}
       \strng{authorfullhash}{d9836fe1eae82aebf69ee7dfd0777789}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Geoforum}
