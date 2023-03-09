@@ -16,52 +16,52 @@
 \contentsline {section}{\numberline {3.1}What's this for sorry?}{46}{section.3.1}%
 \contentsline {section}{\numberline {3.2}A panoply of tech}{48}{section.3.2}%
 \contentsline {section}{\numberline {3.3}Ethereum}{49}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Gas fees}{53}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.1}Gas fees}{55}{subsection.3.3.1}%
 \contentsline {subsection}{\numberline {3.3.2}Ether ultra hard money narrative}{55}{subsection.3.3.2}%
-\contentsline {section}{\numberline {3.4}Bitcoin}{56}{section.3.4}%
+\contentsline {section}{\numberline {3.4}Bitcoin}{57}{section.3.4}%
 \contentsline {subsection}{\numberline {3.4.1}The Bitcoin Network Software}{60}{subsection.3.4.1}%
-\contentsline {subsection}{\numberline {3.4.2}Mining and Energy concerns}{60}{subsection.3.4.2}%
-\contentsline {subsubsection}{\numberline {3.4.2.1}Mining process overview}{60}{subsubsection.3.4.2.1}%
+\contentsline {subsection}{\numberline {3.4.2}Mining and Energy concerns}{61}{subsection.3.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.2.1}Mining process overview}{61}{subsubsection.3.4.2.1}%
 \contentsline {subsubsection}{\numberline {3.4.2.2}Energy \& policy response}{61}{subsubsection.3.4.2.2}%
 \contentsline {subsection}{\numberline {3.4.3}Technical overview}{72}{subsection.3.4.3}%
-\contentsline {subsubsection}{\numberline {3.4.3.1}ECDSA / SHA256 / secp256k1}{72}{subsubsection.3.4.3.1}%
+\contentsline {subsubsection}{\numberline {3.4.3.1}ECDSA / SHA256 / secp256k1}{73}{subsubsection.3.4.3.1}%
 \contentsline {subsubsection}{\numberline {3.4.3.2}Addresses \& UTXOs}{73}{subsubsection.3.4.3.2}%
 \contentsline {subsubsection}{\numberline {3.4.3.3}Bitcoin script and miniscript}{75}{subsubsection.3.4.3.3}%
 \contentsline {subsubsection}{\numberline {3.4.3.4}Halving}{76}{subsubsection.3.4.3.4}%
 \contentsline {subsubsection}{\numberline {3.4.3.5}Difficulty adjustment}{76}{subsubsection.3.4.3.5}%
-\contentsline {subsubsection}{\numberline {3.4.3.6}Bitcoin nodes }{76}{subsubsection.3.4.3.6}%
+\contentsline {subsubsection}{\numberline {3.4.3.6}Bitcoin nodes }{77}{subsubsection.3.4.3.6}%
 \contentsline {subsubsection}{\numberline {3.4.3.7}Wallets, seeds, keys and BIP39}{77}{subsubsection.3.4.3.7}%
 \contentsline {subsubsection}{\numberline {3.4.3.8}Custody}{78}{subsubsection.3.4.3.8}%
-\contentsline {subsection}{\numberline {3.4.4}Upgrade roadmap}{80}{subsection.3.4.4}%
-\contentsline {subsubsection}{\numberline {3.4.4.1}Taproot}{80}{subsubsection.3.4.4.1}%
-\contentsline {subsubsection}{\numberline {3.4.4.2}AnyPrevOut}{80}{subsubsection.3.4.4.2}%
-\contentsline {subsubsection}{\numberline {3.4.4.3}CheckTemplateVerify}{80}{subsubsection.3.4.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}Upgrade roadmap}{79}{subsection.3.4.4}%
+\contentsline {subsubsection}{\numberline {3.4.4.1}Taproot}{79}{subsubsection.3.4.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.4.2}AnyPrevOut}{81}{subsubsection.3.4.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.4.3}CheckTemplateVerify}{81}{subsubsection.3.4.4.3}%
 \contentsline {subsubsection}{\numberline {3.4.4.4}Blind merge mining}{81}{subsubsection.3.4.4.4}%
 \contentsline {subsubsection}{\numberline {3.4.4.5}Simplicity scripting language}{81}{subsubsection.3.4.4.5}%
-\contentsline {subsubsection}{\numberline {3.4.4.6}Tail emission}{81}{subsubsection.3.4.4.6}%
-\contentsline {subsubsection}{\numberline {3.4.4.7}Ossification}{81}{subsubsection.3.4.4.7}%
+\contentsline {subsubsection}{\numberline {3.4.4.6}Tail emission}{82}{subsubsection.3.4.4.6}%
+\contentsline {subsubsection}{\numberline {3.4.4.7}Ossification}{82}{subsubsection.3.4.4.7}%
 \contentsline {section}{\numberline {3.5}Extending the BTC ecosystem }{82}{section.3.5}%
 \contentsline {subsection}{\numberline {3.5.1}Keet by holepunch}{82}{subsection.3.5.1}%
-\contentsline {subsection}{\numberline {3.5.2}Block \& SpiralBTC}{82}{subsection.3.5.2}%
-\contentsline {subsection}{\numberline {3.5.3}BTCPayServer}{82}{subsection.3.5.3}%
+\contentsline {subsection}{\numberline {3.5.2}Block \& SpiralBTC}{83}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}BTCPayServer}{83}{subsection.3.5.3}%
 \contentsline {section}{\numberline {3.6}Lightning (Layer 2)}{83}{section.3.6}%
-\contentsline {subsection}{\numberline {3.6.1}Lightning service providers}{86}{subsection.3.6.1}%
-\contentsline {subsection}{\numberline {3.6.2}Micropayments}{86}{subsection.3.6.2}%
-\contentsline {subsection}{\numberline {3.6.3}BOLT12 and recurring payments}{87}{subsection.3.6.3}%
-\contentsline {subsection}{\numberline {3.6.4}Fedimint and Fedi app}{87}{subsection.3.6.4}%
-\contentsline {subsection}{\numberline {3.6.5}LNBits}{88}{subsection.3.6.5}%
+\contentsline {subsection}{\numberline {3.6.1}Lightning service providers}{85}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}Micropayments}{87}{subsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.6.3}BOLT12 and recurring payments}{88}{subsection.3.6.3}%
+\contentsline {subsection}{\numberline {3.6.4}Fedimint and Fedi app}{88}{subsection.3.6.4}%
+\contentsline {subsection}{\numberline {3.6.5}LNBits}{89}{subsection.3.6.5}%
 \contentsline {subsection}{\numberline {3.6.6}Daric}{89}{subsection.3.6.6}%
-\contentsline {section}{\numberline {3.7}Liquid federation (layer 2)}{89}{section.3.7}%
-\contentsline {section}{\numberline {3.8}Bitcoin Layer 3}{91}{section.3.8}%
+\contentsline {section}{\numberline {3.7}Liquid federation (layer 2)}{91}{section.3.7}%
+\contentsline {section}{\numberline {3.8}Bitcoin Layer 3}{92}{section.3.8}%
 \contentsline {subsection}{\numberline {3.8.1}LNP/BP and RGB}{92}{subsection.3.8.1}%
 \contentsline {subsection}{\numberline {3.8.2}Taro}{95}{subsection.3.8.2}%
-\contentsline {subsection}{\numberline {3.8.3}Spacechains}{95}{subsection.3.8.3}%
+\contentsline {subsection}{\numberline {3.8.3}Spacechains}{96}{subsection.3.8.3}%
 \contentsline {subsection}{\numberline {3.8.4}Statechains, drivechain, softchains}{96}{subsection.3.8.4}%
-\contentsline {subsection}{\numberline {3.8.5}Layer 2}{96}{subsection.3.8.5}%
+\contentsline {subsection}{\numberline {3.8.5}Layer 2}{97}{subsection.3.8.5}%
 \contentsline {section}{\numberline {3.9}Risks and mitigations}{97}{section.3.9}%
 \contentsline {subsection}{\numberline {3.9.1}Sociopaths \textbf {everywhere}}{98}{subsection.3.9.1}%
 \contentsline {subsection}{\numberline {3.9.2}Digital assets}{98}{subsection.3.9.2}%
-\contentsline {subsection}{\numberline {3.9.3}Bitcoin specifically}{100}{subsection.3.9.3}%
+\contentsline {subsection}{\numberline {3.9.3}Bitcoin specifically}{101}{subsection.3.9.3}%
 \contentsline {chapter}{\numberline {4}Money in the real world}{103}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Defining money}{103}{section.4.1}%
 \contentsline {subsection}{\numberline {4.1.1}Global currency interactions}{106}{subsection.4.1.1}%
@@ -74,7 +74,7 @@
 \contentsline {subsection}{\numberline {4.2.6}Stablecoins}{111}{subsection.4.2.6}%
 \contentsline {subsubsection}{\numberline {4.2.6.1}The evolving US position}{114}{subsubsection.4.2.6.1}%
 \contentsline {subsubsection}{\numberline {4.2.6.2}The evolving UK position}{116}{subsubsection.4.2.6.2}%
-\contentsline {subsubsection}{\numberline {4.2.6.3}Stables in metaverse applications}{116}{subsubsection.4.2.6.3}%
+\contentsline {subsubsection}{\numberline {4.2.6.3}Stables in metaverse applications}{117}{subsubsection.4.2.6.3}%
 \contentsline {section}{\numberline {4.3}Central bank digital currencies}{117}{section.4.3}%
 \contentsline {subsection}{\numberline {4.3.1}Risks and mitigations}{125}{subsection.4.3.1}%
 \contentsline {section}{\numberline {4.4}Bitcoin as a money}{126}{section.4.4}%
@@ -83,19 +83,19 @@
 \contentsline {subsubsection}{\numberline {4.4.1.2}Bitcoin based FIAT}{129}{subsubsection.4.4.1.2}%
 \contentsline {subsection}{\numberline {4.4.2}Saving with it}{130}{subsection.4.4.2}%
 \contentsline {section}{\numberline {4.5}Risks (money, not technical)}{133}{section.4.5}%
-\contentsline {subsection}{\numberline {4.5.1}Risks to Bitcoin the money}{133}{subsection.4.5.1}%
-\contentsline {subsubsection}{\numberline {4.5.1.1}Geopolitics}{133}{subsubsection.4.5.1.1}%
+\contentsline {subsection}{\numberline {4.5.1}Risks to Bitcoin the money}{134}{subsection.4.5.1}%
+\contentsline {subsubsection}{\numberline {4.5.1.1}Geopolitics}{134}{subsubsection.4.5.1.1}%
 \contentsline {subsubsection}{\numberline {4.5.1.2}Capture by traditional finance}{135}{subsubsection.4.5.1.2}%
 \contentsline {subsubsection}{\numberline {4.5.1.3}Liquidity Lottery}{136}{subsubsection.4.5.1.3}%
 \contentsline {subsubsection}{\numberline {4.5.1.4}Manipulation of price or the network}{137}{subsubsection.4.5.1.4}%
 \contentsline {subsubsection}{\numberline {4.5.1.5}Rehypothecation}{137}{subsubsection.4.5.1.5}%
-\contentsline {subsubsection}{\numberline {4.5.1.6}Scale}{137}{subsubsection.4.5.1.6}%
+\contentsline {subsubsection}{\numberline {4.5.1.6}Scale}{138}{subsubsection.4.5.1.6}%
 \contentsline {subsubsection}{\numberline {4.5.1.7}Centralisation of the money over time}{138}{subsubsection.4.5.1.7}%
 \contentsline {subsection}{\numberline {4.5.2}Bitcoin externalities}{138}{subsection.4.5.2}%
-\contentsline {subsubsection}{\numberline {4.5.2.1}Inherent volatility}{138}{subsubsection.4.5.2.1}%
-\contentsline {subsubsection}{\numberline {4.5.2.2}Unfair distribution}{138}{subsubsection.4.5.2.2}%
+\contentsline {subsubsection}{\numberline {4.5.2.1}Inherent volatility}{139}{subsubsection.4.5.2.1}%
+\contentsline {subsubsection}{\numberline {4.5.2.2}Unfair distribution}{139}{subsubsection.4.5.2.2}%
 \contentsline {subsubsection}{\numberline {4.5.2.3}Endless HODL}{139}{subsubsection.4.5.2.3}%
-\contentsline {subsubsection}{\numberline {4.5.2.4}Reduction of funding source / liquidity in legacy finance}{139}{subsubsection.4.5.2.4}%
+\contentsline {subsubsection}{\numberline {4.5.2.4}Reduction of funding source / liquidity in legacy finance}{141}{subsubsection.4.5.2.4}%
 \contentsline {subsubsection}{\numberline {4.5.2.5}Bitcoin collapse system shock}{141}{subsubsection.4.5.2.5}%
 \contentsline {subsubsection}{\numberline {4.5.2.6}Stablecoin collapse system shock}{141}{subsubsection.4.5.2.6}%
 \contentsline {subsubsection}{\numberline {4.5.2.7}Tech for techs sake yielding unexpected outcomes}{141}{subsubsection.4.5.2.7}%
