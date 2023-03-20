@@ -1761,6 +1761,50 @@
       \verb https://www.ideasmiths.net/wp-content/uploads/2022/02/LANCIUM_IS_ERCOT_flexDC_FINAL_2021.pdf
       \endverb
     \endentry
+    \entry{Menati2022}{misc}{}
+      \name{author}{3}{}{%
+        {{hash=49a59c1de99682703a00f7a950e49483}{%
+           family={Menati},
+           familyi={M\bibinitperiod},
+           given={Ali},
+           giveni={A\bibinitperiod}}}%
+        {{hash=28925137411d2c33cf82048cdd5fa4bf}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Kiyeob},
+           giveni={K\bibinitperiod}}}%
+        {{hash=c5138fd7e935e1642e0df81c672a51b7}{%
+           family={Xie},
+           familyi={X\bibinitperiod},
+           given={Le},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{5cbd60de3c950ac0859b0288404a7eb4}
+      \strng{fullhash}{5cbd60de3c950ac0859b0288404a7eb4}
+      \strng{bibnamehash}{5cbd60de3c950ac0859b0288404a7eb4}
+      \strng{authorbibnamehash}{5cbd60de3c950ac0859b0288404a7eb4}
+      \strng{authornamehash}{5cbd60de3c950ac0859b0288404a7eb4}
+      \strng{authorfullhash}{5cbd60de3c950ac0859b0288404a7eb4}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Modeling and Analysis of Utilizing Cryptocurrency Mining for Demand Flexibility in Electric Energy Systems: A Synthetic Texas Grid Case Study}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.48550/ARXIV.2207.02428
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2207.02428
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2207.02428
+      \endverb
+      \keyw{Systems and Control (eess.SY),FOS: Electrical engineering,electronic engineering,information engineering}
+    \endentry
     \entry{bastian2021hedging}{article}{}
       \name{author}{4}{}{%
         {{hash=bcd8eb45b05f9cc111a8e97dfd502881}{%
@@ -1803,6 +1847,33 @@
       \field{year}{2021}
       \field{pages}{110520}
       \range{pages}{1}
+    \endentry
+    \entry{ibanez2023sok}{article}{}
+      \name{author}{2}{}{%
+        {{hash=3bf21cbe1c7dd600d68d45fef2b6ddaa}{%
+           family={Ibañez},
+           familyi={I\bibinitperiod},
+           given={Juan\bibnamedelima Ignacio},
+           giveni={J\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=5d1635eb81853807b53605ef6469aa5d}{%
+           family={Freier},
+           familyi={F\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{de3e8af5cd7e91840c05058993d9bc72}
+      \strng{fullhash}{de3e8af5cd7e91840c05058993d9bc72}
+      \strng{bibnamehash}{de3e8af5cd7e91840c05058993d9bc72}
+      \strng{authorbibnamehash}{de3e8af5cd7e91840c05058993d9bc72}
+      \strng{authornamehash}{de3e8af5cd7e91840c05058993d9bc72}
+      \strng{authorfullhash}{de3e8af5cd7e91840c05058993d9bc72}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy Consumption and Environmental Impact (February 3, 2023)}
+      \field{title}{SoK: Bitcoin, Energy Consumption and Environmental Impact}
+      \field{year}{2023}
     \endentry
     \entry{baur2021bitcoin}{article}{}
       \name{author}{2}{}{%
@@ -2024,6 +2095,43 @@
       \verb https://river.com/learn/files/river-bitcoin-mining-zettahash-report.pdf
       \endverb
     \endentry
+    \entry{jiang2023monetary}{article}{}
+      \name{author}{4}{}{%
+        {{hash=d4dbf5499f99ae8d5592feeac5d2bb3b}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Erica\bibnamedelima Xuewei},
+           giveni={E\bibinitperiod\bibinitdelim X\bibinitperiod}}}%
+        {{hash=970d445fbdd18cf4290a469fd39b1af6}{%
+           family={Matvos},
+           familyi={M\bibinitperiod},
+           given={Gregor},
+           giveni={G\bibinitperiod}}}%
+        {{hash=ad3311aed7ef9cf6993efece356fcc0e}{%
+           family={Piskorski},
+           familyi={P\bibinitperiod},
+           given={Tomasz},
+           giveni={T\bibinitperiod}}}%
+        {{hash=9772a218897d50fe981638f6c9a89c09}{%
+           family={Seru},
+           familyi={S\bibinitperiod},
+           given={Amit},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbb3451e81177caf76fcd49a93484f38}
+      \strng{fullhash}{3e8963670bbaa1d8532cccb8357894eb}
+      \strng{bibnamehash}{cbb3451e81177caf76fcd49a93484f38}
+      \strng{authorbibnamehash}{cbb3451e81177caf76fcd49a93484f38}
+      \strng{authornamehash}{cbb3451e81177caf76fcd49a93484f38}
+      \strng{authorfullhash}{3e8963670bbaa1d8532cccb8357894eb}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Available at SSRN}
+      \field{title}{Monetary Tightening and US Bank Fragility in 2023: Mark-to-Market Losses and Uninsured Depositor Runs?}
+      \field{year}{2023}
+    \endentry
     \entry{gayoso2018secure}{incollection}{}
       \name{author}{3}{}{%
         {{hash=0e1759afac5b77ed134cde6b5fc5daa9}{%
@@ -2220,8 +2328,8 @@
       \strng{authorbibnamehash}{acb4a64de03cdef7187dbc3a472bc776}
       \strng{authornamehash}{acb4a64de03cdef7187dbc3a472bc776}
       \strng{authorfullhash}{acb4a64de03cdef7187dbc3a472bc776}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{2022 52nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks-Supplemental Volume (DSN-S)}
@@ -2252,8 +2360,8 @@
       \strng{authorbibnamehash}{6c9d4eb3f97a164329c493ad84ca4792}
       \strng{authornamehash}{6c9d4eb3f97a164329c493ad84ca4792}
       \strng{authorfullhash}{6c9d4eb3f97a164329c493ad84ca4792}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Mass Exit Attacks on the Lightning Network}
@@ -2659,8 +2767,8 @@
       \strng{authorbibnamehash}{b3e241872fba2b58f720adc2b01f5a4d}
       \strng{authornamehash}{b3e241872fba2b58f720adc2b01f5a4d}
       \strng{authorfullhash}{b3e241872fba2b58f720adc2b01f5a4d}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The Review of Austrian Economics}
@@ -2695,8 +2803,8 @@
       \strng{authorbibnamehash}{b2a8c80bfb84b3e6748b1647aa4335e1}
       \strng{authornamehash}{b2a8c80bfb84b3e6748b1647aa4335e1}
       \strng{authorfullhash}{b2a8c80bfb84b3e6748b1647aa4335e1}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{BIS Quarterly Review September}
@@ -2992,8 +3100,8 @@
       \strng{authorbibnamehash}{3042dc4038843c1272ef20e3c7fc9411}
       \strng{authornamehash}{3042dc4038843c1272ef20e3c7fc9411}
       \strng{authorfullhash}{3042dc4038843c1272ef20e3c7fc9411}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Gold and the Turning of the Monetary Tides}
@@ -3019,8 +3127,8 @@
       \strng{authorbibnamehash}{ceb9bf68fccb64928a082ddf62bb168e}
       \strng{authornamehash}{ceb9bf68fccb64928a082ddf62bb168e}
       \strng{authorfullhash}{ceb9bf68fccb64928a082ddf62bb168e}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The Asia-Pacific Journal}
@@ -3294,8 +3402,8 @@
       \strng{authorbibnamehash}{44246dedfc7da4b76a2a445a9b4f285b}
       \strng{authornamehash}{44246dedfc7da4b76a2a445a9b4f285b}
       \strng{authorfullhash}{44246dedfc7da4b76a2a445a9b4f285b}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{BIS Paper}
@@ -3320,8 +3428,8 @@
       \strng{authorbibnamehash}{5303ca57542266596e91d3ac98524b1c}
       \strng{authornamehash}{5303ca57542266596e91d3ac98524b1c}
       \strng{authorfullhash}{5303ca57542266596e91d3ac98524b1c}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Essai sur la nature du commerce en général}
@@ -3344,8 +3452,8 @@
       \strng{authorbibnamehash}{140670e47810ad9b00d4c97c7119db7c}
       \strng{authornamehash}{140670e47810ad9b00d4c97c7119db7c}
       \strng{authorfullhash}{140670e47810ad9b00d4c97c7119db7c}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Monetary Economics}
@@ -10104,8 +10212,8 @@
       \strng{authorbibnamehash}{6941b1a3e7426486ace06f5704b15a1f}
       \strng{authornamehash}{6941b1a3e7426486ace06f5704b15a1f}
       \strng{authorfullhash}{6941b1a3e7426486ace06f5704b15a1f}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Presence 2001 Conference, Philadelphia, {PA}}
@@ -10132,8 +10240,8 @@
       \strng{authorbibnamehash}{e63f6dbc33b62adc014ce44f1e5d8af1}
       \strng{authornamehash}{e63f6dbc33b62adc014ce44f1e5d8af1}
       \strng{authorfullhash}{e63f6dbc33b62adc014ce44f1e5d8af1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This study investigated the relationship among three types of presences, including place presence, social presence, and co-presence in virtual worlds and their relationship with satisfaction and immersive tendencies of students. Students' scores on a subjective questionnaire were analyzed. The results indicated that there was a significant relationship among the place presence, social presence, and co-presence. While social presence seemed to affect the satisfaction most, place and co-presence also affected students' satisfaction in the virtual world. Moreover, immersive tendencies of the students were related to their place and co-presence but not to their social presence. Findings highlighted the important issues for the design of virtual world environments to increase presence and satisfaction of students.}
@@ -13934,8 +14042,8 @@
       \strng{authorbibnamehash}{c9afcf4976928a8c57c94c9c48987713}
       \strng{authornamehash}{c9afcf4976928a8c57c94c9c48987713}
       \strng{authorfullhash}{c9afcf4976928a8c57c94c9c48987713}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{arXiv preprint arXiv:2207.13176}
@@ -13989,8 +14097,8 @@
       \strng{authorbibnamehash}{dbf5524215b7c32795082eeb0669af50}
       \strng{authornamehash}{dbf5524215b7c32795082eeb0669af50}
       \strng{authorfullhash}{9d75616760b91f27532c303dec1e5704}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Unique Identification of 50,000 Virtual Reality Users from Head Hand Motion Data}

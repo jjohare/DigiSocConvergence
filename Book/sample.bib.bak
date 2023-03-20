@@ -14421,9 +14421,16 @@
   year      = {2022},
   copyright = {arXiv.org perpetual, non-exclusive license},
   doi       = {10.48550/ARXIV.2207.02428},
-  keywords  = {Systems and Control (eess.SY), FOS: Electrical engineering, electronic engineering, information engineering, FOS: Electrical engineering, electronic engineering, information engineering},
+  keywords  = {Systems and Control (eess.SY), FOS: Electrical engineering, electronic engineering, information engineering},
   publisher = {arXiv},
   url       = {https://arxiv.org/abs/2207.02428},
+}
+
+@Article{ibanez2023sok,
+  author  = {Iba{\~n}ez, Juan Ignacio and Freier, Alexander},
+  journal = {Energy Consumption and Environmental Impact (February 3, 2023)},
+  title   = {SoK: Bitcoin, Energy Consumption and Environmental Impact},
+  year    = {2023},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
