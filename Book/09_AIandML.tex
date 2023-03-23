@@ -161,6 +161,19 @@ Your code blocks (in backticks) are formatted nicely same as in responses
 \item Not optimized for mobile
 \item Conversations are saved to database in plaintext. Don't share sensitive information.
 \end{itemize}
+\subsection{Enterprise and convergence}
+Startups are clearly eager to create innovative products and business models, while established companies are exploring ways to respond to the rapid advancements in generative AI. There seems to be a sense of urgency for enterprises worldwide to develop AI strategies. Into the space Nvidia AI have emerged as the clear market enabler, offering more accessible and faster infrastructure.\par
+Their flagship product, the Nvidia DGX H100 is in full production and available through partners like Microsoft Azure. They're also launching Nvidia DGX Cloud in collaboration with Microsoft Azure, Google GCP, and Oracle OCI, making AI supercomputers accessible from a browser. Nvidia AI Foundations might be a suitable solution as a cloud service that includes:
+\begin{itemize}
+\item Language, visual, and biology model-making services
+\item Nvidia NeMo for building custom language models
+\item Picasso, a visual language model-making service for custom models trained with licensed or proprietary content
+\end{itemize} 
+Nvidia Picasso could transform how visual content is created by allowing enterprises, ISVs, and service providers to deploy their own models. This might enable the generation of photorealistic images, high-resolution videos, and detailed 3D geometry for various applications, so it's certainly something to watch closely. Our alignment to self hosted and open source pipelines makes this less of a priority for exploration however.\par 
+Companies like Getty Images and Shutterstock intend to use Picasso for building generative models with their extensive libraries. Nvidia say they will also expand its partnership with Adobe to integrate generative AI into creative workflows, focusing on commercial viability and proper content attribution.\par
+In the field of biology, Nvidia's Clara could be a healthcare application framework for imaging instruments, genomics, and drug discovery. Their Bio NeMo might help researchers create fine-tuned custom models with proprietary data. Nvidia BioNeMo service could provide generative AI models for drug discovery as a cloud service for easy access to accelerated workflows.\par
+As discussed Nvidia still hope that their enterprise metaverse offering Onmiverse will gain worldwide traction. They are investing heavily in bringing ML into this product line. This is an incrediby similar proposition to flossvers, our proposal in this book, but operating at a different level of investment and technology, with commensurately more gated access. \par
+Nvidia's partnerships with TSMC, ASML, and Synopsys could lead to advancements in chips and efficiency. Grace, Grace Hopper, and Bluefield 3 are designed for energy-efficient accelerated data centers.\par
 \subsection{Accessibility}
 \subsubsection{Open source chat assistant}
 Sheng at el present FlexGen which allows execution of large language model chat bots in powerful but affordable hardware\cite{Sheng2023}. The paper presents FlexGen, a high-throughput generation engine for large language models (LLMs) that can be run with a single commodity GPU. FlexGen can be configured under various hardware resource constraints by aggregating memory and computation from the GPU, CPU, and disk, and it uses a linear programming optimizer to store and access tensors. FlexGen compresses weights and attention key/value cache to 4 bits with negligible accuracy loss, allowing for a larger batch size and increased throughput. When running OPT-175B on a single 16GB GPU. A PC running alongside our metaverse server could provide ML assistance services to users of the collaborative space immediately.
