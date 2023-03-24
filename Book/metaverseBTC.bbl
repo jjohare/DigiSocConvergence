@@ -14172,6 +14172,97 @@
       \field{pages}{1\bibrangedash 9}
       \range{pages}{9}
     \endentry
+    \entry{bubeck2023sparks}{misc}{}
+      \name{author}{14}{}{%
+        {{hash=3d51ee91b7d20d2f26b221a8a3b8b72c}{%
+           family={Bubeck},
+           familyi={B\bibinitperiod},
+           given={Sébastien},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9f6327980ef7750b1e2d94615b466044}{%
+           family={Chandrasekaran},
+           familyi={C\bibinitperiod},
+           given={Varun},
+           giveni={V\bibinitperiod}}}%
+        {{hash=27421e7dfe018659c3d41261cfb55892}{%
+           family={Eldan},
+           familyi={E\bibinitperiod},
+           given={Ronen},
+           giveni={R\bibinitperiod}}}%
+        {{hash=89173e109d33053942397c24c048f5c2}{%
+           family={Gehrke},
+           familyi={G\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a2d47a50d998e20d2bfd01b71fffa12c}{%
+           family={Horvitz},
+           familyi={H\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+        {{hash=8871bf8ac2d0e00b8d71c1929e1ef04c}{%
+           family={Kamar},
+           familyi={K\bibinitperiod},
+           given={Ece},
+           giveni={E\bibinitperiod}}}%
+        {{hash=61712f953664a245b39d597860d607f0}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=30150e84c87cbb9a8a6682b2ea5c800c}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Yin\bibnamedelima Tat},
+           giveni={Y\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=0d2c91b24f885b22d373a892a768abc8}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Yuanzhi},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=b659ebc88023a12a732b4db9afdede3d}{%
+           family={Lundberg},
+           familyi={L\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod}}}%
+        {{hash=689f6367be4908c45b32999c3f3f070f}{%
+           family={Nori},
+           familyi={N\bibinitperiod},
+           given={Harsha},
+           giveni={H\bibinitperiod}}}%
+        {{hash=e1bde9b3f791e635c2554dd79e6c13aa}{%
+           family={Palangi},
+           familyi={P\bibinitperiod},
+           given={Hamid},
+           giveni={H\bibinitperiod}}}%
+        {{hash=9203dc724f298030e81ba470feb309af}{%
+           family={Ribeiro},
+           familyi={R\bibinitperiod},
+           given={Marco\bibnamedelima Tulio},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=f4db9373a5ba3555eac8a45bcd339479}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yi},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{02379f308be3e2798c283124bed4b783}
+      \strng{fullhash}{a8b9f27335bb7a97eca21dd33e4a254f}
+      \strng{bibnamehash}{02379f308be3e2798c283124bed4b783}
+      \strng{authorbibnamehash}{02379f308be3e2798c283124bed4b783}
+      \strng{authornamehash}{02379f308be3e2798c283124bed4b783}
+      \strng{authorfullhash}{a8b9f27335bb7a97eca21dd33e4a254f}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.CL}
+      \field{eprinttype}{arXiv}
+      \field{title}{Sparks of Artificial General Intelligence: Early experiments with GPT-4}
+      \field{year}{2023}
+      \verb{eprint}
+      \verb 2303.12712
+      \endverb
+    \endentry
     \entry{ruiz2022dreambooth}{article}{}
       \name{author}{6}{}{%
         {{hash=a8a6584c0da71baa0b32cfb224a8a521}{%
