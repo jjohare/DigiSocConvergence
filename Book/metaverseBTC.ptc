@@ -1,67 +1,67 @@
 \ttl@starttoc {part@1}
-\contentsline {part}{\numberline {I}State of the art}{19}{part.1}%
-\contentsline {section}{\numberline {0.1}Conflict of interest statements}{21}{section.0.1}%
-\contentsline {chapter}{\numberline {1}Introduction}{23}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Overview}{23}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Introduction}{24}{section.1.2}%
-\contentsline {subsection}{\numberline {1.2.1}The view of big business and governments}{28}{subsection.1.2.1}%
-\contentsline {section}{\numberline {1.3}Summary}{32}{section.1.3}%
-\contentsline {chapter}{\numberline {2}Decentralisation \& Web3}{35}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Semantic web}{35}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Spatial web}{36}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Web3}{36}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Emerging consensus}{38}{subsection.2.3.1}%
-\contentsline {section}{\numberline {2.4}The common thread}{42}{section.2.4}%
-\contentsline {chapter}{\numberline {3}DLT, Blockchain, and Bitcoin}{45}{chapter.3}%
-\contentsline {section}{\numberline {3.1}What's this for sorry?}{48}{section.3.1}%
-\contentsline {section}{\numberline {3.2}A panoply of tech}{51}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Ethereum}{52}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Gas fees}{58}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}Ether ultra hard money narrative}{58}{subsection.3.3.2}%
-\contentsline {section}{\numberline {3.4}Bitcoin}{60}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}The Bitcoin Network Software}{63}{subsection.3.4.1}%
-\contentsline {subsection}{\numberline {3.4.2}Mining and Energy concerns}{63}{subsection.3.4.2}%
-\contentsline {subsubsection}{\numberline {3.4.2.1}Mining process overview}{63}{subsubsection.3.4.2.1}%
-\contentsline {subsubsection}{\numberline {3.4.2.2}Energy \& policy response}{64}{subsubsection.3.4.2.2}%
-\contentsline {subsection}{\numberline {3.4.3}Technical overview}{77}{subsection.3.4.3}%
-\contentsline {subsubsection}{\numberline {3.4.3.1}ECDSA / SHA256 / secp256k1}{77}{subsubsection.3.4.3.1}%
-\contentsline {subsubsection}{\numberline {3.4.3.2}Addresses \& UTXOs}{79}{subsubsection.3.4.3.2}%
-\contentsline {subsubsection}{\numberline {3.4.3.3}Bitcoin script and miniscript}{79}{subsubsection.3.4.3.3}%
-\contentsline {subsubsection}{\numberline {3.4.3.4}Halving}{80}{subsubsection.3.4.3.4}%
-\contentsline {subsubsection}{\numberline {3.4.3.5}Difficulty adjustment}{81}{subsubsection.3.4.3.5}%
-\contentsline {subsubsection}{\numberline {3.4.3.6}Bitcoin nodes }{81}{subsubsection.3.4.3.6}%
-\contentsline {subsubsection}{\numberline {3.4.3.7}Wallets, seeds, keys and BIP39}{81}{subsubsection.3.4.3.7}%
-\contentsline {subsubsection}{\numberline {3.4.3.8}Custody}{82}{subsubsection.3.4.3.8}%
-\contentsline {subsection}{\numberline {3.4.4}Upgrade roadmap}{83}{subsection.3.4.4}%
-\contentsline {subsubsection}{\numberline {3.4.4.1}Taproot}{83}{subsubsection.3.4.4.1}%
-\contentsline {subsubsection}{\numberline {3.4.4.2}AnyPrevOut}{85}{subsubsection.3.4.4.2}%
-\contentsline {subsubsection}{\numberline {3.4.4.3}CheckTemplateVerify}{85}{subsubsection.3.4.4.3}%
-\contentsline {subsubsection}{\numberline {3.4.4.4}Blind merge mining}{85}{subsubsection.3.4.4.4}%
-\contentsline {subsubsection}{\numberline {3.4.4.5}Simplicity scripting language}{86}{subsubsection.3.4.4.5}%
-\contentsline {subsubsection}{\numberline {3.4.4.6}Tail emission}{86}{subsubsection.3.4.4.6}%
-\contentsline {subsubsection}{\numberline {3.4.4.7}Ossification}{86}{subsubsection.3.4.4.7}%
-\contentsline {section}{\numberline {3.5}Extending the BTC ecosystem }{86}{section.3.5}%
-\contentsline {subsection}{\numberline {3.5.1}Keet by holepunch}{87}{subsection.3.5.1}%
-\contentsline {subsection}{\numberline {3.5.2}Block \& SpiralBTC}{87}{subsection.3.5.2}%
-\contentsline {subsection}{\numberline {3.5.3}BTCPayServer}{87}{subsection.3.5.3}%
-\contentsline {section}{\numberline {3.6}Lightning (Layer 2)}{88}{section.3.6}%
-\contentsline {subsection}{\numberline {3.6.1}Lightning service providers}{89}{subsection.3.6.1}%
-\contentsline {subsection}{\numberline {3.6.2}Micropayments}{91}{subsection.3.6.2}%
-\contentsline {subsection}{\numberline {3.6.3}BOLT12 and recurring payments}{91}{subsection.3.6.3}%
-\contentsline {subsection}{\numberline {3.6.4}Fedimint and Fedi app}{92}{subsection.3.6.4}%
-\contentsline {subsection}{\numberline {3.6.5}LNBits}{93}{subsection.3.6.5}%
-\contentsline {subsection}{\numberline {3.6.6}Daric}{95}{subsection.3.6.6}%
-\contentsline {section}{\numberline {3.7}Liquid federation (layer 2)}{95}{section.3.7}%
-\contentsline {section}{\numberline {3.8}Bitcoin Layer 3}{96}{section.3.8}%
-\contentsline {subsection}{\numberline {3.8.1}LNP/BP and RGB}{97}{subsection.3.8.1}%
-\contentsline {subsection}{\numberline {3.8.2}Taro}{99}{subsection.3.8.2}%
-\contentsline {subsection}{\numberline {3.8.3}Spacechains}{100}{subsection.3.8.3}%
-\contentsline {subsection}{\numberline {3.8.4}Statechains, drivechain, softchains}{101}{subsection.3.8.4}%
-\contentsline {subsection}{\numberline {3.8.5}Layer 2}{101}{subsection.3.8.5}%
-\contentsline {section}{\numberline {3.9}Risks and mitigations}{102}{section.3.9}%
-\contentsline {subsection}{\numberline {3.9.1}Sociopaths \textbf {everywhere}}{102}{subsection.3.9.1}%
-\contentsline {subsection}{\numberline {3.9.2}Digital assets}{103}{subsection.3.9.2}%
-\contentsline {subsection}{\numberline {3.9.3}Bitcoin specifically}{105}{subsection.3.9.3}%
+\contentsline {part}{\numberline {I}State of the art}{17}{part.1}%
+\contentsline {section}{\numberline {0.1}Conflict of interest statements}{19}{section.0.1}%
+\contentsline {chapter}{\numberline {1}Introduction}{21}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Overview}{21}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Introduction}{22}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}The view of big business and governments}{26}{subsection.1.2.1}%
+\contentsline {section}{\numberline {1.3}Summary}{30}{section.1.3}%
+\contentsline {chapter}{\numberline {2}Decentralisation \& Web3}{33}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Semantic web}{33}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Spatial web}{34}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Web3}{34}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Emerging consensus}{36}{subsection.2.3.1}%
+\contentsline {section}{\numberline {2.4}The common thread}{40}{section.2.4}%
+\contentsline {chapter}{\numberline {3}DLT, Blockchain, and Bitcoin}{43}{chapter.3}%
+\contentsline {section}{\numberline {3.1}What's this for sorry?}{46}{section.3.1}%
+\contentsline {section}{\numberline {3.2}A panoply of tech}{49}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Ethereum}{50}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Gas fees}{56}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Ether ultra hard money narrative}{56}{subsection.3.3.2}%
+\contentsline {section}{\numberline {3.4}Bitcoin}{58}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}The Bitcoin Network Software}{61}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Mining and Energy concerns}{62}{subsection.3.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.2.1}Mining process overview}{62}{subsubsection.3.4.2.1}%
+\contentsline {subsubsection}{\numberline {3.4.2.2}Energy \& policy response}{63}{subsubsection.3.4.2.2}%
+\contentsline {subsection}{\numberline {3.4.3}Technical overview}{75}{subsection.3.4.3}%
+\contentsline {subsubsection}{\numberline {3.4.3.1}ECDSA / SHA256 / secp256k1}{76}{subsubsection.3.4.3.1}%
+\contentsline {subsubsection}{\numberline {3.4.3.2}Addresses \& UTXOs}{78}{subsubsection.3.4.3.2}%
+\contentsline {subsubsection}{\numberline {3.4.3.3}Bitcoin script and miniscript}{78}{subsubsection.3.4.3.3}%
+\contentsline {subsubsection}{\numberline {3.4.3.4}Halving}{79}{subsubsection.3.4.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.3.5}Difficulty adjustment}{80}{subsubsection.3.4.3.5}%
+\contentsline {subsubsection}{\numberline {3.4.3.6}Bitcoin nodes }{80}{subsubsection.3.4.3.6}%
+\contentsline {subsubsection}{\numberline {3.4.3.7}Wallets, seeds, keys and BIP39}{80}{subsubsection.3.4.3.7}%
+\contentsline {subsubsection}{\numberline {3.4.3.8}Custody}{81}{subsubsection.3.4.3.8}%
+\contentsline {subsection}{\numberline {3.4.4}Upgrade roadmap}{82}{subsection.3.4.4}%
+\contentsline {subsubsection}{\numberline {3.4.4.1}Taproot}{82}{subsubsection.3.4.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.4.2}AnyPrevOut}{84}{subsubsection.3.4.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.4.3}CheckTemplateVerify}{84}{subsubsection.3.4.4.3}%
+\contentsline {subsubsection}{\numberline {3.4.4.4}Blind merge mining}{84}{subsubsection.3.4.4.4}%
+\contentsline {subsubsection}{\numberline {3.4.4.5}Simplicity scripting language}{85}{subsubsection.3.4.4.5}%
+\contentsline {subsubsection}{\numberline {3.4.4.6}Tail emission}{85}{subsubsection.3.4.4.6}%
+\contentsline {subsubsection}{\numberline {3.4.4.7}Ossification}{85}{subsubsection.3.4.4.7}%
+\contentsline {section}{\numberline {3.5}Extending the BTC ecosystem }{85}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Keet by holepunch}{86}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Block \& SpiralBTC}{86}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}BTCPayServer}{86}{subsection.3.5.3}%
+\contentsline {section}{\numberline {3.6}Lightning (Layer 2)}{87}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}Lightning service providers}{88}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}Micropayments}{90}{subsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.6.3}BOLT12 and recurring payments}{90}{subsection.3.6.3}%
+\contentsline {subsection}{\numberline {3.6.4}Fedimint and Fedi app}{91}{subsection.3.6.4}%
+\contentsline {subsection}{\numberline {3.6.5}LNBits}{92}{subsection.3.6.5}%
+\contentsline {subsection}{\numberline {3.6.6}Daric}{94}{subsection.3.6.6}%
+\contentsline {section}{\numberline {3.7}Liquid federation (layer 2)}{94}{section.3.7}%
+\contentsline {section}{\numberline {3.8}Bitcoin Layer 3}{95}{section.3.8}%
+\contentsline {subsection}{\numberline {3.8.1}LNP/BP and RGB}{96}{subsection.3.8.1}%
+\contentsline {subsection}{\numberline {3.8.2}Taro}{98}{subsection.3.8.2}%
+\contentsline {subsection}{\numberline {3.8.3}Spacechains}{99}{subsection.3.8.3}%
+\contentsline {subsection}{\numberline {3.8.4}Statechains, drivechain, softchains}{100}{subsection.3.8.4}%
+\contentsline {subsection}{\numberline {3.8.5}Layer 2}{100}{subsection.3.8.5}%
+\contentsline {section}{\numberline {3.9}Risks and mitigations}{101}{section.3.9}%
+\contentsline {subsection}{\numberline {3.9.1}Sociopaths \textbf {everywhere}}{101}{subsection.3.9.1}%
+\contentsline {subsection}{\numberline {3.9.2}Digital assets}{102}{subsection.3.9.2}%
+\contentsline {subsection}{\numberline {3.9.3}Bitcoin specifically}{104}{subsection.3.9.3}%
 \contentsline {chapter}{\numberline {4}Money in the real world}{107}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Defining money}{107}{section.4.1}%
 \contentsline {subsection}{\numberline {4.1.1}Global currency interactions}{110}{subsection.4.1.1}%
@@ -250,28 +250,28 @@
 \contentsline {subsubsection}{\numberline {9.1.1.2}Industry capture, and failure to democratise}{282}{subsubsection.9.1.1.2}%
 \contentsline {subsubsection}{\numberline {9.1.1.3}Cybersecurity implications}{283}{subsubsection.9.1.1.3}%
 \contentsline {subsubsection}{\numberline {9.1.1.4}The players, the politics, and our choices}{284}{subsubsection.9.1.1.4}%
-\contentsline {subsection}{\numberline {9.1.2}Whistlestop tour of terms}{285}{subsection.9.1.2}%
-\contentsline {subsubsection}{\numberline {9.1.2.1}Transformers}{285}{subsubsection.9.1.2.1}%
-\contentsline {subsubsection}{\numberline {9.1.2.2}TPUs}{285}{subsubsection.9.1.2.2}%
+\contentsline {subsection}{\numberline {9.1.2}Whistlestop tour of terms}{284}{subsection.9.1.2}%
+\contentsline {subsubsection}{\numberline {9.1.2.1}Transformers}{284}{subsubsection.9.1.2.1}%
+\contentsline {subsubsection}{\numberline {9.1.2.2}TPUs}{284}{subsubsection.9.1.2.2}%
 \contentsline {subsubsection}{\numberline {9.1.2.3}Tensorflow}{285}{subsubsection.9.1.2.3}%
-\contentsline {subsubsection}{\numberline {9.1.2.4}PyTorch}{286}{subsubsection.9.1.2.4}%
+\contentsline {subsubsection}{\numberline {9.1.2.4}PyTorch}{285}{subsubsection.9.1.2.4}%
 \contentsline {subsubsection}{\numberline {9.1.2.5}NumPy}{286}{subsubsection.9.1.2.5}%
-\contentsline {subsubsection}{\numberline {9.1.2.6}Latent space}{287}{subsubsection.9.1.2.6}%
+\contentsline {subsubsection}{\numberline {9.1.2.6}Latent space}{286}{subsubsection.9.1.2.6}%
 \contentsline {subsection}{\numberline {9.1.3}Consumer tools}{287}{subsection.9.1.3}%
 \contentsline {subsubsection}{\numberline {9.1.3.1}RunwayML}{287}{subsubsection.9.1.3.1}%
-\contentsline {subsubsection}{\numberline {9.1.3.2}ChatGPT}{289}{subsubsection.9.1.3.2}%
+\contentsline {subsubsection}{\numberline {9.1.3.2}ChatGPT}{287}{subsubsection.9.1.3.2}%
 \contentsline {subsubsection}{\numberline {9.1.3.3}Faerie AI}{289}{subsubsection.9.1.3.3}%
 \contentsline {subsection}{\numberline {9.1.4}Enterprise and convergence}{290}{subsection.9.1.4}%
 \contentsline {subsection}{\numberline {9.1.5}Accessibility}{291}{subsection.9.1.5}%
 \contentsline {subsubsection}{\numberline {9.1.5.1}Open source chat assistant}{291}{subsubsection.9.1.5.1}%
-\contentsline {subsubsection}{\numberline {9.1.5.2}Real time transcription}{292}{subsubsection.9.1.5.2}%
+\contentsline {subsubsection}{\numberline {9.1.5.2}Real time transcription}{291}{subsubsection.9.1.5.2}%
 \contentsline {subsubsection}{\numberline {9.1.5.3}Real time translation}{292}{subsubsection.9.1.5.3}%
 \contentsline {subsubsection}{\numberline {9.1.5.4}Real time description}{293}{subsubsection.9.1.5.4}%
 \contentsline {subsubsection}{\numberline {9.1.5.5}Interfaces}{293}{subsubsection.9.1.5.5}%
 \contentsline {subsubsection}{\numberline {9.1.5.6}Text to sound}{293}{subsubsection.9.1.5.6}%
-\contentsline {subsubsection}{\numberline {9.1.5.7}Text to image}{294}{subsubsection.9.1.5.7}%
-\contentsline {subsection}{\numberline {9.1.6}StabilityAI}{294}{subsection.9.1.6}%
-\contentsline {subsubsection}{\numberline {9.1.6.1}Text to image}{294}{subsubsection.9.1.6.1}%
+\contentsline {subsubsection}{\numberline {9.1.5.7}Text to image}{293}{subsubsection.9.1.5.7}%
+\contentsline {subsection}{\numberline {9.1.6}StabilityAI}{293}{subsection.9.1.6}%
+\contentsline {subsubsection}{\numberline {9.1.6.1}Text to image}{293}{subsubsection.9.1.6.1}%
 \contentsline {subsection}{\numberline {9.1.7}Virtual humans}{295}{subsection.9.1.7}%
 \contentsline {subsubsection}{\numberline {9.1.7.1}Real time human to avatar mapping}{295}{subsubsection.9.1.7.1}%
 \contentsline {subsection}{\numberline {9.1.8}AI actors}{295}{subsection.9.1.8}%
