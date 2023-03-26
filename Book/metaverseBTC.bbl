@@ -13819,6 +13819,57 @@
       \field{title}{The Metaverse and Conversational AI as a Threat Vector for Targeted Influence}
       \field{year}{2023}
     \endentry
+    \entry{yudkowsky2008hanson}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=549a1c22e1c5452641bfaff6196bd013}{%
+           family={Yudkowsky},
+           familyi={Y\bibinitperiod},
+           given={Eliezer},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{549a1c22e1c5452641bfaff6196bd013}
+      \strng{fullhash}{549a1c22e1c5452641bfaff6196bd013}
+      \strng{bibnamehash}{549a1c22e1c5452641bfaff6196bd013}
+      \strng{authorbibnamehash}{549a1c22e1c5452641bfaff6196bd013}
+      \strng{authornamehash}{549a1c22e1c5452641bfaff6196bd013}
+      \strng{authorfullhash}{549a1c22e1c5452641bfaff6196bd013}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2013-04-01)[2019-01-03]. http://intelligence. org/files/AIFoomDebate. pdf}
+      \field{title}{The Hanson-Yudkowsky AI-foom debate}
+      \field{year}{2008}
+    \endentry
+    \entry{song2018preventing}{article}{}
+      \name{author}{1}{}{%
+        {{hash=29bcf8bfc04b6911ed74f1e1982c1a96}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Schoni},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{29bcf8bfc04b6911ed74f1e1982c1a96}
+      \strng{fullhash}{29bcf8bfc04b6911ed74f1e1982c1a96}
+      \strng{bibnamehash}{29bcf8bfc04b6911ed74f1e1982c1a96}
+      \strng{authorbibnamehash}{29bcf8bfc04b6911ed74f1e1982c1a96}
+      \strng{authornamehash}{29bcf8bfc04b6911ed74f1e1982c1a96}
+      \strng{authorfullhash}{29bcf8bfc04b6911ed74f1e1982c1a96}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of International Affairs}
+      \field{number}{1}
+      \field{title}{Preventing a Butlerian Jihad}
+      \field{volume}{72}
+      \field{year}{2018}
+      \field{pages}{135\bibrangedash 142}
+      \range{pages}{8}
+    \endentry
     \entry{brundage2018malicious}{article}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -13981,13 +14032,104 @@
       \strng{authorbibnamehash}{1d7acbb70fad68ab8a888c24a02951f1}
       \strng{authornamehash}{1d7acbb70fad68ab8a888c24a02951f1}
       \strng{authorfullhash}{1d7acbb70fad68ab8a888c24a02951f1}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{arXiv preprint arXiv:2301.04655}
       \field{title}{ChatGPT is not all you need. A State of the Art Review of large Generative AI models}
       \field{year}{2023}
+    \endentry
+    \entry{bubeck2023sparks}{misc}{}
+      \name{author}{14}{}{%
+        {{hash=3d51ee91b7d20d2f26b221a8a3b8b72c}{%
+           family={Bubeck},
+           familyi={B\bibinitperiod},
+           given={Sébastien},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9f6327980ef7750b1e2d94615b466044}{%
+           family={Chandrasekaran},
+           familyi={C\bibinitperiod},
+           given={Varun},
+           giveni={V\bibinitperiod}}}%
+        {{hash=27421e7dfe018659c3d41261cfb55892}{%
+           family={Eldan},
+           familyi={E\bibinitperiod},
+           given={Ronen},
+           giveni={R\bibinitperiod}}}%
+        {{hash=89173e109d33053942397c24c048f5c2}{%
+           family={Gehrke},
+           familyi={G\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a2d47a50d998e20d2bfd01b71fffa12c}{%
+           family={Horvitz},
+           familyi={H\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+        {{hash=8871bf8ac2d0e00b8d71c1929e1ef04c}{%
+           family={Kamar},
+           familyi={K\bibinitperiod},
+           given={Ece},
+           giveni={E\bibinitperiod}}}%
+        {{hash=61712f953664a245b39d597860d607f0}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=30150e84c87cbb9a8a6682b2ea5c800c}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Yin\bibnamedelima Tat},
+           giveni={Y\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=0d2c91b24f885b22d373a892a768abc8}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Yuanzhi},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=b659ebc88023a12a732b4db9afdede3d}{%
+           family={Lundberg},
+           familyi={L\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod}}}%
+        {{hash=689f6367be4908c45b32999c3f3f070f}{%
+           family={Nori},
+           familyi={N\bibinitperiod},
+           given={Harsha},
+           giveni={H\bibinitperiod}}}%
+        {{hash=e1bde9b3f791e635c2554dd79e6c13aa}{%
+           family={Palangi},
+           familyi={P\bibinitperiod},
+           given={Hamid},
+           giveni={H\bibinitperiod}}}%
+        {{hash=9203dc724f298030e81ba470feb309af}{%
+           family={Ribeiro},
+           familyi={R\bibinitperiod},
+           given={Marco\bibnamedelima Tulio},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=f4db9373a5ba3555eac8a45bcd339479}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yi},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{02379f308be3e2798c283124bed4b783}
+      \strng{fullhash}{a8b9f27335bb7a97eca21dd33e4a254f}
+      \strng{bibnamehash}{02379f308be3e2798c283124bed4b783}
+      \strng{authorbibnamehash}{02379f308be3e2798c283124bed4b783}
+      \strng{authornamehash}{02379f308be3e2798c283124bed4b783}
+      \strng{authorfullhash}{a8b9f27335bb7a97eca21dd33e4a254f}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.CL}
+      \field{eprinttype}{arXiv}
+      \field{title}{Sparks of Artificial General Intelligence: Early experiments with GPT-4}
+      \field{year}{2023}
+      \verb{eprint}
+      \verb 2303.12712
+      \endverb
     \endentry
     \entry{Sheng2023}{article}{}
       \name{author}{1}{}{%
@@ -14195,97 +14337,6 @@
       \field{year}{2022}
       \field{pages}{1\bibrangedash 9}
       \range{pages}{9}
-    \endentry
-    \entry{bubeck2023sparks}{misc}{}
-      \name{author}{14}{}{%
-        {{hash=3d51ee91b7d20d2f26b221a8a3b8b72c}{%
-           family={Bubeck},
-           familyi={B\bibinitperiod},
-           given={Sébastien},
-           giveni={S\bibinitperiod}}}%
-        {{hash=9f6327980ef7750b1e2d94615b466044}{%
-           family={Chandrasekaran},
-           familyi={C\bibinitperiod},
-           given={Varun},
-           giveni={V\bibinitperiod}}}%
-        {{hash=27421e7dfe018659c3d41261cfb55892}{%
-           family={Eldan},
-           familyi={E\bibinitperiod},
-           given={Ronen},
-           giveni={R\bibinitperiod}}}%
-        {{hash=89173e109d33053942397c24c048f5c2}{%
-           family={Gehrke},
-           familyi={G\bibinitperiod},
-           given={Johannes},
-           giveni={J\bibinitperiod}}}%
-        {{hash=a2d47a50d998e20d2bfd01b71fffa12c}{%
-           family={Horvitz},
-           familyi={H\bibinitperiod},
-           given={Eric},
-           giveni={E\bibinitperiod}}}%
-        {{hash=8871bf8ac2d0e00b8d71c1929e1ef04c}{%
-           family={Kamar},
-           familyi={K\bibinitperiod},
-           given={Ece},
-           giveni={E\bibinitperiod}}}%
-        {{hash=61712f953664a245b39d597860d607f0}{%
-           family={Lee},
-           familyi={L\bibinitperiod},
-           given={Peter},
-           giveni={P\bibinitperiod}}}%
-        {{hash=30150e84c87cbb9a8a6682b2ea5c800c}{%
-           family={Lee},
-           familyi={L\bibinitperiod},
-           given={Yin\bibnamedelima Tat},
-           giveni={Y\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
-        {{hash=0d2c91b24f885b22d373a892a768abc8}{%
-           family={Li},
-           familyi={L\bibinitperiod},
-           given={Yuanzhi},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=b659ebc88023a12a732b4db9afdede3d}{%
-           family={Lundberg},
-           familyi={L\bibinitperiod},
-           given={Scott},
-           giveni={S\bibinitperiod}}}%
-        {{hash=689f6367be4908c45b32999c3f3f070f}{%
-           family={Nori},
-           familyi={N\bibinitperiod},
-           given={Harsha},
-           giveni={H\bibinitperiod}}}%
-        {{hash=e1bde9b3f791e635c2554dd79e6c13aa}{%
-           family={Palangi},
-           familyi={P\bibinitperiod},
-           given={Hamid},
-           giveni={H\bibinitperiod}}}%
-        {{hash=9203dc724f298030e81ba470feb309af}{%
-           family={Ribeiro},
-           familyi={R\bibinitperiod},
-           given={Marco\bibnamedelima Tulio},
-           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
-        {{hash=f4db9373a5ba3555eac8a45bcd339479}{%
-           family={Zhang},
-           familyi={Z\bibinitperiod},
-           given={Yi},
-           giveni={Y\bibinitperiod}}}%
-      }
-      \strng{namehash}{02379f308be3e2798c283124bed4b783}
-      \strng{fullhash}{a8b9f27335bb7a97eca21dd33e4a254f}
-      \strng{bibnamehash}{02379f308be3e2798c283124bed4b783}
-      \strng{authorbibnamehash}{02379f308be3e2798c283124bed4b783}
-      \strng{authornamehash}{02379f308be3e2798c283124bed4b783}
-      \strng{authorfullhash}{a8b9f27335bb7a97eca21dd33e4a254f}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{eprintclass}{cs.CL}
-      \field{eprinttype}{arXiv}
-      \field{title}{Sparks of Artificial General Intelligence: Early experiments with GPT-4}
-      \field{year}{2023}
-      \verb{eprint}
-      \verb 2303.12712
-      \endverb
     \endentry
     \entry{ruiz2022dreambooth}{article}{}
       \name{author}{6}{}{%
@@ -14633,7 +14684,6 @@
       \range{pages}{-1}
     \endentry
   \enddatalist
-  \missing{\cite {bubeck2023sparks}}
 \endrefsection
 \endinput
 
