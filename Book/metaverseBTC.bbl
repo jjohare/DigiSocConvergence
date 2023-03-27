@@ -13819,6 +13819,75 @@
       \field{title}{The Metaverse and Conversational AI as a Threat Vector for Targeted Influence}
       \field{year}{2023}
     \endentry
+    \entry{perez2022discovering}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=79978685fd7b37606022b06c0f6419a1}{%
+           family={Perez},
+           familyi={P\bibinitperiod},
+           given={Ethan},
+           giveni={E\bibinitperiod}}}%
+        {{hash=532c1c02626e414c30a8690ee92e4534}{%
+           family={Ringer},
+           familyi={R\bibinitperiod},
+           given={Sam},
+           giveni={S\bibinitperiod}}}%
+        {{hash=375e023222da3d2f2368c958a13ae53c}{%
+           family={Lukošiūtė},
+           familyi={L\bibinitperiod},
+           given={Kamilė},
+           giveni={K\bibinitperiod}}}%
+        {{hash=1da3e43044d4e446caabc25bac6c59fe}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Karina},
+           giveni={K\bibinitperiod}}}%
+        {{hash=33262142079cfc1fd72a5c170a1c4f53}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Edwin},
+           giveni={E\bibinitperiod}}}%
+        {{hash=8cd4fbbe268b75399112c179a941c283}{%
+           family={Heiner},
+           familyi={H\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b268999bed6e8604772b00d7b06287ce}{%
+           family={Pettit},
+           familyi={P\bibinitperiod},
+           given={Craig},
+           giveni={C\bibinitperiod}}}%
+        {{hash=bd24844b3abaa88e1f3c5c074ad37ab6}{%
+           family={Olsson},
+           familyi={O\bibinitperiod},
+           given={Catherine},
+           giveni={C\bibinitperiod}}}%
+        {{hash=22f5b9594fb5e4b60682b792befc3a35}{%
+           family={Kundu},
+           familyi={K\bibinitperiod},
+           given={Sandipan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ae50339c3e9c1418ade64e74fa002ef5}{%
+           family={Kadavath},
+           familyi={K\bibinitperiod},
+           given={Saurav},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{e27a95b1212beb87546ed77c5ec8b570}
+      \strng{fullhash}{d3769187fdc4b0909a2010112c111484}
+      \strng{bibnamehash}{e27a95b1212beb87546ed77c5ec8b570}
+      \strng{authorbibnamehash}{e27a95b1212beb87546ed77c5ec8b570}
+      \strng{authornamehash}{e27a95b1212beb87546ed77c5ec8b570}
+      \strng{authorfullhash}{d3769187fdc4b0909a2010112c111484}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2212.09251}
+      \field{title}{Discovering Language Model Behaviors with Model-Written Evaluations}
+      \field{year}{2022}
+    \endentry
     \entry{yudkowsky2008hanson}{misc}{}
       \name{author}{1}{}{%
         {{hash=549a1c22e1c5452641bfaff6196bd013}{%
@@ -14003,8 +14072,8 @@
       \strng{authorbibnamehash}{ca3baa5a22057195db1c71be39b4c922}
       \strng{authornamehash}{ca3baa5a22057195db1c71be39b4c922}
       \strng{authorfullhash}{ed1b50fbade7def4ab8cde47cdabaff0}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{International Conference on Machine Learning}
