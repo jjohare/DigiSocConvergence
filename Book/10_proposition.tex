@@ -2,10 +2,16 @@
 
 This chapter identifies an intersectional space across the described technologies, and proposes a valuable and novel software stack, which can enable exploration  and product development. It is useful to briefly look recap the book and the conclusions we have drawn so far.
 
+\begin{figure*}[ht]\centering % Using 
+	\includegraphics[width=\linewidth]{landscapevenn}
+	\caption{Another look at the diagram of intersections.}
+	\label{fig:landscapevenn}
+\end{figure*}
+
 
 \section{Introduction and Problem Definition}
 \subsection{Overview of the Metaverse and Digital Society}
-The concept of the Metaverse is gaining significant attention, with various stakeholders positioning themselves to capitalize on its potential. While it remains unclear exactly what form the Metaverse will take or whether people truly desire it, it is evident that digital society holds considerable promise.
+The concept of the Metaverse is gaining significant attention, with various stakeholders positioning themselves to capitalize on its potential. While it remains unclear exactly what form the Metaverse will take or whether people truly desire it, it is evident that digital society holds considerable promise. We see advantage less in social metaverse, and more in solving business to business technical use cases where professionals solve technical or training requirements in collaborative spaces.
 
 \subsection{Challenges in Trust, Accessibility, Governance, and Safeguarding}
 The Metaverse faces numerous challenges, including poor adoption rates, overstated market need, and a lack of genuine digital society use cases. Trust abuses by incumbent providers have led to potential inflection points in the organization of the internet. Moreover, emerging markets and less developed nations face barriers to entry due to inadequate identification, banking infrastructure, and computing power.
@@ -59,22 +65,7 @@ Promoting open protocols, APIs, and data standards is essential to enable seamle
 \subsection{Integration of Nostr Protocol}
 The Nostr protocol can potentially be used to link and federate small and useful mixed reality spaces, providing identity assurances, mediating data synchronization, and facilitating machine-to-machine communication while maintaining reasonably strong cryptography throughout the network.
 
-
-\section{Application case studies}
-\subsection{Collaborative Design and Prototyping}
-Utilizing open-source systems and AI-assisted tools can enable more efficient and creative collaboration in design and prototyping processes. Teams from diverse cultural backgrounds can work together seamlessly, creating a rich pool of ideas and innovations.
-
-\subsection{Training, Simulation, and Education}
-The modular open-source system can be applied to various training, simulation, and education scenarios. By integrating AI and generative ML technologies, these tools can provide personalized learning experiences and create realistic simulations that cater to different learning styles and requirements.
-
-\subsection{Remote Collaboration and Teleconferencing}
-As remote work becomes more prevalent, the Metaverse can provide a more engaging and immersive platform for collaboration and teleconferencing. The open-source system can be adapted to serve various industries, making remote collaboration more efficient and inclusive.
-
-\subsection{Chemical and Medical Molecular Modeling}
-In fields like chemical and medical molecular modeling, the integration of AI and generative ML technologies can significantly improve collaboration and innovation. Teams can work together in immersive environments to visualize complex molecular structures, benefiting from real-time AI-generated visuals and natural language processing.
-
-\subsection{Creative Industries and Generative Art}
-The combination of AI, ML, and open-source systems can revolutionize the creative industries by offering new avenues for generative art, content creation, and collaboration. Supported creativity and augmented intelligence can break down barriers and enable artists to explore new ideas and techniques, enriching the creative landscape.
+\input{10_case_studies}
 
 \section{Overcoming Challenges and Barriers}
 \subsection{Addressing Trust, Accessibility, and Governance Issues}
@@ -231,7 +222,6 @@ Nostr is developing fast enough to provide global bridges between metaverse inst
 \section{Security evaluation}
 As part of developing our stack we will penetration test the deployment as detailed using \href{https://hexway.io/}{Hexway}
 
-\input{10_caseStudies}
 \input{10_otherusecases}
 \section{notes for later}
 Notes on build-out
