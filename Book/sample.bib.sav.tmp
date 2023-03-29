@@ -14255,4 +14255,232 @@
   title     = {RUBICON and revelation: the curious robustness of the ‘secret’CIA-BND operation with Crypto AG},
   year      = {2020},
   number    = {5},
-  pages     = {641--658}
+  pages     = {641--658},
+  volume    = {35},
+  publisher = {Taylor \& Francis},
+}
+
+@Book{balassa2013theory,
+  author    = {Balassa, Bela},
+  publisher = {Routledge},
+  title     = {The theory of economic integration},
+  year      = {2013},
+}
+
+@Book{iser1993fictive,
+  author    = {Iser, Wolfgang},
+  publisher = {Johns Hopkins University Press},
+  title     = {The fictive and the imaginary: Charting literary anthropology},
+  year      = {1993},
+}
+
+@Book{taylor2009play,
+  author    = {Taylor, Tina L},
+  publisher = {MIT press},
+  title     = {Play between worlds: Exploring online game culture},
+  year      = {2009},
+}
+
+@Book{glas2013battlefields,
+  author    = {Glas, Ren{\'e}},
+  publisher = {Amsterdam University Press},
+  title     = {Battlefields of negotiation: Control, agency, and ownership in World of Warcraft},
+  year      = {2013},
+}
+
+@Book{chen2011leet,
+  author    = {Chen, Mark},
+  publisher = {Peter Lang Publishing, New York},
+  title     = {Leet noobs},
+  year      = {2011},
+}
+
+@Misc{serapis2008coming,
+  author    = {Serapis, Zicodas},
+  title     = {Coming of age in second life: an anthropologist explores the virtually human},
+  year      = {2008},
+  publisher = {JSTOR},
+}
+
+@Article{cole2013call,
+  author    = {Cole, Andrew},
+  journal   = {the minnesota review},
+  title     = {The Call of ThingsA Critique of Object-Oriented Ontologies},
+  year      = {2013},
+  number    = {80},
+  pages     = {106--118},
+  volume    = {2013},
+  publisher = {Duke University Press},
+}
+
+@Article{bertomeu2023uncle,
+  author  = {Bertomeu, Jeremy and Martin, Xiumin and Zhang, Sheryl},
+  journal = {Available at SSRN 4320431},
+  title   = {Uncle Sam’s Stimulus and Crypto Boom},
+  year    = {2023},
+}
+
+@Article{Kaloudis2023,
+  author = {Kaloudis, George},
+  title  = {How Bitcoin NFTs Might Accidentally Fix Bitcoin's Security Budget},
+  year   = {2023},
+  url    = {https://www.coindesk.com/consensus-magazine/2023/02/06/how-bitcoin-nfts-might-accidentally-fix-bitcoins-security-budget/},
+}
+
+@Article{brundage2018malicious,
+  author  = {Brundage, Miles and Avin, Shahar and Clark, Jack and Toner, Helen and Eckersley, Peter and Garfinkel, Ben and Dafoe, Allan and Scharre, Paul and Zeitzoff, Thomas and Filar, Bobby and others},
+  journal = {arXiv preprint arXiv:1802.07228},
+  title   = {The malicious use of artificial intelligence: Forecasting, prevention, and mitigation},
+  year    = {2018},
+}
+
+@Article{Wouters2022,
+  author  = {Wouters, Sam},
+  journal = {River Research},
+  title   = {What Could Bitcoin Mining Look Like at One Zettahash?},
+  year    = {2022},
+  url     = {https://river.com/learn/files/river-bitcoin-mining-zettahash-report.pdf},
+}
+
+@Article{low2022emperor,
+  author  = {Low, Kelvin FK},
+  journal = {Art \& Property (December 6, 2021)},
+  title   = {The emperor’s new art: Cryptomania, art \& property},
+  year    = {2022},
+  volume  = {86},
+}
+
+@InProceedings{Rosenberg2023,
+  author = {Rosenberg, Louis},
+  title  = {The Metaverse and Conversational AI as a Threat Vector for Targeted Influence},
+  year   = {2023},
+  month  = {03},
+}
+
+@Book{Lowery2023,
+  author  = {Lowery, Jason Paul},
+  title   = {Softwar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin},
+  year    = {2023},
+  issn    = {979-8371524188},
+  journal = {self published},
+  url     = {https://www.amazon.com/dp/B0BW358F37},
+}
+
+@Book{warren2023bitcoin,
+  author    = {Warren, Micah},
+  publisher = {Walter de Gruyter GmbH},
+  title     = {Bitcoin: A Game Theoretic Analysis},
+  year      = {2023},
+}
+
+@Article{Nair2023,
+  author    = {Nair, Vivek and Guo, Wenbo and Mattern, Justus and Wang, Rui and O'Brien, James F. and Rosenberg, Louis and Song, Dawn},
+  title     = {Unique Identification of 50,000 Virtual Reality Users from Head Hand Motion Data},
+  year      = {2023},
+  copyright = {arXiv.org perpetual, non-exclusive license},
+  doi       = {10.48550/ARXIV.2302.08927},
+  keywords  = {Cryptography and Security (cs.CR), Machine Learning (cs.LG), FOS: Computer and information sciences},
+  publisher = {arXiv},
+  url       = {https://arxiv.org/abs/2302.08927},
+}
+
+@InProceedings{mirzaei2022daric,
+  author       = {Mirzaei, Arash},
+  booktitle    = {2022 52nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks-Supplemental Volume (DSN-S)},
+  title        = {Daric: A Storage Efficient Payment Channel With Penalization Mechanism},
+  year         = {2022},
+  organization = {IEEE},
+  pages        = {51--52},
+}
+
+@Article{Sheng2023,
+  author = {Sheng, Ying},
+  title  = {High-throughput Generative Inference of Large Language Models with a Single GPU Ying},
+  year   = {2023},
+}
+
+@Article{katterbauer2022impact,
+  author  = {Katterbauer, Klemens and Syed, Hassan and Cleenewerck, Laurent},
+  journal = {Cuadernos de Econom{\'\i}a},
+  title   = {The impact of the legalization of Bitcoin in the Central African Republic--a legal analysis},
+  year    = {2022},
+  pages   = {746},
+  volume  = {713},
+}
+
+@Misc{penrose1990emperor,
+  author    = {Penrose, Roger and Mermin, N David},
+  title     = {The emperor’s new mind: Concerning computers, minds, and the laws of physics},
+  year      = {1990},
+  publisher = {American Association of Physics Teachers},
+}
+
+@Misc{Menati2022,
+  author    = {Menati, Ali and Lee, Kiyeob and Xie, Le},
+  title     = {Modeling and Analysis of Utilizing Cryptocurrency Mining for Demand Flexibility in Electric Energy Systems: A Synthetic Texas Grid Case Study},
+  year      = {2022},
+  copyright = {arXiv.org perpetual, non-exclusive license},
+  doi       = {10.48550/ARXIV.2207.02428},
+  keywords  = {Systems and Control (eess.SY), FOS: Electrical engineering, electronic engineering, information engineering},
+  publisher = {arXiv},
+  url       = {https://arxiv.org/abs/2207.02428},
+}
+
+@Article{ibanez2023sok,
+  author  = {Iba{\~n}ez, Juan Ignacio and Freier, Alexander},
+  journal = {Energy Consumption and Environmental Impact (February 3, 2023)},
+  title   = {SoK: Bitcoin, Energy Consumption and Environmental Impact},
+  year    = {2023},
+}
+
+@Article{jiang2023monetary,
+  author  = {Jiang, Erica Xuewei and Matvos, Gregor and Piskorski, Tomasz and Seru, Amit},
+  journal = {Available at SSRN},
+  title   = {Monetary Tightening and US Bank Fragility in 2023: Mark-to-Market Losses and Uninsured Depositor Runs?},
+  year    = {2023},
+}
+
+@Misc{bubeck2023sparks,
+  author        = {Sébastien Bubeck and Varun Chandrasekaran and Ronen Eldan and Johannes Gehrke and Eric Horvitz and Ece Kamar and Peter Lee and Yin Tat Lee and Yuanzhi Li and Scott Lundberg and Harsha Nori and Hamid Palangi and Marco Tulio Ribeiro and Yi Zhang},
+  title         = {Sparks of Artificial General Intelligence: Early experiments with GPT-4},
+  year          = {2023},
+  archiveprefix = {arXiv},
+  eprint        = {2303.12712},
+  primaryclass  = {cs.CL},
+}
+
+@Book{hulsmann2008ethics,
+  author    = {H{\"u}lsmann, J{\"o}rg Guido},
+  publisher = {Ludwig von Mises Institute},
+  title     = {Ethics of money production},
+  year      = {2008},
+}
+
+@Misc{yudkowsky2008hanson,
+  author  = {Yudkowsky, Eliezer},
+  title   = {The Hanson-Yudkowsky AI-foom debate},
+  year    = {2008},
+  journal = {2013-04-01)[2019-01-03]. http://intelligence. org/files/AIFoomDebate. pdf},
+}
+
+@Article{song2018preventing,
+  author    = {Song, Schoni},
+  journal   = {Journal of International Affairs},
+  title     = {Preventing a Butlerian Jihad},
+  year      = {2018},
+  number    = {1},
+  pages     = {135--142},
+  volume    = {72},
+  publisher = {JSTOR},
+}
+
+@article{perez2022discovering,
+  title={Discovering Language Model Behaviors with Model-Written Evaluations},
+  author={Perez, Ethan and Ringer, Sam and Luko{\v{s}}i{\=u}t{\.e}, Kamil{\.e} and Nguyen, Karina and Chen, Edwin and Heiner, Scott and Pettit, Craig and Olsson, Catherine and Kundu, Sandipan and Kadavath, Saurav and others},
+  journal={arXiv preprint arXiv:2212.09251},
+  year={2022}
+}
+
+@Article{bayer2023artificial,
+  author = {Bayer, Lara},
+  tit
