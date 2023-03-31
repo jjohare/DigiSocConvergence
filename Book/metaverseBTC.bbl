@@ -14029,6 +14029,31 @@
       \field{title}{The malicious use of artificial intelligence: Forecasting, prevention, and mitigation}
       \field{year}{2018}
     \endentry
+    \entry{bostrom2003ethical}{article}{}
+      \name{author}{1}{}{%
+        {{hash=892acb64b0a9f67cbe51c2705c652a49}{%
+           family={Bostrom},
+           familyi={B\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{892acb64b0a9f67cbe51c2705c652a49}
+      \strng{fullhash}{892acb64b0a9f67cbe51c2705c652a49}
+      \strng{bibnamehash}{892acb64b0a9f67cbe51c2705c652a49}
+      \strng{authorbibnamehash}{892acb64b0a9f67cbe51c2705c652a49}
+      \strng{authornamehash}{892acb64b0a9f67cbe51c2705c652a49}
+      \strng{authorfullhash}{892acb64b0a9f67cbe51c2705c652a49}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science fiction and philosophy: from time travel to superintelligence}
+      \field{title}{Ethical issues in advanced artificial intelligence}
+      \field{volume}{277}
+      \field{year}{2003}
+      \field{pages}{284}
+      \range{pages}{1}
+    \endentry
     \entry{radford2021learning}{inproceedings}{}
       \true{moreauthor}
       \true{morelabelname}
