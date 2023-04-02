@@ -14487,9 +14487,6 @@
   year   = {2023},
 }
 
-@Article{,
-}
-
 @Article{bostrom2003ethical,
   author  = {Bostrom, Nick},
   journal = {Science fiction and philosophy: from time travel to superintelligence},
@@ -14497,6 +14494,22 @@
   year    = {2003},
   pages   = {284},
   volume  = {277},
+}
+
+@Article{hoffmann2022empirical,
+  author  = {Hoffmann, Jordan and Borgeaud, Sebastian and Mensch, Arthur and Buchatskaya, Elena and Cai, Trevor and Rutherford, Eliza and de Las Casas, Diego and Hendricks, Lisa Anne and Welbl, Johannes and Clark, Aidan and others},
+  journal = {Advances in Neural Information Processing Systems},
+  title   = {An empirical analysis of compute-optimal large language model training},
+  year    = {2022},
+  pages   = {30016--30030},
+  volume  = {35},
+}
+
+@Article{sadasivan2023can,
+  author  = {Sadasivan, Vinu Sankar and Kumar, Aounon and Balasubramanian, Sriram and Wang, Wenxiao and Feizi, Soheil},
+  journal = {arXiv preprint arXiv:2303.11156},
+  title   = {Can AI-Generated Text be Reliably Detected?},
+  year    = {2023},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

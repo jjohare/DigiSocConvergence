@@ -2888,6 +2888,30 @@
       \field{title}{Inflation: causes and effects}
       \field{year}{2009}
     \endentry
+    \entry{white1914fiat}{book}{}
+      \name{author}{1}{}{%
+        {{hash=216b1f488eec191935753dcbb72cac21}{%
+           family={White},
+           familyi={W\bibinitperiod},
+           given={Andrew\bibnamedelima Dickson},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Brigdens, Limited}%
+      }
+      \strng{namehash}{216b1f488eec191935753dcbb72cac21}
+      \strng{fullhash}{216b1f488eec191935753dcbb72cac21}
+      \strng{bibnamehash}{216b1f488eec191935753dcbb72cac21}
+      \strng{authorbibnamehash}{216b1f488eec191935753dcbb72cac21}
+      \strng{authornamehash}{216b1f488eec191935753dcbb72cac21}
+      \strng{authorfullhash}{216b1f488eec191935753dcbb72cac21}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fiat Money Inflation in France: How it Came, what it Brought and how it Ended. To which is Added an Extract from Macaulay Showing the Results of Tampering with the Currency of England, Also a Summary by Emile Lavasseur}
+      \field{year}{1914}
+    \endentry
     \entry{davies2010history}{book}{}
       \name{author}{1}{}{%
         {{hash=4ee93c737ba34d7335ea70711089dbf5}{%
@@ -3049,8 +3073,8 @@
       \strng{authorbibnamehash}{789a70514273e7bf5dbbe9c9318c54bd}
       \strng{authornamehash}{789a70514273e7bf5dbbe9c9318c54bd}
       \strng{authorfullhash}{789a70514273e7bf5dbbe9c9318c54bd}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Struggling Amidst Plenty: A Layperson’s Guide to Our Awful Monetary System, Why it’s the Root Cause of Inequality, Debt, and “Too Big to Fail,” \& The Little-Known Way to Fix it}
@@ -3364,8 +3388,8 @@
       \strng{authorbibnamehash}{94d8c332d8d11a528019b2613f936e24}
       \strng{authornamehash}{94d8c332d8d11a528019b2613f936e24}
       \strng{authorfullhash}{94d8c332d8d11a528019b2613f936e24}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{CryptoDad: The Fight for the Future of Money}
@@ -6852,8 +6876,8 @@
       \strng{authorbibnamehash}{1e26963ab5bc0992ac5421967c3127e0}
       \strng{authornamehash}{1e26963ab5bc0992ac5421967c3127e0}
       \strng{authorfullhash}{0c653c77c63eb442713a2f4c50fbf379}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{When subjects viewed straight and turned eyes that were isolated singly or in pairs from a head that was straight or turned, they underestimated their true direction of gaze. They also underestimated the direction of head turn when both eyes were closed. However, the judged direction of gaze was improved when the eyes were layered against the heads. Judged direction of averted gaze was primarily based on the abducting eye. The effect that the deviation between an eye's optical axis and its true direction of gaze (angle kappa) has on its judged direction of gaze is discussed.}
@@ -10076,8 +10100,8 @@
       \strng{authorbibnamehash}{f29644eea493e78bb55906fcf074b573}
       \strng{authornamehash}{f29644eea493e78bb55906fcf074b573}
       \strng{authorfullhash}{f29644eea493e78bb55906fcf074b573}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Presence: Teleoperators and Virtual Environments}
@@ -10104,8 +10128,8 @@
       \strng{authorbibnamehash}{8f318dd6cfc9d97226589effb24d93a0}
       \strng{authornamehash}{8f318dd6cfc9d97226589effb24d93a0}
       \strng{authorfullhash}{8f318dd6cfc9d97226589effb24d93a0}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The Cyborg Dilemma : Embodiment in Virtual Environments}
@@ -13790,6 +13814,48 @@
       \field{title}{GPT-3, Bloviator: OpenAI’s language generator has no idea what it’s talking about}
       \field{year}{2020}
     \endentry
+    \entry{sadasivan2023can}{article}{}
+      \name{author}{5}{}{%
+        {{hash=e4194e2753f5800586791a1454a3a0f2}{%
+           family={Sadasivan},
+           familyi={S\bibinitperiod},
+           given={Vinu\bibnamedelima Sankar},
+           giveni={V\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=fc5c6e837a5140059aa3f50a1dfb0e41}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Aounon},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8097ca6bcea2cf44e7f9fa7037289b78}{%
+           family={Balasubramanian},
+           familyi={B\bibinitperiod},
+           given={Sriram},
+           giveni={S\bibinitperiod}}}%
+        {{hash=7732155c540af0f7b63a434ddb5f9c2e}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Wenxiao},
+           giveni={W\bibinitperiod}}}%
+        {{hash=70032c35efbe232846bd37f5b76e36b8}{%
+           family={Feizi},
+           familyi={F\bibinitperiod},
+           given={Soheil},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{137c3db00c5bd50ee725630c6c6a6054}
+      \strng{fullhash}{c2f1914549567aa0078fedb726541336}
+      \strng{bibnamehash}{137c3db00c5bd50ee725630c6c6a6054}
+      \strng{authorbibnamehash}{137c3db00c5bd50ee725630c6c6a6054}
+      \strng{authornamehash}{137c3db00c5bd50ee725630c6c6a6054}
+      \strng{authorfullhash}{c2f1914549567aa0078fedb726541336}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2303.11156}
+      \field{title}{Can AI-Generated Text be Reliably Detected?}
+      \field{year}{2023}
+    \endentry
     \entry{immerwahr202221}{incollection}{}
       \name{author}{1}{}{%
         {{hash=35e34b832625194dd69dce91a37d977d}{%
@@ -13923,8 +13989,8 @@
       \strng{authorbibnamehash}{549a1c22e1c5452641bfaff6196bd013}
       \strng{authornamehash}{549a1c22e1c5452641bfaff6196bd013}
       \strng{authorfullhash}{549a1c22e1c5452641bfaff6196bd013}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{2013-04-01)[2019-01-03]. http://intelligence. org/files/AIFoomDebate. pdf}
@@ -13948,8 +14014,8 @@
       \strng{authorbibnamehash}{29bcf8bfc04b6911ed74f1e1982c1a96}
       \strng{authornamehash}{29bcf8bfc04b6911ed74f1e1982c1a96}
       \strng{authorfullhash}{29bcf8bfc04b6911ed74f1e1982c1a96}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of International Affairs}
@@ -14053,6 +14119,80 @@
       \field{year}{2003}
       \field{pages}{284}
       \range{pages}{1}
+    \endentry
+    \entry{hoffmann2022empirical}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=92d226c4ea870c0e9df2ceb8bf03d8ff}{%
+           family={Hoffmann},
+           familyi={H\bibinitperiod},
+           given={Jordan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c28d74501d531d6672ccf4c28016c7ac}{%
+           family={Borgeaud},
+           familyi={B\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e9a587c57b1dcb4834850800386d8aca}{%
+           family={Mensch},
+           familyi={M\bibinitperiod},
+           given={Arthur},
+           giveni={A\bibinitperiod}}}%
+        {{hash=eee8c4b85d5c4e1f4bc70218d34ba69d}{%
+           family={Buchatskaya},
+           familyi={B\bibinitperiod},
+           given={Elena},
+           giveni={E\bibinitperiod}}}%
+        {{hash=3d7a83ed6eb983ca17cec804631dc22e}{%
+           family={Cai},
+           familyi={C\bibinitperiod},
+           given={Trevor},
+           giveni={T\bibinitperiod}}}%
+        {{hash=5cc07c10e9f1ef5fae367662553d982c}{%
+           family={Rutherford},
+           familyi={R\bibinitperiod},
+           given={Eliza},
+           giveni={E\bibinitperiod}}}%
+        {{hash=47f81e65396e1d91b7ab70d59f69329b}{%
+           family={Las\bibnamedelima Casas},
+           familyi={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Diego},
+           giveni={D\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=68b917d11d355ed641ee448751fb3ba5}{%
+           family={Hendricks},
+           familyi={H\bibinitperiod},
+           given={Lisa\bibnamedelima Anne},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=7a7fdb4cb72d04e1eaa8a6a2ca0358dc}{%
+           family={Welbl},
+           familyi={W\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b06242c53973106520ab19f8e1fc3799}{%
+           family={Clark},
+           familyi={C\bibinitperiod},
+           given={Aidan},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{8be79936575bb0d5b77c96da6d2a6d52}
+      \strng{fullhash}{705591d9ec6600241d67d5065ce218a8}
+      \strng{bibnamehash}{8be79936575bb0d5b77c96da6d2a6d52}
+      \strng{authorbibnamehash}{8be79936575bb0d5b77c96da6d2a6d52}
+      \strng{authornamehash}{8be79936575bb0d5b77c96da6d2a6d52}
+      \strng{authorfullhash}{705591d9ec6600241d67d5065ce218a8}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advances in Neural Information Processing Systems}
+      \field{title}{An empirical analysis of compute-optimal large language model training}
+      \field{volume}{35}
+      \field{year}{2022}
+      \field{pages}{30016\bibrangedash 30030}
+      \range{pages}{15}
     \endentry
     \entry{radford2021learning}{inproceedings}{}
       \true{moreauthor}

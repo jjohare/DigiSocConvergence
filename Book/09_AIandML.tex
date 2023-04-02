@@ -21,7 +21,7 @@ This needs filling out as we go, \href{https://www.key4biz.it/wp-content/uploads
 \subsubsection{Ethics and law}
 AI ethics is now a hot topic even outside of the academic fields which have previously wrestled with these issues.\par
 In the field of natural language processing, there have been significant advancements in the use of language models for various tasks. These models are trained on large amounts of text data and are able to generate coherent sentences or paragraphs. They have been used for tasks such as language translation, text summarization, and sentiment analysis. GPT3 and soon GPT4 are the most widely known examples, and are right in the boundary space where ML begins to look like AI. To be clear without a current context, an understanding of past conversations, and connection to external real world events (the internet) such language models are many layers short of AI \cite{elkins2020can, marcus2020gpt}. As an example of it's capability the following was fed into ChatGPT: ``write a poem in iambic pentameter about the difficulty humans have deciding if a thing is really intelligent.''\par
-The resulting output is the first thing that came out, within 3 seconds.\par
+The resulting output is the first thing that came out from GPT3, within 3 seconds.\par
 \textit{``Is it true intelligence, or just a guise?
 We struggle to decide with troubled brow
 For machines can mimic, with clever guise
@@ -35,8 +35,46 @@ A spark of consciousness, a self-aware mind
 These questions plague us, yet we are not bound
 By any one answer, we are free to find
 Our own conclusion, as we ponder and muse
-On the true nature of intelligence and its use''.}
-Michal Zalewski \href{https://lcamtuf.substack.com/p/llms-a-bleak-future-ahead}{says}: \textit{``Instead of taking sides in that debate, I’d like to make a simpler prediction about LLMs as they operate today. I suspect that barring urgent intervention, within two decades, most of interactions on the internet will be fake. It might seem like an oddly specific claim, but there are powerful incentives to use LLMs to generate inauthentic content on an unprecedented scale — and there are no technical defenses in sight. Further, one of the most plausible beneficial uses of LLMs might have the side effect of discouraging the creation of new organic content on the internet.''}
+On the true nature of intelligence and its use''.}\\
+and this is the GPT4 version a month later (note that the normally tricky italics and new lines for LaTeX were handled inline by GPT4, unlike in the example above:
+\newpage
+\itshape{
+Upon the realm of mind and cogitation, \\
+A question looms with great anticipation. \\
+Doth sentient life in circuitry exist, \\
+Or is it but a dream, a wisp of mist? \\
+
+In measured beats of thought, the heart doth race, \\
+As human minds grapple with cyberspace. \\
+When metal minds in cold precision speak, \\
+Do we, in truth, behold intelligence unique? \\
+
+From Turing's test, the doubts and queries sprout, \\
+A test to quell the din of skeptic's shout. \\
+Yet do these trials prove with certainty, \\
+The depth of thought, the spark of liberty? \\
+
+Alas, we seek a scale, a touchstone pure, \\
+To judge the essence of the mind obscure. \\
+But in that quest, we find ourselves confound, \\
+For truth, like wind, doth ever shift around. \\
+
+The line between machine and man doth blur, \\
+As thoughts entwined, a tangled web they stir. \\
+To tell apart the spirit from the gears, \\
+We strain our eyes, confront our deepest fears. \\
+
+In iambic verse, we search the bounds of thought, \\
+To wrest the truth from shadows, ever sought. \\
+But answers true remain elusive still, \\
+The more we grasp, the more they slip our will. \\
+
+For in this dance, intelligence doth sway, \\
+And human hearts, beguiled, are led astray. \\
+To judge the spark within the wires and code, \\
+We must look inward, seek our own abode.}
+
+Research suggests that such outputs cannot be discriminated from human output in meaningful ways, casting shade across all assessed measures of humans in written form \cite{sadasivan2023can} from this point forward. Michal Zalewski \href{https://lcamtuf.substack.com/p/llms-a-bleak-future-ahead}{says}: \textit{``Instead of taking sides in that debate, I’d like to make a simpler prediction about LLMs as they operate today. I suspect that barring urgent intervention, within two decades, most of interactions on the internet will be fake. It might seem like an oddly specific claim, but there are powerful incentives to use LLMs to generate inauthentic content on an unprecedented scale — and there are no technical defenses in sight. Further, one of the most plausible beneficial uses of LLMs might have the side effect of discouraging the creation of new organic content on the internet.''}
 
 Within generative machine learning there has been a raging debate between `some' of the artists whose original works were `scraped' into the \href{https://laion.ai/}{LAION} open dataset. \par
 In the sphere of military, geopolitical, and civil defence the application of these tools is both shadowy and seemingly \href{https://www.vox.com/recode/23507236/inside-disruption-rebellion-defense-washington-connected-military-tech-startup}{somewhat incompetent}. It is an especially twisted irony that `Rebellion Defence'' seem to have modelled themselves on the rebellion movement in the Star Wars fictional universe, seemingly unaware that Lucas most likely saw the USA as analogous to the Empire in the films \cite{immerwahr202221}. A \href{https://www.stopkillerrobots.org/wp-content/uploads/2022/10/ADR-Artificial-intelligence-and-automated-decisions-Single-View.pdf}{recent report} from ``Stop Killer Robots'' identifies the governance concerns which they have been monitoring for years. They identify areas of specific concern.
@@ -85,7 +123,16 @@ Many serious researcher are now sounding the alarm
 
 Paperclip miximiser \cite{bostrom2003ethical}
 or what Yudkowsky calls the \href{https://www.lesswrong.com/tag/squiggle-maximizer-formerly-paperclip-maximizer}{``squiggle maximiser''}.
-
+\subsubsection{Scaling challenges}
+In the DeepMind paper that introduced Chinchilla \cite{hoffmann2022empirical} several problems with scaling were highlighted
+\begin{itemize}
+\item Data, rather than model size, is currently the primary constraint on language modeling performance.
+\item Large models (e.g., with 500B parameters or more) are not necessary if enough data can be leveraged.
+\item Encountering barriers to data scaling would be a significant loss compared to the potential performance gains.
+\item The amount of text data available for training is unclear, and there may be a shortage of general-domain data.
+\item Specialized domains, such as code, have limited data compared to the potential gains if more data were available.
+\end{itemize}
+They argue that researchers often focus on scaling up the number of parameters (N) rather than increasing the amount and diversity of training data (D). This focus on scaling N has led to a lack of clarity and rigor in describing the data collection processes and sources used in training these models. It seems  there are challenges associated with increasing the amount of training data, particularly in terms of quality and the diminishing returns of data scaling. 
 \subsubsection{The players, the politics, and our choices}
 The previously mentioned OpenAI is not open. They publish much open source material, but their investment is chiefly from microsoft. There are some huge players in the field. Nvidia, Microsoft, Amazon, Facebook, and many others are heavily invested, and will expect returns at some point. Figuring out how all this pans out is important and urgent. There is already a potential (open) contender in development under LAION, who own the internet scraping data. This \href{'Open-Assistant'}{https://github.com/LAION-AI/Open-Assistant} is still in the pre-training phases and will likely require significant GPU VRAM (likely ADA chipsets) to run locally. This is something we would prefer to use but the challenge is unclear.
 \subsection{Whistlestop tour of terms}
@@ -110,7 +157,14 @@ For example, in a generative model for images, the latent space may encode the f
 
 The latent space is an important aspect of generative models because it allows the model to capture the underlying structure of the data in a compact and efficient way. It also provides a way to control the generation process, such as by interpolating between latent space points to generate smooth transitions between samples. At this time the navigation through that mathematical space is steered by vectors into the space, which come from a separate and parallel integration of a natural language model. This crucial bridge came from research at OpenAI, and has been instrumental in the current explosion of usability of the systems \cite{radford2021learning}.
 \subsubsection{Edge AI compute and APUs}
-Qualcomm phone chip, IBM board, Esperanto Risc V chip. These systems will drive the compute to less `constrained' but somewhat less capable AI systems, distributing the access but increasing risks.
+\begin{itemize}
+\item \href{https://www.theverge.com/2023/2/23/23611668/ai-image-stable-diffusion-mobile-android-qualcomm-fastest}{Qualcomm phone chip} offers low power and high speed Stable Diffusion on mobiles
+\item IBM have introduced the \href{https://research.ibm.com/blog/ibm-artificial-intelligence-unit-aiu}{concept of the AIU}, for high speed and low power training
+\item Nvidia's \href{https://www.okdo.com/p/nvidia-jetson-agx-orin-64gb-developer-kit/}{latest in the Jetson} Edge AGX line is a high performance general AI unit for industrial applications
+\item Esperanto Risc V chip \href{https://www.esperanto.ai/News/risc-v-startup-esperanto-technologies-samples-first-ai-silicon/}{claims incredible performance} gains
+\item The MetaVRain asic \href{https://hdh4797.wixsite.com/dhan/project-1}{claims 900x speed increases} on general GPU problems
+\end{itemize}
+ These systems will drive the compute to less `constrained' but somewhat less capable AI systems, distributing the access but increasing risks.
 \subsection{Consumer tools}
 Gozalo-Brizuela and Garrido-Merchan provide a helpful review and taxonomy of recent generative ML systems in their paper `ChatGPT is not all you need' \cite{gozalo2023chatgpt}, with Figure \ref{fig:MLtaxonomy} showing some of the main categories and systems. 
 
