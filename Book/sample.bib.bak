@@ -14512,4 +14512,18 @@
   year    = {2023},
 }
 
+@Book{white1914fiat,
+  author    = {White, Andrew Dickson},
+  publisher = {Brigdens, Limited},
+  title     = {Fiat Money Inflation in France: How it Came, what it Brought and how it Ended. To which is Added an Extract from Macaulay Showing the Results of Tampering with the Currency of England, Also a Summary by Emile Lavasseur},
+  year      = {1914},
+}
+
+@Article{shinn2023reflexion,
+  author  = {Shinn, Noah and Labash, Beck and Gopinath, Ashwin},
+  journal = {arXiv preprint arXiv:2303.11366},
+  title   = {Reflexion: an autonomous agent with dynamic memory and self-reflection},
+  year    = {2023},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

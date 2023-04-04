@@ -13752,6 +13752,85 @@
       \field{pages}{139\bibrangedash 150}
       \range{pages}{12}
     \endentry
+    \entry{shinn2023reflexion}{article}{}
+      \name{author}{3}{}{%
+        {{hash=38e6ccf26c31cd565451a2e0601fc217}{%
+           family={Shinn},
+           familyi={S\bibinitperiod},
+           given={Noah},
+           giveni={N\bibinitperiod}}}%
+        {{hash=a388db50e0f60159211e5e1a4107f68a}{%
+           family={Labash},
+           familyi={L\bibinitperiod},
+           given={Beck},
+           giveni={B\bibinitperiod}}}%
+        {{hash=fff0a03e891028b0a95e0cfda48d8210}{%
+           family={Gopinath},
+           familyi={G\bibinitperiod},
+           given={Ashwin},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{be3ac50dfe6c216cb0b40216a4147e60}
+      \strng{fullhash}{be3ac50dfe6c216cb0b40216a4147e60}
+      \strng{bibnamehash}{be3ac50dfe6c216cb0b40216a4147e60}
+      \strng{authorbibnamehash}{be3ac50dfe6c216cb0b40216a4147e60}
+      \strng{authornamehash}{be3ac50dfe6c216cb0b40216a4147e60}
+      \strng{authorfullhash}{be3ac50dfe6c216cb0b40216a4147e60}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2303.11366}
+      \field{title}{Reflexion: an autonomous agent with dynamic memory and self-reflection}
+      \field{year}{2023}
+    \endentry
+    \entry{shen2023hugginggpt}{article}{}
+      \name{author}{6}{}{%
+        {{hash=a07796e0f5a935caa74cdbcb30fe0bde}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Yongliang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=d662f2362a0c8feddbc45312478f8da6}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Kaitao},
+           giveni={K\bibinitperiod}}}%
+        {{hash=88c58ea43b71cda8e83ddf1181a534ce}{%
+           family={Tan},
+           familyi={T\bibinitperiod},
+           given={Xu},
+           giveni={X\bibinitperiod}}}%
+        {{hash=84c131e5fa26619bcd28796cffa3bd0e}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Dongsheng},
+           giveni={D\bibinitperiod}}}%
+        {{hash=068241173902556740b435222c3099d0}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Weiming},
+           giveni={W\bibinitperiod}}}%
+        {{hash=d66515d5a94236fa8057480c1c30f206}{%
+           family={Zhuang},
+           familyi={Z\bibinitperiod},
+           given={Yueting},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{b10bf3c5b7aa6dad8cca87830b0a160a}
+      \strng{fullhash}{d2cd2fd111a10d2ceff2564433a09ad9}
+      \strng{bibnamehash}{b10bf3c5b7aa6dad8cca87830b0a160a}
+      \strng{authorbibnamehash}{b10bf3c5b7aa6dad8cca87830b0a160a}
+      \strng{authornamehash}{b10bf3c5b7aa6dad8cca87830b0a160a}
+      \strng{authorfullhash}{d2cd2fd111a10d2ceff2564433a09ad9}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2303.17580}
+      \field{title}{HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace}
+      \field{year}{2023}
+    \endentry
     \entry{elkins2020can}{article}{}
       \name{author}{2}{}{%
         {{hash=4423c726761664110e10a1ae9a7672ef}{%
@@ -13898,8 +13977,8 @@
       \strng{authornamehash}{7cce582f3849a16b2e0ebd1f90725a79}
       \strng{authorfullhash}{7cce582f3849a16b2e0ebd1f90725a79}
       \field{extraname}{2}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{03}
@@ -13967,8 +14046,8 @@
       \strng{authorbibnamehash}{e27a95b1212beb87546ed77c5ec8b570}
       \strng{authornamehash}{e27a95b1212beb87546ed77c5ec8b570}
       \strng{authorfullhash}{d3769187fdc4b0909a2010112c111484}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{arXiv preprint arXiv:2212.09251}
