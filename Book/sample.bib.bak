@@ -14526,4 +14526,18 @@
   year    = {2023},
 }
 
+@Article{shen2023hugginggpt,
+  author  = {Shen, Yongliang and Song, Kaitao and Tan, Xu and Li, Dongsheng and Lu, Weiming and Zhuang, Yueting},
+  journal = {arXiv preprint arXiv:2303.17580},
+  title   = {HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace},
+  year    = {2023},
+}
+
+@Article{horton2019death,
+  author  = {Horton, John J and Tambe, Prasanna and Wharton, U Penn},
+  journal = {Unpublished Manuscript},
+  title   = {The death of a technical skill},
+  year    = {2019},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

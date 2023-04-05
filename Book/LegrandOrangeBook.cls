@@ -45,6 +45,8 @@
 
 \usepackage{changepage} % Required for temporarily indenting text blocks
 
+\usepackage{enumitem}
+
 \usepackage[toc]{appendix} % Required for the appendices chapters
 
 %----------------------------------------------------------------------------------------
