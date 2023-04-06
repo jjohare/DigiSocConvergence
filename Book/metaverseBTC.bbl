@@ -14042,6 +14042,149 @@
       \field{title}{The Metaverse and Conversational AI as a Threat Vector for Targeted Influence}
       \field{year}{2023}
     \endentry
+    \entry{azamfirei2023large}{article}{}
+      \name{author}{3}{}{%
+        {{hash=2bfabe1e60293f3c6c1c13a5c20a4c15}{%
+           family={Azamfirei},
+           familyi={A\bibinitperiod},
+           given={Razvan},
+           giveni={R\bibinitperiod}}}%
+        {{hash=1d58723a1d365c6e9b8812a2a697770e}{%
+           family={Kudchadkar},
+           familyi={K\bibinitperiod},
+           given={Sapna\bibnamedelima R},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=674d60e59dd8b1dc0cb7c62581334150}{%
+           family={Fackler},
+           familyi={F\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {BioMed Central}%
+      }
+      \strng{namehash}{b5d8329df1edd4741d11f5892c9a467b}
+      \strng{fullhash}{b5d8329df1edd4741d11f5892c9a467b}
+      \strng{bibnamehash}{b5d8329df1edd4741d11f5892c9a467b}
+      \strng{authorbibnamehash}{b5d8329df1edd4741d11f5892c9a467b}
+      \strng{authornamehash}{b5d8329df1edd4741d11f5892c9a467b}
+      \strng{authorfullhash}{b5d8329df1edd4741d11f5892c9a467b}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Critical Care}
+      \field{number}{1}
+      \field{title}{Large language models and the perils of their hallucinations}
+      \field{volume}{27}
+      \field{year}{2023}
+      \field{pages}{1\bibrangedash 2}
+      \range{pages}{2}
+    \endentry
+    \entry{manakul2023selfcheckgpt}{article}{}
+      \name{author}{3}{}{%
+        {{hash=907636e6dda8eabc85e679df0797f557}{%
+           family={Manakul},
+           familyi={M\bibinitperiod},
+           given={Potsawee},
+           giveni={P\bibinitperiod}}}%
+        {{hash=6fd5f13e7c91a54ec391ecab3570fa45}{%
+           family={Liusie},
+           familyi={L\bibinitperiod},
+           given={Adian},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b664fc5f45b40ed91915dd5a63afa92e}{%
+           family={Gales},
+           familyi={G\bibinitperiod},
+           given={Mark\bibnamedelima JF},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{5eb123148c51b7913be715851f3677c2}
+      \strng{fullhash}{5eb123148c51b7913be715851f3677c2}
+      \strng{bibnamehash}{5eb123148c51b7913be715851f3677c2}
+      \strng{authorbibnamehash}{5eb123148c51b7913be715851f3677c2}
+      \strng{authornamehash}{5eb123148c51b7913be715851f3677c2}
+      \strng{authorfullhash}{5eb123148c51b7913be715851f3677c2}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2303.08896}
+      \field{title}{SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models}
+      \field{year}{2023}
+    \endentry
+    \entry{ouyang2022training}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=6e3708cf33f22d79419d7e79124060a8}{%
+           family={Ouyang},
+           familyi={O\bibinitperiod},
+           given={Long},
+           giveni={L\bibinitperiod}}}%
+        {{hash=495187f3a2c93ddb8083bd18a5702527}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Jeffrey},
+           giveni={J\bibinitperiod}}}%
+        {{hash=214803c09eda269a0ed928d7e5a93461}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Xu},
+           giveni={X\bibinitperiod}}}%
+        {{hash=a7cf026a14a6ceae41b01945420f7d80}{%
+           family={Almeida},
+           familyi={A\bibinitperiod},
+           given={Diogo},
+           giveni={D\bibinitperiod}}}%
+        {{hash=19714834684eddb04464454a907483b2}{%
+           family={Wainwright},
+           familyi={W\bibinitperiod},
+           given={Carroll},
+           giveni={C\bibinitperiod}}}%
+        {{hash=2321e04943bcadb0275819652b980521}{%
+           family={Mishkin},
+           familyi={M\bibinitperiod},
+           given={Pamela},
+           giveni={P\bibinitperiod}}}%
+        {{hash=6396eaa69e1c798e2c8c503e9ce9067b}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Chong},
+           giveni={C\bibinitperiod}}}%
+        {{hash=abe4801e322e893b23785fd6d0800b5c}{%
+           family={Agarwal},
+           familyi={A\bibinitperiod},
+           given={Sandhini},
+           giveni={S\bibinitperiod}}}%
+        {{hash=57e47da21cfc9e3fa6c754e47b5adcab}{%
+           family={Slama},
+           familyi={S\bibinitperiod},
+           given={Katarina},
+           giveni={K\bibinitperiod}}}%
+        {{hash=143fa59d90387ae4a6aa650dcf1c7ceb}{%
+           family={Ray},
+           familyi={R\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{13d52a5bcb04f48fa855da0c9fb052de}
+      \strng{fullhash}{f0080074a1318e1c137696c83d57404b}
+      \strng{bibnamehash}{13d52a5bcb04f48fa855da0c9fb052de}
+      \strng{authorbibnamehash}{13d52a5bcb04f48fa855da0c9fb052de}
+      \strng{authornamehash}{13d52a5bcb04f48fa855da0c9fb052de}
+      \strng{authorfullhash}{f0080074a1318e1c137696c83d57404b}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advances in Neural Information Processing Systems}
+      \field{title}{Training language models to follow instructions with human feedback}
+      \field{volume}{35}
+      \field{year}{2022}
+      \field{pages}{27730\bibrangedash 27744}
+      \range{pages}{15}
+    \endentry
     \entry{perez2022discovering}{article}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -14329,6 +14472,53 @@
       \field{year}{2022}
       \field{pages}{30016\bibrangedash 30030}
       \range{pages}{15}
+    \endentry
+    \entry{dai2022can}{article}{}
+      \name{author}{6}{}{%
+        {{hash=ae4bae1c69a7578313fbd880107aa29c}{%
+           family={Dai},
+           familyi={D\bibinitperiod},
+           given={Damai},
+           giveni={D\bibinitperiod}}}%
+        {{hash=f89b558372c5641d146e8ca4eb4b8d87}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Yutao},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=d3349e5c2b2661f3b497e9f014ffcf7d}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Li},
+           giveni={L\bibinitperiod}}}%
+        {{hash=23f6400adce4d6a865a9cd6438e51c33}{%
+           family={Hao},
+           familyi={H\bibinitperiod},
+           given={Yaru},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=bde9dd741af11c84c986c734b5440cbf}{%
+           family={Sui},
+           familyi={S\bibinitperiod},
+           given={Zhifang},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=e5bfd490d91c5d1b935092ce3132a083}{%
+           family={Wei},
+           familyi={W\bibinitperiod},
+           given={Furu},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{1ba2d8dd9895947b88a92ae8d84ffa8f}
+      \strng{fullhash}{6e4ef6dfb954438c57642040d21b76e7}
+      \strng{bibnamehash}{1ba2d8dd9895947b88a92ae8d84ffa8f}
+      \strng{authorbibnamehash}{1ba2d8dd9895947b88a92ae8d84ffa8f}
+      \strng{authornamehash}{1ba2d8dd9895947b88a92ae8d84ffa8f}
+      \strng{authorfullhash}{6e4ef6dfb954438c57642040d21b76e7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2212.10559}
+      \field{title}{Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta Optimizers}
+      \field{year}{2022}
     \endentry
     \entry{radford2021learning}{inproceedings}{}
       \true{moreauthor}
