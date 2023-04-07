@@ -14574,4 +14574,11 @@
   volume  = {35},
 }
 
+@Article{dai2022can,
+  author  = {Dai, Damai and Sun, Yutao and Dong, Li and Hao, Yaru and Sui, Zhifang and Wei, Furu},
+  journal = {arXiv preprint arXiv:2212.10559},
+  title   = {Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta Optimizers},
+  year    = {2022},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
