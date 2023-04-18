@@ -14922,6 +14922,42 @@
       \field{title}{Neural machine translation by jointly learning to align and translate}
       \field{year}{2014}
     \endentry
+    \entry{morkel2005overview}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=7e722ccaef13ee7270e4896b14b8450c}{%
+           family={Morkel},
+           familyi={M\bibinitperiod},
+           given={Tayana},
+           giveni={T\bibinitperiod}}}%
+        {{hash=5ce81d41db620a99cc32ed0c2b17fe1d}{%
+           family={Eloff},
+           familyi={E\bibinitperiod},
+           given={Jan\bibnamedelima HP},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=037a05e47645c92d0137f9c0b782fc59}{%
+           family={Olivier},
+           familyi={O\bibinitperiod},
+           given={Martin\bibnamedelima S},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{ba637ebe18f596adae93a09df55bc854}
+      \strng{fullhash}{ba637ebe18f596adae93a09df55bc854}
+      \strng{bibnamehash}{ba637ebe18f596adae93a09df55bc854}
+      \strng{authorbibnamehash}{ba637ebe18f596adae93a09df55bc854}
+      \strng{authornamehash}{ba637ebe18f596adae93a09df55bc854}
+      \strng{authorfullhash}{ba637ebe18f596adae93a09df55bc854}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{ISSA}
+      \field{number}{2}
+      \field{title}{An overview of image steganography.}
+      \field{volume}{1}
+      \field{year}{2005}
+      \field{pages}{1\bibrangedash 11}
+      \range{pages}{11}
+    \endentry
     \entry{nair2022exploring}{article}{}
       \name{author}{3}{}{%
         {{hash=e9c616412e81a967ba9d7b125e95c9c5}{%
