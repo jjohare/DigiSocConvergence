@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  21 APR 2023 13:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  24 APR 2023 20:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1644,17 +1644,20 @@ File: Images//Web3ARK.jpg Graphic file (type jpg)
 <use Images//Web3ARK.jpg>
 Package pdftex.def Info: Images//Web3ARK.jpg  used on input line 56.
 (pdftex.def)             Requested size: 278.83702pt x 156.856pt.
- [39] [40 <./Images//web1web2web3.jpg> <./Images//Web3ARK.jpg>] [41] [42]) [43]
- [44
+ [39] [40 <./Images//web1web2web3.jpg> <./Images//Web3ARK.jpg>] [41]
+Underfull \vbox (badness 5359) has occurred while \output is active []
 
-]
+ [42]
+[43]) [44]
 Chapter 3.
 <Images//orange4.jpg, id=1802, 770.88pt x 513.92pt>
 File: Images//orange4.jpg Graphic file (type jpg)
 <use Images//orange4.jpg>
 Package pdftex.def Info: Images//orange4.jpg  used on input line 167.
 (pdftex.def)             Requested size: 421.10078pt x 280.72778pt.
-(03_blockchain.tex [45 <./Images//orange4.jpg>]
+(03_blockchain.tex [45
+
+ <./Images//orange4.jpg>]
 <Images//prehistory.jpg, id=1834, 1980.39874pt x 1376.14125pt>
 File: Images//prehistory.jpg Graphic file (type jpg)
 <use Images//prehistory.jpg>
@@ -4597,7 +4600,7 @@ tmb8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/ut
 mbi8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/ut
 mr8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utm
 ri8a.pfb>
-Output written on metaverseBTC.pdf (446 pages, 22500673 bytes).
+Output written on metaverseBTC.pdf (446 pages, 22502382 bytes).
 PDF statistics:
  6992 PDF objects out of 7423 (max. 8388607)
  1498 named destinations out of 1728 (max. 500000)
