@@ -385,7 +385,13 @@ Possibly the most important affordance of the Lightning network is the concept o
 \end{figure}
 %\subsubsection{Physical Cards}
 %\href{https://www.coincorner.com/theboltcard}{Coincorner Bolt card} is an NFC enabled LNURL lightning source which allows tap to pay at lightning enabled vendors. \href{https://www.coindebit.io/}{Coindebit} meanwhile is a VISA card which can be ``charged'' with USD over Lightning. 
-\subsection{Fedimint and Fedi app}
+\subsection{Cashu and Fedimint}
+\subsubsection{Cashu}
+Cashu, an implementation of the e-cash mechanism, is an electronic cash system that allows users to hold and transfer digital representations of money on their devices. In this system, e-cash is a piece of electronic data that represents a certain amount of money, such as satoshis in the case of Bitcoin. Users can send e-cash to others through various encrypted channels like Telegram or email.\par
+The concept of e-cash relies on blind signatures, which ensure that transactions cannot be correlated to specific users, providing a high level of privacy. When a user wants to send e-cash, they send the data representing the money to another user. The receiving user then sends the e-cash to a server (or mint) to be recycled. This process ensures that the e-cash cannot be double-spent. However, the server cannot correlate the incoming e-cash to any specific user or transaction.\par
+Cashu, as a protocol, enables the implementation of this e-cash mechanism and facilitates interoperability among different Cashu wallets. The system is designed to be private, with no user accounts or wallets associated with any central authority. The e-cash is stored in the user's browser data, and can be backed up using a seed phrase, similar to traditional cryptocurrency wallets.\par
+In its current state, Cashu is in its early stages of development and is primarily intended for experimentation. However, it has the potential to enable a wide range of applications, such as streaming services, where users could pay for content on a per-use basis without the need for an account, and without the service provider being able to track their usage. This would allow for greater privacy and flexibility in how people interact with online services.
+\subsubsection{Fedimint}
 From the \href{https://www.fedi.xyz/blog/introducing-fedi-the-global-bitcoin-adoption-technology}{blog post} on the Fedi App website; Fedimint is:
 \begin{itemize}
 \item a form of community Bitcoin custody,
