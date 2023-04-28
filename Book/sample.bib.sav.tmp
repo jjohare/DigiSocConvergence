@@ -12697,11 +12697,6 @@
   keywords = {litsurvey.bib}
 }
 
-@ELECTRONIC{a,
-  owner = {its352},
-  timestamp = {2021.12.02}
-}
-
 @MISC{bitcoinMarketCap,
   title = {The market capitalisation of the bitcoin network compared to global
 	nation state currencies},
@@ -14483,4 +14478,8 @@
 
 @Article{bayer2023artificial,
   author = {Bayer, Lara},
-  tit
+  title  = {Artificial Minds},
+  year   = {2023},
+}
+
+@Article{bostrom20
