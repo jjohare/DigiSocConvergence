@@ -4174,6 +4174,30 @@
       \field{pages}{89\bibrangedash 116}
       \range{pages}{28}
     \endentry
+    \entry{booth2020price}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c83e57f8b14766ba35e368957f5a2177}{%
+           family={Booth},
+           familyi={B\bibinitperiod},
+           given={Jeff},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Stanley Press}%
+      }
+      \strng{namehash}{c83e57f8b14766ba35e368957f5a2177}
+      \strng{fullhash}{c83e57f8b14766ba35e368957f5a2177}
+      \strng{bibnamehash}{c83e57f8b14766ba35e368957f5a2177}
+      \strng{authorbibnamehash}{c83e57f8b14766ba35e368957f5a2177}
+      \strng{authornamehash}{c83e57f8b14766ba35e368957f5a2177}
+      \strng{authorfullhash}{c83e57f8b14766ba35e368957f5a2177}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Price of Tomorrow: Why Deflation is the Key to an Abundant Future}
+      \field{year}{2020}
+    \endentry
     \entry{mattei2022capital}{book}{}
       \name{author}{1}{}{%
         {{hash=9fa6c92df76988c42cee1ae8768086b0}{%
@@ -13896,8 +13920,8 @@
       \strng{authorbibnamehash}{b10bf3c5b7aa6dad8cca87830b0a160a}
       \strng{authornamehash}{b10bf3c5b7aa6dad8cca87830b0a160a}
       \strng{authorfullhash}{d2cd2fd111a10d2ceff2564433a09ad9}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{arXiv preprint arXiv:2303.17580}
@@ -15135,6 +15159,37 @@
       \field{year}{2022}
       \field{pages}{1\bibrangedash 9}
       \range{pages}{9}
+    \endentry
+    \entry{haidt2023social}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ae8851a657233d01dc3b81fbd1e396fd}{%
+           family={J.},
+           familyi={J\bibinitperiod},
+           given={Haidt},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Self Published}%
+      }
+      \strng{namehash}{ae8851a657233d01dc3b81fbd1e396fd}
+      \strng{fullhash}{ae8851a657233d01dc3b81fbd1e396fd}
+      \strng{bibnamehash}{ae8851a657233d01dc3b81fbd1e396fd}
+      \strng{authorbibnamehash}{ae8851a657233d01dc3b81fbd1e396fd}
+      \strng{authornamehash}{ae8851a657233d01dc3b81fbd1e396fd}
+      \strng{authorfullhash}{ae8851a657233d01dc3b81fbd1e396fd}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ongoing}
+      \field{title}{Social media and mental health: A collaborative review. Unpublished manuscript, New York University.}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://tinyurl.com/SocialMediaMentalHealthReview
+      \endverb
+      \verb{url}
+      \verb https://tinyurl.com/SocialMediaMentalHealthReview
+      \endverb
     \endentry
     \entry{ruiz2022dreambooth}{article}{}
       \name{author}{6}{}{%
