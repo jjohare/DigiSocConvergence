@@ -14826,6 +14826,48 @@
       \field{title}{ChatGPT is not all you need. A State of the Art Review of large Generative AI models}
       \field{year}{2023}
     \endentry
+    \entry{hou2022metaprompting}{article}{}
+      \name{author}{5}{}{%
+        {{hash=8ab51cb9998b2badc04632aa0625a4b6}{%
+           family={Hou},
+           familyi={H\bibinitperiod},
+           given={Yutai},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=04911216dd9461cb301ad517fd246d0c}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Hongyuan},
+           giveni={H\bibinitperiod}}}%
+        {{hash=fbd650761b141ccd8f857361479b96d4}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xinghao},
+           giveni={X\bibinitperiod}}}%
+        {{hash=56c462ede4081fd9e46188f127e3894f}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Bohan},
+           giveni={B\bibinitperiod}}}%
+        {{hash=cb0803882fba28a6c7ecb519069a89de}{%
+           family={Che},
+           familyi={C\bibinitperiod},
+           given={Wanxiang},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{98d062d73770c217ee98e6bd5d85c5f2}
+      \strng{fullhash}{ace895a5b13510a69ed8e9436b10f286}
+      \strng{bibnamehash}{98d062d73770c217ee98e6bd5d85c5f2}
+      \strng{authorbibnamehash}{98d062d73770c217ee98e6bd5d85c5f2}
+      \strng{authornamehash}{98d062d73770c217ee98e6bd5d85c5f2}
+      \strng{authorfullhash}{ace895a5b13510a69ed8e9436b10f286}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2209.11486}
+      \field{title}{MetaPrompting: Learning to Learn Better Prompts}
+      \field{year}{2022}
+    \endentry
     \entry{bubeck2023sparks}{misc}{}
       \name{author}{14}{}{%
         {{hash=3d51ee91b7d20d2f26b221a8a3b8b72c}{%
