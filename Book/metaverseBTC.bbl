@@ -13873,6 +13873,67 @@
       \field{pages}{139\bibrangedash 150}
       \range{pages}{12}
     \endentry
+    \entry{yang2023harnessing}{misc}{}
+      \name{author}{8}{}{%
+        {{hash=9dab191c24fe5934367a91bccc2e61cb}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Jingfeng},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a5a648a279ed9e4a520142a8aab37f0f}{%
+           family={Jin},
+           familyi={J\bibinitperiod},
+           given={Hongye},
+           giveni={H\bibinitperiod}}}%
+        {{hash=1b830ec506c88525a860c2fa0f92ed80}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Ruixiang},
+           giveni={R\bibinitperiod}}}%
+        {{hash=99f0f5ed70bfaf25cb1842e1747ff755}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Xiaotian},
+           giveni={X\bibinitperiod}}}%
+        {{hash=467a41263bc575ed026f2e6447708a55}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Qizhang},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=a5643fa1ae8fe0824b15f38d5bd6a580}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Haoming},
+           giveni={H\bibinitperiod}}}%
+        {{hash=a8348395833f733f3ec6df8bb8a33fb3}{%
+           family={Yin},
+           familyi={Y\bibinitperiod},
+           given={Bing},
+           giveni={B\bibinitperiod}}}%
+        {{hash=13be76d254e7c2f65cfc92bc75bb18fd}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Xia},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{70240e8bdd85655bc80a8ee96f086c6e}
+      \strng{fullhash}{98c97e3c41aa88e0ec7b6ebcc6328fce}
+      \strng{bibnamehash}{70240e8bdd85655bc80a8ee96f086c6e}
+      \strng{authorbibnamehash}{70240e8bdd85655bc80a8ee96f086c6e}
+      \strng{authornamehash}{70240e8bdd85655bc80a8ee96f086c6e}
+      \strng{authorfullhash}{98c97e3c41aa88e0ec7b6ebcc6328fce}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.CL}
+      \field{eprinttype}{arXiv}
+      \field{title}{Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond}
+      \field{year}{2023}
+      \verb{eprint}
+      \verb 2304.13712
+      \endverb
+    \endentry
     \entry{shinn2023reflexion}{article}{}
       \name{author}{3}{}{%
         {{hash=38e6ccf26c31cd565451a2e0601fc217}{%
