@@ -4318,6 +4318,30 @@
       \field{title}{God, human, animal, machine: Technology, metaphor, and the search for meaning}
       \field{year}{2021}
     \endentry
+    \entry{harari2014sapiens}{book}{}
+      \name{author}{1}{}{%
+        {{hash=b67e8c9663b14e73608aa580a9ff0b26}{%
+           family={Harari},
+           familyi={H\bibinitperiod},
+           given={Yuval\bibnamedelima Noah},
+           giveni={Y\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Random House}%
+      }
+      \strng{namehash}{b67e8c9663b14e73608aa580a9ff0b26}
+      \strng{fullhash}{b67e8c9663b14e73608aa580a9ff0b26}
+      \strng{bibnamehash}{b67e8c9663b14e73608aa580a9ff0b26}
+      \strng{authorbibnamehash}{b67e8c9663b14e73608aa580a9ff0b26}
+      \strng{authornamehash}{b67e8c9663b14e73608aa580a9ff0b26}
+      \strng{authorfullhash}{b67e8c9663b14e73608aa580a9ff0b26}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sapiens: A brief history of humankind}
+      \field{year}{2014}
+    \endentry
     \entry{swartz2008guerilla}{article}{}
       \name{author}{1}{}{%
         {{hash=044176fb833c1638f7abe20cde6a3077}{%
@@ -10036,8 +10060,8 @@
       \strng{authornamehash}{7055a618c730c1142500f2e5abdae2a5}
       \strng{authorfullhash}{9e2dc1f1a958e493e8f392480a0d7f79}
       \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Supporting a wide set of linked non-verbal resources remains an evergreen challenge for communication technology, limiting effectiveness in many applications. Interpersonal distance, gaze, posture and facial expression, are interpreted together to manage and add meaning to most conversations. Yet today's technologies favor some above others. This induces confusion in conversations, and is believed to limit both feelings of togetherness and trust, and growth of empathy and rapport. Solving this problem will allow technologies to support most rather than a few interactional scenarios. It is likely to benefit teamwork and team cohesion, distributed decision-making and health and wellbeing applications such as tele-therapy, tele-consultation, and isolation. We introduce withyou, our telepresence research platform. This paper describes the end-to-end system including the psychology of human interaction and how this drives requirements throughout the design and implementation. Our technology approach is to combine the winning characteristics of video conferencing and immersive collaborative virtual environments. This is to allow, for example, people walking past each other to exchange a glance and smile. A systematic explanation of the theory brings together the linked nature of non-verbal communication and how it is influenced by technology. This leads to functional requirements for telepresence, in terms of the balance of visual, spatial and temporal qualities. The first end-to-end description of withyou describes all major processes and the display and capture environment. An unprecedented characterization of our approach is given in terms of the above qualities and what influences them. This leads to non-functional requirements in terms of number and place of cameras and the avoidance of resultant bottlenecks. Proposals are given for improved distribution of processes across networks, computers, and multi-core CPU and GPU. Simple conservative estimation shows that both approaches should meet our requirements. One is implemented and shown to meet minimum and come close to desirable requirements.}
@@ -13873,8 +13897,8 @@
       \strng{authorbibnamehash}{be3ac50dfe6c216cb0b40216a4147e60}
       \strng{authornamehash}{be3ac50dfe6c216cb0b40216a4147e60}
       \strng{authorfullhash}{be3ac50dfe6c216cb0b40216a4147e60}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{arXiv preprint arXiv:2303.11366}

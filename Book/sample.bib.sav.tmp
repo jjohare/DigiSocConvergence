@@ -10031,4 +10031,217 @@
 }
 
 @misc{bubeck2023sparks,
-	title        = {Sparks of Artificial General Intelligence: Early experiments with GP
+	title        = {Sparks of Artificial General Intelligence: Early experiments with GPT-4},
+	author       = {Sébastien Bubeck and Varun Chandrasekaran and Ronen Eldan and Johannes Gehrke and Eric Horvitz and Ece Kamar and Peter Lee and Yin Tat Lee and Yuanzhi Li and Scott Lundberg and Harsha Nori and Hamid Palangi and Marco Tulio Ribeiro and Yi Zhang},
+	year         = 2023,
+	archiveprefix = {arXiv},
+	eprint       = {2303.12712},
+	primaryclass = {cs.CL}
+}
+
+@book{hulsmann2008ethics,
+	title        = {Ethics of money production},
+	author       = {H{\"u}lsmann, J{\"o}rg Guido},
+	year         = 2008,
+	publisher    = {Ludwig von Mises Institute}
+}
+
+@misc{yudkowsky2008hanson,
+	title        = {The Hanson-Yudkowsky AI-foom debate},
+	author       = {Yudkowsky, Eliezer},
+	year         = 2008,
+	journal      = {2013-04-01)[2019-01-03]. http://intelligence. org/files/AIFoomDebate. pdf}
+}
+
+@article{song2018preventing,
+	title        = {Preventing a Butlerian Jihad},
+	author       = {Song, Schoni},
+	year         = 2018,
+	journal      = {Journal of International Affairs},
+	publisher    = {JSTOR},
+	volume       = 72,
+	number       = 1,
+	pages        = {135--142}
+}
+
+@article{perez2022discovering,
+	title        = {Discovering Language Model Behaviors with Model-Written Evaluations},
+	author       = {Perez, Ethan and Ringer, Sam and Luko{\v{s}}i{\=u}t{\.e}, Kamil{\.e} and Nguyen, Karina and Chen, Edwin and Heiner, Scott and Pettit, Craig and Olsson, Catherine and Kundu, Sandipan and Kadavath, Saurav and others},
+	year         = 2022,
+	journal      = {arXiv preprint arXiv:2212.09251}
+}
+
+@article{bayer2023artificial,
+	title        = {Artificial Minds},
+	author       = {Bayer, Lara},
+	year         = 2023
+}
+
+@article{bostrom2003ethical,
+	title        = {Ethical issues in advanced artificial intelligence},
+	author       = {Bostrom, Nick},
+	year         = 2003,
+	journal      = {Science fiction and philosophy: from time travel to superintelligence},
+	volume       = 277,
+	pages        = 284
+}
+
+@article{hoffmann2022empirical,
+	title        = {An empirical analysis of compute-optimal large language model training},
+	author       = {Hoffmann, Jordan and Borgeaud, Sebastian and Mensch, Arthur and Buchatskaya, Elena and Cai, Trevor and Rutherford, Eliza and de Las Casas, Diego and Hendricks, Lisa Anne and Welbl, Johannes and Clark, Aidan and others},
+	year         = 2022,
+	journal      = {Advances in Neural Information Processing Systems},
+	volume       = 35,
+	pages        = {30016--30030}
+}
+
+@article{sadasivan2023can,
+	title        = {Can AI-Generated Text be Reliably Detected?},
+	author       = {Sadasivan, Vinu Sankar and Kumar, Aounon and Balasubramanian, Sriram and Wang, Wenxiao and Feizi, Soheil},
+	year         = 2023,
+	journal      = {arXiv preprint arXiv:2303.11156}
+}
+
+@book{white1914fiat,
+	title        = {Fiat Money Inflation in France: How it Came, what it Brought and how it Ended. To which is Added an Extract from Macaulay Showing the Results of Tampering with the Currency of England, Also a Summary by Emile Lavasseur},
+	author       = {White, Andrew Dickson},
+	year         = 1914,
+	publisher    = {Brigdens, Limited}
+}
+
+@article{shinn2023reflexion,
+	title        = {Reflexion: an autonomous agent with dynamic memory and self-reflection},
+	author       = {Shinn, Noah and Labash, Beck and Gopinath, Ashwin},
+	year         = 2023,
+	journal      = {arXiv preprint arXiv:2303.11366}
+}
+
+@article{shen2023hugginggpt,
+	title        = {HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace},
+	author       = {Shen, Yongliang and Song, Kaitao and Tan, Xu and Li, Dongsheng and Lu, Weiming and Zhuang, Yueting},
+	year         = 2023,
+	journal      = {arXiv preprint arXiv:2303.17580}
+}
+
+@article{horton2019death,
+	title        = {The death of a technical skill},
+	author       = {Horton, John J and Tambe, Prasanna and Wharton, U Penn},
+	year         = 2019,
+	journal      = {Unpublished Manuscript}
+}
+
+@techreport{trajtenberg2018ai,
+	title        = {AI as the next GPT: a Political-Economy Perspective},
+	author       = {Trajtenberg, Manuel},
+	year         = 2018,
+	institution  = {National Bureau of Economic Research}
+}
+
+@article{manakul2023selfcheckgpt,
+	title        = {SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models},
+	author       = {Manakul, Potsawee and Liusie, Adian and Gales, Mark JF},
+	year         = 2023,
+	journal      = {arXiv preprint arXiv:2303.08896}
+}
+
+@article{azamfirei2023large,
+	title        = {Large language models and the perils of their hallucinations},
+	author       = {Azamfirei, Razvan and Kudchadkar, Sapna R and Fackler, James},
+	year         = 2023,
+	journal      = {Critical Care},
+	publisher    = {BioMed Central},
+	volume       = 27,
+	number       = 1,
+	pages        = {1--2}
+}
+
+@article{ouyang2022training,
+	title        = {Training language models to follow instructions with human feedback},
+	author       = {Ouyang, Long and Wu, Jeffrey and Jiang, Xu and Almeida, Diogo and Wainwright, Carroll and Mishkin, Pamela and Zhang, Chong and Agarwal, Sandhini and Slama, Katarina and Ray, Alex and others},
+	year         = 2022,
+	journal      = {Advances in Neural Information Processing Systems},
+	volume       = 35,
+	pages        = {27730--27744}
+}
+
+@article{dai2022can,
+	title        = {Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta Optimizers},
+	author       = {Dai, Damai and Sun, Yutao and Dong, Li and Hao, Yaru and Sui, Zhifang and Wei, Furu},
+	year         = 2022,
+	journal      = {arXiv preprint arXiv:2212.10559}
+}
+
+@article{o2021god,
+	title        = {God, human, animal, machine: Technology, metaphor, and the search for meaning},
+	author       = {O'Gieblyn, Meghan},
+	year         = 2021,
+	journal      = {(No Title)}
+}
+
+@article{chiu2017economics,
+	title        = {The economics of cryptocurrencies--bitcoin and beyond},
+	author       = {Chiu, Jonathan and Koeppl, Thorsten V},
+	year         = 2017,
+	journal      = {Available at SSRN 3048124}
+}
+
+@article{hu2021lora,
+	title        = {Lora: Low-rank adaptation of large language models},
+	author       = {Hu, Edward J and Shen, Yelong and Wallis, Phillip and Allen-Zhu, Zeyuan and Li, Yuanzhi and Wang, Shean and Wang, Lu and Chen, Weizhu},
+	year         = 2021,
+	journal      = {arXiv preprint arXiv:2106.09685}
+}
+
+@misc{park2023generative,
+	title        = {Generative Agents: Interactive Simulacra of Human Behavior},
+	author       = {Joon Sung Park and Joseph C. O'Brien and Carrie J. Cai and Meredith Ringel Morris and Percy Liang and Michael S. Bernstein},
+	year         = 2023,
+	archiveprefix = {arXiv},
+	eprint       = {2304.03442},
+	primaryclass = {cs.HC}
+}
+
+@inproceedings{morkel2005overview,
+	title        = {An overview of image steganography.},
+	author       = {Morkel, Tayana and Eloff, Jan HP and Olivier, Martin S},
+	year         = 2005,
+	booktitle    = {ISSA},
+	volume       = 1,
+	number       = 2,
+	pages        = {1--11}
+}
+
+@misc{voskuil2020cryptoeconomics,
+	title        = {Cryptoeconomics. Fundamental Principles of Bitcoin},
+	author       = {Voskuil, Eric},
+	year         = 2020,
+	publisher    = {Online}
+}
+
+@Article{haidt2023social,
+  author    = {Haidt J.},
+  journal   = {ongoing},
+  title     = {Social media and mental health: A collaborative review. Unpublished manuscript, New York University.},
+  year      = {2023},
+  publisher = {Self Published},
+  url       = {https://tinyurl.com/SocialMediaMentalHealthReview},
+}
+
+@book{booth2020price,
+	title        = {The Price of Tomorrow: Why Deflation is the Key to an Abundant Future},
+	author       = {Booth, Jeff},
+	year         = 2020,
+	publisher    = {Stanley Press}
+}
+
+@Article{hou2022metaprompting,
+  author  = {Hou, Yutai and Dong, Hongyuan and Wang, Xinghao and Li, Bohan and Che, Wanxiang},
+  journal = {arXiv preprint arXiv:2209.11486},
+  title   = {MetaPrompting: Learning to Learn Better Prompts},
+  year    = {2022},
+}
+
+@Book{harari2014sapiens,
+  author    = {Harari, Yuval Noah},
+  publisher = {Random House},
+  title     = {Sapiens: A brief h
