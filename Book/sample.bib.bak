@@ -10248,4 +10248,13 @@
   year      = {2014},
 }
 
+@Misc{yang2023harnessing,
+  author        = {Jingfeng Yang and Hongye Jin and Ruixiang Tang and Xiaotian Han and Qizhang Feng and Haoming Jiang and Bing Yin and Xia Hu},
+  title         = {Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond},
+  year          = {2023},
+  archiveprefix = {arXiv},
+  eprint        = {2304.13712},
+  primaryclass  = {cs.CL},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

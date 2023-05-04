@@ -29,7 +29,20 @@ This needs filling out as we go, \href{https://www.key4biz.it/wp-content/uploads
 GPT-4 is breaking its \href{https://nanothoughts.substack.com/p/reflecting-on-reflexion}{own records} through self-reflection. The reflection paper has caught global attention and shows GPT-4's ability to self-reflect, improve upon its mistakes, and enhance its performance in a variety of tasks \cite{shinn2023reflexion}. The process of self-reflection has been observed in other research papers as well, demonstrating its effectiveness in improving model outputs.\par
 The groundbreaking Hugging GPT model can draw upon thousands of other AI models to perform tasks involving text, image, video, and question answering \cite{shen2023hugginggpt}. The Hugging GPT paper reveals a model that can connect numerous AI models for solving complex tasks, using language as an interface. It can perform tasks such as describing and counting objects in a picture, generating images and videos, deciphering invoices, and even reading them aloud. These advancements are accelerating, requiring less human input and labeled data sets.\par
 As AI models improve, they are generating their own data for reinforcement learning, with humans only needed to train the reward function. The advancements are not limited to algorithms and APIs; even hardware is advancing rapidly due to AI, as shown by Nvidia's research on using AI to improve chip design.\par
-The rapid advancements in AI are causing commercial pressure, pushing companies like Google to catch up with the likes of OpenAI. With self-improvement, tool use, hardware advances, and commercial pressure, the future of AI seems to be on a trajectory of rapid growth and development. The most recent comparator is the emergence of the iPhone and death of Adobe Flash \cite{horton2019death}, but this is orders of magnitude beyond that and likely most analogous to the industrial revolution \cite{trajtenberg2018ai}. 
+The rapid advancements in AI are causing commercial pressure, pushing companies like Google to catch up with the likes of OpenAI. With self-improvement, tool use, hardware advances, and commercial pressure, the future of AI seems to be on a trajectory of rapid growth and development. The most recent comparator is the emergence of the iPhone and death of Adobe Flash \cite{horton2019death}, but this is orders of magnitude beyond that and likely most analogous to the industrial revolution \cite{trajtenberg2018ai}. \par 
+The risks of generative AI are well covered by a \href{https://www.citizen.org/article/sorry-in-advance-generative-ai-artificial-intellligence-chatgpt-report/}{Public Citizen article}, and are simply listed below to get us started. It is a huge and well researched report and this list doesn't do it justice:
+\begin{itemize}
+\item A sharp increase in political disinformation;
+\item Intensified, widespread consumer and financial fraud;
+\item Intrusive privacy violations beyond those already normalized by Big Tech;
+\item Harmful health impacts, from promotion of quack remedies to therapeutic malpractice;
+\item Amplification of racist ideas and campaigns;
+\item Destruction of livelihoods for creators;
+\item Serious environmental harm stemming from generative A.I.’s intense energy usage;
+\item The stripping of the information commons;
+\item Subversion of the open internet; and
+\item Concentration of economic, political, and cultural power among the tiny number of giant companies with the resources to develop and deploy generative A.I. tools.
+\end{itemize}
 \subsubsection{Ethics and law}
 AI ethics is now a hot topic even outside of the academic fields which have previously wrestled with these issues.\par
 In the field of natural language processing, there have been significant advancements in the use of language models for various tasks. These models are trained on large amounts of text data and are able to generate coherent sentences or paragraphs. They have been used for tasks such as language translation, text summarization, and sentiment analysis. GPT3 and soon GPT4 are the most widely known examples, and are right in the boundary space where ML begins to look like AI. To be clear without a current context, an understanding of past conversations, and connection to external real world events (the internet) such language models are many layers short of AI \cite{elkins2020can, marcus2020gpt}. As an example of it's capability the following was fed into ChatGPT: ``write a poem in iambic pentameter about the difficulty humans have deciding if a thing is really intelligent.''\par
@@ -157,9 +170,7 @@ At this early stage in the technology it is important that corporate and private
 \subsubsection{Use in war}
 \href{https://vframe.io/9n235/}{munition detection}  and autonomous war robots to do
 \subsubsection{Existential Threat}
-Many serious researcher are now sounding the alarm 
-
-Paperclip miximiser \cite{bostrom2003ethical}
+Many serious researcher are now sounding the alarm at the speed of development. In this moment is seems likely that ascribing emergent behaviours to large language models is a mirage born of the desires of the somewhat accelerationist community, and their more moderate couterparts \cite{schaeffer2023emergent}. There is potentially competitive advantage in mandating a `slowdown' in the technology development if the company and research team you work for find themselves behind. It's hard to tell what's going on. With that said the increase over time of noise generated by fancy autocomplete, vs human signal will doubtless lead (mathematically) to an undoing of society in the end. All of that is without considering the wilder theories such as the so called `paperclip miximiser' \cite{bostrom2003ethical}
 or what Yudkowsky calls the \href{https://www.lesswrong.com/tag/squiggle-maximizer-formerly-paperclip-maximizer}{``squiggle maximiser''}.
 \subsubsection{Scaling challenges}
 In the DeepMind paper that introduced Chinchilla \cite{hoffmann2022empirical} several problems with scaling were highlighted
@@ -324,8 +335,24 @@ As discussed Nvidia still hope that their enterprise metaverse offering Onmivers
 Nvidia's partnerships with TSMC, ASML, and Synopsys could lead to advancements in chips and efficiency. Grace, Grace Hopper, and Bluefield 3 are designed for energy-efficient accelerated data centers.\par
 Microsoft's investment in OpenAI and especially ChatGPT is clearly paying dividends right now, but it is possible that they are mindful of the transition to less centrally controlled `edge' hardware as previously mentioned has forced their hand toward offering their generalised systems for use by corporations as plugins. It's not clear at all that this is the correct model.
 \subsection{Accessibility}
-\subsubsection{Open source chat assistant}
-Sheng at el present FlexGen which allows execution of large language model chat bots in powerful but affordable hardware\cite{Sheng2023}. The paper presents FlexGen, a high-throughput generation engine for large language models (LLMs) that can be run with a single commodity GPU. FlexGen can be configured under various hardware resource constraints by aggregating memory and computation from the GPU, CPU, and disk, and it uses a linear programming optimizer to store and access tensors. FlexGen compresses weights and attention key/value cache to 4 bits with negligible accuracy loss, allowing for a larger batch size and increased throughput. When running OPT-175B on a single 16GB GPU. A PC running alongside our metaverse server could provide ML assistance services to users of the collaborative space immediately. We are currently using \href{https://huggingface.co/Pi3141/alpaca-lora-30B-ggml/tree/main}{Alpaca Llama 4-bit quantised models}.
+\subsubsection{Open source LLM chat and assistants}
+Sheng at el present FlexGen which allows execution of large language model chat bots in powerful but affordable hardware\cite{Sheng2023}. The paper presents FlexGen, a high-throughput generation engine for large language models (LLMs) that can be run with a single commodity GPU. FlexGen can be configured under various hardware resource constraints by aggregating memory and computation from the GPU, CPU, and disk, and it uses a linear programming optimizer to store and access tensors. FlexGen compresses weights and attention key/value cache to 4 bits with negligible accuracy loss, allowing for a larger batch size and increased throughput. When running OPT-175B on a single 16GB GPU. A PC running alongside our metaverse server could provide ML assistance services to users of the collaborative space immediately. We are currently using \href{https://huggingface.co/Pi3141/alpaca-lora-30B-ggml/tree/main}{Alpaca Llama 4-bit quantised models}.\par 
+\bigskip
+\href{https://www.semianalysis.com/p/google-we-have-no-moat-and-neither}{This leak} purporting to be from a Google employee rings very true against the research we have done (paraphrased highlights):
+\begin{itemize}
+\item Open-source models are outpacing Google and OpenAI in terms of development speed and capabilities.
+\item Examples of open-source achievements include LLMs on a phone, scalable personal AI, responsible release, and multimodal advances.
+\item Google's models have a slight edge in quality, but open-source models are faster, more customizable, more private, and overall more capable.
+\item Google has no secret sauce and should consider collaborating with the open-source community and enabling third-party integrations.
+\item Large models might slow down progress; smaller, faster models should be prioritized for quicker iteration.
+\item Meta's LLaMA was leaked and sparked an outpouring of innovation in the open-source community, lowering the barrier to entry for training and experimentation.
+\item LoRA, an inexpensive fine-tuning method, has been underexploited within Google and should be paid more attention to.
+\item Retraining models from scratch is expensive and time-consuming; using LoRA allows for stackable improvements that can be kept up to date more easily.
+\item Large models may not be advantageous in the long run compared to rapid iteration on small models.
+\item Data quality scales better than data size; high-quality, curated datasets are becoming the standard in open-source training.
+\item Competing with open source is a losing proposition; Google should consider working with them instead.
+\item Owning the ecosystem, as Meta does, allows them to benefit from free labor and innovation, which Google could adopt by cooperating with the open-source community.
+\end{itemize}
 \subsubsection{Real time transcription}
 Real-time language translation can be applied to text interfaces within metaverse applications. This can be useful in situations where users are typing or reading text, rather than speaking.\par
 To apply NMT to text interfaces in the metaverse, the algorithm can be integrated into the interface itself. When a user types text in a specific language, the NMT algorithm can automatically detect the language and generate a translation in the desired language. This can be done in real-time, allowing for fast and seamless communication between users speaking different languages. NMT algorithms are well-suited for use in text interfaces, allowing for fast and accurate translations between multiple languages. As the technology continues to advance, we can expect to see more and more applications of NMT in the metaverse.
