@@ -333,7 +333,24 @@ Companies like Getty Images and Shutterstock intend to use Picasso for building 
 In the field of biology, Nvidia's Clara could be a healthcare application framework for imaging instruments, genomics, and drug discovery. Their Bio NeMo might help researchers create fine-tuned custom models with proprietary data. Nvidia BioNeMo service could provide generative AI models for drug discovery as a cloud service for easy access to accelerated workflows.\par
 As discussed Nvidia still hope that their enterprise metaverse offering Onmiverse will gain worldwide traction. They are investing heavily in bringing ML into this product line. This is an incrediby similar proposition to flossvers, our proposal in this book, but operating at a different level of investment and technology, with commensurately more gated access. \par
 Nvidia's partnerships with TSMC, ASML, and Synopsys could lead to advancements in chips and efficiency. Grace, Grace Hopper, and Bluefield 3 are designed for energy-efficient accelerated data centers.\par
-Microsoft's investment in OpenAI and especially ChatGPT is clearly paying dividends right now, but it is possible that they are mindful of the transition to less centrally controlled `edge' hardware as previously mentioned has forced their hand toward offering their generalised systems for use by corporations as plugins. It's not clear at all that this is the correct model.
+Microsoft's investment in OpenAI and especially ChatGPT is clearly paying dividends right now, but it is possible that they are mindful of the transition to less centrally controlled `edge' hardware as previously mentioned has forced their hand toward offering their generalised systems for use by corporations as plugins. It's not clear at all that this is the correct model. With that said the current response from Microsoft it yielding incredible powerful results. Their plugin `code interpreter' allows uploading of data files of up to 100MBin size, and both writing and execution of Python code, one of the languages of data analystics. This toolkit is the first major leveraging of a unified multi-modal model. It can create media rich documents with charts, images, and diagrams, providing appropriate descriptive analysis and diagnostics of the statistics employed. This is said to be happening at the level of a junior data analytics specialist so far, and could represent the beginning of a distributive democratisation of data science Figure \ref{fig:chatGPTdata} and Figure \ref{fig:chatGPTword}.
+
+
+\begin{figure}
+  \centering
+    \includegraphics[width=\linewidth]{chatGPTdata}
+  \caption{A multi-model conversation with chatGPT4 `code interpreter plugin' by \href{https://www.oneusefulthing.org/p/it-is-starting-to-get-strange}{Mollick}}
+  \label{fig:chatGPTdata}
+\end{figure}
+
+\begin{figure}
+  \centering
+    \includegraphics[width=\linewidth]{mltaxonomy}
+  \caption{The planned integration of these tools with Office Suite is likely to be a historic moment}
+  \label{fig:chatGPTword}
+\end{figure}
+
+
 \subsection{Accessibility}
 \subsubsection{Open source LLM chat and assistants}
 Sheng at el present FlexGen which allows execution of large language model chat bots in powerful but affordable hardware\cite{Sheng2023}. The paper presents FlexGen, a high-throughput generation engine for large language models (LLMs) that can be run with a single commodity GPU. FlexGen can be configured under various hardware resource constraints by aggregating memory and computation from the GPU, CPU, and disk, and it uses a linear programming optimizer to store and access tensors. FlexGen compresses weights and attention key/value cache to 4 bits with negligible accuracy loss, allowing for a larger batch size and increased throughput. When running OPT-175B on a single 16GB GPU. A PC running alongside our metaverse server could provide ML assistance services to users of the collaborative space immediately. We are currently using \href{https://huggingface.co/Pi3141/alpaca-lora-30B-ggml/tree/main}{Alpaca Llama 4-bit quantised models}.\par 
@@ -441,4 +458,3 @@ The best way to fight against cybercrime in the Metaverse is to educate the gene
 
 Roblox \href{https://www.bbc.co.uk/news/technology-48450604}{in BBC news} for child exploitation.
 
-\input{Mindmap}
