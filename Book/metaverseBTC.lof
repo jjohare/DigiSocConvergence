@@ -33,12 +33,12 @@
 \contentsline {figure}{\numberline {3.20}{\ignorespaces \href {https://twitter.com/DSBatten/status/1566735902617276416}{Climate tech investor Daniel Batten asserts that methane capture could highly impactful}}}{70}{figure.3.20}%
 \contentsline {figure}{\numberline {3.21}{\ignorespaces Goldman suggest growth opportunity and potential demonetisation of gold?}}{75}{figure.3.21}%
 \contentsline {figure}{\numberline {3.22}{\ignorespaces Taxonomy of digital assets Hoffman 2022}}{77}{figure.3.22}%
-\contentsline {figure}{\numberline {3.23}{\ignorespaces Given a start point on the curve and a number of reflection operations it's trivial to find a number at the end point, but impossible to find the number of \href {https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch04.asciidoc}{hops} from the two end points alone. (CC Mastering Bitcoin second edition)}}{80}{figure.3.23}%
+\contentsline {figure}{\numberline {3.23}{\ignorespaces Given a start point on the curve and a number of reflection operations it's trivial to find a number at the end point, but impossible to find the number of \href {https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch04.asciidoc}{hops} from the two end points alone. (CC Mastering Bitcoin second edition)}}{81}{figure.3.23}%
 \contentsline {figure}{\numberline {3.24}{\ignorespaces Seedsigner is an inexpensive open source project which scans the master seed in from a QR code to enable signing. One device can run a quorum based wallet (multisig) and manage Nostr identity.}}{86}{figure.3.24}%
 \contentsline {figure}{\numberline {3.25}{\ignorespaces \href {https://www.research.arcane.no/the-state-of-lightning}{Arcane research lightning adoption overview}.}}{92}{figure.3.25}%
 \contentsline {figure}{\numberline {3.26}{\ignorespaces Within weeks of launch thousands of people are pinging micropayments to one another}}{94}{figure.3.26}%
 \contentsline {figure}{\numberline {3.27}{\ignorespaces \href {https://twitter.com/SeedMint21/status/1518934554840600579}{A key fob with a Bolt12 QR code}}}{95}{figure.3.27}%
-\contentsline {figure}{\numberline {3.28}{\ignorespaces Two of the many \href {https://rapaygo.com/}{prebuilt} and \href {https://github.com/arcbtc/LNURLPoS}{kit} options for Lightning `point of sale'}}{97}{figure.3.28}%
+\contentsline {figure}{\numberline {3.28}{\ignorespaces Two of the many \href {https://rapaygo.com/}{prebuilt} and \href {https://github.com/arcbtc/LNURLPoS}{kit} options for Lightning `point of sale'}}{98}{figure.3.28}%
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {4.1}{\ignorespaces Comparison of mobile based payment systems}}{119}{figure.4.1}%
 \contentsline {figure}{\numberline {4.2}{\ignorespaces The UK signs into law regulation of digital representatives of value}}{127}{figure.4.2}%
@@ -74,28 +74,29 @@
 \contentsline {figure}{\numberline {9.1}{\ignorespaces The terminology in the field is both somewhat blurred and highly `nested'.}}{295}{figure.9.1}%
 \contentsline {figure}{\numberline {9.2}{\ignorespaces Major stands of generative AI and their associated models at the time of print.}}{296}{figure.9.2}%
 \contentsline {figure}{\numberline {9.3}{\ignorespaces Major stands of large language models from Yang et al \blx@tocontentsinit {0}\cite {yang2023harnessing}}}{297}{figure.9.3}%
-\contentsline {figure}{\numberline {9.4}{\ignorespaces Taxonomy of \href {https://arxiv.org/abs/2301.04655}{recent generative ML systems} by Gozalo-Brizuela and Garrido-Merchan used with permission.}}{317}{figure.9.4}%
-\contentsline {figure}{\numberline {9.5}{\ignorespaces A multi-model conversation with chatGPT4 `code interpreter plugin' by \href {https://www.oneusefulthing.org/p/it-is-starting-to-get-strange}{Mollick}}}{323}{figure.9.5}%
-\contentsline {figure}{\numberline {9.6}{\ignorespaces The planned integration of these tools with Office Suite is likely to be a historic moment}}{323}{figure.9.6}%
-\contentsline {figure}{\numberline {9.7}{\ignorespaces SD tools website shows elements of creation and training.}}{327}{figure.9.7}%
-\contentsline {figure}{\numberline {9.8}{\ignorespaces A16Z view the nominal deployment of and AI tech stack in this way, but we are not using any of these models.}}{329}{figure.9.8}%
+\contentsline {figure}{\numberline {9.4}{\ignorespaces Taxonomy of \href {https://arxiv.org/abs/2301.04655}{recent generative ML systems} by Gozalo-Brizuela and Garrido-Merchan used with permission.}}{318}{figure.9.4}%
+\contentsline {figure}{\numberline {9.5}{\ignorespaces A multi-model conversation with chatGPT4 `code interpreter plugin' by \href {https://www.oneusefulthing.org/p/it-is-starting-to-get-strange}{Mollick}}}{324}{figure.9.5}%
+\contentsline {figure}{\numberline {9.6}{\ignorespaces The planned integration of these tools with Office Suite is likely to be a historic moment}}{324}{figure.9.6}%
+\contentsline {figure}{\numberline {9.7}{\ignorespaces SD tools website shows elements of creation and training.}}{328}{figure.9.7}%
+\contentsline {figure}{\numberline {9.8}{\ignorespaces A16Z view the nominal deployment of and AI tech stack in this way, but we are not using any of these models.}}{330}{figure.9.8}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {10.1}{\ignorespaces Another look at the diagram of intersections.}}{334}{figure.10.1}%
-\contentsline {figure}{\numberline {10.2}{\ignorespaces Models exhibit uncanny behaviours.}}{349}{figure.10.2}%
-\contentsline {figure}{\numberline {10.3}{\ignorespaces Pyramid showing the components for sats, stablecoins on lightning, asssets, and trust}}{351}{figure.10.3}%
-\contentsline {figure}{\numberline {10.4}{\ignorespaces High level overview showing the components for sats, stablecoins on lightning, asssets, and trust}}{352}{figure.10.4}%
-\contentsline {figure}{\numberline {10.5}{\ignorespaces Top panel is a screen grab from Vircadia and the bottom panel is a quick pass through img2img from Stable Diffusion.}}{361}{figure.10.5}%
-\contentsline {figure}{\numberline {10.6}{\ignorespaces Robot VP}}{362}{figure.10.6}%
-\contentsline {figure}{\numberline {10.7}{\ignorespaces Functional elements for infrastructure.}}{362}{figure.10.7}%
-\contentsline {figure}{\numberline {10.8}{\ignorespaces Client server C4 diagrams.}}{363}{figure.10.8}%
-\contentsline {figure}{\numberline {10.9}{\ignorespaces Ubuntu 20.04 Desktop Settings}}{382}{figure.10.9}%
-\contentsline {figure}{\numberline {10.10}{\ignorespaces Ubuntu 20.04 Desktop Settings - Network}}{383}{figure.10.10}%
-\contentsline {figure}{\numberline {10.11}{\ignorespaces Vircadia build settings and installation screen grab}}{384}{figure.10.11}%
-\contentsline {figure}{\numberline {10.12}{\ignorespaces Vircadia build Qt warning}}{384}{figure.10.12}%
-\contentsline {figure}{\numberline {10.13}{\ignorespaces Vircadia server configuration landing page}}{387}{figure.10.13}%
-\contentsline {figure}{\numberline {10.14}{\ignorespaces Vircadia server configuration import page}}{387}{figure.10.14}%
-\contentsline {figure}{\numberline {10.15}{\ignorespaces Vircadia server configuration import page}}{388}{figure.10.15}%
-\contentsline {figure}{\numberline {10.16}{\ignorespaces Vircadia server configuration import page}}{388}{figure.10.16}%
-\contentsline {figure}{\numberline {10.17}{\ignorespaces Vircadia server configuration import page}}{389}{figure.10.17}%
-\contentsline {figure}{\numberline {10.18}{\ignorespaces Vircadia server configuration import page}}{390}{figure.10.18}%
+\contentsline {figure}{\numberline {10.1}{\ignorespaces Another look at the diagram of intersections.}}{336}{figure.10.1}%
+\contentsline {figure}{\numberline {10.2}{\ignorespaces Models exhibit uncanny behaviours.}}{351}{figure.10.2}%
+\contentsline {figure}{\numberline {10.3}{\ignorespaces Pyramid showing the components for sats, stablecoins on lightning, asssets, and trust}}{353}{figure.10.3}%
+\contentsline {figure}{\numberline {10.4}{\ignorespaces High level overview showing the components for sats, stablecoins on lightning, asssets, and trust}}{354}{figure.10.4}%
+\contentsline {figure}{\numberline {10.5}{\ignorespaces Top panel is a screen grab from Vircadia and the bottom panel is a quick pass through img2img from Stable Diffusion.}}{363}{figure.10.5}%
+\contentsline {figure}{\numberline {10.6}{\ignorespaces Robot VP}}{364}{figure.10.6}%
+\contentsline {figure}{\numberline {10.7}{\ignorespaces Functional elements for infrastructure.}}{364}{figure.10.7}%
+\contentsline {figure}{\numberline {10.8}{\ignorespaces Client server C4 diagrams.}}{365}{figure.10.8}%
+\contentsline {figure}{\numberline {10.9}{\ignorespaces Ubuntu 20.04 Desktop Settings}}{384}{figure.10.9}%
+\contentsline {figure}{\numberline {10.10}{\ignorespaces Ubuntu 20.04 Desktop Settings - Network}}{385}{figure.10.10}%
+\contentsline {figure}{\numberline {10.11}{\ignorespaces Vircadia build settings and installation screen grab}}{386}{figure.10.11}%
+\contentsline {figure}{\numberline {10.12}{\ignorespaces Vircadia build Qt warning}}{386}{figure.10.12}%
+\contentsline {figure}{\numberline {10.13}{\ignorespaces Vircadia server configuration landing page}}{389}{figure.10.13}%
+\contentsline {figure}{\numberline {10.14}{\ignorespaces Vircadia server configuration import page}}{389}{figure.10.14}%
+\contentsline {figure}{\numberline {10.15}{\ignorespaces Vircadia server configuration import page}}{390}{figure.10.15}%
+\contentsline {figure}{\numberline {10.16}{\ignorespaces Vircadia server configuration import page}}{390}{figure.10.16}%
+\contentsline {figure}{\numberline {10.17}{\ignorespaces Vircadia server configuration import page}}{391}{figure.10.17}%
+\contentsline {figure}{\numberline {10.18}{\ignorespaces Vircadia server configuration import page}}{392}{figure.10.18}%
+\addvspace {10\p@ }
 \contentsfinish 
