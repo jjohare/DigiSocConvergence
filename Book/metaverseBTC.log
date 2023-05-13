@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  9 MAY 2023 19:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.10)  13 MAY 2023 18:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1897,11 +1897,16 @@ Underfull \vbox (badness 1515) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [102]
-[103] [104] [105] [106]
-Underfull \vbox (badness 1383) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [107]
-[108]) [109] [110
+ [103]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [104]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [105]
+[106] [107] [108]) [109] [110
 
 ]
 Chapter 4.
@@ -5161,11 +5166,11 @@ Package logreq Info: Writing requests to 'metaverseBTC.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 39349 strings out of 478582
- 792249 string characters out of 2844816
- 1856438 words of memory out of 3000000
+ 39355 strings out of 478582
+ 792297 string characters out of 2844816
+ 1856436 words of memory out of 3000000
  54573 multiletter control sequences out of 15000+600000
- 610317 words of font info for 570 fonts, out of 8000000 for 9000
+ 610571 words of font info for 574 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  98i,12n,94p,3320b,1378s stack positions out of 5000i,500n,10000p,200000b,80000s
 
@@ -5190,7 +5195,7 @@ tmb8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/ut
 mbi8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/ut
 mr8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utm
 ri8a.pfb>
-Output written on metaverseBTC.pdf (492 pages, 23627112 bytes).
+Output written on metaverseBTC.pdf (492 pages, 23626082 bytes).
 PDF statistics:
  8425 PDF objects out of 8907 (max. 8388607)
  1581 named destinations out of 1728 (max. 500000)
