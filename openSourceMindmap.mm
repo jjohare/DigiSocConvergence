@@ -69,7 +69,7 @@
 </map_styles>
 </hook>
 <hook NAME="AutomaticEdgeColor" COUNTER="59" RULE="ON_BRANCH_CREATION"/>
-<node TEXT="Bitcoin and Digital objects" POSITION="right" ID="ID_1436413864" CREATED="1678041877756" MODIFIED="1680111942455">
+<node TEXT="Bitcoin and Digital objects" FOLDED="true" POSITION="right" ID="ID_1436413864" CREATED="1678041877756" MODIFIED="1680111942455">
 <edge COLOR="#007c00"/>
 <node TEXT="Lightning" FOLDED="true" ID="ID_1540644375" CREATED="1678041647508" MODIFIED="1678041650343">
 <node TEXT="Setup lnbits and lightningtipbot" ID="ID_944349233" CREATED="1678041651209" MODIFIED="1678041669230" LINK="https://www.massmux.com/howto-complete-lightningtipbot-lnbits-setup-vps/"/>
@@ -127,6 +127,7 @@
 <node TEXT="Fedimint Hackathon Winners Announced: 2.58 BTC in Prizes: &quot;The quality of the modules that were submitted was truly impressive, with projects from federated storage to community finance tools that really highlighted the potential impact of Fedimint as a platform that could solve real-world problems.&quot;" FOLDED="true" ID="ID_1971612215" CREATED="1679913854633" MODIFIED="1680619078550" LINK="https://www.nobsbitcoin.com/fedimint-hackathon-winners-announced/">
 <icon BUILTIN="emoji-1F4D7"/>
 <node TEXT="The Fedimint hackathon has come to a close, with 2.58 BTC in prizes being awarded to the winners. The quality of the submissions was impressive, with a range of modules being submitted that highlighted the potential of Fedimint as a platform for solving real-world problems." ID="ID_647400046" CREATED="1679913854633" MODIFIED="1679913854633"/>
+<node TEXT="first ref in the book" ID="ID_175508374" CREATED="1684008077249" MODIFIED="1684008084031" LINK="https://github.com/flossverse/product/commit/e3ab5e7c7566184a84356608d7cd19049236ce8d?diff=unified#diff-3dd31e6ffeab329413da9cd244e8d27e892b95ca1b89390ad168124bbb88357cR241"/>
 </node>
 <node TEXT="https://geometry.xyz/notebook/A-light-introduction-to-ZeroSync" ID="ID_1045464223" CREATED="1680720194374" MODIFIED="1680720194374" LINK="https://geometry.xyz/notebook/A-light-introduction-to-ZeroSync"/>
 <node TEXT="Deception, exploited workers, and cash handouts: How Worldcoin recruited its first half a million test users: The startup promises a fairly-distributed, cryptocurrency-based universal basic income. So far all it&apos;s done is build a biometric database from the bodies of the poor." ID="ID_1434433234" CREATED="1682414608716" MODIFIED="1682414608716" LINK="https://www.technologyreview.com/2022/04/06/1048981/worldcoin-cryptocurrency-biometrics-web3/"/>
@@ -202,7 +203,7 @@
 <node TEXT="The Current List of CBDCs In Development Around the World" ID="ID_47342167" CREATED="1680262528031" MODIFIED="1680262570291" LINK="https://www.atlanticcouncil.org/cbdctracker/"/>
 </node>
 </node>
-<node TEXT="Machine learning and AI" FOLDED="true" POSITION="right" ID="ID_1310086889" CREATED="1678041885520" MODIFIED="1680205007711">
+<node TEXT="Machine learning and AI" POSITION="right" ID="ID_1310086889" CREATED="1678041885520" MODIFIED="1680205007711">
 <edge COLOR="#007c7c"/>
 <node TEXT="Assisted creativity" FOLDED="true" ID="ID_891377503" CREATED="1670852982432" MODIFIED="1670852985142">
 <node TEXT="Text and bots" FOLDED="true" ID="ID_250828813" CREATED="1667813144183" MODIFIED="1667813449488">
@@ -1144,7 +1145,7 @@
 <node TEXT="The article discusses the ethical implications of using machine learning algorithms to generate art. While some see this as a powerful way to create new and interesting works of art, others worry about the potential for misuse and abuse of these technologies." ID="ID_1426725878" CREATED="1679519694291" MODIFIED="1679519694291"/>
 </node>
 </node>
-<node TEXT="Hardware" FOLDED="true" ID="ID_535165706" CREATED="1667299572061" MODIFIED="1683553184147">
+<node TEXT="Hardware" ID="ID_535165706" CREATED="1667299572061" MODIFIED="1683553184147">
 <node TEXT="IBM custom board" ID="ID_1849101907" CREATED="1667299576433" MODIFIED="1680603144889" LINK="https://www.marktechpost.com/2022/10/27/ibm-research-introduces-artificial-intelligence-unit-aiu-its-first-complete-system-on-chip-designed-to-run-and-train-deep-learning-models-faster-and-more-efficiently-than-a-general-purpose-cpu/">
 <icon BUILTIN="emoji-1F4D7"/>
 </node>
@@ -1177,9 +1178,10 @@
 <node TEXT="Shopify handy" ID="ID_1126986439" CREATED="1674680590348" MODIFIED="1674680598065" LINK="https://github.com/Shopify/handy"/>
 </node>
 <node TEXT="Comparison of GPUs" ID="ID_790807235" CREATED="1674132982317" MODIFIED="1674132991366" LINK="https://timdettmers.com/2023/01/16/which-gpu-for-deep-learning/"/>
+<node TEXT="LLM on Intel XEON optmised" ID="ID_1879771494" CREATED="1684250299112" MODIFIED="1684250310586" LINK="https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Numenta-and-Intel-Accelerate-Inference-20x-on-Large-Language/post/1471636"/>
 </node>
 <node TEXT="LLM and creating new LLM" ID="ID_577570798" CREATED="1680379595763" MODIFIED="1680379605194">
-<node TEXT="Training &amp; Finetuning" FOLDED="true" ID="ID_1991862736" CREATED="1681414382186" MODIFIED="1681557177943">
+<node TEXT="Training &amp; Finetuning" ID="ID_1991862736" CREATED="1681414382186" MODIFIED="1681557177943">
 <node TEXT="Lora" ID="ID_173976426" CREATED="1681557466862" MODIFIED="1681557469307">
 <node TEXT="alpaca lora training" ID="ID_1768150758" CREATED="1681415459772" MODIFIED="1681415468954" LINK="https://discord.com/channels/1086739839761776660/1087508281758584852">
 <node TEXT="Github" ID="ID_1346643763" CREATED="1682670299980" MODIFIED="1682670303423" LINK="https://github.com/tloen/alpaca-lora"/>
@@ -1247,11 +1249,14 @@
 </node>
 <node TEXT="𝐌𝐞𝐠𝐚𝐭𝐫𝐨𝐧-𝐋𝐌 / Megatron is a large, powerful transformer developed by the Applied Deep Learning Research team at NVIDIA. Below repository is for ongoing research on training large transformer language models at scale. Developing efficient, model-parallel (tensor, sequence, and pipeline), and multi-node pre-training of transformer based models such as GPT, BERT, and T5 using mixed precision.&#xa;&#xa;📌pretrain_gpt3_175B.sh: https://lnkd.in/gFA9h8ns" ID="ID_548260222" CREATED="1680261832730" MODIFIED="1680261868764" LINK="https://github.com/NVIDIA/Megatron-LM"/>
 <node TEXT="Koala paper on training with minimal noise for chatbots" ID="ID_1425120606" CREATED="1682672164921" MODIFIED="1682672180840" LINK="https://bair.berkeley.edu/blog/2023/04/03/koala/?ref=emergentmind"/>
+<node TEXT="Emmet twitter and github on fine tuning" ID="ID_1883022725" CREATED="1684054774132" MODIFIED="1684054802251" LINK="https://twitter.com/ehalm_/status/1652373239044112388"/>
+<node TEXT="Ensure structured json" ID="ID_1941766125" CREATED="1684168599258" MODIFIED="1684168606510" LINK="https://github.com/1rgs/jsonformer"/>
+<node TEXT="Lora training guide from Pytorch lightning.ai people" ID="ID_992641545" CREATED="1684170361184" MODIFIED="1684170374548" LINK="https://lightning.ai/pages/community/tutorial/lora-llm/"/>
 </node>
 <node TEXT="Infrastructure" ID="ID_573389017" CREATED="1683562049303" MODIFIED="1683562065325">
 <node TEXT="rubbrband github auto deployments" ID="ID_941008535" CREATED="1673087417834" MODIFIED="1673087429295" LINK="https://rubbrband.com/"/>
 </node>
-<node TEXT="Base models" FOLDED="true" ID="ID_1786500134" CREATED="1679940310414" MODIFIED="1681558302944">
+<node TEXT="Base models" ID="ID_1786500134" CREATED="1679940310414" MODIFIED="1681558302944">
 <node TEXT="Practical guide github and paper with branching diagram" ID="ID_1198702776" CREATED="1683558883238" MODIFIED="1683558902104" LINK="https://github.com/Mooler0410/LLMsPracticalGuide"/>
 <node TEXT="Alpaca" ID="ID_210052483" CREATED="1681556939212" MODIFIED="1681556943064">
 <node TEXT="Launch post with links" ID="ID_1112326076" CREATED="1681556944996" MODIFIED="1681556960649" LINK="https://crfm.stanford.edu/2023/03/13/alpaca.html"/>
@@ -1321,6 +1326,7 @@
 <node TEXT="Unlimited input" ID="ID_833503234" CREATED="1683542537432" MODIFIED="1683542549295" LINK="https://github.com/abertsch72/unlimiformer"/>
 <node TEXT="This repository contains Stability AI&apos;s development of the StableLM series of language models. The models are designed to be more stable and robust than traditional language models, and the repository includes code and examples for training and using the models." ID="ID_1207083295" CREATED="1682414608757" MODIFIED="1682416968011" LINK="https://github.com/stability-AI/stableLM/"/>
 <node TEXT="Wizard Vicuna" ID="ID_1924918541" CREATED="1683656995815" MODIFIED="1683657002073" LINK="https://github.com/nlpxucan/WizardLM"/>
+<node TEXT="Lit Llama license free retune of Llama, discord" ID="ID_713431504" CREATED="1684170256482" MODIFIED="1684170277299" LINK="https://discord.com/channels/1077906959069626439/1090710167181594766"/>
 </node>
 <node TEXT="Optimisations" FOLDED="true" ID="ID_373136140" CREATED="1681557891627" MODIFIED="1681557976026">
 <node TEXT="𝐃𝐞𝐞𝐩𝐒𝐩𝐞𝐞𝐝 is an easy-to-use deep learning optimization software suite that enables unprecedented scale and speed for DL Training and Inference. Visit us at deepspeed.ai or our Github repo.&#xa;&#xa;📌Megatron-LM GPT2 tutorial: https://lnkd.in/gXvPhXqb" ID="ID_631073983" CREATED="1680261768073" MODIFIED="1680261806998" LINK="https://github.com/microsoft/DeepSpeed"/>
@@ -1379,9 +1385,10 @@
 <node TEXT="Free langchain book" ID="ID_1666809238" CREATED="1681836281381" MODIFIED="1681836289916" LINK="https://leanpub.com/langchain/read"/>
 <node TEXT="ultimate guide to langchain" ID="ID_898899586" CREATED="1681841408344" MODIFIED="1681841419418" LINK="https://www.activeloop.ai/resources/ultimate-guide-to-lang-chain-deep-lake-build-chat-gpt-to-answer-questions-on-your-financial-data/"/>
 <node TEXT="Memory seminar" ID="ID_1104031850" CREATED="1681987287961" MODIFIED="1681987305264" LINK="https://github.com/Oneirocom/Academy/blob/main/week3/_overview.md"/>
-<node TEXT="Experiments in 1 and 2 million token inputs" ID="ID_1740483654" CREATED="1682427076539" MODIFIED="1682427179279" LINK="https://arxiv.org/abs/2304.11062">
+<node TEXT="Experiments in 1 and 2 million token inputs" FOLDED="true" ID="ID_1740483654" CREATED="1682427076539" MODIFIED="1682427179279" LINK="https://arxiv.org/abs/2304.11062">
 <node TEXT="github" ID="ID_1949729513" CREATED="1682427180184" MODIFIED="1682427188454" LINK="https://github.com/booydar/t5-experiments"/>
 </node>
+<node TEXT="100k API context with anthropic" ID="ID_1187761509" CREATED="1684073209293" MODIFIED="1684073233714" LINK="https://www.anthropic.com/index/100k-context-windows"/>
 <node TEXT="Local LLM langchain memory in Jupyter" ID="ID_1452272131" CREATED="1682670461977" MODIFIED="1682670473326" LINK="https://github.com/ausboss/Local-LLM-Langchain">
 <node TEXT="langchain datasets" ID="ID_404905675" CREATED="1682670497395" MODIFIED="1682670503620" LINK="https://huggingface.co/LangChainDatasets"/>
 </node>
@@ -1393,6 +1400,8 @@
 <node TEXT="Best way to train an LLM on company data" ID="ID_1770276504" CREATED="1682414608740" MODIFIED="1682418642189" LINK="https://www.reddit.com/r/MachineLearning/comments/125qztx/d_the_best_way_to_train_an_llm_on_company_data/"/>
 <node TEXT="The text describes the process of integrating ChatGPT, a chatbot, with an internal knowledge base and question-answer platform. The goal is to improve the chatbot&apos;s ability to provide accurate and relevant information. The process involves training the chatbot on a variety of data sources, including the internal knowledge base." ID="ID_1775396135" CREATED="1682414608737" MODIFIED="1682416314314" LINK="https://medium.com/singapore-gds/integrating-chatgpt-with-internal-knowledge-base-and-question-answer-platform-36a3283d6334"/>
 <node TEXT="JarvisBase voice2voice gpt3 turbo deeplake interogator" ID="ID_839960097" CREATED="1683796239179" MODIFIED="1683796279829" LINK="https://github.com/peterw/JarvisBase"/>
+<node TEXT="ShareGPT LLM tutor" ID="ID_1679296443" CREATED="1684077614200" MODIFIED="1684077626713" LINK="https://shareg.pt/p6FhyL7"/>
+<node TEXT="Superbig vector context for local llm" ID="ID_277400313" CREATED="1684147939989" MODIFIED="1684147952829" LINK="https://github.com/kaiokendev/superbig"/>
 </node>
 </node>
 <node TEXT="Prompt engineering and injection" FOLDED="true" ID="ID_1395479167" CREATED="1682324941379" MODIFIED="1683562215114">
@@ -1505,6 +1514,7 @@
 <node TEXT="The Web LLM project has created a browser-based version of the vicuna-7b Large Language Model, which is impressively accurate and fast. The model is able to handle complex prompts and provide accurate responses, although it does sometimes make mistakes." ID="ID_21851450" CREATED="1682414608749" MODIFIED="1682417435672" LINK="https://simonwillison.net/2023/Apr/16/web-llm/"/>
 </node>
 <node TEXT="Nvidia DASK" ID="ID_263407999" CREATED="1683567059366" MODIFIED="1683567067572" LINK="https://developer.nvidia.com/blog/dask-tutorial-beginners-guide-to-distributed-computing-with-gpus-in-python/"/>
+<node TEXT="SWARM training paper" ID="ID_34639638" CREATED="1684168477137" MODIFIED="1684168484734" LINK="https://arxiv.org/pdf/2301.11913.pdf"/>
 </node>
 <node TEXT="immersive spaces" ID="ID_377797423" CREATED="1683561932952" MODIFIED="1683561939295">
 <node TEXT="Why you should use now generative AI in your metaverse company. Or maybe not - The Ghost Howls https://skarredghost.com/2023/02/11/generative-ai-metaverse-company/" ID="ID_760990156" CREATED="1679914078198" MODIFIED="1679914078198" LINK="https://skarredghost.com/2023/02/11/generative-ai-metaverse-company/"/>
@@ -1582,8 +1592,7 @@
 <node TEXT="Fast mobile voice based chatbot" ID="ID_1796800416" CREATED="1682414608748" MODIFIED="1682418758697" LINK="https://twitter.com/justLV/status/1637876167763202053"/>
 </node>
 </node>
-<node TEXT="Metaverse and telecollaboration" FOLDED="true" POSITION="right" ID="ID_584975900" CREATED="1664902506349" MODIFIED="1680620568498">
-<icon BUILTIN="emoji-1F4D7"/>
+<node TEXT="Metaverse and telecollaboration" FOLDED="true" POSITION="right" ID="ID_584975900" CREATED="1664902506349" MODIFIED="1684000599224">
 <edge COLOR="#00ff00"/>
 <node TEXT="Graphics stuff" FOLDED="true" ID="ID_1063077439" CREATED="1665299847269" MODIFIED="1665299852195">
 <node TEXT="Roblox" FOLDED="true" ID="ID_60371915" CREATED="1664902991727" MODIFIED="1664902994819">
@@ -1780,7 +1789,7 @@
 <node TEXT="Depthkit live webrtx streaming for Unity" ID="ID_661552391" CREATED="1682414608730" MODIFIED="1682418869943" LINK="https://docs.depthkit.tv/docs/remote-livestreaming-with-webrtc"/>
 </node>
 </node>
-<node TEXT="Politics, law, and change" FOLDED="true" POSITION="left" ID="ID_386729834" CREATED="1679051678601" MODIFIED="1680166135934">
+<node TEXT="Politics, law, and change" POSITION="left" ID="ID_386729834" CREATED="1679051678601" MODIFIED="1680166135934">
 <edge COLOR="#7c007c"/>
 <node TEXT="WEF risks report links" ID="ID_1427914656" CREATED="1679051683534" MODIFIED="1679051696456" LINK="https://sociable.co/government-and-policy/wef-global-risks-report-cyber-pandemic-erosion-trust-social-cohesion/"/>
 <node TEXT="Regulation (everything)" FOLDED="true" ID="ID_578088224" CREATED="1680166108655" MODIFIED="1680166130775">
@@ -1807,6 +1816,7 @@
 <node TEXT="Social Media Is Changing, And Paid Accounts Are The Response" ID="ID_921829685" CREATED="1678457406501" MODIFIED="1678457418722" LINK="https://www.bigtechnology.com/p/social-media-is-changing-and-paid"/>
 <node TEXT="Linkedin post by Barry Scanell on EU AI law" ID="ID_1689724175" CREATED="1683792974440" MODIFIED="1683792992647" LINK="https://www.linkedin.com/posts/activity-7062324196256735232-FfEz/?utm_source=share&amp;utm_medium=member_desktop"/>
 <node TEXT="wikipedia and the child protection bill" ID="ID_14741621" CREATED="1683812159131" MODIFIED="1683812171553" LINK="https://www.msn.com/en-gb/news/uknews/wikipedia-could-be-taken-offline-in-the-uk/ar-AA1atf9O"/>
+<node TEXT="Kids are damaged by mobile phones" ID="ID_480746664" CREATED="1684168904254" MODIFIED="1684168912916" LINK="https://sapienlabs.org/wp-content/uploads/2023/05/Sapien-Labs-Age-of-First-Smartphone-and-Mental-Wellbeing-Outcomes.pdf?utm_source=substack&amp;utm_medium=email"/>
 </node>
 <node TEXT="Accessibility" FOLDED="true" POSITION="left" ID="ID_527610599" CREATED="1681408321263" MODIFIED="1681408324743">
 <edge COLOR="#00ff00"/>
