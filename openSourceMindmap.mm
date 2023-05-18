@@ -171,6 +171,7 @@
 <node TEXT="" ID="ID_777514961" CREATED="1682414608737" MODIFIED="1682416292275"/>
 </node>
 <node TEXT="Zerosync client side validation?" ID="ID_1890336170" CREATED="1683832352538" MODIFIED="1683832390723" LINK="https://twitter.com/ZeroSync_/status/1656721507060416514"/>
+<node TEXT="Taproot assets" ID="ID_481595342" CREATED="1684316637990" MODIFIED="1684316645152" LINK="https://github.com/lightninglabs/taproot-assets"/>
 </node>
 <node TEXT="Stablecoins and CBDCs" ID="ID_1921746769" CREATED="1680112110397" MODIFIED="1680112126892">
 <node TEXT="Over 1/3 Made a Purchase in Stablecoins in Latin America, Says Latest MasterCard New Payments Index 2022: Reporting on Fintech, Crypto, and Blockchain Activity in Africa" FOLDED="true" ID="ID_1868204015" CREATED="1679914078202" MODIFIED="1680619663178" LINK="https://bitcoinke.io/2022/07/latin-america-in-mastercard-new-payments-index-2022/">
@@ -1181,7 +1182,7 @@
 <node TEXT="LLM on Intel XEON optmised" ID="ID_1879771494" CREATED="1684250299112" MODIFIED="1684250310586" LINK="https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Numenta-and-Intel-Accelerate-Inference-20x-on-Large-Language/post/1471636"/>
 </node>
 <node TEXT="LLM and creating new LLM" ID="ID_577570798" CREATED="1680379595763" MODIFIED="1680379605194">
-<node TEXT="Training &amp; Finetuning" ID="ID_1991862736" CREATED="1681414382186" MODIFIED="1681557177943">
+<node TEXT="Training &amp; Finetuning" FOLDED="true" ID="ID_1991862736" CREATED="1681414382186" MODIFIED="1681557177943">
 <node TEXT="Lora" ID="ID_173976426" CREATED="1681557466862" MODIFIED="1681557469307">
 <node TEXT="alpaca lora training" ID="ID_1768150758" CREATED="1681415459772" MODIFIED="1681415468954" LINK="https://discord.com/channels/1086739839761776660/1087508281758584852">
 <node TEXT="Github" ID="ID_1346643763" CREATED="1682670299980" MODIFIED="1682670303423" LINK="https://github.com/tloen/alpaca-lora"/>
@@ -1442,7 +1443,7 @@
 </node>
 <node TEXT="Large Language Models are Human-Level Prompt Engineers: We propose an algorithm for automatic instruction generation and selection for large language models with human level performance." ID="ID_348526154" CREATED="1682414608736" MODIFIED="1682414608736" LINK="https://openreview.net/forum?id=92gvk82DE-"/>
 </node>
-<node TEXT="Evaluation" FOLDED="true" ID="ID_502640114" CREATED="1683449048594" MODIFIED="1683449052072">
+<node TEXT="Evaluation" ID="ID_502640114" CREATED="1683449048594" MODIFIED="1683449052072">
 <node TEXT="github of comparisons" ID="ID_518729357" CREATED="1683449053549" MODIFIED="1683449065722" LINK="https://georgesung.github.io/ai/llm-qa-eval-wikipedia/"/>
 <node TEXT="compare open source vs closed" ID="ID_950526851" CREATED="1683487097951" MODIFIED="1683487108976" LINK="https://georgesung.github.io/ai/llm-qa-eval-wikipedia/"/>
 <node TEXT="LLM zoo" ID="ID_1518842915" CREATED="1683541401716" MODIFIED="1683541405248" LINK="https://github.com/FreedomIntelligence/LLMZoo"/>
@@ -1455,6 +1456,7 @@
 <node TEXT="GPTZero Case Study (Exploring False Positives): Introduction In this case study, I will be sharing the vast amounts of false positives current AI detection software gives, specifically for this case study I will be demonstrating GPTZero. I personally want to thank the supposed “Healthcare professional” who brought this to my attention via my contact link. It has motivated me to look more into this issue rather than just posting bypasses to these popular AI detection software programs, it will be only more beneficial to highlight their real usability in general." ID="ID_1773953387" CREATED="1679914078201" MODIFIED="1679914078201" LINK="https://gonzoknows.com/posts/GPTZero-Case-Study/">
 <node TEXT="The text describes a case study on false positives with AI detection software. The study found that the software often gives false positives, particularly with regard to healthcare. The study recommends that users be aware of this issue and take it into account when using such software." ID="ID_92305055" CREATED="1679914078202" MODIFIED="1679914078202"/>
 </node>
+<node TEXT="Fake detector product" ID="ID_484351115" CREATED="1684256186023" MODIFIED="1684256194606" LINK="https://hivemoderation.com/ai-generated-content-detection"/>
 </node>
 <node TEXT="Consumer tools using LLM" FOLDED="true" ID="ID_273986596" CREATED="1683555475933" MODIFIED="1683555481508">
 <node TEXT="NexusGPT is a freelancer platform that uses AI to help businesses find the right freelancers for their needs. The platform offers a variety of features to help businesses find the perfect freelancer for their project, including a searchable database of freelancers, a rating system, and a feature that allows businesses to post their project and receive bids from freelancers." ID="ID_557494393" CREATED="1682414608760" MODIFIED="1682416788957" LINK="https://nexus.snikpic.io"/>
