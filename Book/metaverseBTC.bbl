@@ -1265,8 +1265,8 @@
            familyi={N\bibinithyphendelim A\bibinitperiod},
            given={Guillermo},
            giveni={G\bibinitperiod}}}%
-        {{hash=57f747fefacf8a2cb0dd0816ce2727dd}{%
-           family={Herrera-Joancomartı́},
+        {{hash=617d1697b7a132fb6905ccf9d7128af7}{%
+           family={Herrera-Joancomartí},
            familyi={H\bibinithyphendelim J\bibinitperiod},
            given={Jordi},
            giveni={J\bibinitperiod}}}%
@@ -1275,11 +1275,11 @@
         {Springer}%
       }
       \strng{namehash}{0d0be1eac04e7ff93f5c1f55f4a22e1a}
-      \strng{fullhash}{3f944e5341b911ad47d85b4f2a25c8cc}
+      \strng{fullhash}{671b8698b5f35f85d59cc586c7f55155}
       \strng{bibnamehash}{0d0be1eac04e7ff93f5c1f55f4a22e1a}
       \strng{authorbibnamehash}{0d0be1eac04e7ff93f5c1f55f4a22e1a}
       \strng{authornamehash}{0d0be1eac04e7ff93f5c1f55f4a22e1a}
-      \strng{authorfullhash}{3f944e5341b911ad47d85b4f2a25c8cc}
+      \strng{authorfullhash}{671b8698b5f35f85d59cc586c7f55155}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
@@ -1522,8 +1522,8 @@
            familyi={N\bibinithyphendelim A\bibinitperiod},
            given={Guillermo},
            giveni={G\bibinitperiod}}}%
-        {{hash=57f747fefacf8a2cb0dd0816ce2727dd}{%
-           family={Herrera-Joancomartı́},
+        {{hash=617d1697b7a132fb6905ccf9d7128af7}{%
+           family={Herrera-Joancomartí},
            familyi={H\bibinithyphendelim J\bibinitperiod},
            given={Jordi},
            giveni={J\bibinitperiod}}}%
@@ -1532,11 +1532,11 @@
         {Springer}%
       }
       \strng{namehash}{d68c320fadb62ba8f9425c03d80759a8}
-      \strng{fullhash}{11f4ffc8e9003d9b5e85d9abb92bd50a}
+      \strng{fullhash}{cb22b6b67b18369ced1c871b68667fd9}
       \strng{bibnamehash}{d68c320fadb62ba8f9425c03d80759a8}
       \strng{authorbibnamehash}{d68c320fadb62ba8f9425c03d80759a8}
       \strng{authornamehash}{d68c320fadb62ba8f9425c03d80759a8}
-      \strng{authorfullhash}{11f4ffc8e9003d9b5e85d9abb92bd50a}
+      \strng{authorfullhash}{cb22b6b67b18369ced1c871b68667fd9}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
@@ -1601,7 +1601,7 @@
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Cuadernos de Economı́a}
+      \field{journaltitle}{Cuadernos de Economía}
       \field{title}{The impact of the legalization of Bitcoin in the Central African Republic--a legal analysis}
       \field{volume}{713}
       \field{year}{2022}
@@ -6411,30 +6411,6 @@
       \field{pages}{191\bibrangedash 198}
       \range{pages}{8}
       \keyw{eye gaze,Markov-switching model,Gibbs sampler,dynamic Bayesian network,nonverbal cues,Markov chain Monte Carlo,face-to-face multiparty conversation;litsurvey.bib}
-    \endentry
-    \entry{katagiri2007aiduti}{inproceedings}{}
-      \name{author}{1}{}{%
-        {{hash=62b1f0564bc7fd0f8c16251a2ad046c0}{%
-           family={Katagiri},
-           familyi={K\bibinitperiod},
-           given={Yasuhiro},
-           giveni={Y\bibinitperiod}}}%
-      }
-      \strng{namehash}{62b1f0564bc7fd0f8c16251a2ad046c0}
-      \strng{fullhash}{62b1f0564bc7fd0f8c16251a2ad046c0}
-      \strng{bibnamehash}{62b1f0564bc7fd0f8c16251a2ad046c0}
-      \strng{authorbibnamehash}{62b1f0564bc7fd0f8c16251a2ad046c0}
-      \strng{authornamehash}{62b1f0564bc7fd0f8c16251a2ad046c0}
-      \strng{authorfullhash}{62b1f0564bc7fd0f8c16251a2ad046c0}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Proceedings of the Workshop on Embodied Language Processing}
-      \field{title}{Aiduti in Japanese multi-party design conversations}
-      \field{year}{2007}
-      \field{pages}{9\bibrangedash 16}
-      \range{pages}{8}
     \endentry
     \entry{Loomis2012}{incollection}{}
       \name{author}{3}{}{%
@@ -13167,6 +13143,63 @@
       \field{pages}{arXiv\bibrangedash 2206}
       \range{pages}{-1}
     \endentry
+    \entry{luong2022demographic}{inproceedings}{}
+      \name{author}{7}{}{%
+        {{hash=d38dd62bef2ef74f77a25b49a4ee421e}{%
+           family={Luong},
+           familyi={L\bibinitperiod},
+           given={Tiffany},
+           giveni={T\bibinitperiod}}}%
+        {{hash=1d9eb6e58a2c9efbc8562fce674495d9}{%
+           family={Plechata},
+           familyi={P\bibinitperiod},
+           given={Adéla},
+           giveni={A\bibinitperiod}}}%
+        {{hash=705c107f4c73fdc47f93b3d267246a60}{%
+           family={Möbus},
+           familyi={M\bibinitperiod},
+           given={Max},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9cba95144c2b98c01491ae763ceca63a}{%
+           family={Atchapero},
+           familyi={A\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e8f8d2d2f6f5f48118718e5173573902}{%
+           family={Böhm},
+           familyi={B\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=f3be8e1b034b34ab35d6d99801c274e4}{%
+           family={Makransky},
+           familyi={M\bibinitperiod},
+           given={Guido},
+           giveni={G\bibinitperiod}}}%
+        {{hash=97723394ca638dc09e59a5479cc0becc}{%
+           family={Holz},
+           familyi={H\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{6115af5cee5c92a580920437236c48f4}
+      \strng{fullhash}{3b0325d486217b8107aec3651bb49ccb}
+      \strng{bibnamehash}{6115af5cee5c92a580920437236c48f4}
+      \strng{authorbibnamehash}{6115af5cee5c92a580920437236c48f4}
+      \strng{authornamehash}{6115af5cee5c92a580920437236c48f4}
+      \strng{authorfullhash}{3b0325d486217b8107aec3651bb49ccb}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2022 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)}
+      \field{title}{Demographic and Behavioral Correlates of Cybersickness: A Large Lab-in-the-Field Study of 837 Participants}
+      \field{year}{2022}
+      \field{pages}{307\bibrangedash 316}
+      \range{pages}{10}
+    \endentry
     \entry{kraus2022facebook}{article}{}
       \name{author}{5}{}{%
         {{hash=063bf5127fe4e4527985e89cd1e30ab4}{%
@@ -15499,8 +15532,8 @@
            familyi={C\bibinitperiod},
            given={S\bibnamedelima P},
            giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-        {{hash=4257ffad94cce32c2929223a0a6e38b0}{%
-           family={Garcı́a},
+        {{hash=4423a83b44073aa47332e88d77035dba}{%
+           family={García},
            familyi={G\bibinitperiod},
            given={A\bibnamedelima S},
            giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
@@ -15524,11 +15557,11 @@
         {IEEE}%
       }
       \strng{namehash}{8209721fd83ce75e1204d6e38b0b93fc}
-      \strng{fullhash}{75143449c2559d5c42fb08ade920ec92}
+      \strng{fullhash}{83195dccafd8fbb511908ef4839fcb6e}
       \strng{bibnamehash}{8209721fd83ce75e1204d6e38b0b93fc}
       \strng{authorbibnamehash}{8209721fd83ce75e1204d6e38b0b93fc}
       \strng{authornamehash}{8209721fd83ce75e1204d6e38b0b93fc}
-      \strng{authorfullhash}{75143449c2559d5c42fb08ade920ec92}
+      \strng{authorfullhash}{83195dccafd8fbb511908ef4839fcb6e}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
@@ -15721,6 +15754,7 @@
       \range{pages}{-1}
     \endentry
   \enddatalist
+  \missing{katagiri2007aiduti}
 \endrefsection
 \endinput
 

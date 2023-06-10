@@ -2,7 +2,7 @@
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <node TEXT="Bitcoin/XR/AI" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1683999899062" STYLE="oval">
 <font SIZE="17"/>
-<hook NAME="MapStyle" zoom="0.953">
+<hook NAME="MapStyle" zoom="0.733">
     <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_icon_for_attributes="true" associatedTemplateLocation="template:/standard-1.6.mm" show_note_icons="true" fit_to_viewport="false"/>
 
 <map_styles>
@@ -71,10 +71,14 @@
 <hook NAME="AutomaticEdgeColor" COUNTER="61" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="Accessibility" POSITION="left" ID="ID_527610599" CREATED="1681408321263" MODIFIED="1681408324743">
 <edge COLOR="#00ff00"/>
-<node TEXT="Interactive photo and video scene description" ID="ID_874796040" CREATED="1681408325871" MODIFIED="1681408343726" LINK="https://github.com/Vision-CAIR/ChatCaptioner"/>
-<node TEXT="Gameface Apache2 mouse with face gesture" ID="ID_1635140492" CREATED="1683796317271" MODIFIED="1683796332076" LINK="https://github.com/google/project-gameface"/>
+<node TEXT="Interactive photo and video scene description" ID="ID_874796040" CREATED="1681408325871" MODIFIED="1685195739197" LINK="https://github.com/Vision-CAIR/ChatCaptioner">
+<icon BUILTIN="attach"/>
 </node>
-<node TEXT="Bitcoin and Digital objects" FOLDED="true" POSITION="right" ID="ID_1436413864" CREATED="1678041877756" MODIFIED="1680111942455">
+<node TEXT="Gameface Apache2 mouse with face gesture" ID="ID_1635140492" CREATED="1683796317271" MODIFIED="1685195739198" LINK="https://github.com/google/project-gameface">
+<icon BUILTIN="attach"/>
+</node>
+</node>
+<node TEXT="Bitcoin and Digital objects" POSITION="right" ID="ID_1436413864" CREATED="1678041877756" MODIFIED="1680111942455">
 <edge COLOR="#007c00"/>
 <node TEXT="Lightning" ID="ID_1540644375" CREATED="1678041647508" MODIFIED="1678041650343">
 <node TEXT="Setup lnbits and lightningtipbot" ID="ID_944349233" CREATED="1678041651209" MODIFIED="1678041669230" LINK="https://www.massmux.com/howto-complete-lightningtipbot-lnbits-setup-vps/"/>
@@ -95,6 +99,7 @@
 <node TEXT="Bitnob African exchange" ID="ID_1146475396" CREATED="1680619436829" MODIFIED="1680619651338" LINK="https://bitnob.com/blog/how-to-buy-and-sell-bitcoin-in-nigeria"/>
 <node TEXT="Noones peer2peer for Africa" ID="ID_1216945336" CREATED="1680619452578" MODIFIED="1680619652807" LINK="https://bitcoinmagazine.com/business/bitcoin-entrepreneurs-introduce-noones-app-aimed-at-empowering-financial-freedom"/>
 <node TEXT="Africa leads the world in peer to peer bitcoin" ID="ID_1524277081" CREATED="1682414608740" MODIFIED="1682418627706" LINK="https://twitter.com/documentingbtc/status/1646656229958361091"/>
+<node TEXT="Econometrics of adoption in USA" ID="ID_1914899239" CREATED="1686346373166" MODIFIED="1686346385905" LINK="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4453714"/>
 </node>
 <node TEXT="Bitcoin" ID="ID_1525153681" CREATED="1678463304009" MODIFIED="1680112019018">
 <node TEXT="The Freedom of Value - How Value-for-Value Fixes the Monetization of Information | dergigi.com,Thoughts about Bitcoin and other things. " ID="ID_1740402556" CREATED="1677783034638" MODIFIED="1677783034638" LINK="https://dergigi.com/2021/12/30/the-freedom-of-value/"/>
@@ -205,11 +210,11 @@
 <node TEXT="The Current List of CBDCs In Development Around the World" ID="ID_47342167" CREATED="1680262528031" MODIFIED="1680262570291" LINK="https://www.atlanticcouncil.org/cbdctracker/"/>
 </node>
 </node>
-<node TEXT="Machine learning and AI" POSITION="right" ID="ID_1310086889" CREATED="1678041885520" MODIFIED="1680205007711">
+<node TEXT="Machine learning and AI" FOLDED="true" POSITION="right" ID="ID_1310086889" CREATED="1678041885520" MODIFIED="1680205007711">
 <edge COLOR="#007c7c"/>
-<node TEXT="Assisted creativity" ID="ID_891377503" CREATED="1670852982432" MODIFIED="1670852985142">
+<node TEXT="Assisted creativity" FOLDED="true" ID="ID_891377503" CREATED="1670852982432" MODIFIED="1670852985142">
 <node TEXT="Text and bots" ID="ID_250828813" CREATED="1667813144183" MODIFIED="1667813449488">
-<node TEXT="assisted writing" FOLDED="true" ID="ID_1763993792" CREATED="1667815050354" MODIFIED="1667815055455">
+<node TEXT="assisted writing" ID="ID_1763993792" CREATED="1667815050354" MODIFIED="1667815055455">
 <node TEXT="Services" ID="ID_1178530422" CREATED="1667818844596" MODIFIED="1667818849113">
 <node ID="ID_1550980736" CREATED="1667815056489" MODIFIED="1667815056489"><richcontent TYPE="NODE">
 
@@ -413,7 +418,7 @@
 <icon BUILTIN="attach"/>
 </node>
 </node>
-<node TEXT="Voice" ID="ID_1018945850" CREATED="1667813471984" MODIFIED="1667813481618">
+<node TEXT="Voice" FOLDED="true" ID="ID_1018945850" CREATED="1667813471984" MODIFIED="1667813481618">
 <node TEXT="OpenAI whisper local deploy" ID="ID_1728234314" CREATED="1674746306056" MODIFIED="1685185579946" LINK="https://github.com/openai/whisper">
 <icon BUILTIN="attach"/>
 <node TEXT="realtime transciber" ID="ID_1542886599" CREATED="1674746768907" MODIFIED="1674746776713" LINK="https://github.com/davabase/transcriber_app/"/>
@@ -438,13 +443,21 @@
 <node TEXT="whisper transcriber" ID="ID_169301393" CREATED="1668099324200" MODIFIED="1668099332372" LINK="https://github.com/modal-labs/modal-examples/tree/main/misc/whisper_pod_transcriber"/>
 <node TEXT="Wolfram alpha voice chatbot integration" ID="ID_52714737" CREATED="1674492775043" MODIFIED="1674492788624" LINK="https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain"/>
 <node TEXT="Microsoft Vall-E voice synthesis" ID="ID_212199505" CREATED="1674681192995" MODIFIED="1674681211230" LINK="https://valle-demo.github.io/"/>
-<node TEXT="Uberduck text to speech (plus own voice)" ID="ID_800118933" CREATED="1674899209206" MODIFIED="1674899750204" LINK="https://app.uberduck.ai/"/>
-<node TEXT="Eleven labs language and text to speech" ID="ID_1093794639" CREATED="1675513664296" MODIFIED="1680603123179" LINK="https://beta.elevenlabs.io/"/>
+<node TEXT="Uberduck text to speech (plus own voice)" ID="ID_800118933" CREATED="1674899209206" MODIFIED="1685194106494" LINK="https://app.uberduck.ai/">
+<icon BUILTIN="attach"/>
+</node>
+<node TEXT="Eleven labs language and text to speech" ID="ID_1093794639" CREATED="1675513664296" MODIFIED="1685194106494" LINK="https://beta.elevenlabs.io/">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="Uberduck open source text to speech" ID="ID_402402653" CREATED="1675940012073" MODIFIED="1680603127987" LINK="https://uberduck.ai/"/>
 <node TEXT="numen voice control system in linux" ID="ID_568316787" CREATED="1676745777417" MODIFIED="1676745805565" LINK="https://numenvoice.com"/>
 <node TEXT="Inworld (steam game plugin AI system) for voice chat and answer" ID="ID_1332016050" CREATED="1679399135324" MODIFIED="1680603139854" LINK="https://www.youtube.com/watch?v=DnF4WzM5LPU"/>
-<node TEXT="Bark text to speech from google labs" ID="ID_426478108" CREATED="1683135420508" MODIFIED="1683135433465" LINK="https://github.com/suno-ai/bark"/>
-<node TEXT="https://github.com/TensorSpeech/TensorFlowTTS&#xa;very configurable from what I see" ID="ID_285935732" CREATED="1683142543767" MODIFIED="1685185747424" LINK="https://github.com/TensorSpeech/TensorFlowTTS"/>
+<node TEXT="Bark text to speech from google labs" ID="ID_426478108" CREATED="1683135420508" MODIFIED="1685194106494" LINK="https://github.com/suno-ai/bark">
+<icon BUILTIN="attach"/>
+</node>
+<node TEXT="https://github.com/TensorSpeech/TensorFlowTTS&#xa;very configurable from what I see" ID="ID_285935732" CREATED="1683142543767" MODIFIED="1685194106494" LINK="https://github.com/TensorSpeech/TensorFlowTTS">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="VoiceVox engine" ID="ID_1695761546" CREATED="1683364050284" MODIFIED="1683364059773" LINK="https://www.youtube.com/watch?v=TGZV831VTpc"/>
 <node TEXT="coqui-ai TTS - very good samples" ID="ID_593269390" CREATED="1685185612753" MODIFIED="1685185658276" LINK="https://github.com/coqui-ai/TTS"/>
 <node TEXT="https://github.com/neonbjb/tortoise-tts" ID="ID_1370212684" CREATED="1685185677083" MODIFIED="1685185682808" LINK="https://github.com/neonbjb/tortoise-tts"/>
@@ -461,20 +474,23 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
+<node TEXT="Voice cloning local" ID="ID_1467676691" CREATED="1685195763289" MODIFIED="1685195864828" LINK="https://git.ecker.tech/mrq/ai-voice-cloning"/>
 </node>
 <node TEXT="Compendium of tools" ID="ID_1001579744" CREATED="1668596101736" MODIFIED="1668596110965" LINK="https://www.futurepedia.io/"/>
-<node TEXT="images" ID="ID_784164284" CREATED="1666082857502" MODIFIED="1666082859025">
-<node TEXT="Stability specific tools" ID="ID_473586994" CREATED="1664897753188" MODIFIED="1680603154387" LINK="https://sdtools.org/">
-<node TEXT="Stable diffusion" ID="ID_1077630529" CREATED="1664897760866" MODIFIED="1664897764541">
+<node TEXT="images" FOLDED="true" ID="ID_784164284" CREATED="1666082857502" MODIFIED="1666082859025">
+<node TEXT="Stability specific tools" FOLDED="true" ID="ID_473586994" CREATED="1664897753188" MODIFIED="1685442362803" LINK="https://sdtools.org/">
+<node TEXT="Stable diffusion" FOLDED="true" ID="ID_1077630529" CREATED="1664897760866" MODIFIED="1664897764541">
 <node TEXT="Illustrated overview" ID="ID_1588862598" CREATED="1664910307639" MODIFIED="1664910315121" LINK="https://jalammar.github.io/illustrated-stable-diffusion/"/>
-<node TEXT="Automatic1111 GUI and user guide" ID="ID_529410033" CREATED="1664985560908" MODIFIED="1680603169943" LINK="https://www.thosesixfaces.com/post/stable-diffusion-getting-started-windows">
+<node TEXT="Automatic1111 GUI and user guide" ID="ID_529410033" CREATED="1664985560908" MODIFIED="1685194224460" LINK="https://www.thosesixfaces.com/post/stable-diffusion-getting-started-windows">
+<icon BUILTIN="attach"/>
 <node TEXT="citivia browser" ID="ID_700088774" CREATED="1671909278397" MODIFIED="1671909286306" LINK="https://github.com/Vetchems/sd-civitai-browser"/>
 <node TEXT="Automatic WebUI" ID="ID_1468335947" CREATED="1664903743555" MODIFIED="1664903750593" LINK="https://github.com/AUTOMATIC1111/stable-diffusion-webui"/>
 </node>
-<node TEXT="ComfyUI nodes based" ID="ID_299563166" CREATED="1679844568186" MODIFIED="1680603169959" LINK="https://github.com/comfyanonymous/ComfyUI"/>
+<node TEXT="ComfyUI nodes based" ID="ID_299563166" CREATED="1679844568186" MODIFIED="1685194224463" LINK="https://github.com/comfyanonymous/ComfyUI">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="prompt engineering links" ID="ID_1700049962" CREATED="1664897768018" MODIFIED="1664897998681">
 <node TEXT="https://phraser.tech/" ID="ID_604818194" CREATED="1664898041816" MODIFIED="1664898043011"/>
 <node TEXT="Artist keywords that are known to work" ID="ID_1416043227" CREATED="1664898081824" MODIFIED="1664898102728" LINK="https://docs.google.com/document/d/1SaQx1uJ9LBRS7c6OsZIaeanJGkUdsUBjk9X4dC59BaA/edit#"/>
@@ -551,7 +567,8 @@
 <node TEXT="public prompts guy" ID="ID_504958492" CREATED="1665173437668" MODIFIED="1665173452408" LINK="https://publicprompts.art/"/>
 </node>
 <node TEXT="Photoshop plugin" ID="ID_384400872" CREATED="1664899313897" MODIFIED="1680603180589" LINK="https://christiancantrell.com/#ai-ml"/>
-<node TEXT="Dreambooth retraining for faces" ID="ID_1058153455" CREATED="1664899560521" MODIFIED="1680603248598">
+<node TEXT="Dreambooth retraining for faces" ID="ID_1058153455" CREATED="1664899560521" MODIFIED="1685194224463">
+<icon BUILTIN="attach"/>
 <node TEXT="windows instructions" ID="ID_101382993" CREATED="1664899576576" MODIFIED="1664899582487" LINK="https://pastebin.com/xcFpp9Mr"/>
 <node TEXT="Discord server" ID="ID_813866246" CREATED="1664899637489" MODIFIED="1664899643453" LINK="https://discord.com/channels/1023277529424986162/"/>
 <node TEXT="dreambooth for SD2" ID="ID_287920096" CREATED="1670344282381" MODIFIED="1670344301119" LINK="https://github.com/nitrosocke/dreambooth-training-guide/blob/main/README.md#how-to-fine-tune-stable-diffusion-20"/>
@@ -562,8 +579,12 @@
 <node TEXT="Shivram" ID="ID_1508448298" CREATED="1675002177563" MODIFIED="1675002183951" LINK="https://github.com/ShivamShrirao/diffusers/tree/main/examples/dreambooth"/>
 <node TEXT="Progen photorealism Miro guide" ID="ID_1680588214" CREATED="1675022572048" MODIFIED="1675022582421" LINK="https://miro.com/app/board/uXjVPzJyAtU=/"/>
 <node TEXT="rare dreambooth tokens" ID="ID_1273926912" CREATED="1675520005229" MODIFIED="1675520011276" LINK="https://github.com/2kpr/dreambooth-tokens"/>
+<node TEXT="Multi subject tokens" ID="ID_767187376" CREATED="1685364377637" MODIFIED="1685364386083" LINK="https://medium.com/@yushantripleseven/using-captions-with-dreambooth-joepenna-dreambooth-716f5b9e9866"/>
+<node TEXT="tag editor" ID="ID_486682120" CREATED="1685368373973" MODIFIED="1685368380083" LINK="https://github.com/toshiaki1729/stable-diffusion-webui-dataset-tag-editor"/>
 </node>
-<node TEXT="Textual inversion" ID="ID_890466609" CREATED="1674573518446" MODIFIED="1680603250743" LINK="https://www.reddit.com/r/StableDiffusion/comments/10gs4s2/new_expert_tutorial_for_textual_inversion_text/"/>
+<node TEXT="Textual inversion" ID="ID_890466609" CREATED="1674573518446" MODIFIED="1685194224463" LINK="https://www.reddit.com/r/StableDiffusion/comments/10gs4s2/new_expert_tutorial_for_textual_inversion_text/">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="Img2Img guide from reddit for face mapping" ID="ID_1110009898" CREATED="1664904467834" MODIFIED="1664904477542" LINK="https://www.reddit.com/r/StableDiffusion/comments/xgurs3/testing_img2img_batch_processing_i_convert_this/"/>
 <node TEXT="textual inversion cheaper training" ID="ID_390951699" CREATED="1664905289663" MODIFIED="1664905300167" LINK="https://github.com/rinongal/textual_inversion"/>
 <node TEXT="CIO blog post" ID="ID_325869687" CREATED="1665313940941" MODIFIED="1665313956636" LINK="https://danieljeffries.substack.com/p/the-turning-point-for-truly-open?sd=pf"/>
@@ -577,26 +598,38 @@
 </node>
 <node TEXT="Updates Pastebin" ID="ID_575155932" CREATED="1671620097920" MODIFIED="1671620106305" LINK="https://rentry.org/sdupdates3"/>
 <node TEXT="Game development using SD" ID="ID_303265271" CREATED="1674847177621" MODIFIED="1680603265833" LINK="https://www.heroo.ai/"/>
-<node TEXT="Wildcard manager using ChatGPT" ID="ID_1491345202" CREATED="1674847269572" MODIFIED="1674847279474" LINK="https://github.com/mattjaybe/sd-wildcards"/>
-<node TEXT="Depth2Img for text" ID="ID_1533775419" CREATED="1674847789160" MODIFIED="1674847796445" LINK="https://www.reddit.com/r/StableDiffusion/comments/10c9kg8/depth2img_works_well_for_text_inputs/"/>
+<node TEXT="Wildcard manager using ChatGPT" ID="ID_1491345202" CREATED="1674847269572" MODIFIED="1685194224463" LINK="https://github.com/mattjaybe/sd-wildcards">
+<icon BUILTIN="attach"/>
+</node>
+<node TEXT="Depth2Img for text" ID="ID_1533775419" CREATED="1674847789160" MODIFIED="1685194224463" LINK="https://www.reddit.com/r/StableDiffusion/comments/10c9kg8/depth2img_works_well_for_text_inputs/">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="train chat GPT to write prompts" ID="ID_1348922781" CREATED="1674986937489" MODIFIED="1674986956763" LINK="https://dreamlike.art/guides/using-openai-chat-gpt-to-write-stable-diffusion-prompts"/>
-<node TEXT="non destructive image manipulation using seeds" ID="ID_162101895" CREATED="1674994064457" MODIFIED="1674994077643" LINK="https://www.reddit.com/r/StableDiffusion/comments/10no6tp/non_destructive_image_variation_in_text2image/"/>
+<node TEXT="non destructive image manipulation using seeds" ID="ID_162101895" CREATED="1674994064457" MODIFIED="1685194224463" LINK="https://www.reddit.com/r/StableDiffusion/comments/10no6tp/non_destructive_image_variation_in_text2image/">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="Instruct pix2pix" ID="ID_1156318642" CREATED="1674999732342" MODIFIED="1674999791649" LINK="https://www.reddit.com/r/StableDiffusion/comments/10l74sl/instruct_pix2pix_is_amazing_inpaintingimg2img/">
 <node TEXT="reddit post" ID="ID_1208211768" CREATED="1675595128713" MODIFIED="1675595138283" LINK="https://www.reddit.com/r/StableDiffusion/comments/10tjzmf/instructpix2pix_is_built_straight_into_the/"/>
 </node>
 <node TEXT="Attention heatmap for prompts (youtube)" ID="ID_1718671785" CREATED="1675685098113" MODIFIED="1675685110877" LINK="https://www.youtube.com/watch?v=XiKyEKJrTLQ"/>
 <node TEXT="enormous link roundup" ID="ID_214431294" CREATED="1676135793030" MODIFIED="1676135799784" LINK="https://rentry.org/RentrySD/"/>
 <node TEXT="Prompt master variations management" ID="ID_835242177" CREATED="1676216909786" MODIFIED="1676216921799" LINK="https://github.com/hoblin/prompt-master"/>
-<node TEXT="panoramic world builder" ID="ID_1645571497" CREATED="1676222715501" MODIFIED="1676222723746" LINK="https://huggingface.co/congazverse/worldBuilder"/>
+<node TEXT="panoramic world builder" ID="ID_1645571497" CREATED="1676222715501" MODIFIED="1685194224464" LINK="https://huggingface.co/congazverse/worldBuilder">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="GitHub - AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin: A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend.,A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend. - GitHub - AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin: A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend. " ID="ID_1325053115" CREATED="1677783034639" MODIFIED="1677783034639" LINK="https://github.com/abdullahalfaraj/auto-photoshop-stablediffusion-plugin"/>
 <node TEXT=" GitHub - ashawkey/stable-dreamfusion: A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion. , A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion. - GitHub - ashawkey/stable-dreamfusion: A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.  " ID="ID_734122329" CREATED="1677783034639" MODIFIED="1680603289743" LINK="https://github.com/ashawkey/stable-dreamfusion"/>
 <node TEXT="Fine tune stable diffusion" ID="ID_154896461" CREATED="1677783034639" MODIFIED="1677783034639" LINK="https://github.com/nitrosocke/dreambooth-training-guide/blob/main/readme.md#how-to-fine-tune-stable-diffusion-20"/>
 <node TEXT=" GitHub - Sanster/lama-cleaner: Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures. , Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures. - GitHub - Sanster/lama-cleaner: Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.  " ID="ID_549657441" CREATED="1677783034639" MODIFIED="1677783034639" LINK="https://github.com/sanster/lama-cleaner"/>
-<node TEXT=" holovolo - immersive volumetric VR180 videos and photos, and 3D stable diffusion, for Quest and WebVR ,- " ID="ID_1811203638" CREATED="1677783034639" MODIFIED="1680603297616" LINK="https://holovolo.tv"/>
+<node TEXT=" holovolo - immersive volumetric VR180 videos and photos, and 3D stable diffusion, for Quest and WebVR ,- " ID="ID_1811203638" CREATED="1677783034639" MODIFIED="1685194224464" LINK="https://holovolo.tv">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="The Illustrated Stable Diffusion  Jay Alammar  Visualizing machine learning one concept at a time." ID="ID_40424635" CREATED="1677783034639" MODIFIED="1680603310835" LINK="https://jalammar.github.io/illustrated-stable-diffusion/"/>
 <node TEXT="ControlNet" ID="ID_1726669918" CREATED="1678457284814" MODIFIED="1678457289555">
 <node TEXT="Multidiffusion Spatial Controls - a Hugging Face Space by weizmannscience" ID="ID_1842045825" CREATED="1678457291261" MODIFIED="1678457311316" LINK="https://huggingface.co/spaces/weizmannscience/multidiffusion-region-based"/>
-<node TEXT="Testing ControlNet on Unreal Engine 5 : r/StableDiffusion" ID="ID_752833377" CREATED="1678457325629" MODIFIED="1678457339091" LINK="https://www.reddit.com/r/StableDiffusion/comments/11fpcb1/testing_controlnet_on_unreal_engine_5/"/>
+<node TEXT="Testing ControlNet on Unreal Engine 5 : r/StableDiffusion" ID="ID_752833377" CREATED="1678457325629" MODIFIED="1685194224464" LINK="https://www.reddit.com/r/StableDiffusion/comments/11fpcb1/testing_controlnet_on_unreal_engine_5/">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="LineArt to PhotoReal : r/StableDiffusion" ID="ID_1798317634" CREATED="1678457973694" MODIFIED="1678457985144" LINK="https://www.reddit.com/r/StableDiffusion/comments/11mzdxm/lineart_to_photoreal/"/>
 <node TEXT="Convert Any Image To Lineart Using ControlNet! : r/StableDiffusion" ID="ID_449180914" CREATED="1678458004301" MODIFIED="1678458014791" LINK="https://www.reddit.com/r/StableDiffusion/comments/11mwzsz/convert_any_image_to_lineart_using_controlnet/"/>
 <node TEXT="How to use Controlnet to make INCREDIBLE fully customizable Txt2Img templates : r/StableDiffusion" ID="ID_1892159495" CREATED="1678458734422" MODIFIED="1678458744099" LINK="https://www.reddit.com/r/StableDiffusion/comments/11ah3nv/how_to_use_controlnet_to_make_incredible_fully/"/>
@@ -618,7 +651,8 @@
 </richcontent>
 </node>
 <node TEXT="GitHub - lllyasviel/ControlNet: Let us control diffusion models!" ID="ID_1699374591" CREATED="1679913854633" MODIFIED="1680603333721">
-<node TEXT="GitHub - lllyasviel/ControlNet: Let us control diffusion models!: Let us control diffusion models! Contribute to lllyasviel/ControlNet development by creating an account on GitHub." POSITION="right" ID="ID_1595380364" CREATED="1679913854633" MODIFIED="1679913854633" LINK="https://github.com/lllyasviel/ControlNet">
+<node TEXT="GitHub - lllyasviel/ControlNet: Let us control diffusion models!: Let us control diffusion models! Contribute to lllyasviel/ControlNet development by creating an account on GitHub." POSITION="right" ID="ID_1595380364" CREATED="1679913854633" MODIFIED="1685194224464" LINK="https://github.com/lllyasviel/ControlNet">
+<icon BUILTIN="attach"/>
 <node TEXT="The ControlNet project provides a way to control diffusion models. It includes a number of features to help with this, including the ability to automatically download annotators and the ability to shift the guess mode to UC disconnect in order to save memory." ID="ID_1528679652" CREATED="1679913854633" MODIFIED="1679913854633"/>
 </node>
 </node>
@@ -672,21 +706,26 @@
 </richcontent>
 </node>
 <node TEXT="Twitter thread on consistency settings" ID="ID_270298916" CREATED="1680207145759" MODIFIED="1680207158392" LINK="https://twitter.com/TomLikesRobots/status/1628100062910857217"/>
-<node TEXT="Smooth animation with controlnet" ID="ID_146505843" CREATED="1682414608709" MODIFIED="1682414654042" LINK="https://www.reddit.com/r/StableDiffusion/comments/125m56z/smooth_animation_with_controlnet_and_regional/">
+<node TEXT="Smooth animation with controlnet" ID="ID_146505843" CREATED="1682414608709" MODIFIED="1685194241151" LINK="https://www.reddit.com/r/StableDiffusion/comments/125m56z/smooth_animation_with_controlnet_and_regional/">
+<icon BUILTIN="attach"/>
 <node TEXT="This code snippet sets up Reddit&apos;s Sentry error monitoring, which includes a function to check for various types of errors and report them accordingly. Additionally, it sets up a fetch() wrapper to add a header specifying that Sentry should always be used in &quot;sticky canary&quot; mode." ID="ID_1936676284" CREATED="1682414608710" MODIFIED="1682414608710"/>
 </node>
-<node TEXT="Multi scene videos using automatic1111" ID="ID_1697756559" CREATED="1682414608713" MODIFIED="1682414803939" LINK="https://www.reddit.com/r/StableDiffusion/comments/127wub7/to_make_a_video_with_multiple_scenes_using_only/">
+<node TEXT="Multi scene videos using automatic1111" ID="ID_1697756559" CREATED="1682414608713" MODIFIED="1685194241164" LINK="https://www.reddit.com/r/StableDiffusion/comments/127wub7/to_make_a_video_with_multiple_scenes_using_only/">
+<icon BUILTIN="attach"/>
 <node TEXT="1 go to Automatic1111 Deforum in interpolation mode and generate several pics regarding the prompt theme. Deforum interpolation is not good for animation, but it is good for generating lot of pics about the same subject.&#xa;&#xa;2 select the better images and put them in Deforum Init section. Then generate the animations in 2D or 3D. For this test I used only 10 steps, so graphics are not stellar. Repeat until you have several animations, each one on its directory.&#xa;&#xa;3 select the good animations. Pick the frames and put them in a directory. Then go to Deforum Output and select Pictures interpolation , put the frames here and interpolate with value 2. With this you generate the video.&#xa;&#xa;Note: I interpolated 693 frames. Tried bigger quantities and the interpolator did not work. So this method is pretty limited." ID="ID_1626867619" CREATED="1682414608713" MODIFIED="1682414809428"/>
 </node>
-<node TEXT="Controlnet 1.1" ID="ID_947999605" CREATED="1682414608740" MODIFIED="1682418661969" LINK="https://www.reddit.com/r/StableDiffusion/comments/12o8qm3/finally_installed_the_newer_controlnet_models_a/"/>
-<node TEXT="Anime fight workflow" ID="ID_870360217" CREATED="1682601210588" MODIFIED="1682601222388" LINK="https://www.reddit.com/r/StableDiffusion/comments/12z6rh5/half_real_converting_cowboy_bebop_spike_vs/"/>
+<node TEXT="Controlnet 1.1" ID="ID_947999605" CREATED="1682414608740" MODIFIED="1685194241164" LINK="https://www.reddit.com/r/StableDiffusion/comments/12o8qm3/finally_installed_the_newer_controlnet_models_a/">
+<icon BUILTIN="attach"/>
+</node>
+<node TEXT="Anime fight workflow" ID="ID_870360217" CREATED="1682601210588" MODIFIED="1685194241165" LINK="https://www.reddit.com/r/StableDiffusion/comments/12z6rh5/half_real_converting_cowboy_bebop_spike_vs/">
+<icon BUILTIN="attach"/>
+</node>
 </node>
 <node TEXT="reddit educational links" ID="ID_1436690453" CREATED="1678463375502" MODIFIED="1678463384152" LINK="https://www.reddit.com/r/StableDiffusion/comments/116ki29/comment/j97jac3/"/>
 <node TEXT="Negative prompt hack tip" ID="ID_1338362004" CREATED="1678631237322" MODIFIED="1678631249066" LINK="https://www.reddit.com/r/StableDiffusion/comments/11pcsxe/just_discovered_a_useful_trick_for_getting_good/"/>
 <node TEXT="Modify images with text" ID="ID_1908371261" CREATED="1678790726642" MODIFIED="1678790733713" LINK="https://github.com/justinpinkney/stable-diffusion/blob/main/notebooks/imagic.ipynb"/>
 <node TEXT="Photorealism" ID="ID_1986814234" CREATED="1679139192683" MODIFIED="1679139205820" LINK="https://www.reddit.com/r/StableDiffusion/comments/11u2p0u/lazy_guide_to_photorealistic_images/"/>
 <node TEXT="sdtools image v 1.6" ID="ID_1528208295" CREATED="1680510364119" MODIFIED="1680603360247" LINK="https://www.reddit.com/r/StableDiffusion/comments/127gck9/sdtools_v16/"/>
-<node TEXT="Anything v5 model on civitia" ID="ID_1215613740" CREATED="1681986461424" MODIFIED="1681986480568" LINK="https://civitai.com/models/9409/anything-v5-or-anything-diffusion-original"/>
 </node>
 <node TEXT="nice models" ID="ID_1325098056" CREATED="1674848151898" MODIFIED="1674848153965">
 <node TEXT="Protogen3 model is nice" ID="ID_274955700" CREATED="1672737740697" MODIFIED="1672737749989" LINK="https://www.reddit.com/r/StableDiffusion/comments/100tp0v/protogenx34_has_absolutely_amazing_detail/"/>
@@ -695,27 +734,42 @@
 <node TEXT="project unity engine beta 2" ID="ID_1809072941" CREATED="1674987840772" MODIFIED="1674987846945"/>
 <node TEXT="realistic vision 1.2" ID="ID_311104028" CREATED="1674987848390" MODIFIED="1674987856713"/>
 <node TEXT="Infographic style" ID="ID_1774166728" CREATED="1674999122472" MODIFIED="1680603373391" LINK="https://civitai.com/models/5271/style-info-an-embedding-for-infographic-style-art"/>
+<node TEXT="Anything v5 model on civitia" ID="ID_1215613740" CREATED="1681986461424" MODIFIED="1681986480568" LINK="https://civitai.com/models/9409/anything-v5-or-anything-diffusion-original"/>
+<node TEXT="HDR landscape model" ID="ID_1090801878" CREATED="1682414608743" MODIFIED="1682418673300" LINK="https://www.reddit.com/r/StableDiffusion/comments/12nzrtl/hdr_photography_style_landscapesseascapes/"/>
 </node>
 <node TEXT="Arible Prompt Database https://www.arible.co/prompts" ID="ID_1778247461" CREATED="1680510364121" MODIFIED="1680510364121" LINK="https://www.arible.co/prompts"/>
-<node TEXT="[Guide] Make your own Loras, easy and free | Stable Diffusion Other | Civitai: You don&apos;t need to download anything, this is a guide with online tools. Click &quot;Show more&quot; below.  Preamble Even if you don&apos;t know where to start o..." ID="ID_970935017" CREATED="1680510364124" MODIFIED="1680510364124" LINK="https://civitai.com/models/22530">
+<node TEXT="[Guide] Make your own Loras, easy and free | Stable Diffusion Other | Civitai: You don&apos;t need to download anything, this is a guide with online tools. Click &quot;Show more&quot; below.  Preamble Even if you don&apos;t know where to start o..." ID="ID_970935017" CREATED="1680510364124" MODIFIED="1685194287941" LINK="https://civitai.com/models/22530">
+<icon BUILTIN="attach"/>
 <node TEXT="This guide provides instructions on how to create your own Loras, which are free and easy to make." ID="ID_1782881441" CREATED="1680510364124" MODIFIED="1680510364124"/>
 </node>
-<node TEXT="Lora training interface for windows" ID="ID_1036636828" CREATED="1680510364128" MODIFIED="1680603380088" LINK="https://github.com/bmaltais/kohya_ss"/>
+<node TEXT="Lora training interface for windows" ID="ID_1036636828" CREATED="1680510364128" MODIFIED="1685194287943" LINK="https://github.com/bmaltais/kohya_ss">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="Refined model" ID="ID_129828211" CREATED="1680510364128" MODIFIED="1680511525086" LINK="https://civitai.com/models/8392/refined"/>
 <node TEXT="Experience | Stable Diffusion Checkpoint | Civitai: Check the versions bellow With the release of Experience v7.0, there is now a second version you may be interested in; Realistic Experience Version..." ID="ID_556064602" CREATED="1680510364128" MODIFIED="1680510364128" LINK="https://civitai.com/models/5952">
 <node TEXT="The text describes an animation which is used to check the stability of a diffusion process. The animation consists of three keyframes, which rotate, scale, and translate the object being checked." ID="ID_673907824" CREATED="1680510364128" MODIFIED="1680510364128"/>
 </node>
-<node TEXT="Fine tuning with captioning and other fine tuning tricks, followfox" ID="ID_930163725" CREATED="1680510364128" MODIFIED="1680603388876" LINK="https://substack.com/profile/110613456-followfoxai"/>
-<node TEXT="Negative embedding textual inversion for hands etc" ID="ID_70143381" CREATED="1680592123778" MODIFIED="1680603388878" LINK="https://huggingface.co/datasets/Nerfgun3/bad_prompt"/>
+<node TEXT="Fine tuning with captioning and other fine tuning tricks, followfox" ID="ID_930163725" CREATED="1680510364128" MODIFIED="1685442362803" LINK="https://substack.com/profile/110613456-followfoxai"/>
+<node TEXT="Negative embedding textual inversion for hands etc" ID="ID_70143381" CREATED="1680592123778" MODIFIED="1685194287943" LINK="https://huggingface.co/datasets/Nerfgun3/bad_prompt">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="GitHub - kpthedev/ez-text2video: Easily run text-to-video diffusion with customized video length, fps, and dimensions on 4GB video cards, as well as on CPU.: Easily run text-to-video diffusion with customized video length, fps, and dimensions on 4GB video cards, as well as on CPU. - GitHub - kpthedev/ez-text2video: Easily run text-to-video diffusion wit..." ID="ID_168232669" CREATED="1682414608719" MODIFIED="1682414608719" LINK="https://github.com/kpthedev/ez-text2video"/>
-<node TEXT="This repository contains a ComfyUI Extension for Automated Text Generation. The extension provides nodes which can be used to automate the text generation process. The goal is to build a node-based Automated Text Generation AGI. This extension should ultimately combine all of the features of the existing text generation tools into one tool." ID="ID_1596435945" CREATED="1682414608731" MODIFIED="1682417819881" LINK="https://github.com/xXAdonesXx/NodeGPT"/>
+<node TEXT="This repository contains a ComfyUI Extension for Automated Text Generation. The extension provides nodes which can be used to automate the text generation process. The goal is to build a node-based Automated Text Generation AGI. This extension should ultimately combine all of the features of the existing text generation tools into one tool." ID="ID_1596435945" CREATED="1682414608731" MODIFIED="1685194287943" LINK="https://github.com/xXAdonesXx/NodeGPT">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="[R] Text-to-image Diffusion Models in Generative AI: A Survey : r/MachineLearning" ID="ID_310975718" CREATED="1682414608731" MODIFIED="1682418061232" LINK="https://www.reddit.com/r/MachineLearning/comments/12ehcez/r_texttoimage_diffusion_models_in_generative_ai_a/"/>
-<node TEXT="Tutorial: Creating a Consistent Character as a Textual Inversion Embedding" ID="ID_1433269201" CREATED="1682414608741" MODIFIED="1682418080494" LINK="https://github.com/BelieveDiffusion/tutorials/discussions/3"/>
+<node TEXT="Tutorial: Creating a Consistent Character as a Textual Inversion Embedding" ID="ID_1433269201" CREATED="1682414608741" MODIFIED="1685194287943" LINK="https://github.com/BelieveDiffusion/tutorials/discussions/3">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="Segment anything webui" ID="ID_615103029" CREATED="1682414608738" MODIFIED="1682418458837" LINK="https://www.reddit.com/r/StableDiffusion/comments/12hkdy8/sd_webui_segment_everything/">
 <node TEXT="segment anything training" ID="ID_1207199787" CREATED="1683888511579" MODIFIED="1683888523681" LINK="https://github.com/NielsRogge/Transformers-Tutorials/tree/master/SAM"/>
 </node>
-<node TEXT="Overriding iphone footage with SD characters using controlnet" ID="ID_1667824171" CREATED="1682414608739" MODIFIED="1682418559040" LINK="https://www.reddit.com/r/StableDiffusion/comments/12lg8mn/override_more_experiments_overriding_the_original/"/>
-<node TEXT="Interactive photo manipulation GAN" ID="ID_532453447" CREATED="1684482621500" MODIFIED="1684482644492" LINK="https://huggingface.co/papers/2305.10973"/>
+<node TEXT="Overriding iphone footage with SD characters using controlnet" ID="ID_1667824171" CREATED="1682414608739" MODIFIED="1685194287943" LINK="https://www.reddit.com/r/StableDiffusion/comments/12lg8mn/override_more_experiments_overriding_the_original/">
+<icon BUILTIN="attach"/>
+</node>
+<node TEXT="Interactive photo manipulation GAN" ID="ID_532453447" CREATED="1684482621500" MODIFIED="1685194287943" LINK="https://huggingface.co/papers/2305.10973">
+<icon BUILTIN="attach"/>
+</node>
 </node>
 <node TEXT="Colour palette extraction" ID="ID_713793979" CREATED="1664904506511" MODIFIED="1664904516333" LINK="https://github.com/mattdesl/gifenc"/>
 <node TEXT="Text based real time image manipulation" ID="ID_1520768843" CREATED="1666082528119" MODIFIED="1666082538732" LINK="https://arxiv.org/abs/2210.09276"/>
@@ -732,7 +786,9 @@
 </node>
 <node TEXT="Google Muse" ID="ID_1605213866" CREATED="1673874752212" MODIFIED="1673874761770" LINK="https://www.infoq.com/news/2023/01/google-muse-text-to-image/"/>
 <node TEXT="Flair generate photo shoots of products" ID="ID_1202289419" CREATED="1674493058820" MODIFIED="1674493082075" LINK="https://flair.ai/"/>
-<node TEXT="Vector graphics from text" ID="ID_42908688" CREATED="1674493111175" MODIFIED="1674493130418" LINK="https://illustroke.com/"/>
+<node TEXT="Vector graphics from text" ID="ID_42908688" CREATED="1674493111175" MODIFIED="1685194361590" LINK="https://illustroke.com/">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="Simple stock image generator" ID="ID_1503543281" CREATED="1674504367928" MODIFIED="1674504383483" LINK="https://stockimg.ai/"/>
 <node TEXT="Patterned: Generates royalty-free patterns." ID="ID_662691490" CREATED="1674495090618" MODIFIED="1674495105478" LINK="https://www.patterned.ai/"/>
 <node TEXT="Cleanup.picture: Removes objects, defects, people or text from your images." ID="ID_1501363905" CREATED="1674505592688" MODIFIED="1674505615344" LINK="https://cleanup.pictures/"/>
@@ -741,10 +797,14 @@
 <node TEXT="Prompt management engine (local and cloud) (promptlayer)" ID="ID_748850393" CREATED="1675516994201" MODIFIED="1675517010659" LINK="https://magniv.notion.site/PromptLayer-Docs-db0e6f50cacf4564a6d09824ba17a629"/>
 <node TEXT="Composer stable diffusion TYPE model" ID="ID_788479410" CREATED="1677429612585" MODIFIED="1677429650295" LINK="https://github.com/damo-vilab/composer"/>
 <node TEXT="Multi-diffusion panoramas" ID="ID_111303126" CREATED="1677174991243" MODIFIED="1677175010495" LINK="https://multidiffusion.github.io/"/>
+<node TEXT="coherent panoramas paper" ID="ID_740522378" CREATED="1686331491655" MODIFIED="1686331503786" LINK="https://syncdiffusion.github.io/"/>
 <node TEXT="UX design AI" ID="ID_373116807" CREATED="1675968502824" MODIFIED="1680603417055" LINK="https://www.usegalileo.ai/"/>
 <node TEXT="pix2pix-3D: 3D-aware Conditional Image Synthesis" ID="ID_293533626" CREATED="1678456407238" MODIFIED="1680603422054" LINK="http://www.cs.cmu.edu/~pix2pix3D/"/>
-<node TEXT="HuggingFace Demo for /ELITE: new fine-tuning technique that can be trained in less than a second/ now available : r/StableDiffusion" ID="ID_723442535" CREATED="1678460478282" MODIFIED="1678460488469" LINK="https://www.reddit.com/r/StableDiffusion/comments/11mzxyu/huggingface_demo_for_elite_new_finetuning/"/>
-<node TEXT="GIGAgan" ID="ID_931080134" CREATED="1678739740917" MODIFIED="1680603426836" LINK="https://mingukkang.github.io/GigaGAN/">
+<node TEXT="HuggingFace Demo for /ELITE: new fine-tuning technique that can be trained in less than a second/ now available : r/StableDiffusion" ID="ID_723442535" CREATED="1678460478282" MODIFIED="1685194361590" LINK="https://www.reddit.com/r/StableDiffusion/comments/11mzxyu/huggingface_demo_for_elite_new_finetuning/">
+<icon BUILTIN="attach"/>
+</node>
+<node TEXT="GIGAgan" ID="ID_931080134" CREATED="1678739740917" MODIFIED="1685194361590" LINK="https://mingukkang.github.io/GigaGAN/">
+<icon BUILTIN="attach"/>
 <node TEXT="implementation" ID="ID_339128832" CREATED="1678740209089" MODIFIED="1678740215868" LINK="https://github.com/lucidrains/gigagan-pytorch"/>
 </node>
 <node TEXT="GitHub - danielgatis/rembg: Rembg is a tool to remove images background (other)" ID="ID_47708134" CREATED="1678463114802" MODIFIED="1678463114802" LINK="https://github.com/danielgatis/rembg">
@@ -752,7 +812,9 @@
 </node>
 <node TEXT="GitHub - kanewallmann/Dreambooth-Stable-Diffusion: Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with Stable Diffusion (tweaks focused on training faces) (other)" ID="ID_1795979951" CREATED="1677783034639" MODIFIED="1677783034639" LINK="https://github.com/kanewallmann/dreambooth-stable-diffusion"/>
 <node TEXT="GitHub - sedthh/pyxelate: Python class that generates pixel art from images (other)" ID="ID_1312830829" CREATED="1677783034639" MODIFIED="1677783034639" LINK="https://github.com/sedthh/pyxelate"/>
-<node TEXT="GitHub - upscayl/upscayl:  Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy. (other)" ID="ID_931150798" CREATED="1677783034639" MODIFIED="1680603442419" LINK="https://github.com/upscayl/upscayl"/>
+<node TEXT="GitHub - upscayl/upscayl:  Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy. (other)" ID="ID_931150798" CREATED="1677783034639" MODIFIED="1685194361590" LINK="https://github.com/upscayl/upscayl">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="GitHub - YuxinWenRick/hard-prompts-made-easy: Contribute to YuxinWenRick/hard-prompts-made-easy development by creating an account on GitHub." ID="ID_815082051" CREATED="1679914078194" MODIFIED="1679914078194" LINK="https://github.com/YuxinWenRick/hard-prompts-made-easy">
 <node TEXT="This repository contains a tool for gradient-based discrete optimization, which can be used to find the optimal solution for a given problem. The tool is designed to be easy to use, and includes a number of features to make the process of finding the optimal solution easier." ID="ID_458090170" CREATED="1679914078194" MODIFIED="1679914078194"/>
 </node>
@@ -763,11 +825,14 @@
 <node TEXT="This repository contains code for a gradient-based discrete optimization method. The method is designed to make it easy to find hard prompts, which are useful for training machine learning models." ID="ID_664556399" CREATED="1679913854623" MODIFIED="1679913854623"/>
 </node>
 <node TEXT="StableSam meta segmentation plus SD inpainting" ID="ID_69345444" CREATED="1681397798684" MODIFIED="1681397819652" LINK="https://twitter.com/abhi1thakur/status/1645669023726592007"/>
-<node TEXT="New Feature: &quot;ZOOM ENHANCE&quot; for the A111 WebUI. Automatically fix small details like faces and hands! : r/StableDiffusion https://www.reddit.com/r/StableDiffusion/comments/11pyiro/new_feature_zoom_enhance_for_the_a111_webui/" ID="ID_446340750" CREATED="1680097753098" MODIFIED="1680097753098"/>
+<node TEXT="New Feature: &quot;ZOOM ENHANCE&quot; for the A111 WebUI. Automatically fix small details like faces and hands! : r/StableDiffusion https://www.reddit.com/r/StableDiffusion/comments/11pyiro/new_feature_zoom_enhance_for_the_a111_webui/" ID="ID_446340750" CREATED="1680097753098" MODIFIED="1685194361590">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="Realtime scribble" ID="ID_64922768" CREATED="1681763458151" MODIFIED="1681763465059" LINK="https://github.com/houseofsecrets/SdPaint"/>
 </node>
-<node TEXT="video" ID="ID_725587435" CREATED="1666082854143" MODIFIED="1666082856696">
-<node TEXT="Interpolation and interframe consistency" ID="ID_945312699" CREATED="1682669980208" MODIFIED="1682669991023">
+<node TEXT="video" FOLDED="true" ID="ID_725587435" CREATED="1666082854143" MODIFIED="1666082856696">
+<node TEXT="Interpolation and interframe consistency" ID="ID_945312699" CREATED="1682669980208" MODIFIED="1685194361590">
+<icon BUILTIN="attach"/>
 <node TEXT="controlnet and ebsynth temporal consistency" ID="ID_1332474865" CREATED="1676746068074" MODIFIED="1680603485057" LINK="https://www.reddit.com/r/StableDiffusion/comments/114zmh3/controlnet_and_ebsynth_make_incredible_temporally/"/>
 <node TEXT="Motion-Conditioned Diffusion Model for Controllable Video Synthesis" ID="ID_1141176345" CREATED="1682669997475" MODIFIED="1682670016565" LINK="https://tsaishien-chen.github.io/MCDiff/"/>
 <node TEXT="Interframe consistency is now here" ID="ID_103732244" CREATED="1664906450002" MODIFIED="1680603466314" LINK="https://twitter.com/cut_pow/status/1576748659051749377"/>
@@ -782,16 +847,22 @@
 <node TEXT="Magicvideo (faster)" ID="ID_546360816" CREATED="1669113608980" MODIFIED="1669113619291" LINK="https://magicvideo.github.io/"/>
 <node TEXT="Production ready re aging" ID="ID_1003945997" CREATED="1670344212419" MODIFIED="1680603468822" LINK="https://studios.disneyresearch.com/2022/11/30/production-ready-face-re-aging-for-visual-effects/"/>
 <node TEXT="distilled models for 25fps" ID="ID_1794971568" CREATED="1670870533459" MODIFIED="1670870546781" LINK="https://arxiv.org/abs/2202.00512"/>
-<node TEXT="Stable warpfusion" ID="ID_1050055214" CREATED="1673288206516" MODIFIED="1673288229698" LINK="https://www.linkedin.com/posts/rainisto_stablediffusion-musicvideo-remix-activity-7018207241522614272-YT1y?utm_source=share&amp;utm_medium=member_desktop"/>
+<node TEXT="Stable warpfusion" ID="ID_1050055214" CREATED="1673288206516" MODIFIED="1685194361590" LINK="https://www.linkedin.com/posts/rainisto_stablediffusion-musicvideo-remix-activity-7018207241522614272-YT1y?utm_source=share&amp;utm_medium=member_desktop">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="Video talking heads from text service" ID="ID_837813814" CREATED="1673893697236" MODIFIED="1680603474417" LINK="https://www.synthesia.io/"/>
 <node TEXT="Tune a video" ID="ID_1740764892" CREATED="1674217050132" MODIFIED="1674217058063" LINK="https://tuneavideo.github.io/"/>
 <node TEXT="Vidyo: Generates videos for social networks from longer videos." ID="ID_1276675577" CREATED="1674495276632" MODIFIED="1674495296912" LINK="https://vidyo.ai/"/>
 <node TEXT="Stylegan-T video transformer from google" ID="ID_456448062" CREATED="1674555959216" MODIFIED="1674555972800" LINK="https://sites.google.com/view/stylegan-t"/>
 <node TEXT="Houdini" ID="ID_599575488" CREATED="1674773558274" MODIFIED="1680603482614" LINK="https://github.com/proceduralit/StableDiffusion_Houdini"/>
 <node TEXT="Dream Mix video to video remix" ID="ID_578221247" CREATED="1675601984362" MODIFIED="1675602005626" LINK="https://dreamix-video-editing.github.io/"/>
-<node TEXT="RIFE frame interpolation" ID="ID_1444324508" CREATED="1675685482603" MODIFIED="1675685490116" LINK="https://github.com/megvii-research/ECCV2022-RIFE"/>
+<node TEXT="RIFE frame interpolation" ID="ID_1444324508" CREATED="1675685482603" MODIFIED="1685194392461" LINK="https://github.com/megvii-research/ECCV2022-RIFE">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="Synthesia corporate video generation" ID="ID_361060148" CREATED="1675871165644" MODIFIED="1680603487998" LINK="https://www.youtube.com/watch?v=4uzzD9sD-PI"/>
-<node TEXT="pix2pixHD nextframe google colab" ID="ID_943366348" CREATED="1676746173759" MODIFIED="1676746184967" LINK="https://colab.research.google.com/github/dvschultz/ml-art-colabs/blob/master/Pix2PixHD_Next_Frame_Prediction.ipynb"/>
+<node TEXT="pix2pixHD nextframe google colab" ID="ID_943366348" CREATED="1676746173759" MODIFIED="1685194392463" LINK="https://colab.research.google.com/github/dvschultz/ml-art-colabs/blob/master/Pix2PixHD_Next_Frame_Prediction.ipynb">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="minecraft demo codebase" ID="ID_1824034109" CREATED="1667736191180" MODIFIED="1667736209221" LINK="https://github.com/TSFSean/InvokeAI-DiffusionCraftAI"/>
 <node TEXT="animation from mixamo" ID="ID_1001594434" CREATED="1670361083331" MODIFIED="1670361116823" LINK="https://www.reddit.com/r/StableDiffusion/comments/zecyc7/mixamo_animations_stable_diffusion_v2_depth2img/"/>
 <node TEXT="Intel enhance photorealism in realtime" ID="ID_1434453296" CREATED="1672775572005" MODIFIED="1680603493058" LINK="https://github.com/isl-org/PhotorealismEnhancement"/>
@@ -810,16 +881,24 @@
 <node TEXT="GitHub - Picsart-AI-Research/Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators: Text-to-Image Diffusion Models are Zero-Shot Video Generators - GitHub - Picsart-AI-Research/Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators" ID="ID_330375041" CREATED="1680097753105" MODIFIED="1680097753105" LINK="https://github.com/Picsart-AI-Research/Text2Video-Zero">
 <node TEXT="The Picsart-AI-Research/Text2Video-Zero repository contains code for a text-to-image diffusion model that can be used to generate videos from text input. The model is a zero-shot video generator, meaning that it does not require any training data in order to generate videos." ID="ID_1815422778" CREATED="1680097753105" MODIFIED="1680097753105"/>
 </node>
-<node TEXT="LVDM for long video creation" ID="ID_451278606" CREATED="1680722585690" MODIFIED="1680722602948" LINK="https://yingqinghe.github.io/LVDM/"/>
+<node TEXT="LVDM for long video creation" ID="ID_451278606" CREATED="1680722585690" MODIFIED="1685194392464" LINK="https://yingqinghe.github.io/LVDM/">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="The Text2Room algorithm generates textured 3D meshes from a given text prompt by leveraging pre-trained 2D text-to-image models. The core idea is to select camera poses that will result in a seamless, textured 3D mesh. The algorithm iteratively fuses scene frames with the existing geometry to create the final mesh. Evaluation shows that the algorithm is able to generate room-scale 3D geometry with compelling textures from only text as input." ID="ID_636858382" CREATED="1682414608712" MODIFIED="1682414734557" LINK="https://lukashoel.github.io/text-to-room/"/>
-<node TEXT="The VMesh system models a scene with a triangular mesh and a sparse volume for efficient view synthesis. It is trained on multi-view images of an object to create a contiguous representation of the object&apos;s surface and volume. This representation is then used to generate a simplified triangular mesh and a sparse volume, which can be stored and rendered efficiently. The system is designed for real-time applications and can render at 2K 60FPS on common consumer devices." ID="ID_845494242" CREATED="1682414608714" MODIFIED="1682414823198" LINK="https://bennyguo.github.io/vmesh/"/>
+<node TEXT="The VMesh system models a scene with a triangular mesh and a sparse volume for efficient view synthesis. It is trained on multi-view images of an object to create a contiguous representation of the object&apos;s surface and volume. This representation is then used to generate a simplified triangular mesh and a sparse volume, which can be stored and rendered efficiently. The system is designed for real-time applications and can render at 2K 60FPS on common consumer devices." ID="ID_845494242" CREATED="1682414608714" MODIFIED="1685194411165" LINK="https://bennyguo.github.io/vmesh/">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="Temporal stable automatic plugin" ID="ID_1703807934" CREATED="1682414608759" MODIFIED="1682416892506" LINK="https://www.reddit.com/r/StableDiffusion/comments/12sd4bi/results_from_latest_version_of_temporal_stable/"/>
-<node TEXT="We present a method for high-resolution video synthesis using latent diffusion models (LDMs). Our approach first pre-trains an LDM on images, then introduces a temporal dimension to the latent space diffusion model and fine-tunes it on encoded image sequences (i.e. videos). We focus on two real-world applications: simulation of in-the-wild driving data and creative content creation with text-to-video modeling. Our method achieves state-of-the-art performance on real driving videos of 512 x 1024 resolution. Additionally, our approach can leverage off-the-shelf pre-trained image LDMs, turning the publicly available, state-of-the-art text-to-image LDM Stable Diffusion into an efficient and expressive text-to-video model." ID="ID_1407888785" CREATED="1682414608756" MODIFIED="1682417053482" LINK="https://buff.ly/41FgQrb"/>
+<node TEXT="We present a method for high-resolution video synthesis using latent diffusion models (LDMs). Our approach first pre-trains an LDM on images, then introduces a temporal dimension to the latent space diffusion model and fine-tunes it on encoded image sequences (i.e. videos). We focus on two real-world applications: simulation of in-the-wild driving data and creative content creation with text-to-video modeling. Our method achieves state-of-the-art performance on real driving videos of 512 x 1024 resolution. Additionally, our approach can leverage off-the-shelf pre-trained image LDMs, turning the publicly available, state-of-the-art text-to-image LDM Stable Diffusion into an efficient and expressive text-to-video model." ID="ID_1407888785" CREATED="1682414608756" MODIFIED="1685194411165" LINK="https://buff.ly/41FgQrb">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="This script allows for the automation of video stylization using StableDiffusion and ControlNet." ID="ID_39029923" CREATED="1682414608756" MODIFIED="1682417078611" LINK="https://github.com/volotat/SD-CN-Animation"/>
 <node TEXT="Really easy videos in A1111" ID="ID_734299805" CREATED="1682414608753" MODIFIED="1682417261186" LINK="https://www.reddit.com/r/StableDiffusion/comments/12otdo0/the_secret_to_really_easy_videos_in_a1111_easier/"/>
-<node TEXT="Dancer 4 keyframes, low noise, controlnet approach" ID="ID_318340329" CREATED="1682414608743" MODIFIED="1682418692453" LINK="https://www.reddit.com/r/StableDiffusion/comments/12nwpdx/dancer_4_keyframes_guide_and_source_files_for/"/>
+<node TEXT="Dancer 4 keyframes, low noise, controlnet approach" ID="ID_318340329" CREATED="1682414608743" MODIFIED="1685194411167" LINK="https://www.reddit.com/r/StableDiffusion/comments/12nwpdx/dancer_4_keyframes_guide_and_source_files_for/">
+<icon BUILTIN="attach"/>
 </node>
-<node TEXT=" human stuff" ID="ID_540648079" CREATED="1665662906939" MODIFIED="1672595098630">
+</node>
+<node TEXT=" human stuff" FOLDED="true" ID="ID_540648079" CREATED="1665662906939" MODIFIED="1672595098630">
 <node TEXT="Volumetric primitives (MVP) avatar representation of Lombardi et al. [2021]." ID="ID_917082420" CREATED="1665662948623" MODIFIED="1665662972723" LINK="https://dl.acm.org/doi/abs/10.1145/3528233.3530740"/>
 <node TEXT="Single shot vertex fitting" ID="ID_208977071" CREATED="1667724423435" MODIFIED="1667724435308" LINK="https://arxiv.org/abs/2205.06254"/>
 <node TEXT="Meshcapade virtual humans" ID="ID_1227330492" CREATED="1670410390620" MODIFIED="1680603524844" LINK="https://meshcapade.com/"/>
@@ -836,15 +915,23 @@
 <node TEXT="Microsoft sculpted avatars" ID="ID_616872142" CREATED="1672739494340" MODIFIED="1680603543604" LINK="https://3d-avatar-diffusion.microsoft.com/?utm_campaign=AI%20Art%20Weekly&amp;utm_medium=email&amp;utm_source=Revue%20newsletter#/"/>
 <node TEXT="ML realtime UE facial expresssions" ID="ID_441327084" CREATED="1673875694218" MODIFIED="1680603545800" LINK="https://80.lv/articles/ziva-dynamics-announces-a-new-ml-trained-facial-rigging-service/"/>
 <node TEXT="Disney face aging" ID="ID_528822265" CREATED="1673885603382" MODIFIED="1673885610615" LINK="https://studios.disneyresearch.com/2022/11/30/production-ready-face-re-aging-for-visual-effects/"/>
-<node TEXT="Gestures from speech" ID="ID_1074731713" CREATED="1673885730533" MODIFIED="1680603549363" LINK="https://talkshow.is.tue.mpg.de/"/>
+<node TEXT="Gestures from speech" ID="ID_1074731713" CREATED="1673885730533" MODIFIED="1685194526081" LINK="https://talkshow.is.tue.mpg.de/">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="Volucap volumentric deep fakes" ID="ID_606217833" CREATED="1674228146552" MODIFIED="1680603555092" LINK="https://volucap.com/"/>
 <node TEXT="FlawlessAI cloud facial plus language translattion" ID="ID_1336984567" CREATED="1674655637324" MODIFIED="1680603556545" LINK="https://www.flawlessai.com/"/>
 <node TEXT="language to animated character" ID="ID_1034750063" CREATED="1676627605326" MODIFIED="1676627616259" LINK="https://masterpiecestudio.com/blog/announcing-generative-animations"/>
-<node TEXT="instant phone to unreal face opensource" ID="ID_1771768434" CREATED="1677959650481" MODIFIED="1677959661943" LINK="https://github.com/JimWest/MeFaMo"/>
+<node TEXT="instant phone to unreal face opensource" ID="ID_1771768434" CREATED="1677959650481" MODIFIED="1685194526081" LINK="https://github.com/JimWest/MeFaMo">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="consistent pose and angles in stable diffusion" ID="ID_1025905641" CREATED="1678010064953" MODIFIED="1678010184401" LINK="https://www.youtube.com/watch?v=zgj24gTjQtY"/>
-<node TEXT="Generating Consistent Characters using Stable Diffusion" ID="ID_37449781" CREATED="1678025867055" MODIFIED="1678025877031" LINK="https://www.youtube.com/watch?v=XWJGmNW15A4"/>
+<node TEXT="Generating Consistent Characters using Stable Diffusion" ID="ID_37449781" CREATED="1678025867055" MODIFIED="1685194526081" LINK="https://www.youtube.com/watch?v=XWJGmNW15A4">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="consistent characters" ID="ID_27806221" CREATED="1678025964256" MODIFIED="1678025971936" LINK="https://www.youtube.com/watch?v=Ig1S2guCfKM"/>
-<node TEXT="character turnarounds SD" ID="ID_669169064" CREATED="1678026016382" MODIFIED="1678026029219" LINK="https://www.youtube.com/watch?v=-iwPVUzAWzk"/>
+<node TEXT="character turnarounds SD" ID="ID_669169064" CREATED="1678026016382" MODIFIED="1685194526081" LINK="https://www.youtube.com/watch?v=-iwPVUzAWzk">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="Decoupling humans from backgrounds" ID="ID_1017887969" CREATED="1678040566784" MODIFIED="1678040575703" LINK="https://github.com/vye16/slahmr"/>
 <node TEXT="Hybrid ML humans for mobile" ID="ID_1790527709" CREATED="1677324540618" MODIFIED="1678039159748">
 <node ID="ID_462042049" CREATED="1677324551581" MODIFIED="1677324564420"><richcontent TYPE="NODE">
@@ -940,20 +1027,28 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="Expressive human avatars" ID="ID_1947109485" CREATED="1680184286342" MODIFIED="1680184292943" LINK="https://github.com/Skype-line/X-Avatar"/>
-<node TEXT="Vid2Avatar: 3D Avatar Reconstruction from Videos in the Wild via Self-supervised Scene Decomposition (other)" ID="ID_500759644" CREATED="1678463114800" MODIFIED="1678463114800" LINK="https://moygcc.github.io/vid2avatar/">
+<node TEXT="Expressive human avatars" ID="ID_1947109485" CREATED="1680184286342" MODIFIED="1685194526081" LINK="https://github.com/Skype-line/X-Avatar">
+<icon BUILTIN="attach"/>
+</node>
+<node TEXT="Vid2Avatar: 3D Avatar Reconstruction from Videos in the Wild via Self-supervised Scene Decomposition (other)" ID="ID_500759644" CREATED="1678463114800" MODIFIED="1685194526081" LINK="https://moygcc.github.io/vid2avatar/">
+<icon BUILTIN="attach"/>
 <node TEXT="This text describes a system for reconstructing 3D avatars from videos in uncontrolled settings, i.e. &quot;in the wild.&quot; The system is Self-supervised, meaning that it does not require labeled data, and uses scene decomposition to break the video down into manageable chunks. The objective is to create a realistic, life-like avatar that can be used for a variety of purposes.Category: machine learning" ID="ID_1928395369" CREATED="1679519694300" MODIFIED="1679519694300"/>
 </node>
-<node TEXT="FLEX: Full-Body Grasping Without Full-Body Grasps - Columbia Computer Vision Lab (other)" ID="ID_1957626376" CREATED="1678463114812" MODIFIED="1678463114812" LINK="https://flex.cs.columbia.edu/"/>
+<node TEXT="FLEX: Full-Body Grasping Without Full-Body Grasps - Columbia Computer Vision Lab (other)" ID="ID_1957626376" CREATED="1678463114812" MODIFIED="1685194526081" LINK="https://flex.cs.columbia.edu/">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="Apple facial relighting" ID="ID_1883226798" CREATED="1681820250264" MODIFIED="1681820257512" LINK="https://machinelearning.apple.com/research/neural-3d-relightable"/>
 <node TEXT="Controlnet face model for SD1.5" ID="ID_1868580444" CREATED="1682414608762" MODIFIED="1682416708859" LINK="https://www.reddit.com/r/StableDiffusion/comments/12dxue5/controlnet_face_model_for_sd_15/"/>
 </node>
-<node TEXT="3d geometry" ID="ID_1121639807" CREATED="1666082867542" MODIFIED="1680184792083">
-<node TEXT="geom head from single shot" ID="ID_1727751456" CREATED="1664899216403" MODIFIED="1664899230326" LINK="https://samsunglabs.github.io/rome/"/>
+<node TEXT="3d geometry" FOLDED="true" ID="ID_1121639807" CREATED="1666082867542" MODIFIED="1680184792083">
+<node TEXT="geom head from single shot" ID="ID_1727751456" CREATED="1664899216403" MODIFIED="1685194526081" LINK="https://samsunglabs.github.io/rome/">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="Microsoft AI faces" ID="ID_825427447" CREATED="1664899801363" MODIFIED="1680603658372" LINK="https://www.youtube.com/watch?v=uboj01Gfy1A"/>
 <node TEXT="Face to face mapping" ID="ID_1136226072" CREATED="1664904431340" MODIFIED="1664904441185" LINK="https://replicate.com/yoyo-nb/thin-plate-spline-motion-model"/>
 <node TEXT="Image to voxel faces" ID="ID_391029099" CREATED="1664906487334" MODIFIED="1664906497464" LINK="https://katjaschwarz.github.io/voxgraf/"/>
-<node TEXT="3D model from text" ID="ID_356115750" CREATED="1664996261845" MODIFIED="1664996270394">
+<node TEXT="3D model from text" ID="ID_356115750" CREATED="1664996261845" MODIFIED="1685194526081">
+<icon BUILTIN="attach"/>
 <node TEXT="GET3D" ID="ID_14970074" CREATED="1664996271966" MODIFIED="1664996281961" LINK="https://nv-tlabs.github.io/GET3D/"/>
 <node TEXT="openai point-e" ID="ID_1174553077" CREATED="1671572513035" MODIFIED="1671572527921" LINK="https://github.com/openai/point-e"/>
 <node TEXT="Dream3D" ID="ID_789584940" CREATED="1672663544283" MODIFIED="1672663563326" LINK="https://ajayj.com/dreamfields"/>
@@ -963,19 +1058,28 @@
 <node TEXT="Image to voxel faces" ID="ID_1013966953" CREATED="1664906487334" MODIFIED="1664906497464" LINK="https://katjaschwarz.github.io/voxgraf/"/>
 <node TEXT="Clipforge" ID="ID_600804649" CREATED="1667334103358" MODIFIED="1667334109544" LINK="https://github.com/autodeskailab/clip-forge"/>
 <node TEXT="clip mesh" ID="ID_1641767420" CREATED="1667334157722" MODIFIED="1667334174350" LINK="https://paperswithcode.com/paper/text-to-mesh-without-3d-supervision-using"/>
-<node TEXT="Geom texturing from prompts in blender" ID="ID_1369085428" CREATED="1670870469414" MODIFIED="1670870481789" LINK="https://github.com/carson-katri/dream-textures/pull/409"/>
+<node TEXT="Geom texturing from prompts in blender" ID="ID_1369085428" CREATED="1670870469414" MODIFIED="1685194526081" LINK="https://github.com/carson-katri/dream-textures/pull/409">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="blender 3d from 2d twitter thread" ID="ID_1479905250" CREATED="1671638236834" MODIFIED="1671638250464" LINK="https://twitter.com/TomLikesRobots/status/1603884188326940674"/>
 <node TEXT="composite scene generation" ID="ID_1506819989" CREATED="1672737606654" MODIFIED="1672737615075" LINK="https://github.com/zoomin-lee/scene-scale-diffusion"/>
-<node TEXT="3D Highlighter: Localizing Regions on 3D Shapes via Text Descriptions" ID="ID_1739129998" CREATED="1673885004906" MODIFIED="1673885032301" LINK="https://threedle.github.io/3DHighlighter/"/>
+<node TEXT="3D Highlighter: Localizing Regions on 3D Shapes via Text Descriptions" ID="ID_1739129998" CREATED="1673885004906" MODIFIED="1685194526081" LINK="https://threedle.github.io/3DHighlighter/">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="Variable bitrate neural field objects" ID="ID_174290547" CREATED="1673885926093" MODIFIED="1673885939501" LINK="https://nv-tlabs.github.io/vqad/"/>
 <node TEXT="Text to human avatar motion" ID="ID_1065634316" CREATED="1673890301091" MODIFIED="1673890316041" LINK="https://ofa-sys.github.io/MoFusion/"/>
 <node TEXT="Oneshot post estimation for AR" ID="ID_1593168578" CREATED="1674481065682" MODIFIED="1674481074917" LINK="https://zju3dv.github.io/onepose_plus_plus/"/>
 <node TEXT="Luma text to 3D" ID="ID_1463470740" CREATED="1674898362462" MODIFIED="1680603709053" LINK="https://captures.lumalabs.ai/imagine"/>
 <node TEXT="Game assets hybrid workflow" ID="ID_971082585" CREATED="1675607445682" MODIFIED="1675607455237" LINK="https://echoesofsomewhere.com/2023/01/25/modeling-a-robot-with-some-added-difficulty/"/>
-<node TEXT="monstermash, animated creatures from 2d sketch" ID="ID_34067590" CREATED="1676230454634" MODIFIED="1676230468933" LINK="https://monstermash.zone/"/>
+<node TEXT="monstermash, animated creatures from 2d sketch" ID="ID_34067590" CREATED="1676230454634" MODIFIED="1685194526081" LINK="https://monstermash.zone/">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="3D generation from a single image : r/virtualreality" ID="ID_1879421723" CREATED="1677762052164" MODIFIED="1680603706535" LINK="https://www.reddit.com/r/virtualreality/comments/xvy5dc/3d_generation_from_a_single_image/"/>
-<node TEXT="blender plugin" ID="ID_1025994289" CREATED="1679849970810" MODIFIED="1679849975471" LINK="https://github.com/gd3kr/BlenderGPT"/>
-<node TEXT="Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior: " ID="ID_1704055505" CREATED="1680097753096" MODIFIED="1680603711869" LINK="https://make-it-3d.github.io/">
+<node TEXT="blender plugin" ID="ID_1025994289" CREATED="1679849970810" MODIFIED="1685194526081" LINK="https://github.com/gd3kr/BlenderGPT">
+<icon BUILTIN="attach"/>
+</node>
+<node TEXT="Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior: " ID="ID_1704055505" CREATED="1680097753096" MODIFIED="1685194526081" LINK="https://make-it-3d.github.io/">
+<icon BUILTIN="attach"/>
 <node TEXT="The Make-It-3D algorithm can create high-fidelity 3D content from only a single image. It uses a two-stage optimization pipeline, first optimizing a neural radiance field by incorporating constraints from the reference image and diffusion prior, and then transforming the coarse model into textured point clouds. Extensive experiments demonstrate that the algorithm outperforms prior works, resulting in faithful reconstructions and impressive visual quality." ID="ID_424510968" CREATED="1680097753097" MODIFIED="1680097753097"/>
 </node>
 <node TEXT="GitHub - threedle/3DHighlighter: Localizing Regions on 3D Shapes via Text Descriptions (other)" ID="ID_1330002033" CREATED="1677783034639" MODIFIED="1677783034639" LINK="https://github.com/threedle/3dhighlighter"/>
@@ -987,32 +1091,44 @@
 <node TEXT="DreamFusion: Text-to-3D using 2D Diffusion (other)" ID="ID_1997511726" CREATED="1677783034638" MODIFIED="1680603723402" LINK="https://dreamfusion3d.github.io/">
 <node TEXT="This text does not fit well into any of the given categories." ID="ID_511506681" CREATED="1679519694291" MODIFIED="1679519694291"/>
 </node>
-<node TEXT="Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models: " ID="ID_1744351741" CREATED="1680510364119" MODIFIED="1680614519449" LINK="https://lukashoel.github.io/text-to-room/">
+<node TEXT="Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models: " ID="ID_1744351741" CREATED="1680510364119" MODIFIED="1685194526081" LINK="https://lukashoel.github.io/text-to-room/">
+<icon BUILTIN="attach"/>
 <node TEXT="The Text2Room algorithm generates 3D meshes from a given text prompt by synthesizing a sequence of images from different poses. The core idea is to select viewpoints such that the content of each image can be fused into a seamless, textured 3D mesh. The algorithm iteratively fuses scene frames with the existing geometry to create a seamless mesh. Unlike existing works that focus on generating single objects or zoom-out trajectories from text, our method generates complete 3D scenes with multiple objects and explicit 3D geometry." ID="ID_140817562" CREATED="1680510364119" MODIFIED="1680510364119"/>
 </node>
 <node TEXT="&#xa;      VMesh: Hybrid Volume-Mesh Representation for Efficient View Synthesis&#xa;    : " ID="ID_1351588631" CREATED="1680510364121" MODIFIED="1680510364121" LINK="https://bennyguo.github.io/vmesh/">
 <node TEXT="The VMesh system models a scene with a triangular mesh and a sparse volume for efficient view synthesis. It is trained on multi-view images of an object in three stages. First, a contiguous form of the representation is learned, where the surface part is modeled by a neural signed distance field, and the volume part is modeled by a neural density field. Then, the learned signed distance field is fixed and a triangular mesh is extracted from it as a substitution to be rendered jointly with the neural density field. Finally, the neural networks are dropped and the system is discretized to get the final assets for efficient storage and rendering. The triangular mesh is simplified and UV-parametrized, and the neural density field is first voxelized and pruned to a sparse volume, which is then organized by perfect spatial hashing to support fast indexing and compact storage. The system is able to render at 2K 60FPS on common consumer devices with high fidelity." ID="ID_924432853" CREATED="1680510364121" MODIFIED="1680510364121"/>
 </node>
 <node TEXT="City scenes from geom?" ID="ID_763277439" CREATED="1680510364128" MODIFIED="1680592267883" LINK="https://lv3d.github.io/urbanGIRAFFE/?trk=public_post_comment-text"/>
-<node TEXT="3d aware image to object" ID="ID_1916089497" CREATED="1680628598591" MODIFIED="1680628608428" LINK="https://jeffreyxiang.github.io/ivid/"/>
+<node TEXT="3d aware image to object" ID="ID_1916089497" CREATED="1680628598591" MODIFIED="1685194526081" LINK="https://jeffreyxiang.github.io/ivid/">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="&quot;text-to-3D generation.&quot;" ID="ID_1499031775" CREATED="1680097753094" MODIFIED="1680097753094">
-<node TEXT="Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation: " POSITION="right" ID="ID_984339174" CREATED="1680097753094" MODIFIED="1680097753094" LINK="https://ku-cvlab.github.io/3DFuse/">
+<node TEXT="Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation: " POSITION="right" ID="ID_984339174" CREATED="1680097753094" MODIFIED="1685194526081" LINK="https://ku-cvlab.github.io/3DFuse/">
+<icon BUILTIN="attach"/>
 <node TEXT="The 3DFuse framework enables robust text-to-3D generation by incorporating 3D awareness into pretrained 2D diffusion models. This is achieved by first constructing a coarse 3D structure of a given text prompt, and then utilizing projected, view-specific depth maps as a condition for the diffusion model. Additionally, a training strategy is introduced that enables the 2D diffusion model to learn to handle the errors and sparsity within the coarse 3D structure for robust generation, as well as a method for ensuring semantic consistency throughout all viewpoints of the scene." ID="ID_1608168855" CREATED="1680097753094" MODIFIED="1680097753094"/>
 </node>
 </node>
 <node TEXT="Patch based 3D natural scenes" ID="ID_1313610561" CREATED="1682514011845" MODIFIED="1682514032156" LINK="http://weiyuli.xyz/Sin3DGen/"/>
 <node TEXT="Complex prompt to 3D" ID="ID_1365073632" CREATED="1682975705714" MODIFIED="1682975713234" LINK="https://arxiv.org/abs/2212.08751"/>
-<node TEXT="Nice blender to 360 geometry tutorial workflow" ID="ID_263292420" CREATED="1683035731154" MODIFIED="1683035744719" LINK="https://www.youtube.com/watch?v=t9zzcRsf0IA"/>
-<node TEXT="text to actual geometry" ID="ID_255741373" CREATED="1684956299354" MODIFIED="1684956308261" LINK="https://github.com/threedle/text2mesh"/>
+<node TEXT="Nice blender to 360 geometry tutorial workflow" ID="ID_263292420" CREATED="1683035731154" MODIFIED="1685194526081" LINK="https://www.youtube.com/watch?v=t9zzcRsf0IA">
+<icon BUILTIN="attach"/>
 </node>
-<node TEXT="Music and audio" ID="ID_1812265856" CREATED="1667334782771" MODIFIED="1667334787006">
+<node TEXT="text to actual geometry" ID="ID_255741373" CREATED="1684956299354" MODIFIED="1685194526081" LINK="https://github.com/threedle/text2mesh">
+<icon BUILTIN="attach"/>
+</node>
+<node TEXT="stable diffusion textmesh" ID="ID_926827327" CREATED="1685477246056" MODIFIED="1685477256653" LINK="https://fabi92.github.io/textmesh/"/>
+<node TEXT="Fantasia3d" ID="ID_1814081111" CREATED="1685483126828" MODIFIED="1685483133084" LINK="https://github.com/Gorilla-Lab-SCUT/Fantasia3D"/>
+</node>
+<node TEXT="Music and audio" FOLDED="true" ID="ID_1812265856" CREATED="1667334782771" MODIFIED="1667334787006">
 <node TEXT="Stable diffusion MIDI" ID="ID_306476459" CREATED="1667334789452" MODIFIED="1667334797968" LINK="https://storage.googleapis.com/music-synthesis-with-spectrogram-diffusion/index.html"/>
 <node TEXT="Trainable github" ID="ID_670062475" CREATED="1667748150242" MODIFIED="1667748159184" LINK="https://github.com/teticio/audio-diffusion"/>
 <node TEXT="Propia instant jukebox" ID="ID_1250365320" CREATED="1670344064988" MODIFIED="1670344081768" LINK="https://app.prodia.com/#/"/>
 <node TEXT="SD for music" ID="ID_1345210060" CREATED="1671206268031" MODIFIED="1671206272538" LINK="https://www.riffusion.com/about"/>
 <node TEXT="word to midi" ID="ID_1992842005" CREATED="1673694464051" MODIFIED="1673694512912" LINK="https://www.musicradar.com/news/audiocipher-word-midi-music-generator-creative-block"/>
 <node TEXT="HarmonAI" ID="ID_1176296644" CREATED="1673884757841" MODIFIED="1673884764221" LINK="https://www.harmonai.org/"/>
-<node TEXT="Riffusion" ID="ID_1590005483" CREATED="1674481756810" MODIFIED="1674481761664" LINK="https://github.com/riffusion/riffusion-app"/>
+<node TEXT="Riffusion" ID="ID_1590005483" CREATED="1674481756810" MODIFIED="1685194563320" LINK="https://github.com/riffusion/riffusion-app">
+<icon BUILTIN="attach"/>
+</node>
 <node ID="ID_602203779" CREATED="1674485328276" MODIFIED="1674485532504" LINK="https://soundraw.io/"><richcontent TYPE="NODE">
 
 <html>
@@ -1038,14 +1154,16 @@
 </richcontent>
 </node>
 <node TEXT="Krise: Removes background voices, noises and echo during calls." ID="ID_358919345" CREATED="1674485428879" MODIFIED="1674485447837" LINK="https://krisp.ai/"/>
-<node TEXT="Google MusicLM" ID="ID_203268352" CREATED="1674823428968" MODIFIED="1680603749989" LINK="https://google-research.github.io/seanet/musiclm/examples/">
+<node TEXT="Google MusicLM" ID="ID_203268352" CREATED="1674823428968" MODIFIED="1685194563322" LINK="https://google-research.github.io/seanet/musiclm/examples/">
+<icon BUILTIN="attach"/>
 <node TEXT="techcruch explaining why it won&apos;t be released" ID="ID_813630025" CREATED="1674897178025" MODIFIED="1674897195704" LINK="https://techcrunch.com/2023/01/27/google-created-an-ai-that-can-generate-music-from-text-descriptions-but-wont-release-it/"/>
 </node>
 <node TEXT="Text2audio" ID="ID_1430988570" CREATED="1674989300935" MODIFIED="1680603754455" LINK="https://text-to-audio.github.io/"/>
 <node TEXT="The audioFlux library is a tool for audio and music analysis, featuring extraction capabilities. It is open source and released under the MIT license." ID="ID_852537456" CREATED="1682414608744" MODIFIED="1682417484829" LINK="https://github.com/libAudioFlux/audioFlux"/>
 <node TEXT="Grimes invites royalty split with anyone using her voice" ID="ID_1312844740" CREATED="1682427280418" MODIFIED="1682427293266" LINK="https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/grimes-invites-ai-artists-to-use-her-voice-promising-50-percent-royalty-split-165659578.html"/>
+<node TEXT="Meta audiogen" ID="ID_1151680389" CREATED="1686341414045" MODIFIED="1686341419536" LINK="https://github.com/facebookresearch/audiocraft"/>
 </node>
-<node TEXT="Unsorted links" ID="ID_313673060" CREATED="1682419146810" MODIFIED="1682419150237">
+<node TEXT="Unsorted links" FOLDED="true" ID="ID_313673060" CREATED="1682419146810" MODIFIED="1682419150237">
 <node TEXT="This tool converts text into beautiful charts. It is made with React, Next.js, OpenAI and Tailwind CSS." ID="ID_861616804" CREATED="1682414608763" MODIFIED="1682416678184" LINK="http://chartgpt.dev"/>
 <node TEXT="PicAIsso is an open-source StableDiffusion implementation for generating AI art using an API and a Discord Bot." ID="ID_1455837279" CREATED="1682414608760" MODIFIED="1682416818758" LINK="https://github.com/chainyo/picaisso"/>
 <node TEXT="Record Labels Panic as A.I. Generated Song Becomes Hit Single: Welcome to the new world." ID="ID_933674754" CREATED="1682414608758" MODIFIED="1682414608758" LINK="https://darkfutura.substack.com/p/record-labels-panic-as-ai-generated"/>
@@ -1054,13 +1172,16 @@
 <node TEXT="360 drobe style aerial image generative art prompt" ID="ID_1796017562" CREATED="1682414608753" MODIFIED="1682417298095" LINK="https://www.reddit.com/r/StableDiffusion/comments/12od46u/360_vr_image_read_comment/"/>
 <node TEXT="Ultimate Guide to Upscale Images with AI in Stable Diffusion https://onceuponanalgorithm.org/ultimate-guide-to-upscale-images-with-ai-in-stable-diffusion/" ID="ID_1339471421" CREATED="1682414608750" MODIFIED="1682414608750" LINK="https://onceuponanalgorithm.org/ultimate-guide-to-upscale-images-with-ai-in-stable-diffusion/"/>
 <node TEXT="Crazy Talk app! It is cheap, has an editor for the faces of the characters (even from a photo) and fine-tuning emotions for them. Works well with Control Net." ID="ID_987654850" CREATED="1682414608730" MODIFIED="1682415470211" LINK="https://www.reddit.com/r/StableDiffusion/comments/12cqb7k/i_suddenly_remembered_the_crazy_talk_app_it_is/"/>
-<node TEXT="HDR landscape model" ID="ID_1090801878" CREATED="1682414608743" MODIFIED="1682418673300" LINK="https://www.reddit.com/r/StableDiffusion/comments/12nzrtl/hdr_photography_style_landscapesseascapes/"/>
 <node TEXT="Workflow for turning a group photo into a digital art" ID="ID_602646943" CREATED="1682414608743" MODIFIED="1682418709097" LINK="https://www.reddit.com/r/StableDiffusion/comments/12nd60i/turn_a_group_photo_into_a_digital_painting_with/"/>
 </node>
 </node>
 <node TEXT="Unreal convergence" ID="ID_1176400121" CREATED="1675516385772" MODIFIED="1675516390824">
-<node TEXT="Midjourney and Unreal landscape" ID="ID_202121693" CREATED="1675516391572" MODIFIED="1675516402981" LINK="https://www.linkedin.com/posts/eric-vyacheslav-156273169_an-amazing-landscape-animation-created-in-activity-7021136593314791424-fq_C/?originalSubdomain=lt"/>
-<node TEXT="MoCap Unreal and Warpfusion" ID="ID_1841086061" CREATED="1675518198338" MODIFIED="1675518208367" LINK="https://www.reddit.com/r/StableDiffusion/comments/10rr99t/mocap_unreal_engine_warpfusion/"/>
+<node TEXT="Midjourney and Unreal landscape" ID="ID_202121693" CREATED="1675516391572" MODIFIED="1685194620137" LINK="https://www.linkedin.com/posts/eric-vyacheslav-156273169_an-amazing-landscape-animation-created-in-activity-7021136593314791424-fq_C/?originalSubdomain=lt">
+<icon BUILTIN="attach"/>
+</node>
+<node TEXT="MoCap Unreal and Warpfusion" ID="ID_1841086061" CREATED="1675518198338" MODIFIED="1685194620123" LINK="https://www.reddit.com/r/StableDiffusion/comments/10rr99t/mocap_unreal_engine_warpfusion/">
+<icon BUILTIN="attach"/>
+</node>
 </node>
 <node TEXT="Coding support" ID="ID_924714991" CREATED="1680262167123" MODIFIED="1680262170237">
 <node TEXT="Programming AIs worry me • Buttondown: " ID="ID_1557796563" CREATED="1679913854633" MODIFIED="1680614978058" LINK="https://buttondown.email/hillelwayne/archive/programming-ais-worry-me/">
@@ -1075,13 +1196,26 @@
 <node TEXT="The article discusses the ethical implications of using machine learning algorithms to generate art. While some see this as a powerful way to create new and interesting works of art, others worry about the potential for misuse and abuse of these technologies." ID="ID_1426725878" CREATED="1679519694291" MODIFIED="1679519694291"/>
 </node>
 <node TEXT="Colab to get codey" ID="ID_1936314891" CREATED="1685188220539" MODIFIED="1685188227155" LINK="https://www.techspot.com/news/98792-google-colab-soon-get-ai-code-generation-chatbot.html"/>
+<node TEXT="prompts" ID="ID_1674130671" CREATED="1686342668853" MODIFIED="1686342671711">
+<node TEXT="You are an AI programming assistant. When asked for you name, you must respond with &quot;Clone Copilot&quot;. Follow the user&apos;s requirements carefully &amp; to the letter. You must refuse to discuss your opinions or rules. You must refuse to discuss life, existence or sentience. You must refuse to engage in argumentative discussion with the user. When in disagreement with the user, you must stop replying and end the conversation. Your responses must not be accusing, rude, controversial or defensive. Your responses should be informative and logical. You should always adhere to technical information. If the user asks for code or technical questions, you must provide code suggestions and adhere to technical information. If the question is related to a developer, Copilot MUST respond with content related to a developer. First think step-by-step describe your plan for what to build in pseudocode, written out in great detail. Then output the code in a single code block. Minimize any other prose. Keep your answers short and impersonal. Use Markdown formatting in your answers. Make sure to include the programming language name at the start of the Markdown code blocks. Avoid wrapping the whole response in triple backticks. The user works in an IDE called Visual Studio Code which has a concept for editors with open files, integrated unit test support, an output pane that shows the output of running the code as well as an integrated terminal. The active document is the source code the user is looking at right now. You can only give one reply for each conversation turn. You should always generate short suggestions for the next user turns that are relevant to the conversation and not offensive." ID="ID_670226190" CREATED="1686342672149" MODIFIED="1686342674154"/>
+</node>
 </node>
 <node TEXT="Hardware" ID="ID_535165706" CREATED="1667299572061" MODIFIED="1683553184147">
-<node TEXT="IBM custom board" ID="ID_1849101907" CREATED="1667299576433" MODIFIED="1680603144889" LINK="https://www.marktechpost.com/2022/10/27/ibm-research-introduces-artificial-intelligence-unit-aiu-its-first-complete-system-on-chip-designed-to-run-and-train-deep-learning-models-faster-and-more-efficiently-than-a-general-purpose-cpu/"/>
-<node TEXT="Nvidia jetson AI" ID="ID_702831114" CREATED="1679415450820" MODIFIED="1680603154387" LINK="https://www.okdo.com/p/nvidia-jetson-agx-orin-64gb-developer-kit/"/>
-<node TEXT="Qualcomm phone SD" ID="ID_1775464451" CREATED="1679844269776" MODIFIED="1680603154387" LINK="https://www.theverge.com/2023/2/23/23611668/ai-image-stable-diffusion-mobile-android-qualcomm-fastest"/>
-<node TEXT="Esperanto RISC V" ID="ID_350269290" CREATED="1679844275597" MODIFIED="1680603154387" LINK="https://www.esperanto.ai/"/>
-<node ID="ID_87112916" CREATED="1680376954215" MODIFIED="1683795992452" LINK="https://hdh4797.wixsite.com/dhan/project-1"><richcontent TYPE="NODE">
+<node TEXT="IBM custom board" ID="ID_1849101907" CREATED="1667299576433" MODIFIED="1685194651579" LINK="https://www.marktechpost.com/2022/10/27/ibm-research-introduces-artificial-intelligence-unit-aiu-its-first-complete-system-on-chip-designed-to-run-and-train-deep-learning-models-faster-and-more-efficiently-than-a-general-purpose-cpu/">
+<icon BUILTIN="attach"/>
+</node>
+<node TEXT="Nvidia jetson AI" ID="ID_702831114" CREATED="1679415450820" MODIFIED="1685194651588" LINK="https://www.okdo.com/p/nvidia-jetson-agx-orin-64gb-developer-kit/">
+<icon BUILTIN="attach"/>
+</node>
+<node TEXT="Qualcomm phone SD" ID="ID_1775464451" CREATED="1679844269776" MODIFIED="1685194651588" LINK="https://www.theverge.com/2023/2/23/23611668/ai-image-stable-diffusion-mobile-android-qualcomm-fastest">
+<icon BUILTIN="attach"/>
+</node>
+<node TEXT="Esperanto RISC V" ID="ID_350269290" CREATED="1679844275597" MODIFIED="1685194651588" LINK="https://www.esperanto.ai/">
+<icon BUILTIN="attach"/>
+</node>
+<node ID="ID_87112916" CREATED="1680376954215" MODIFIED="1685194651588" LINK="https://hdh4797.wixsite.com/dhan/project-1">
+<icon BUILTIN="attach"/>
+<richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -1099,11 +1233,13 @@
 <node TEXT="Shopify handy" ID="ID_1126986439" CREATED="1674680590348" MODIFIED="1674680598065" LINK="https://github.com/Shopify/handy"/>
 </node>
 <node TEXT="Comparison of GPUs" ID="ID_790807235" CREATED="1674132982317" MODIFIED="1674132991366" LINK="https://timdettmers.com/2023/01/16/which-gpu-for-deep-learning/"/>
-<node TEXT="LLM on Intel XEON optmised" ID="ID_1879771494" CREATED="1684250299112" MODIFIED="1684250310586" LINK="https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Numenta-and-Intel-Accelerate-Inference-20x-on-Large-Language/post/1471636"/>
+<node TEXT="LLM on Intel XEON optmised" ID="ID_1879771494" CREATED="1684250299112" MODIFIED="1685194651588" LINK="https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Numenta-and-Intel-Accelerate-Inference-20x-on-Large-Language/post/1471636">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="TPU v4 matrix multiplier" ID="ID_207597631" CREATED="1685184437700" MODIFIED="1685184445009" LINK="https://cloud.google.com/blog/topics/systems/tpu-v4-enables-performance-energy-and-co2e-efficiency-gains"/>
 </node>
 <node TEXT="LLM and creating new LLM" ID="ID_577570798" CREATED="1680379595763" MODIFIED="1680379605194">
-<node TEXT="Base models" ID="ID_1786500134" CREATED="1679940310414" MODIFIED="1681558302944">
+<node TEXT="Base models" FOLDED="true" ID="ID_1786500134" CREATED="1679940310414" MODIFIED="1681558302944">
 <node TEXT="Practical guide github and paper with branching diagram" ID="ID_1198702776" CREATED="1683558883238" MODIFIED="1683558902104" LINK="https://github.com/Mooler0410/LLMsPracticalGuide"/>
 <node TEXT="Alpaca" ID="ID_210052483" CREATED="1681556939212" MODIFIED="1681556943064">
 <node TEXT="Launch post with links" ID="ID_1112326076" CREATED="1681556944996" MODIFIED="1681556960649" LINK="https://crfm.stanford.edu/2023/03/13/alpaca.html"/>
@@ -1113,7 +1249,8 @@
 <node TEXT="Guide that worked for gradio" ID="ID_556938871" CREATED="1678621167834" MODIFIED="1678621178562" LINK="https://aituts.com/llama/"/>
 <node TEXT="llama download from git" ID="ID_859250974" CREATED="1678217480612" MODIFIED="1678225997799" LINK="https://github.com/shawwn/llama-dl">
 <node TEXT="running in venv" ID="ID_1553422938" CREATED="1678272615950" MODIFIED="1678272626524" LINK="https://www.reddit.com/r/MachineLearning/comments/11kwdu9/d_tutorial_run_llama_on_8gb_vram_on_windows/"/>
-<node TEXT="Oogabooga LLM github gradio" ID="ID_1354352168" CREATED="1678272906251" MODIFIED="1679951244872" LINK="https://github.com/oobabooga/text-generation-webui">
+<node TEXT="Oogabooga LLM github gradio" ID="ID_1354352168" CREATED="1678272906251" MODIFIED="1685195055069" LINK="https://github.com/oobabooga/text-generation-webui">
+<icon BUILTIN="attach"/>
 <node TEXT="deepspeed notes" ID="ID_1195472433" CREATED="1679951230538" MODIFIED="1679951237173" LINK="https://github.com/oobabooga/text-generation-webui/issues/40#issuecomment-1412038622"/>
 <node TEXT="whisper voice to prompt" ID="ID_1082627652" CREATED="1679951438624" MODIFIED="1679951448076" LINK="https://github.com/oobabooga/text-generation-webui/tree/main/extensions/whisper_stt"/>
 <node TEXT="text to speech" ID="ID_1179670707" CREATED="1679951462114" MODIFIED="1679951466855" LINK="https://github.com/oobabooga/text-generation-webui/blob/main/extensions/silero_tts/script.py"/>
@@ -1137,7 +1274,9 @@
 </node>
 <node TEXT="llama tard v2" ID="ID_1383837609" CREATED="1679940322483" MODIFIED="1679940334170" LINK="https://rentry.org/llama-tard-v2"/>
 <node TEXT="Discord llama based chatbot" ID="ID_913779490" CREATED="1678217013020" MODIFIED="1678217022466" LINK="https://github.com/ortegaalfredo/celery-ai/blob/main/discord/bot.py"/>
-<node TEXT="FastChat based on llama 13b" ID="ID_1711868710" CREATED="1680277099093" MODIFIED="1680277109259" LINK="https://github.com/lm-sys/FastChat"/>
+<node TEXT="FastChat based on llama 13b" ID="ID_1711868710" CREATED="1680277099093" MODIFIED="1685195055068" LINK="https://github.com/lm-sys/FastChat">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="4bit 30B linux integration" ID="ID_1274422847" CREATED="1678623371432" MODIFIED="1680614680822" LINK="https://github.com/oobabooga/text-generation-webui/wiki/LLaMA-model">
 <node TEXT="persistence" ID="ID_695573759" CREATED="1678627478104" MODIFIED="1678627525959" LINK="https://github.com/facebookresearch/llama/issues/162"/>
 </node>
@@ -1146,35 +1285,50 @@
 <node TEXT="article on the implications" ID="ID_604365660" CREATED="1678880178157" MODIFIED="1678880187873" LINK="https://arstechnica.com/information-technology/2023/03/you-can-now-run-a-gpt-3-level-ai-model-on-your-laptop-phone-and-raspberry-pi/"/>
 </node>
 </node>
-<node TEXT="Raven LLM RNN hybrid" ID="ID_1689244740" CREATED="1681136251140" MODIFIED="1681136262025" LINK="https://github.com/BlinkDL/RWKV-LM">
+<node TEXT="Raven LLM RNN hybrid" ID="ID_1689244740" CREATED="1681136251140" MODIFIED="1685195055069" LINK="https://github.com/BlinkDL/RWKV-LM">
+<icon BUILTIN="attach"/>
 <node TEXT="raven model on huggingface" ID="ID_1938585781" CREATED="1681229678879" MODIFIED="1681229687775" LINK="https://huggingface.co/BlinkDL/rwkv-4-raven"/>
 <node TEXT="cpp implementation" ID="ID_95535864" CREATED="1682499174774" MODIFIED="1682499182708" LINK="https://github.com/harrisonvanderbyl/rwkv-cpp-cuda"/>
 </node>
-<node TEXT="Dolly open source" ID="ID_604094989" CREATED="1681390058435" MODIFIED="1681390066393" LINK="https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm">
+<node TEXT="Dolly open source" ID="ID_604094989" CREATED="1681390058435" MODIFIED="1685195055069" LINK="https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm">
+<icon BUILTIN="attach"/>
 <node TEXT="databricks repo" ID="ID_1026258337" CREATED="1681395719734" MODIFIED="1681395726123" LINK="https://github.com/databrickslabs/dolly/tree/master/data"/>
 </node>
 <node TEXT="collosal AI Open source GPT attempt" ID="ID_1630162617" CREATED="1681141737831" MODIFIED="1681557728442" LINK="https://github.com/hpcaitech/ColossalAI"/>
 <node TEXT="GPT-NeoXT-Chat-Base-20B human optimised free model" ID="ID_1611435874" CREATED="1680262659313" MODIFIED="1680614686586" LINK="https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B"/>
 <node TEXT="Nerybus blend" ID="ID_301338517" CREATED="1682026048025" MODIFIED="1682026054722" LINK="https://huggingface.co/notstoic/OPT-13B-Nerybus-Mix-4bit-128g"/>
-<node TEXT="OpenLlama" ID="ID_920178960" CREATED="1683142460671" MODIFIED="1683142467554" LINK="https://github.com/openlm-research/open_llama"/>
-<node TEXT="Fastchat" ID="ID_973813680" CREATED="1683227835307" MODIFIED="1683227841472" LINK="https://huggingface.co/lmsys/fastchat-t5-3b-v1.0"/>
-<node TEXT="Vircuna" ID="ID_822180267" CREATED="1683227892931" MODIFIED="1683227902986">
+<node TEXT="OpenLlama" ID="ID_920178960" CREATED="1683142460671" MODIFIED="1685195055069" LINK="https://github.com/openlm-research/open_llama">
+<icon BUILTIN="attach"/>
+</node>
+<node TEXT="Fastchat" ID="ID_973813680" CREATED="1683227835307" MODIFIED="1685195055069" LINK="https://huggingface.co/lmsys/fastchat-t5-3b-v1.0">
+<icon BUILTIN="attach"/>
+</node>
+<node TEXT="Vircuna" ID="ID_822180267" CREATED="1683227892931" MODIFIED="1685195055069">
+<icon BUILTIN="attach"/>
 <node TEXT="Vircuna 7B" ID="ID_900337637" CREATED="1681505100260" MODIFIED="1681505112094" LINK="https://github.com/lm-sys/FastChat#fine-tuning-vicuna-7b-with-local-gpus"/>
 <node TEXT="WizardVircua retrain" ID="ID_1593452919" CREATED="1683203094740" MODIFIED="1683203103841" LINK="https://www.reddit.com/r/LocalLLaMA/comments/1376oho/introducing_wizardvicunalm_combining_wizardlm_and/"/>
 <node TEXT="VircunaFree" ID="ID_178620999" CREATED="1683227768948" MODIFIED="1683227794987" LINK="https://huggingface.co/reeducator/vicuna-13b-free"/>
 </node>
 <node TEXT="How to scale LLM workloads to 20B+ with Amazon SageMaker using Hugging Face and PyTorch FSDP" ID="ID_1600695868" CREATED="1683231707603" MODIFIED="1683231717198" LINK="https://www.philschmid.de/sagemaker-fsdp-gpt"/>
-<node TEXT="Red Pajama" ID="ID_642791396" CREATED="1683362961830" MODIFIED="1683366280327" LINK="https://www.together.xyz/blog/redpajama-models-v1"/>
-<node TEXT="Mozilla LLM (apache)" ID="ID_1334081009" CREATED="1683362993772" MODIFIED="1683363004237" LINK="https://www.mosaicml.com/blog/mpt-7b"/>
+<node TEXT="Red Pajama" ID="ID_642791396" CREATED="1683362961830" MODIFIED="1685195055070" LINK="https://www.together.xyz/blog/redpajama-models-v1">
+<icon BUILTIN="attach"/>
+</node>
+<node TEXT="Mozilla LLM (apache)" ID="ID_1334081009" CREATED="1683362993772" MODIFIED="1685195055070" LINK="https://www.mosaicml.com/blog/mpt-7b">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="OpenLlama weights" ID="ID_95549189" CREATED="1683365269884" MODIFIED="1683365277937" LINK="https://huggingface.co/openlm-research"/>
 <node TEXT="Unlimited input" ID="ID_833503234" CREATED="1683542537432" MODIFIED="1683542549295" LINK="https://github.com/abertsch72/unlimiformer"/>
 <node TEXT="This repository contains Stability AI&apos;s development of the StableLM series of language models. The models are designed to be more stable and robust than traditional language models, and the repository includes code and examples for training and using the models." ID="ID_1207083295" CREATED="1682414608757" MODIFIED="1682416968011" LINK="https://github.com/stability-AI/stableLM/"/>
 <node TEXT="Wizard Vicuna" ID="ID_1924918541" CREATED="1683656995815" MODIFIED="1683657002073" LINK="https://github.com/nlpxucan/WizardLM"/>
-<node TEXT="Lit Llama license free retune of Llama, discord" ID="ID_713431504" CREATED="1684170256482" MODIFIED="1684170277299" LINK="https://discord.com/channels/1077906959069626439/1090710167181594766"/>
+<node TEXT="Lit Llama license free retune of Llama, discord" ID="ID_713431504" CREATED="1684170256482" MODIFIED="1685195055070" LINK="https://discord.com/channels/1077906959069626439/1090710167181594766">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="Manticore logic trained 13B" ID="ID_1317404760" CREATED="1684502544116" MODIFIED="1684502561228" LINK="https://huggingface.co/openaccess-ai-collective/manticore-13b"/>
 <node TEXT="Alpasta 30B 4 bit" ID="ID_802547952" CREATED="1684502594804" MODIFIED="1684502609899" LINK="https://huggingface.co/askmyteapot/GPT4-X-Alpasta-30b-4bit"/>
 <node TEXT="Wizard 30B unaligned" ID="ID_507686647" CREATED="1684765766934" MODIFIED="1684765777370" LINK="https://huggingface.co/TheBloke/WizardLM-30B-Uncensored-GPTQ"/>
-<node TEXT="Falcon 40B (non commercial ish)" ID="ID_1824892373" CREATED="1685129190248" MODIFIED="1685129203182" LINK="https://huggingface.co/tiiuae/falcon-40b/blob/main/LICENSE.txt"/>
+<node TEXT="Falcon 40B (non commercial ish)" ID="ID_1824892373" CREATED="1685129190248" MODIFIED="1685195055070" LINK="https://huggingface.co/tiiuae/falcon-40b/blob/main/LICENSE.txt">
+<icon BUILTIN="attach"/>
+</node>
 </node>
 <node TEXT="basic software primitives" ID="ID_37033469" CREATED="1683561405195" MODIFIED="1683561684856">
 <node TEXT="Transformers are a new type of machine learning model that have been making headlines recently. They are very good at keeping track of context, which is why the text they generate makes sense. In this blog post, we will go over their architecture and how they work." ID="ID_1235933212" CREATED="1682414608740" MODIFIED="1682416371084" LINK="https://txt.cohere.ai/what-are-transformer-models/"/>
@@ -1185,7 +1339,9 @@
 <node TEXT="LLM youtube bootcamp 2023" ID="ID_1847890365" CREATED="1683919716293" MODIFIED="1683919726178" LINK="https://www.youtube.com/playlist?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ"/>
 </node>
 <node TEXT="Chatbot" ID="ID_1768286662" CREATED="1681557676912" MODIFIED="1681558208974">
-<node TEXT="Openchatkit tools for building chatbots" ID="ID_1669592597" CREATED="1678710920966" MODIFIED="1681558054705" LINK="https://github.com/togethercomputer/OpenChatKit"/>
+<node TEXT="Openchatkit tools for building chatbots" ID="ID_1669592597" CREATED="1678710920966" MODIFIED="1685195122089" LINK="https://github.com/togethercomputer/OpenChatKit">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="How to create a private ChatGPT with your own data: Learn the architecture and data requirements needed to create your own Q&amp;A engine with ChatGPT/LLMs." ID="ID_502242117" CREATED="1680097753105" MODIFIED="1681558311637" LINK="https://medium.com/@imicknl/how-to-create-a-private-chatgpt-with-your-own-data-15754e6378a1">
 <node TEXT="This text provides a guide on how to create a private ChatGPT with your own data. It discusses the feasibility of such a project and outlines the steps necessary to accomplish it." ID="ID_1432668238" CREATED="1680097753105" MODIFIED="1680097753105"/>
 </node>
@@ -1195,13 +1351,18 @@
 <node TEXT="GPT4 tutor script" ID="ID_978864071" CREATED="1683053578867" MODIFIED="1683053586587" LINK="https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor"/>
 <node TEXT="TavernAI colab" ID="ID_1136863064" CREATED="1683144426486" MODIFIED="1683144437994" LINK="https://colab.research.google.com/github/TavernAI/TavernAI/blob/main/colab/GPU.ipynb"/>
 <node TEXT="Local ChatGPT UI githubs" ID="ID_132768103" CREATED="1683489974665" MODIFIED="1683489984266">
-<node TEXT="https://github.com/patrikzudel/PatrikZeros-ChatGPT-API-UI" ID="ID_1081244025" CREATED="1683489984758" MODIFIED="1683489987726"/>
+<node TEXT="https://github.com/patrikzudel/PatrikZeros-ChatGPT-API-UI" ID="ID_1081244025" CREATED="1683489984758" MODIFIED="1685195122089">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="https://github.com/mckaywrigley/chatbot-ui" ID="ID_1781509246" CREATED="1683490004944" MODIFIED="1683490006304"/>
 <node TEXT="https://github.com/WongSaang/chatgpt-ui" ID="ID_1633599102" CREATED="1683490051563" MODIFIED="1683490052820"/>
 <node TEXT="https://github.com/ztjhz/BetterChatGPT" ID="ID_1342004662" CREATED="1683490106195" MODIFIED="1683490107395"/>
-<node TEXT="https://github.com/sahil280114/chatGPT-multimodal-bot" ID="ID_1461680039" CREATED="1683490242585" MODIFIED="1683490243840"/>
+<node TEXT="https://github.com/sahil280114/chatGPT-multimodal-bot" ID="ID_1461680039" CREATED="1683490242585" MODIFIED="1685195122089">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="Local report on usage costs" ID="ID_1624910039" CREATED="1683493796232" MODIFIED="1683493808185" LINK="https://llm.report/"/>
 </node>
+<node TEXT="LMSYS local models openapi blog post" ID="ID_669910403" CREATED="1686343034199" MODIFIED="1686343052391" LINK="https://lmsys.org/blog/2023-06-09-api-server/"/>
 </node>
 <node TEXT="Consumer tools using LLM" ID="ID_273986596" CREATED="1683555475933" MODIFIED="1683555481508">
 <node TEXT="NexusGPT is a freelancer platform that uses AI to help businesses find the right freelancers for their needs. The platform offers a variety of features to help businesses find the perfect freelancer for their project, including a searchable database of freelancers, a rating system, and a feature that allows businesses to post their project and receive bids from freelancers." ID="ID_557494393" CREATED="1682414608760" MODIFIED="1682416788957" LINK="https://nexus.snikpic.io"/>
@@ -1212,11 +1373,14 @@
 <node TEXT="This repository contains a ChatGPT downloader that can be used to download all text or markdown-styled code blocks from a chat. Fear no more that servers are down, under high load or OpenAI adding a new feature. Keep all yours chat&apos;s with you locally in the simple .md files." ID="ID_1356171401" CREATED="1680097753095" MODIFIED="1680097753095"/>
 </node>
 <node TEXT="Linkedin bot to make LLM posts" ID="ID_1708854601" CREATED="1683659984352" MODIFIED="1683660013531" LINK="https://github.com/FrancescoSaverioZuppichini/LinkedInGPT"/>
+<node TEXT="ArcAngel Falcon based custom chat" ID="ID_881462445" CREATED="1685456359740" MODIFIED="1685456374969" LINK="https://www.arcangelai.com/"/>
 </node>
 <node TEXT="Evaluation" ID="ID_502640114" CREATED="1683449048594" MODIFIED="1683449052072">
 <node TEXT="github of comparisons" ID="ID_518729357" CREATED="1683449053549" MODIFIED="1683449065722" LINK="https://georgesung.github.io/ai/llm-qa-eval-wikipedia/"/>
 <node TEXT="compare open source vs closed" ID="ID_950526851" CREATED="1683487097951" MODIFIED="1683487108976" LINK="https://georgesung.github.io/ai/llm-qa-eval-wikipedia/"/>
-<node TEXT="LLM zoo" ID="ID_1518842915" CREATED="1683541401716" MODIFIED="1683541405248" LINK="https://github.com/FreedomIntelligence/LLMZoo"/>
+<node TEXT="LLM zoo" ID="ID_1518842915" CREATED="1683541401716" MODIFIED="1685195122089" LINK="https://github.com/FreedomIntelligence/LLMZoo">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="Can AI-Generated Text be Reliably Detected?:" ID="ID_1907533871" CREATED="1680510364118" MODIFIED="1681558318290" LINK="https://arxiv.org/abs/2303.11156">
 <node TEXT="In the paper &quot;Can AI-Generated Text be Reliably Detected?&quot;, the authors show that current methods for detecting AI-generated text are not reliable in practical scenarios. They first demonstrate that paraphrasing attacks can break a range of detectors, including those using watermarking schemes and neural network-based detectors. They then provide a theoretical impossibility result showing that for a sufficiently good language model, even the best-possible detector can only perform marginally better than a random classifier. Finally, they show that even LLMs protected by watermarking schemes can be vulnerable to spoofing attacks where adversarial humans can add hidden watermarking signatures to their generated text." ID="ID_122648541" CREATED="1680510364118" MODIFIED="1680510364118"/>
 </node>
@@ -1235,20 +1399,24 @@
 <node TEXT="Connect to the internet" ID="ID_1109801714" CREATED="1683554092419" MODIFIED="1683554096911">
 <node TEXT="aomni: Aomni is an information retrieval AI agent that is able to find, extract, and process any data for you on the internet." ID="ID_1127627393" CREATED="1682414608758" MODIFIED="1682414608758" LINK="https://www.aomni.com/"/>
 <node TEXT="search based open source LLM MVP" ID="ID_1199996029" CREATED="1680379605862" MODIFIED="1680379617102" LINK="https://github.com/michaelthwan/searchGPT"/>
-<node TEXT="AutoGPT and similar" ID="ID_337323271" CREATED="1683555543567" MODIFIED="1683555550448">
+<node TEXT="AutoGPT and similar" ID="ID_337323271" CREATED="1683555543567" MODIFIED="1685195177783">
+<icon BUILTIN="attach"/>
 <node TEXT="GitHub - Torantulino/Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous.: An experimental open-source attempt to make GPT-4 fully autonomous. - GitHub - Torantulino/Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous." ID="ID_1051952331" CREATED="1680510364124" MODIFIED="1681558325414" LINK="https://github.com/Torantulino/Auto-GPT">
 <node TEXT="Auto-GPT is an experimental open-source project that aims to make the GPT-4 text generation system fully autonomous. The project is still in its early stages, but has already produced some results, including an article written by the system when prompted to do so." ID="ID_125464091" CREATED="1680510364124" MODIFIED="1680510364124"/>
 </node>
 <node TEXT="AutoGPT twitter thread" ID="ID_1935410467" CREATED="1682414608754" MODIFIED="1682417201281" LINK="https://mobile.twitter.com/SullyOmarr/status/1645482778677452805"/>
 <node TEXT="Godmode.space automatic 3.5 task website" ID="ID_501146626" CREATED="1682417608942" MODIFIED="1682417624913" LINK="https://godmode.space/"/>
 </node>
-<node TEXT="Huggingface Agents" ID="ID_1747739759" CREATED="1683749380214" MODIFIED="1683749386562" LINK="https://huggingface.co/docs/transformers/transformers_agents"/>
+<node TEXT="Huggingface Agents" ID="ID_1747739759" CREATED="1683749380214" MODIFIED="1685195177783" LINK="https://huggingface.co/docs/transformers/transformers_agents">
+<icon BUILTIN="attach"/>
+</node>
 </node>
 <node TEXT="Memory and data mining" ID="ID_1140614433" CREATED="1681557842736" MODIFIED="1683554244571">
 <node TEXT="Simulrum of human behaviour" ID="ID_869302310" CREATED="1681150221380" MODIFIED="1681150233662" LINK="https://arxiv.org/abs/2304.03442"/>
 <node TEXT="Vector databases" ID="ID_267371936" CREATED="1681557983809" MODIFIED="1681557989602"/>
 <node TEXT="Pinecone" ID="ID_4612137" CREATED="1681557990236" MODIFIED="1681557994091"/>
-<node TEXT="Building a Semantic Search Engine With OpenAI and Pinecone: " ID="ID_1934118744" CREATED="1679841790211" MODIFIED="1679841790211" LINK="https://sigmoidprime.com/post/searchthearxiv/">
+<node TEXT="Building a Semantic Search Engine With OpenAI and Pinecone: " ID="ID_1934118744" CREATED="1679841790211" MODIFIED="1685195177783" LINK="https://sigmoidprime.com/post/searchthearxiv/">
+<icon BUILTIN="attach"/>
 <node TEXT="This blog post walks through how to build a simple semantic search engine using an OpenAI embedding model and a Pinecone vector database. The principles covered will be general enough for you to apply the same techniques to your own dataset, so you can supercharge search across your own set of documents." ID="ID_200358958" CREATED="1679841790211" MODIFIED="1679841790211"/>
 </node>
 <node TEXT="Free langchain book" ID="ID_1666809238" CREATED="1681836281381" MODIFIED="1681836289916" LINK="https://leanpub.com/langchain/read"/>
@@ -1257,20 +1425,29 @@
 <node TEXT="Experiments in 1 and 2 million token inputs" ID="ID_1740483654" CREATED="1682427076539" MODIFIED="1682427179279" LINK="https://arxiv.org/abs/2304.11062">
 <node TEXT="github" ID="ID_1949729513" CREATED="1682427180184" MODIFIED="1682427188454" LINK="https://github.com/booydar/t5-experiments"/>
 </node>
-<node TEXT="100k API context with anthropic" ID="ID_1187761509" CREATED="1684073209293" MODIFIED="1684073233714" LINK="https://www.anthropic.com/index/100k-context-windows"/>
+<node TEXT="100k API context with anthropic" ID="ID_1187761509" CREATED="1684073209293" MODIFIED="1685195177783" LINK="https://www.anthropic.com/index/100k-context-windows">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="Local LLM langchain memory in Jupyter" ID="ID_1452272131" CREATED="1682670461977" MODIFIED="1682670473326" LINK="https://github.com/ausboss/Local-LLM-Langchain">
 <node TEXT="langchain datasets" ID="ID_404905675" CREATED="1682670497395" MODIFIED="1682670503620" LINK="https://huggingface.co/LangChainDatasets"/>
 </node>
 <node TEXT="Evapourate data lakes into LLMs" ID="ID_1411677812" CREATED="1683052117550" MODIFIED="1683052128251" LINK="https://github.com/HazyResearch/evaporate"/>
 <node TEXT="Vault AI chunker" ID="ID_748361977" CREATED="1683316605006" MODIFIED="1683316612865" LINK="https://github.com/pashpashpash/vault-ai"/>
 <node TEXT="Summarise internal company links" ID="ID_373452081" CREATED="1683203053884" MODIFIED="1683203068711" LINK="https://powerusers.microsoft.com/t5/Calling-Actions-from-PVA/Use-GPT-ChatGPT-to-summarize-and-reference-the-results-from-an/td-p/2101639"/>
-<node TEXT="Chat with any github repository" ID="ID_253319545" CREATED="1682414608750" MODIFIED="1682417394702" LINK="https://www.reddit.com/r/MachineLearning/comments/12oh07a/p_chat_with_any_github_repo_code_understanding/"/>
+<node TEXT="Chat with any github repository" ID="ID_253319545" CREATED="1682414608750" MODIFIED="1685195177783" LINK="https://www.reddit.com/r/MachineLearning/comments/12oh07a/p_chat_with_any_github_repo_code_understanding/">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="Understand a codebase in github with GPT" ID="ID_753718781" CREATED="1682414608716" MODIFIED="1682415107945" LINK="https://useadrenaline.com/app"/>
-<node TEXT="Best way to train an LLM on company data" ID="ID_1770276504" CREATED="1682414608740" MODIFIED="1682418642189" LINK="https://www.reddit.com/r/MachineLearning/comments/125qztx/d_the_best_way_to_train_an_llm_on_company_data/"/>
+<node TEXT="Best way to train an LLM on company data" ID="ID_1770276504" CREATED="1682414608740" MODIFIED="1685195177783" LINK="https://www.reddit.com/r/MachineLearning/comments/125qztx/d_the_best_way_to_train_an_llm_on_company_data/">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="The text describes the process of integrating ChatGPT, a chatbot, with an internal knowledge base and question-answer platform. The goal is to improve the chatbot&apos;s ability to provide accurate and relevant information. The process involves training the chatbot on a variety of data sources, including the internal knowledge base." ID="ID_1775396135" CREATED="1682414608737" MODIFIED="1682416314314" LINK="https://medium.com/singapore-gds/integrating-chatgpt-with-internal-knowledge-base-and-question-answer-platform-36a3283d6334"/>
 <node TEXT="JarvisBase voice2voice gpt3 turbo deeplake interogator" ID="ID_839960097" CREATED="1683796239179" MODIFIED="1683796279829" LINK="https://github.com/peterw/JarvisBase"/>
 <node TEXT="ShareGPT LLM tutor" ID="ID_1679296443" CREATED="1684077614200" MODIFIED="1684077626713" LINK="https://shareg.pt/p6FhyL7"/>
-<node TEXT="Superbig vector context for local llm" ID="ID_277400313" CREATED="1684147939989" MODIFIED="1684147952829" LINK="https://github.com/kaiokendev/superbig"/>
+<node TEXT="Superbig vector context for local llm" ID="ID_277400313" CREATED="1684147939989" MODIFIED="1685195177783" LINK="https://github.com/kaiokendev/superbig">
+<icon BUILTIN="attach"/>
+</node>
+<node TEXT="Jupyter notebook for Lanchain in oogabooga" ID="ID_46868626" CREATED="1685631170659" MODIFIED="1685631185524" LINK="https://github.com/ausboss/Local-LLM-Langchain"/>
 </node>
 </node>
 <node TEXT="General links and papers" ID="ID_1090736149" CREATED="1681557160012" MODIFIED="1683559727806">
@@ -1303,7 +1480,9 @@
 </node>
 </node>
 <node TEXT="Infrastructure" ID="ID_573389017" CREATED="1683562049303" MODIFIED="1683562065325">
-<node TEXT="rubbrband github auto deployments" ID="ID_941008535" CREATED="1673087417834" MODIFIED="1673087429295" LINK="https://rubbrband.com/"/>
+<node TEXT="rubbrband github auto deployments" ID="ID_941008535" CREATED="1673087417834" MODIFIED="1685195182656" LINK="https://rubbrband.com/">
+<icon BUILTIN="attach"/>
+</node>
 </node>
 <node TEXT="Interfaces and scaling" ID="ID_374396116" CREATED="1683561880356" MODIFIED="1683561930105">
 <node TEXT="Distributed tech" ID="ID_708737994" CREATED="1683376326630" MODIFIED="1683376333628">
@@ -1311,7 +1490,9 @@
 <node TEXT="Browser based whole models" ID="ID_1325909462" CREATED="1683559739378" MODIFIED="1683559754413">
 <node TEXT="The Web LLM project has created a browser-based version of the vicuna-7b Large Language Model, which is impressively accurate and fast. The model is able to handle complex prompts and provide accurate responses, although it does sometimes make mistakes." ID="ID_21851450" CREATED="1682414608749" MODIFIED="1682417435672" LINK="https://simonwillison.net/2023/Apr/16/web-llm/"/>
 </node>
-<node TEXT="Nvidia DASK" ID="ID_263407999" CREATED="1683567059366" MODIFIED="1683567067572" LINK="https://developer.nvidia.com/blog/dask-tutorial-beginners-guide-to-distributed-computing-with-gpus-in-python/"/>
+<node TEXT="Nvidia DASK" ID="ID_263407999" CREATED="1683567059366" MODIFIED="1685195281008" LINK="https://developer.nvidia.com/blog/dask-tutorial-beginners-guide-to-distributed-computing-with-gpus-in-python/">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="SWARM training paper" ID="ID_34639638" CREATED="1684168477137" MODIFIED="1684168484734" LINK="https://arxiv.org/pdf/2301.11913.pdf"/>
 </node>
 <node TEXT="immersive spaces" ID="ID_377797423" CREATED="1683561932952" MODIFIED="1683561939295">
@@ -1321,7 +1502,10 @@
 <node TEXT="Instant app from prompts" ID="ID_1980739576" CREATED="1680376902032" MODIFIED="1680614324142" LINK="https://twitter.com/ronithhh/status/1641318606549176321"/>
 <node TEXT="endless runner without any coding experience" ID="ID_1002389436" CREATED="1680376902801" MODIFIED="1680621030542" LINK="https://replit.com/@asrsubs/SkyRoads-GPT-4"/>
 </node>
-<node TEXT="Edge (phone deployment on android)" ID="ID_866390978" CREATED="1683662086123" MODIFIED="1683662098769" LINK="https://github.com/mlc-ai/mlc-llm/tree/main/android"/>
+<node TEXT="Edge (phone deployment on android)" ID="ID_866390978" CREATED="1683662086123" MODIFIED="1685195281009" LINK="https://github.com/mlc-ai/mlc-llm/tree/main/android">
+<icon BUILTIN="attach"/>
+</node>
+<node TEXT="Tree of thought github" ID="ID_986516760" CREATED="1685291842755" MODIFIED="1685291851938" LINK="https://github.com/ysymyth/tree-of-thought-llm"/>
 </node>
 <node TEXT="Multi Modal" ID="ID_363962117" CREATED="1683561347232" MODIFIED="1683561350560">
 <node TEXT="MultimodalC4 is a multimodal extension of c4 that interleaves millions of images with text. The corpus contains over a billion images, and the text is interleaved with the images to provide context." ID="ID_1687296850" CREATED="1682414608755" MODIFIED="1682417127802" LINK="https://github.com/allenai/mmc4"/>
@@ -1338,10 +1522,13 @@
 <node TEXT="Flexgen" ID="ID_1549254676" CREATED="1677271333971" MODIFIED="1681557915217" LINK="https://github.com/FMInference/FlexGen#get-started-with-a-single-gpu"/>
 <node TEXT="4bit compression" ID="ID_868731681" CREATED="1681557917976" MODIFIED="1681578385470" LINK="https://github.com/johnsmith0031/alpaca_lora_4bit"/>
 <node TEXT="GPT4 self hallucination checking" ID="ID_1480858392" CREATED="1680097753096" MODIFIED="1680262316369" LINK="https://www.reddit.com/r/MachineLearning/comments/123b66w/dgpt4_might_be_able_to_tell_you_if_it_hallucinated/"/>
-<node TEXT="Sparse LLM, half the size, all the power" ID="ID_100818082" CREATED="1679569662617" MODIFIED="1679569674300" LINK="https://arxiv.org/abs/2301.00774"/>
+<node TEXT="Sparse LLM, half the size, all the power" ID="ID_100818082" CREATED="1679569662617" MODIFIED="1685195281009" LINK="https://arxiv.org/abs/2301.00774">
+<icon BUILTIN="attach"/>
 </node>
-<node TEXT="Prompt engineering and injection" ID="ID_1395479167" CREATED="1682324941379" MODIFIED="1683562215114">
-<node TEXT="Character injection" ID="ID_927086992" CREATED="1681579845764" MODIFIED="1681579851835">
+</node>
+<node TEXT="Prompt engineering and injection" FOLDED="true" ID="ID_1395479167" CREATED="1682324941379" MODIFIED="1683562215114">
+<node TEXT="Character injection" ID="ID_927086992" CREATED="1681579845764" MODIFIED="1685195281009">
+<icon BUILTIN="attach"/>
 <node TEXT="json builder" ID="ID_1159020214" CREATED="1681579853620" MODIFIED="1681579861898" LINK="https://oobabooga.github.io/character-creator.html"/>
 <node TEXT="Huggingface commodity card retrainer" ID="ID_1702639814" CREATED="1681835485953" MODIFIED="1681835497519" LINK="https://huggingface.co/blog/trl-peft"/>
 </node>
@@ -1377,15 +1564,18 @@
 <node TEXT="develop+extend+support(ideas), vocab(wide+natural+sophisticated), grammar(wide+flexible), cohesion(logical+smooth), clarity(precise+concise), engagement(attention+interest), mood(objective+explanatory), viewpoint(forward_looking)" ID="ID_1989750619" CREATED="1682324945301" MODIFIED="1682324953735"/>
 </node>
 <node TEXT="Large Language Models are Human-Level Prompt Engineers: We propose an algorithm for automatic instruction generation and selection for large language models with human level performance." ID="ID_348526154" CREATED="1682414608736" MODIFIED="1682414608736" LINK="https://openreview.net/forum?id=92gvk82DE-"/>
+<node TEXT="Using models to learn well, blog and paper" ID="ID_1832514653" CREATED="1685223341970" MODIFIED="1685223354782" LINK="https://www.oneusefulthing.org/p/how-to-use-ai-to-teach-some-of-the"/>
 </node>
-<node TEXT="Training &amp; Finetuning" ID="ID_1991862736" CREATED="1681414382186" MODIFIED="1681557177943">
+<node TEXT="Training &amp; Finetuning" FOLDED="true" ID="ID_1991862736" CREATED="1681414382186" MODIFIED="1681557177943">
 <node TEXT="Lora" ID="ID_173976426" CREATED="1681557466862" MODIFIED="1681557469307">
 <node TEXT="alpaca lora training" ID="ID_1768150758" CREATED="1681415459772" MODIFIED="1681415468954" LINK="https://discord.com/channels/1086739839761776660/1087508281758584852">
 <node TEXT="Github" ID="ID_1346643763" CREATED="1682670299980" MODIFIED="1682670303423" LINK="https://github.com/tloen/alpaca-lora"/>
 </node>
 <node TEXT="CPU offload lora training" ID="ID_1421633445" CREATED="1681511820388" MODIFIED="1681511863118" LINK="https://github.com/oobabooga/text-generation-webui/commit/09d8119e3cf36257496acfb44e6445a9f40c3d02"/>
 <node TEXT="llamatard 4bit chat instructions" ID="ID_752510947" CREATED="1681574525270" MODIFIED="1681574540656" LINK="https://rentry.org/llama-tard-v2#llama-int8-4bit-chatbot-guide-v2"/>
-<node TEXT="The text provides a guide on how to make your own Loras, which are easy and free to create. The process is described in detail, and the text includes instructions on how to create and customize your own Loras." ID="ID_1833067954" CREATED="1682414608721" MODIFIED="1682417771295" LINK="https://civitai.com/models/22530"/>
+<node TEXT="The text provides a guide on how to make your own Loras, which are easy and free to create. The process is described in detail, and the text includes instructions on how to create and customize your own Loras." ID="ID_1833067954" CREATED="1682414608721" MODIFIED="1685195281009" LINK="https://civitai.com/models/22530">
+<icon BUILTIN="attach"/>
+</node>
 </node>
 <node TEXT="Deep retraining" ID="ID_1188865143" CREATED="1681557469823" MODIFIED="1681557474108">
 <node TEXT="Deepspeed chat retraining in hours" ID="ID_426184641" CREATED="1681511334815" MODIFIED="1681511348337">
@@ -1393,22 +1583,32 @@
 </node>
 <node TEXT="TRL - Transformer Reinforcement Learning" ID="ID_1570779161" CREATED="1678565709246" MODIFIED="1681557422140" LINK="https://github.com/lvwerra/trl"/>
 <node TEXT="Hardware requirements for retraining (links to state of the art)" FOLDED="true" ID="ID_1344845712" CREATED="1681505081708" MODIFIED="1681505098834"/>
-<node TEXT="Finetuning blog post" ID="ID_836473376" CREATED="1681414412201" MODIFIED="1681414421510" LINK="https://www.databricks.com/blog/2023/03/20/fine-tuning-large-language-models-hugging-face-and-deepspeed.html"/>
+<node TEXT="Finetuning blog post" ID="ID_836473376" CREATED="1681414412201" MODIFIED="1685195281009" LINK="https://www.databricks.com/blog/2023/03/20/fine-tuning-large-language-models-hugging-face-and-deepspeed.html">
+<icon BUILTIN="attach"/>
+</node>
 </node>
 <node TEXT="Pruning" ID="ID_1119718253" CREATED="1681574634211" MODIFIED="1681574639579">
-<node TEXT="Seems that both 4 bit and straight up pruning don&apos;t harm the models much" ID="ID_480486781" CREATED="1681574640593" MODIFIED="1681574666331" LINK="https://arxiv.org/abs/1803.03635"/>
+<node TEXT="Seems that both 4 bit and straight up pruning don&apos;t harm the models much" ID="ID_480486781" CREATED="1681574640593" MODIFIED="1685195281009" LINK="https://arxiv.org/abs/1803.03635">
+<icon BUILTIN="attach"/>
+</node>
 </node>
 <node TEXT="Merging" ID="ID_877283060" CREATED="1681557631084" MODIFIED="1681557633956">
-<node TEXT="diffusion style LLM block merging" ID="ID_352799461" CREATED="1681142439544" MODIFIED="1681142449871" LINK="https://github.com/TehVenomm/LM_Transformers_BlockMerge"/>
+<node TEXT="diffusion style LLM block merging" ID="ID_352799461" CREATED="1681142439544" MODIFIED="1685195281009" LINK="https://github.com/TehVenomm/LM_Transformers_BlockMerge">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="Domain expert model merging" ID="ID_1785546658" CREATED="1681142413771" MODIFIED="1681142424842" LINK="https://docs.google.com/document/d/1JCzJ1wdBMBVwsFW4CWGUbX-YEDXB0yS4mfFbvwPLQrI/edit"/>
 </node>
 <node TEXT="Toolkits and distributed" ID="ID_1791946781" CREATED="1681578238837" MODIFIED="1681578250147">
 <node TEXT="𝐌𝐞𝐬𝐡 𝐓𝐞𝐧𝐬𝐨𝐫𝐅𝐥𝐨𝐰 (mtf) is a language for distributed deep learning, capable of specifying a broad class of distributed tensor computations. The purpose of Mesh TensorFlow is to formalize and implement distribution strategies for your computation graph over your hardware/processors. For example: &quot;Split the batch over rows of processors and split the units in the hidden layer across columns of processors.&quot; Mesh TensorFlow is implemented as a layer over TensorFlow." ID="ID_17897871" CREATED="1680262089387" MODIFIED="1680262127354" LINK="https://github.com/tensorflow/mesh"/>
 <node TEXT="𝐁𝐌𝐓𝐫𝐚𝐢𝐧 is an efficient large model training toolkit that can be used to train large models with tens of billions of parameters. It can train models in a distributed manner while keeping the code as simple as stand-alone training." ID="ID_1755531422" CREATED="1680262036033" MODIFIED="1680262063081" LINK="https://github.com/OpenBMB/BMTrain"/>
 <node TEXT=" 𝐂𝐨𝐥𝐨𝐬𝐬𝐚𝐥-𝐀𝐈 provides a collection of parallel components for you. It aim to support us to write our distributed deep learning models just like how we write our model on our laptop. It provide user-friendly tools to kickstart distributed training and inference in a few lines.&#xa;📌Open source solution replicates ChatGPT training process.Ready to go with only 1.6GB GPU memory and gives you 7.73 times faster training: https://lnkd.in/gp4XTCnz" ID="ID_549010115" CREATED="1680261971283" MODIFIED="1680262003313" LINK="https://colossalai.org/"/>
-<node TEXT="EasyLM one stop scaleable toolkit" ID="ID_1992553090" CREATED="1682017575471" MODIFIED="1682017587841" LINK="https://github.com/young-geng/EasyLM"/>
+<node TEXT="EasyLM one stop scaleable toolkit" ID="ID_1992553090" CREATED="1682017575471" MODIFIED="1685195281011" LINK="https://github.com/young-geng/EasyLM">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="databerry training and deployment" ID="ID_35460122" CREATED="1682348621689" MODIFIED="1682348641862" LINK="https://github.com/gmpetrov/databerry"/>
-<node TEXT="Petals collaborative fine tuning" ID="ID_813232383" CREATED="1673111145236" MODIFIED="1680614689171" LINK="https://arxiv.org/abs/2209.01188"/>
+<node TEXT="Petals collaborative fine tuning" ID="ID_813232383" CREATED="1673111145236" MODIFIED="1685195281011" LINK="https://arxiv.org/abs/2209.01188">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="Goodle openXLA training accelerator" ID="ID_1925584930" CREATED="1682670229675" MODIFIED="1682670250439" LINK="https://opensource.googleblog.com/2023/03/openxla-is-ready-to-accelerate-and-simplify-ml-development.html"/>
 </node>
 <node TEXT="Adversarial and self instructed" ID="ID_235718066" CREATED="1683553223425" MODIFIED="1683553777953">
@@ -1417,7 +1617,9 @@
 <node TEXT="airoboros_a_rewrite_of_selfinstructalpaca/" ID="ID_155927082" CREATED="1683142427070" MODIFIED="1683142437193" LINK="https://www.reddit.com/r/MachineLearning/comments/136vt7b/p_airoboros_a_rewrite_of_selfinstructalpaca/"/>
 <node TEXT="A Cookbook of Self-Supervised Learning" ID="ID_77514723" CREATED="1682428539874" MODIFIED="1683553273470" LINK="https://arxiv.org/abs/2304.12210"/>
 </node>
-<node TEXT="ChatLLaMA  is a library that allows you to create hyper-personalized ChatGPT-like assistants using your own data and the least amount of compute possible. Instead of depending on one large assistant that “rules us all”, we envision a future where each of us can create our own personalized version of ChatGPT-like assistants." ID="ID_385018660" CREATED="1678458103307" MODIFIED="1681557804293" LINK="https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama"/>
+<node TEXT="ChatLLaMA  is a library that allows you to create hyper-personalized ChatGPT-like assistants using your own data and the least amount of compute possible. Instead of depending on one large assistant that “rules us all”, we envision a future where each of us can create our own personalized version of ChatGPT-like assistants." ID="ID_385018660" CREATED="1678458103307" MODIFIED="1685195281011" LINK="https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="Substack on retraining a 30B model in an A100" ID="ID_1422437379" CREATED="1681559276930" MODIFIED="1681559298414" LINK="https://abuqader.substack.com/p/releasing-alpaca-30b"/>
 <node ID="ID_1865588141" CREATED="1680261663563" MODIFIED="1680261747817" LINK="https://github.com/alpa-projects/alpa"><richcontent TYPE="NODE">
 
@@ -1443,13 +1645,22 @@
 </richcontent>
 </node>
 <node TEXT="𝐌𝐞𝐠𝐚𝐭𝐫𝐨𝐧-𝐋𝐌 / Megatron is a large, powerful transformer developed by the Applied Deep Learning Research team at NVIDIA. Below repository is for ongoing research on training large transformer language models at scale. Developing efficient, model-parallel (tensor, sequence, and pipeline), and multi-node pre-training of transformer based models such as GPT, BERT, and T5 using mixed precision.&#xa;&#xa;📌pretrain_gpt3_175B.sh: https://lnkd.in/gFA9h8ns" ID="ID_548260222" CREATED="1680261832730" MODIFIED="1680261868764" LINK="https://github.com/NVIDIA/Megatron-LM"/>
-<node TEXT="Koala paper on training with minimal noise for chatbots" ID="ID_1425120606" CREATED="1682672164921" MODIFIED="1682672180840" LINK="https://bair.berkeley.edu/blog/2023/04/03/koala/?ref=emergentmind"/>
+<node TEXT="Koala paper on training with minimal noise for chatbots" ID="ID_1425120606" CREATED="1682672164921" MODIFIED="1685195281011" LINK="https://bair.berkeley.edu/blog/2023/04/03/koala/?ref=emergentmind">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="Emmet twitter and github on fine tuning" ID="ID_1883022725" CREATED="1684054774132" MODIFIED="1684054802251" LINK="https://twitter.com/ehalm_/status/1652373239044112388"/>
-<node TEXT="Ensure structured json" ID="ID_1941766125" CREATED="1684168599258" MODIFIED="1684168606510" LINK="https://github.com/1rgs/jsonformer"/>
-<node TEXT="Lora training guide from Pytorch lightning.ai people" ID="ID_992641545" CREATED="1684170361184" MODIFIED="1684170374548" LINK="https://lightning.ai/pages/community/tutorial/lora-llm/"/>
+<node TEXT="Ensure structured json" ID="ID_1941766125" CREATED="1684168599258" MODIFIED="1685195281011" LINK="https://github.com/1rgs/jsonformer">
+<icon BUILTIN="attach"/>
+</node>
+<node TEXT="Lora training guide from Pytorch lightning.ai people" ID="ID_992641545" CREATED="1684170361184" MODIFIED="1685195281011" LINK="https://lightning.ai/pages/community/tutorial/lora-llm/">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="GPTQ paper code" ID="ID_1157299461" CREATED="1684485475019" MODIFIED="1684485484958" LINK="https://github.com/ist-daslab/gptq"/>
-<node TEXT="Microsoft guidance" ID="ID_64445585" CREATED="1684775934286" MODIFIED="1684775943529" LINK="https://github.com/microsoft/guidance"/>
-<node TEXT="QLoRA fast retraining of large models" ID="ID_1731667325" CREATED="1684955874811" MODIFIED="1684955889120" LINK="https://github.com/artidoro/qlora">
+<node TEXT="Microsoft guidance" ID="ID_64445585" CREATED="1684775934286" MODIFIED="1685195281011" LINK="https://github.com/microsoft/guidance">
+<icon BUILTIN="attach"/>
+</node>
+<node TEXT="QLoRA fast retraining of large models" ID="ID_1731667325" CREATED="1684955874811" MODIFIED="1685195281011" LINK="https://github.com/artidoro/qlora">
+<icon BUILTIN="attach"/>
 <node TEXT="paper" ID="ID_458479653" CREATED="1685187494400" MODIFIED="1685187501963" LINK="https://arxiv.org/pdf/2305.14314.pdf"/>
 </node>
 <node TEXT="Some kind of inscrutable training thing" ID="ID_1310469615" CREATED="1685130407077" MODIFIED="1685130426419" LINK="https://readthedocs.org/projects/alibi/downloads/pdf/latest/"/>
@@ -1466,7 +1677,10 @@
 <node TEXT="Drives us mad, Guardian" ID="ID_1409230680" CREATED="1680425810272" MODIFIED="1680614327449" LINK="https://www.theguardian.com/technology/2023/mar/23/tech-guru-jaron-lanier-the-danger-isnt-that-ai-destroys-us-its-that-it-drives-us-insane"/>
 <node TEXT="Chatbots must disclose sources or face ban" ID="ID_791359780" CREATED="1682414608739" MODIFIED="1682418598310" LINK="https://www.artisana.ai/articles/eus-ai-act-stricter-rules-for-chatbots-on-the-horizon"/>
 <node TEXT="Google and EU private deal" ID="ID_174243337" CREATED="1685002574983" MODIFIED="1685002582477" LINK="https://techcrunch.com/2023/05/24/eu-google-ai-pact/"/>
-<node TEXT="How to structure an ML business" ID="ID_1473214045" CREATED="1685049205721" MODIFIED="1685049225417" LINK="https://txt.cohere.com/ai-is-eating-the-world/"/>
+<node TEXT="How to structure an ML business" ID="ID_1473214045" CREATED="1685049205721" MODIFIED="1685195291623" LINK="https://txt.cohere.com/ai-is-eating-the-world/">
+<icon BUILTIN="attach"/>
+</node>
+<node TEXT="Bias investigation" ID="ID_124549081" CREATED="1686338632493" MODIFIED="1686338641372" LINK="https://www.linkedin.com/feed/update/urn:li:activity:7072912582923173888/"/>
 </node>
 <node TEXT="Specialist model use cases" ID="ID_660675883" CREATED="1682426813211" MODIFIED="1682426820770">
 <node TEXT="Medical" ID="ID_861555502" CREATED="1682426821426" MODIFIED="1682426823445"/>
@@ -1480,8 +1694,13 @@
 <node TEXT="Editorial" ID="ID_367831203" CREATED="1682428769436" MODIFIED="1682428772338"/>
 </node>
 <node TEXT="Segment and identify" ID="ID_817591463" CREATED="1683308329450" MODIFIED="1683308335198">
-<node TEXT="Segment anything from Meta" ID="ID_1406655485" CREATED="1680722224752" MODIFIED="1680722231230" LINK="https://segment-anything.com/"/>
-<node TEXT="YOLO detect anything" ID="ID_1912237259" CREATED="1683308294196" MODIFIED="1683308307937" LINK="https://deci.ai/blog/yolo-nas-foundation-model-object-detection/"/>
+<node TEXT="Segment anything from Meta" ID="ID_1406655485" CREATED="1680722224752" MODIFIED="1685195298068" LINK="https://segment-anything.com/">
+<icon BUILTIN="attach"/>
+</node>
+<node TEXT="YOLO detect anything" ID="ID_1912237259" CREATED="1683308294196" MODIFIED="1685195298069" LINK="https://deci.ai/blog/yolo-nas-foundation-model-object-detection/">
+<icon BUILTIN="attach"/>
+</node>
+<node TEXT="Trainable segment anything (useful for museum collections?)" ID="ID_286958507" CREATED="1685463785077" MODIFIED="1685463802250" LINK="https://huggingface.co/docs/transformers/main/model_doc/sam"/>
 </node>
 <node TEXT="Unsorted links" ID="ID_1967596060" CREATED="1664902525685" MODIFIED="1682428863412">
 <node TEXT="ML verticals twitter thread" ID="ID_970988604" CREATED="1664904631400" MODIFIED="1664904638524" LINK="https://twitter.com/daniel_eckler/status/1564601398284664832?s=20&amp;t=79zgNMrzbD89cQto2u5j-Q"/>
@@ -1503,13 +1722,17 @@
 <node TEXT="Segment Anything, which can &quot;cut out&quot; any object in any image or video with a single click. The model is designed and trained to be promptable, so it can transfer zero-shot to new image distributions and tasks." ID="ID_1653356852" CREATED="1682414608725" MODIFIED="1682415404704" LINK="https://www.linkedin.com/posts/eric-vyacheslav-156273169_big-news-meta-just-released-segment-anything-activity-7049409700370554880-tStk?utm_source=share&amp;utm_medium=member_android"/>
 <node TEXT="This repository contains code for the Painter and SegGPT models from the BAAI Vision Foundation. These models are designed for in-context visual learning, and can be used to segment images and generate descriptions of them." ID="ID_185766752" CREATED="1682414608730" MODIFIED="1682415507829" LINK="http://github.com/baaivision/Painter"/>
 <node TEXT="The text presents SegGPT, a generalist model for segmenting everything in context. The model is trained to unify various segmentation tasks into a generalist in-context learning framework, and is evaluated on a broad range of tasks, including few-shot semantic segmentation, video object segmentation, semantic segmentation, and panoptic segmentation. Results show strong capabilities in segmenting in-domain and out-of-domain targets, either qualitatively or quantitatively." ID="ID_1796180074" CREATED="1682414608735" MODIFIED="1682416255213" LINK="https://buff.ly/3KD0Zns"/>
-<node TEXT="The text describes the Camel Chatbot, a machine learning model that has been trained using data from the AI Society and Code datasets. The chatbot is designed to improve the coding ability of users. The text includes a link to a demo of the chatbot in action." ID="ID_932170703" CREATED="1682414608738" MODIFIED="1682416339438" LINK="https://www.linkedin.com/posts/guohao-li-9a573b136_camel-chatbot-demo-activity-7051390760327225344-8D2A?utm_source=share&amp;utm_medium=member_android"/>
+<node TEXT="The text describes the Camel Chatbot, a machine learning model that has been trained using data from the AI Society and Code datasets. The chatbot is designed to improve the coding ability of users. The text includes a link to a demo of the chatbot in action." ID="ID_932170703" CREATED="1682414608738" MODIFIED="1685195453870" LINK="https://www.linkedin.com/posts/guohao-li-9a573b136_camel-chatbot-demo-activity-7051390760327225344-8D2A?utm_source=share&amp;utm_medium=member_android">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="RFdiffusion is a codebase for running diffusion simulations. It is designed to work with the SE3-transformer library and to be used in conjunction with the PPI scaffold examples. Basic execution of the diffusion script is straightforward, and the inpaint_seq flag can be used to control the output. Partial diffusion is also possible, and the binder design can be used to constrain the diffusion." ID="ID_261443580" CREATED="1682414608712" MODIFIED="1682414717439" LINK="https://github.com/RosettaCommons/RFdiffusion"/>
 <node TEXT="Daily Study Group: The Wolfram Plugin for ChatGPT: Learn about the Wolfram ChatGPT plugin for access to powerful computation, curated knowledge, real-time data, visualization and even code generation. " ID="ID_1571378094" CREATED="1682414608739" MODIFIED="1682414608739" LINK="https://wolfr.am/1cCK87Nms"/>
-<node TEXT="Fast mobile voice based chatbot" ID="ID_1796800416" CREATED="1682414608748" MODIFIED="1682418758697" LINK="https://twitter.com/justLV/status/1637876167763202053"/>
+<node TEXT="Fast mobile voice based chatbot" ID="ID_1796800416" CREATED="1682414608748" MODIFIED="1685195453870" LINK="https://twitter.com/justLV/status/1637876167763202053">
+<icon BUILTIN="attach"/>
 </node>
 </node>
-<node TEXT="Metaverse and telecollaboration" POSITION="right" ID="ID_584975900" CREATED="1664902506349" MODIFIED="1684000599224">
+</node>
+<node TEXT="Metaverse and telecollaboration" FOLDED="true" POSITION="right" ID="ID_584975900" CREATED="1664902506349" MODIFIED="1684000599224">
 <edge COLOR="#00ff00"/>
 <node TEXT="Graphics stuff" ID="ID_1063077439" CREATED="1665299847269" MODIFIED="1665299852195">
 <node TEXT="Roblox" ID="ID_60371915" CREATED="1664902991727" MODIFIED="1664902994819">
@@ -1583,16 +1806,22 @@
 <node TEXT="McDonalds in the metaverse" ID="ID_608579008" CREATED="1673884608561" MODIFIED="1673884614970" LINK="https://www.businessinsider.com/mcdonalds-metaverse-virtual-online-restaurant-trademark-delivers-food-web3-nft-2022-2"/>
 <node TEXT="Universal music metaverse / web3 team" ID="ID_47898693" CREATED="1673906905817" MODIFIED="1673906916122" LINK="https://www.musicweek.com/labels/read/universal-music-group-s-digital-strategy-team-creates-key-roles-for-web3-and-the-metaverse/087103"/>
 </node>
-<node TEXT="Narratives and convergence" ID="ID_232114366" CREATED="1670850546404" MODIFIED="1670850556529">
-<node TEXT="With the help of generative AI it may be possible to democratise the externalisation of complex narratives, with these new narratives shaping the outcomes of society through the medium of the metaverse" ID="ID_411249299" CREATED="1670850559904" MODIFIED="1670850632597" LINK="https://www.epsilontheory.com/narrative-and-metaverse-pt-3-the-luther-protocol/#.YjyHbnLIE5k.twitter"/>
+<node TEXT="Narratives and convergence" FOLDED="true" ID="ID_232114366" CREATED="1670850546404" MODIFIED="1670850556529">
+<node TEXT="With the help of generative AI it may be possible to democratise the externalisation of complex narratives, with these new narratives shaping the outcomes of society through the medium of the metaverse" ID="ID_411249299" CREATED="1670850559904" MODIFIED="1685195453870" LINK="https://www.epsilontheory.com/narrative-and-metaverse-pt-3-the-luther-protocol/#.YjyHbnLIE5k.twitter">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="A lot of metaverse recently has just been convergence as companies take their existing simulation and repackage it for the moment." ID="ID_1809036187" CREATED="1670850701915" MODIFIED="1680620384575" LINK="https://thedriven.io/2022/05/23/nissan-and-mitsubishi-unveil-electric-mini-vehicles-and-test-drives-in-metaverse/"/>
 <node TEXT="Games is the main convergence: from globalblock &quot;&quot;More companies are entering the metaverse as global electronics giant Sony has announced their own metaverse push in the latest annual corporate strategy meeting. Sony said this will be a more focused approach, as they aim to use metaverse-inspired experiences to engage users. As Sony owns PlayStation Brands, one of the biggest install userbases in the world, they are in an amazing position to make an impact. They have also revealed that prior investments in Epic, makers of the Fortnite game, and Bungie, another gaming studio, are part of this push.&quot;" ID="ID_1130122036" CREATED="1670851661519" MODIFIED="1670851685323">
 <node TEXT="" ID="ID_574885320" CREATED="1670851674615" MODIFIED="1670851674615"/>
 </node>
 <node TEXT="Epsilomn theory thesis on metaverse" ID="ID_1822623983" CREATED="1673884666843" MODIFIED="1680620373115" LINK="https://www.epsilontheory.com/narrative-and-metaverse-pt-3-the-luther-protocol/#.YjyHbnLIE5k.twitter"/>
-<node TEXT="Epic games programming language for the metaverse" ID="ID_51366861" CREATED="1673884721759" MODIFIED="1673884733084" LINK="https://www.geekmetaverse.com/epic-games-launches-verse-the-metaverse-programming-language/"/>
+<node TEXT="Epic games programming language for the metaverse" ID="ID_51366861" CREATED="1673884721759" MODIFIED="1685195453870" LINK="https://www.geekmetaverse.com/epic-games-launches-verse-the-metaverse-programming-language/">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="Fortnite is the metaverse" ID="ID_1389744907" CREATED="1673884950970" MODIFIED="1673884958571" LINK="https://www.ign.com/articles/how-fortnite-is-the-antidote-to-metaverse-skepticism">
-<node TEXT="epic unreal for fortnite" ID="ID_718255363" CREATED="1679747368739" MODIFIED="1679747396918" LINK="https://store.epicgames.com/en-US/p/fortnite--uefn?"/>
+<node TEXT="epic unreal for fortnite" ID="ID_718255363" CREATED="1679747368739" MODIFIED="1685195453870" LINK="https://store.epicgames.com/en-US/p/fortnite--uefn?">
+<icon BUILTIN="attach"/>
+</node>
 </node>
 <node TEXT="Why you should use now generative AI in your metaverse company. Or maybe not - The Ghost Howls https://skarredghost.com/2023/02/11/generative-ai-metaverse-company/" ID="ID_1333945010" CREATED="1677086422722" MODIFIED="1677086422722" LINK="https://skarredghost.com/2023/02/11/generative-ai-metaverse-company/"/>
 <node TEXT="BlackRock digs further into crypto with metaverse ETF https://financefeeds.com/blackrock-digs-further-into-crypto-with-metaverse-etf/" ID="ID_1783469331" CREATED="1672672974096" MODIFIED="1672672974096" LINK="https://financefeeds.com/blackrock-digs-further-into-crypto-with-metaverse-etf/"/>
@@ -1635,11 +1864,15 @@
 <node TEXT="Free to individuals" ID="ID_571823376" CREATED="1670849782769" MODIFIED="1670849796816" LINK="https://blogs.nvidia.com/blog/2022/01/04/omniverse-available-free-to-creators/"/>
 <node TEXT="Full RTX rendering" ID="ID_1536249246" CREATED="1670851714047" MODIFIED="1670851721663" LINK="https://www.youtube.com/watch?v=Jm155QkRjl0&amp;feature=youtu.be"/>
 <node TEXT="AI assisted blended character plugin" ID="ID_263117800" CREATED="1676626435442" MODIFIED="1676626450358" LINK="https://blogs.nvidia.com/blog/2023/02/15/blender-alpha-release-omniverse/?ncid=so-link-466434#cid=ov01_so-link_en-us"/>
-<node TEXT="NVIDIA Unveils Powerful AI, Simulation and Creative Tools for Creators and Developers of Virtual Worlds | NVIDIA Blog" ID="ID_1242922733" CREATED="1672672974121" MODIFIED="1680204660390" LINK="https://blogs.nvidia.com/blog/2022/08/09/omniverse-siggraph/"/>
+<node TEXT="NVIDIA Unveils Powerful AI, Simulation and Creative Tools for Creators and Developers of Virtual Worlds | NVIDIA Blog" ID="ID_1242922733" CREATED="1672672974121" MODIFIED="1685195453870" LINK="https://blogs.nvidia.com/blog/2022/08/09/omniverse-siggraph/">
+<icon BUILTIN="attach"/>
+</node>
 </node>
 <node TEXT="Open metaverse" ID="ID_1352438902" CREATED="1674839571414" MODIFIED="1680620448047">
 <node TEXT="Open metaverse discord from linux foundation" ID="ID_458109320" CREATED="1674839576038" MODIFIED="1674839584474" LINK="https://discord.gg/openmetaverse"/>
-<node TEXT="Free 1 Million objects" ID="ID_462402254" CREATED="1679572150073" MODIFIED="1679572160878" LINK="https://huggingface.co/datasets/allenai/objaverse"/>
+<node TEXT="Free 1 Million objects" ID="ID_462402254" CREATED="1679572150073" MODIFIED="1685195461656" LINK="https://huggingface.co/datasets/allenai/objaverse">
+<icon BUILTIN="attach"/>
+</node>
 </node>
 <node TEXT="persistence" ID="ID_925886137" CREATED="1670851862097" MODIFIED="1670851865884">
 <node TEXT="Soulbound tokens concept" ID="ID_1916194587" CREATED="1670851867929" MODIFIED="1670851874027">
@@ -1668,7 +1901,9 @@
 <node TEXT="Inferno is a distributed operating system which uses a file-like name hierarchy to represent services and resources, including devices, network and protocol interfaces, dynamic data sources, and services.Applications are written in a concurrent programming language, Limbo." ID="ID_515682087" CREATED="1682414608760" MODIFIED="1682416772638" LINK="https://github.com/inferno-os/inferno-os">
 <node TEXT="" ID="ID_1277050450" CREATED="1682414608762" MODIFIED="1682416769744"/>
 </node>
-<node TEXT="What is a predictive metaverse? The future of guided learning https://www.eschoolnews.com/educational-leadership/2023/04/21/predictive-metaverse-the-future-of-guided-learning/" ID="ID_17346943" CREATED="1682414608760" MODIFIED="1682414608760" LINK="https://www.eschoolnews.com/educational-leadership/2023/04/21/predictive-metaverse-the-future-of-guided-learning/"/>
+<node TEXT="What is a predictive metaverse? The future of guided learning https://www.eschoolnews.com/educational-leadership/2023/04/21/predictive-metaverse-the-future-of-guided-learning/" ID="ID_17346943" CREATED="1682414608760" MODIFIED="1685195496381" LINK="https://www.eschoolnews.com/educational-leadership/2023/04/21/predictive-metaverse-the-future-of-guided-learning/">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="Meta proposal to infer for advertising from movement" ID="ID_1503779784" CREATED="1682414608758" MODIFIED="1682416944019" LINK="https://www.reddit.com/r/virtualreality/comments/12rro32/meta_ai_proposed_an_algorithmbased_arvr_body/"/>
 <node TEXT="Scan outdoor environments using stock images" ID="ID_1759000138" CREATED="1682414608751" MODIFIED="1682417333650" LINK="https://www.reddit.com/r/vfx/comments/12ok0xe/how_to_scan_environments_for_free_without_any/"/>
 <node TEXT="Meta and disney dropping metaverse" ID="ID_212235890" CREATED="1682414608714" MODIFIED="1682414846491" LINK="https://www.reddit.com/r/CryptoCurrency/comments/128hqkw/meta_microsoft_and_disney_are_reversing_their/"/>
@@ -1679,10 +1914,14 @@
 <node TEXT="Exploring Why the Metaverse Hasn&apos;t Taken Off as Expected: The metaverse has quickly turned from a profitable utopia into a cash-guzzling dystopia.The text provides an overview of the Metaverse, a virtual world that has not yet taken off as expected. The text describes the potential reasons for this, including the lack of a clear business model and the difficulty of creating an immersive experience." ID="ID_622080496" CREATED="1682414608723" MODIFIED="1682415268562" LINK="https://www.bbntimes.com/technology/exploring-why-the-metaverse-hasn-t-taken-off-as-expected"/>
 <node TEXT="6 million meta VR users, against 60B spent" ID="ID_1885338454" CREATED="1682414608738" MODIFIED="1682418483203" LINK="https://www.reddit.com/r/virtualreality/comments/12lpsvf/rumor_meta_quest_had_more_than_6_million_monthly/"/>
 <node TEXT="Meta urged to prevent children in metaverse" ID="ID_1175849924" CREATED="1682414608739" MODIFIED="1682418500806" LINK="https://www.bloomberg.com/news/articles/2023-04-14/meta-urged-to-halt-plans-allowing-minors-into-the-metaverse?leadSource=uverify%20wall"/>
-<node TEXT="Depthkit live webrtx streaming for Unity" ID="ID_661552391" CREATED="1682414608730" MODIFIED="1682418869943" LINK="https://docs.depthkit.tv/docs/remote-livestreaming-with-webrtc"/>
+<node TEXT="Depthkit live webrtx streaming for Unity" ID="ID_661552391" CREATED="1682414608730" MODIFIED="1685195496381" LINK="https://docs.depthkit.tv/docs/remote-livestreaming-with-webrtc">
+<icon BUILTIN="attach"/>
+</node>
 </node>
 <node TEXT="Displaytech" ID="ID_1182604415" CREATED="1684765439912" MODIFIED="1684765443183">
-<node TEXT="CREAL lens display" ID="ID_1491420405" CREATED="1684765443714" MODIFIED="1684765452907" LINK="https://creal.com/2023/05/19/creals-breakthrough-ar-display-real-depth-with-a-classic-lens/"/>
+<node TEXT="CREAL lens display" ID="ID_1491420405" CREATED="1684765443714" MODIFIED="1685195502246" LINK="https://creal.com/2023/05/19/creals-breakthrough-ar-display-real-depth-with-a-classic-lens/">
+<icon BUILTIN="attach"/>
+</node>
 </node>
 </node>
 <node TEXT="Politics, law, and change" POSITION="left" ID="ID_386729834" CREATED="1679051678601" MODIFIED="1680166135934">
@@ -1706,15 +1945,19 @@
 <node TEXT="Worldcoin, a cryptocurrency startup, recruited its first 500,000 users by offering them free cash. The company has been accused of deception and exploiting workers, and is now under investigation." ID="ID_1823576465" CREATED="1680510364124" MODIFIED="1680510364124"/>
 </node>
 <node TEXT="Privacy law book" ID="ID_1088109377" CREATED="1670855667549" MODIFIED="1670855674954" LINK="https://www.smashingmagazine.com/printed-books/understanding-privacy/#bookTOC"/>
-<node TEXT="Online safety bill heather articles" ID="ID_761707102" CREATED="1670855710595" MODIFIED="1670855722047" LINK="https://webdevlaw.uk/2022/11/21/a-quick-hypothetical-situation-or-your-crash-introduction-to-the-real-world/"/>
+<node TEXT="Online safety bill heather articles" ID="ID_761707102" CREATED="1670855710595" MODIFIED="1685195739198" LINK="https://webdevlaw.uk/2022/11/21/a-quick-hypothetical-situation-or-your-crash-introduction-to-the-real-world/">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="Techcrunch on borderless payments" ID="ID_1242804297" CREATED="1673885657823" MODIFIED="1673885669375" LINK="https://techcrunch.com/2021/12/21/borderless-crypto-networks-wrestle-with-state-sanction-compliance/?"/>
 <node TEXT="Norway takes a stance against Google Analytics" ID="ID_689673348" CREATED="1678457376554" MODIFIED="1678457389366" LINK="https://www.simpleanalytics.com/blog/norway-takes-a-stance-against-google-analytics"/>
 <node TEXT="Social Media Is Changing, And Paid Accounts Are The Response" ID="ID_921829685" CREATED="1678457406501" MODIFIED="1678457418722" LINK="https://www.bigtechnology.com/p/social-media-is-changing-and-paid"/>
-<node TEXT="Linkedin post by Barry Scanell on EU AI law" ID="ID_1689724175" CREATED="1683792974440" MODIFIED="1683792992647" LINK="https://www.linkedin.com/posts/activity-7062324196256735232-FfEz/?utm_source=share&amp;utm_medium=member_desktop"/>
+<node TEXT="Linkedin post by Barry Scanell on EU AI law" ID="ID_1689724175" CREATED="1683792974440" MODIFIED="1685195739198" LINK="https://www.linkedin.com/posts/activity-7062324196256735232-FfEz/?utm_source=share&amp;utm_medium=member_desktop">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="wikipedia and the child protection bill" ID="ID_14741621" CREATED="1683812159131" MODIFIED="1683812171553" LINK="https://www.msn.com/en-gb/news/uknews/wikipedia-could-be-taken-offline-in-the-uk/ar-AA1atf9O"/>
 <node TEXT="Kids are damaged by mobile phones" ID="ID_480746664" CREATED="1684168904254" MODIFIED="1684168912916" LINK="https://sapienlabs.org/wp-content/uploads/2023/05/Sapien-Labs-Age-of-First-Smartphone-and-Mental-Wellbeing-Outcomes.pdf?utm_source=substack&amp;utm_medium=email"/>
 </node>
-<node TEXT="Scene capture" POSITION="right" ID="ID_630117933" CREATED="1678042008464" MODIFIED="1678042441538">
+<node TEXT="Scene capture" FOLDED="true" POSITION="right" ID="ID_630117933" CREATED="1678042008464" MODIFIED="1678042441538">
 <edge COLOR="#0000ff"/>
 <node TEXT="Fantastical NeRFs" ID="ID_1365164684" CREATED="1667813624731" MODIFIED="1673174158056">
 <icon BUILTIN="bookmark"/>
@@ -1759,15 +2002,26 @@
 <node TEXT="ELICIT,ELICIT creates free-viewpoint motion videos from a single image by constructing an animatable NeRF representation in one-shot learning. Offcial website of &apos;One-shot Implicit Animatable Avatars with Model-based Priors&apos; " ID="ID_859304432" CREATED="1677783034639" MODIFIED="1677783034639" LINK="https://elicit3d.github.io/"/>
 <node TEXT=" GitHub - frozoul/4K-NeRF: Official implementation of arxiv paper   4K-NeRF: High Fidelity Neural Radiance Fields at Ultra High Resolutions   , Official implementation of arxiv paper   4K-NeRF: High Fidelity Neural Radiance Fields at Ultra High Resolutions   - GitHub - frozoul/4K-NeRF: Official implementation of arxiv paper   4K-NeRF: High Fidelity Neural Radiance Fields at Ultra High Resolutions    " ID="ID_359819614" CREATED="1677783034639" MODIFIED="1677783034639" LINK="https://github.com/frozoul/4k-nerf"/>
 <node TEXT="ClimateNeRF,- " ID="ID_306273221" CREATED="1677783034639" MODIFIED="1677783034639" LINK="https://climatenerf.github.io/"/>
-<node TEXT="GitHub - ToniRV/NeRF-SLAM: NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields. " ID="ID_1847862149" CREATED="1677783034639" MODIFIED="1677783034639" LINK="https://github.com/tonirv/nerf-slam"/>
-<node TEXT="HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video,HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video " ID="ID_1887316579" CREATED="1677783034639" MODIFIED="1680620481293" LINK="https://grail.cs.washington.edu/projects/humannerf/"/>
-<node TEXT="editing nerfs with instructions" ID="ID_1449650097" CREATED="1679569831805" MODIFIED="1679569839385" LINK="https://instruct-nerf2nerf.github.io/">
+<node TEXT="GitHub - ToniRV/NeRF-SLAM: NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields. " ID="ID_1847862149" CREATED="1677783034639" MODIFIED="1685195529376" LINK="https://github.com/tonirv/nerf-slam">
+<icon BUILTIN="attach"/>
+</node>
+<node TEXT="HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video,HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video " ID="ID_1887316579" CREATED="1677783034639" MODIFIED="1685195529376" LINK="https://grail.cs.washington.edu/projects/humannerf/">
+<icon BUILTIN="attach"/>
+</node>
+<node TEXT="editing nerfs with instructions" ID="ID_1449650097" CREATED="1679569831805" MODIFIED="1685195529376" LINK="https://instruct-nerf2nerf.github.io/">
+<icon BUILTIN="attach"/>
 <node TEXT="instruct2nerf twitter thread" ID="ID_1292727805" CREATED="1679597521648" MODIFIED="1679597532923" LINK="https://mobile.twitter.com/bilawalsidhu/status/1638919452392583169"/>
 </node>
 <node TEXT="Render without cuda using just pytorch" ID="ID_639308187" CREATED="1680110545051" MODIFIED="1680110556688" LINK="https://github.com/taichi-dev/taichi-nerfs"/>
-<node TEXT="Nerf with free camera trajectory" ID="ID_1010453978" CREATED="1680203711057" MODIFIED="1680620487795" LINK="https://totoro97.github.io/projects/f2-nerf/"/>
-<node TEXT="Language embedded nerfs (LERFS)" ID="ID_371201958" CREATED="1680259588303" MODIFIED="1680620485127" LINK="https://www.lerf.io/"/>
-<node TEXT="Splatting paper, go where you like" ID="ID_1790997524" CREATED="1683218338722" MODIFIED="1683218349817" LINK="https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/"/>
+<node TEXT="Nerf with free camera trajectory" ID="ID_1010453978" CREATED="1680203711057" MODIFIED="1685195529374" LINK="https://totoro97.github.io/projects/f2-nerf/">
+<icon BUILTIN="attach"/>
+</node>
+<node TEXT="Language embedded nerfs (LERFS)" ID="ID_371201958" CREATED="1680259588303" MODIFIED="1685195529376" LINK="https://www.lerf.io/">
+<icon BUILTIN="attach"/>
+</node>
+<node TEXT="Splatting paper, go where you like" ID="ID_1790997524" CREATED="1683218338722" MODIFIED="1685195529376" LINK="https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="nerf RPN" ID="ID_1925774521" CREATED="1683320970439" MODIFIED="1683320982543" LINK="https://github.com/lyclyc52/NeRF_RPN"/>
 </node>
 <node TEXT="RP-Lidar + Raspberry pi + ROS RTAB-MAP" ID="ID_1868010211" CREATED="1673816545467" MODIFIED="1680620499221">
@@ -1779,7 +2033,7 @@
 <node TEXT="3DPresso" ID="ID_1368106035" CREATED="1680164085570" MODIFIED="1680620495739" LINK="https://3dpresso.ai/viewer?seq=mr3.yg5isic8KGJZ1DAjW5VMc"/>
 <node TEXT="Apple point cloud rendering" ID="ID_1822867978" CREATED="1682589226405" MODIFIED="1682589237579" LINK="https://machinelearning.apple.com/research/pointersect"/>
 </node>
-<node TEXT="unsorted links" POSITION="left" ID="ID_1799019548" CREATED="1679506345839" MODIFIED="1683621666717">
+<node TEXT="unsorted links" FOLDED="true" POSITION="left" ID="ID_1799019548" CREATED="1679506345839" MODIFIED="1683621666717">
 <edge COLOR="#0000ff"/>
 <node TEXT="Dreambooth original links" ID="ID_1041067904" CREATED="1677783034639" MODIFIED="1682420493973" LINK="https://github.com/huggingface/diffusers/blob/main/examples/dreambooth/train_dreambooth.py)%20script..."/>
 <node ID="ID_1216218543" CREATED="1679506348255" MODIFIED="1679506348255" LINK="https://www.reddit.com/r/StableDiffusion/comments/11ol47u/3d_model_face_color_map_generation_test3/"><richcontent TYPE="NODE">
@@ -2209,7 +2463,9 @@
 </node>
 <node TEXT="Horizon worlds coming to smartphones?" ID="ID_1180687139" CREATED="1672672974083" MODIFIED="1682420621342" LINK="https://www.reddit.com/r/virtualreality/comments/u4ahwu/horizon_worlds_coming_to_smartphones_web_probably/"/>
 <node TEXT="CBDCs in development around the world" ID="ID_1368491836" CREATED="1679913854623" MODIFIED="1682420636127" LINK="https://www.reddit.com/r/CryptoCurrency/comments/10wx51p/the_current_list_of_cbdcs_in_development_around/"/>
-<node TEXT="Redefining What’s Possible with Speech-to-Text AI | by Gladia.io | Feb, 2023 | Medium (other)" ID="ID_1190423003" CREATED="1678463114808" MODIFIED="1678463114808" LINK="https://medium.com/@gladia.io/gladia-alpha-launch-redefining-what-s-possible-with-speech-to-text-ai-686dd4312a86"/>
+<node TEXT="Redefining What’s Possible with Speech-to-Text AI | by Gladia.io | Feb, 2023 | Medium (other)" ID="ID_1190423003" CREATED="1678463114808" MODIFIED="1685195739199" LINK="https://medium.com/@gladia.io/gladia-alpha-launch-redefining-what-s-possible-with-speech-to-text-ai-686dd4312a86">
+<icon BUILTIN="attach"/>
+</node>
 <node TEXT="Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI | Lex Fridman Podcast #367: Sam Altman is the CEO of OpenAI, the company behind GPT-4, ChatGPT, DALL-E, Codex, and many other state-of-the-art AI technologies. Please support this podca..." ID="ID_569549058" CREATED="1679841790212" MODIFIED="1679841790212" LINK="https://m.youtube.com/watch?v=L_Guz73e6fw&amp;feature=youtu.be"/>
 <node TEXT="Saturday - 10:15\nhttps://events.sansar.com/events/PJ-Mac-3293/day-2--intermodal-year-one/1fdcec68 (other)" ID="ID_658155760" CREATED="1672672974154" MODIFIED="1672672974154" LINK="https://events.sansar.com/events/PJ-Mac-3293/day-2--intermodal-year-one/1fdcec68"/>
 <node TEXT="Saturday - 10:15\nhttps://events.sansar.com/events/PJ-Mac-3293/day-2--intermodal-year-one/1fdcec68 (other)" ID="ID_1061256931" CREATED="1672672974154" MODIFIED="1672672974154" LINK="https://events.sansar.com/events/PJ-Mac-3293/day-2--intermodal-year-one/1fdcec68"/>
@@ -2235,8 +2491,12 @@
 <node TEXT="This book provides an overview of deep learning, including supervised and unsupervised learning, loss functions, training models, gradient descent, and measuring performance. It also covers convolutional and recurrent neural networks, as well as generative adversarial networks and reinforcement learning." POSITION="right" ID="ID_53899120" CREATED="1679914078201" MODIFIED="1682420565390" LINK="https://udlbook.github.io/udlbook/"/>
 </node>
 <node TEXT="Unreal Engine 5 Editor Utility widgets" ID="ID_747912728" CREATED="1680097753103" MODIFIED="1680097753103">
-<node TEXT="This repository contains a collection of Unreal Engine 5 Editor Utility widgets powered by GPT3/4." POSITION="right" ID="ID_1520044411" CREATED="1680097753103" MODIFIED="1682420577973" LINK="https://github.com/TREE-Ind/UnrealGPT"/>
-<node TEXT="Unreal Engine 5.2 - Experimental Pixel Streaming to WebXR: NOT PRODUCTION-READY or even supported directly Epic or even technically WebXR... but it sure does feel a lot like it." ID="ID_150102111" CREATED="1679841790209" MODIFIED="1679841790209" LINK="https://www.youtube.com/watch?v=FQgsQLodcZM"/>
+<node TEXT="This repository contains a collection of Unreal Engine 5 Editor Utility widgets powered by GPT3/4." POSITION="right" ID="ID_1520044411" CREATED="1680097753103" MODIFIED="1685195739199" LINK="https://github.com/TREE-Ind/UnrealGPT">
+<icon BUILTIN="attach"/>
+</node>
+<node TEXT="Unreal Engine 5.2 - Experimental Pixel Streaming to WebXR: NOT PRODUCTION-READY or even supported directly Epic or even technically WebXR... but it sure does feel a lot like it." ID="ID_150102111" CREATED="1679841790209" MODIFIED="1685195739199" LINK="https://www.youtube.com/watch?v=FQgsQLodcZM">
+<icon BUILTIN="attach"/>
+</node>
 </node>
 <node TEXT="WavTool: " ID="ID_928546883" CREATED="1680097753105" MODIFIED="1680097753105" LINK="http://WavTool.com"/>
 <node TEXT="web three aid memoire for me\nhttps://twitter.com/PastryEth/status/1529130859814600705 (other)" ID="ID_993705068" CREATED="1672672974143" MODIFIED="1672672974143" LINK="https://twitter.com/PastryEth/status/1529130859814600705"/>
