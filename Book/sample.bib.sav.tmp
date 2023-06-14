@@ -371,20 +371,6 @@
 	keywords     = {Lightfield; Light-field; 3D video; HoloVizio; 3D capture; Rendering; Camera array; 3D display; ; ; ; ; ; ; ; ;litsurvey.bib}
 }
 
-@inproceedings{Balogh2010,
-	title        = {Real-time {3D} light field transmission},
-	author       = {Balogh, Tibor and Kov{\'a}cs, P{\'e}ter Tam{\'a}s},
-	year         = 2010,
-	month        = {\#may\#},
-	booktitle    = {{Real-Time} Image and Video Processing 2010},
-	publisher    = {International Society for Optics and Photonics},
-	volume       = 7724,
-	pages        = 772406,
-	abstract     = {Although capturing and displaying stereo 3D content is now commonplace, information-rich light-field video content capture, transmission and display are much more challenging, resulting in at least one order of magnitude increase in complexity even in the simplest cases. We present an end-to-end system capable of capturing and real-time displaying of high-quality light-field video content on various HoloVizio light-field displays, providing very high 3D image quality and continuous motion parallax. The system is compact in terms of number of computers, and provides superior image quality, resolution and frame rate compared to other published systems. To generate light-field content, we have built a camera system with a large number of cameras and connected them to PC computers. The cameras were in an evenly spaced linear arrangement. The capture PC was directly connected through a single gigabit Ethernet connection to the demonstration 3D display, supported by a PC computation cluster. For the task of dense light field displaying massively parallel reordering and filtering of the original camera images is required. We were utilizing both CPU and GPU threads for this task. On the GPU we do the light-field conversion and reordering, filtering and the YUV-RGB conversion. We use OpenGL 3.0 shaders and 2D texture arrays to have easy access to individual camera images. A network-based synchronization scheme is used to present the final rendered images.},
-	conference   = {Real-Time Image and Video Processing 2010},
-	keywords     = {Lightfield; Light-field; 3D video; HoloVizio; 3D capture; Rendering; Camera array; 3D display; ; ; ; ; ; ; ; ; ; ;litsurvey.bib}
-}
-
 @inproceedings{Bandyopadhyay2001,
 	title        = {Dynamic shader lamps : painting on movable objects},
 	author       = {Bandyopadhyay, D and Raskar, R and Fuchs, H},
@@ -561,16 +547,6 @@
 	file         = {:C\:/Users/its352/Google Drive/DataVis/literature_repository/Data Visualisation/Virtual Environments for Data Sharing and Visu.pdf:PDF}
 }
 
-@incollection{Benford1995a,
-	title        = {Virtual environments for data sharing and visualisation—populated information terrains},
-	author       = {Benford, Steve and Mariani, John},
-	year         = 1995,
-	booktitle    = {Interfaces to Database Systems (IDS94)},
-	publisher    = {Springer},
-	pages        = {168--182},
-	file         = {:C\:/Users/its352/Google Drive/DataVis/literature_repository/Data Visualisation/Virtual Enviroments for Data Sharing and Visua.pdf:PDF}
-}
-
 @article{Benjamin2012,
 	title        = {Shader lamps virtual patients: the physical manifestation of virtual patients},
 	author       = {Benjamin, L O K},
@@ -738,20 +714,6 @@
 	keywords     = {litsurvey.bib}
 }
 
-@article{Biocca2003,
-	title        = {Toward a More Robust Theory and Measure of Social Presence: Review and Suggested Criteria},
-	author       = {Biocca, Frank and Harms, Chad and Burgoon, Judee K},
-	year         = 2003,
-	month        = {\#oct\#},
-	journal      = {Presence: Teleoperators and Virtual Environments},
-	publisher    = {MIT Press},
-	volume       = 12,
-	number       = 5,
-	pages        = {456--480},
-	abstract     = {At a time of increased social usage of net and collaborative applications, a robust and detailed theory of social presence could contribute to our understanding of social behavior in mediated environments, allow researchers to predict and measure differences among media interfaces, and guide the design of new social environments and interfaces. A broader theory of social presence can guide more valid and reliable measures. The article reviews, classifies, and critiques existing theories and measures of social presence. A set of criteria and scope conditions is proposed to help remedy limitations in past theories and measures and to provide a contribution to a more robust theory and measure of social presence.},
-	keywords     = {litsurvey.bib}
-}
-
 @inproceedings{Blanche2010,
 	title        = {Holographic three-dimensional telepresence using large-area photorefractive polymer},
 	author       = {Blanche, P-A and Bablumian, A and Voorakaranam, R and Christenson, C and Lin, W and Gu, T and Flores, D and Wang, P and Hsieh, W-Y and Kathaperumal, M and Rachwal, B and Siddiqui, O and Thomas, J and Norwood, R a and Yamamoto, M and Peyghambarian, N},
@@ -872,15 +834,6 @@
 	booktitle    = {{AVI2004} Workshop on Environments for Personalized Information Access},
 	pages        = {1--9},
 	institution  = {Citeseer},
-	keywords     = {litsurvey.bib}
-}
-
-@inproceedings{Bondareva2004,
-	title        = {Determinants of social presence in videoconferencing},
-	author       = {Bondareva, Yevgenia and Bouwhuis, Don},
-	year         = 2004,
-	booktitle    = {{AVI2004} Workshop on Environments for Personalized Information Access},
-	pages        = {1--9},
 	keywords     = {litsurvey.bib}
 }
 
@@ -1047,21 +1000,6 @@
 	keywords     = {eye movement analysis, electrooculography (eog), visual behaviour, context recognition;litsurvey.bib}
 }
 
-@inproceedings{Bulling2013,
-	title        = {{EyeContext}: recognition of high-level contextual cues from human visual behaviour},
-	author       = {Bulling, Andreas and Weichel, Christian and Gellersen, Hans},
-	year         = 2013,
-	month        = {\#apr\#},
-	booktitle    = {Proceedings of the {SIGCHI} Conference on Human Factors in Computing Systems},
-	location     = {Paris, France},
-	publisher    = {Association for Computing Machinery},
-	address      = {New York, NY, USA},
-	series       = {CHI '13},
-	pages        = {305--308},
-	institution  = {ACM},
-	keywords     = {eye movement analysis, electrooculography (eog), visual behaviour, context recognition;litsurvey.bib}
-}
-
 @article{Bulu2012,
 	title        = {Place presence, social presence, co-presence, and satisfaction in virtual worlds},
 	author       = {Bulu, Saniye Tugba},
@@ -1120,16 +1058,6 @@
 	volume       = 92,
 	pages        = {123--129},
 	institution  = {Canadian Information Processing Society Toronto, Canada},
-	keywords     = {litsurvey.bib}
-}
-
-@inproceedings{Buxton1992,
-	title        = {Telepresence: Integrating shared task and person spaces},
-	author       = {Buxton, William},
-	year         = 1992,
-	booktitle    = {Proceedings of graphics interface},
-	volume       = 92,
-	pages        = {123--129},
 	keywords     = {litsurvey.bib}
 }
 
@@ -1223,15 +1151,6 @@
 	volume       = 22,
 	pages        = {569--577},
 	institution  = {ACM},
-	keywords     = {litsurvey.bib}
-}
-
-@inproceedings{Carranza2003,
-	title        = {{Free-viewpoint video of human actors}},
-	author       = {Carranza, Joel and Theobalt, Christian and Magnor, Marcus A and Seidel, Hans-Peter},
-	year         = 2003,
-	booktitle    = {Proceedings of the 30\textbackslashtextsuperscript{th} annual conference on Computer Graphics and Interactive Techniques ({SIGGRAPH} '03)},
-	address      = {San Diego},
 	keywords     = {litsurvey.bib}
 }
 
@@ -1486,18 +1405,6 @@
 	author       = {Coughlan, T and Johnson, P},
 	year         = 2006,
 	booktitle    = {Proceedings of the {SIGCHI} conference on Human Factors in computing systems},
-	keywords     = {litsurvey.bib}
-}
-
-@article{Criminisi2007,
-	title        = {Efficient dense stereo with occlusions for new view-synthesis by four-state dynamic programming},
-	author       = {Criminisi, Antonio and Blake, Andrew and Rother, Carsten and Shotton, Jamie and Torr, Philip H S},
-	year         = 2007,
-	journal      = {Int. J. Comput. Vis.},
-	publisher    = {Springer},
-	volume       = 71,
-	number       = 1,
-	pages        = {89--110},
 	keywords     = {litsurvey.bib}
 }
 
@@ -2070,20 +1977,6 @@
 	keywords     = {aerospace computing;avatars;digital simulation;face recognition;feature extraction;gaze tracking;groupware;image texture;rendering (computer graphics);space research;video signal processing;mixed reality telepresence system;collaborative space exploration improvement;free viewpoint video;immersive projection technology;nonverbal communication;NVC;eye gaze;interpersonal distance;facial expression;Mars simulation;MR system;moving images;lightweight texturing method;multiview rendering;temporal quality;visual quality;display systems;video-based reconstructed avatars;social interaction;end-to-end latency;Three-dimensional displays;Virtual reality;Space exploration;Rendering (computer graphics);Space research;Collaborative work;3D video-based reconstruction;background-foreground segmentation;computer-supported collaborative work;mixed reality (MR);space science;telepresence;litsurvey.bib}
 }
 
-@article{Fairchild2017,
-	title        = {A Mixed Reality Telepresence System for Collaborative Space Operation},
-	author       = {Fairchild, A J and Campion, S P and Garc{\'\i}a, A S and Wolff, R and Fernando, T and Roberts, D J},
-	year         = 2017,
-	month        = {\#apr\#},
-	journal      = {IEEE Trans. Circuits Syst. Video Technol.},
-	publisher    = {IEEE},
-	volume       = 27,
-	number       = 4,
-	pages        = {814--827},
-	abstract     = {This paper presents a mixed reality (MR) system that results from the integration of a telepresence system and an application to improve collaborative space exploration. The system combines free viewpoint video with immersive projection technology to support nonverbal communication (NVC), including eye gaze, interpersonal distance, and facial expression. Importantly, these features can be interpreted together as people move around the simulation, maintaining a natural social distance. The application is a simulation of Mars, within which the collaborators must come to agreement over; for example, where the Rover should land and go. The first contribution is the creation of an MR system supporting contextualization of NVC. Two technological contributions are prototyping a technique to subtract a person from a background that may contain physical objects and/or moving images and a lightweight texturing method for multiview rendering, which provides balance in terms of visual and temporal quality. A practical contribution is the demonstration of pragmatic approaches to sharing space between display systems of distinct levels of immersion. A research tool contribution is a system that allows comparison of conventional authored and video-based reconstructed avatars, within an environment that encourages exploration and social interaction. Aspects of system quality, including the communication of facial expression and end-to-end latency are reported.},
-	keywords     = {aerospace computing;avatars;digital simulation;face recognition;feature extraction;gaze tracking;groupware;image texture;rendering (computer graphics);space research;video signal processing;mixed reality telepresence system;collaborative space exploration improvement;free viewpoint video;immersive projection technology;nonverbal communication;NVC;eye gaze;interpersonal distance;facial expression;Mars simulation;MR system;moving images;lightweight texturing method;multiview rendering;temporal quality;visual quality;display systems;video-based reconstructed avatars;social interaction;end-to-end latency;Three-dimensional displays;Virtual reality;Space exploration;Rendering (computer graphics);Space research;Collaborative work;3D video-based reconstruction;background-foreground segmentation;computer-supported collaborative work;mixed reality (MR);space science;telepresence;litsurvey.bib}
-}
-
 @other{Fan,
 	title        = {A real-time network security visualization system based on incremental learning (ChinaVis 2018)},
 	author       = {Xin Fan and Chenlu Li and Xiaoju Dong},
@@ -2476,21 +2369,6 @@
 	keywords     = {ecological approaches, mediaspaces, affordance, video;litsurvey.bib}
 }
 
-@inproceedings{Gaver1992,
-	title        = {The affordances of media spaces for collaboration},
-	author       = {Gaver, William W},
-	year         = 1992,
-	month        = {\#dec\#},
-	booktitle    = {Proceedings of the 1992 {ACM} conference on Computer-supported cooperative work},
-	location     = {Toronto, Ontario, Canada},
-	publisher    = {Association for Computing Machinery},
-	address      = {New York, NY, USA},
-	series       = {CSCW '92},
-	volume       = 92,
-	pages        = {17--24},
-	keywords     = {but, in indicating some, misleading in suggesting that, of media spaces, of the intended functions, these metaphors are useful, they may well be; ecological approaches; mediaspaces; affordance; video;litsurvey.bib}
-}
-
 @inproceedings{Gaver1993,
 	title        = {One is not enough: multiple views in a media space},
 	author       = {Gaver, William W and Sellen, Abigail and Heath, Christian and Luff, Paul},
@@ -2734,20 +2612,6 @@
 	keywords     = {litsurvey.bib}
 }
 
-@article{Greenhalgh2001,
-	title        = {Making Networked Virtual Environments Work},
-	author       = {Greenhalgh, Chris and Bullock, Adrian and Fr{\'e}con, Emmanuel and Lloyd, David and Steed, Anthony},
-	year         = 2001,
-	month        = {\#apr\#},
-	journal      = {Presence: Teleoperators and Virtual Environments},
-	publisher    = {MIT Press},
-	volume       = 10,
-	number       = 2,
-	pages        = {142--159},
-	abstract     = {Collaborative virtual environments (CVEs) are a promising technology enabling remote participants to share a common place through three-dimensional graphical scenes. Within the COVEN project (Normand, 1999), we have run prolonged series of Internet trials that have allowed us to gather valuable data to formulate usability guidelines and networking requirements. However, running such trials in a real setting and making sure that the application and networking infrastructures will be stable enough is still a challenge. In this paper, we describe some of our experiences, together with the technical choices that have permitted many hours of successful Internet trials. We also make a thorough analysis of different correlated logging data. This analysis allows us to propose and confirm a model of a CVE application's network behavior, together with a number of interesting results that disprove some common assumptions. Furthermore, we use the model and the logging data to highlight the benefits of IP multicasting and for predicting traffic behaviors and bandwidth use on top of different logical network topologies.},
-	keywords     = {litsurvey.bib}
-}
-
 @article{Gregor2006,
 	title        = {The Nature of Theory in Information Systems},
 	author       = {Gregor, Shirley},
@@ -2771,32 +2635,6 @@
 	pages        = {61--69},
 	abstract     = {We present a brief review of 42 collaborative visualization systems, grouped into four application areas: collaborative problem-solving environments, virtual reality environments, multi-player online games and multi-user enabling of single user applications. The systems are then compared by five attributes: number of simultaneous users, user access control, communication architecture, type of transmitted data and user synchronization. We review the characteristic properties of each application area, overall trends in characteristics and recommend improvements for future systems. The taxonomy of visualization and accompanying bibliography are available on-line via the RAVE project pages by Grimstead, I.J., (2005), with on-line references hyper-linked where available.},
 	keywords     = {groupware;bibliographies;data visualisation;virtual reality;user interfaces;collaborative visualization taxonomy;collaborative problem-solving;virtual reality;multiplayer online games;user access control;communication architecture;data transmission;user synchronization;bibliography;online references;Taxonomy;Layout;Data visualization;Application software;Online Communities/Technical Collaboration;Virtual reality;Peer to peer computing;Problem-solving;Analytical models;Access control;litsurvey.bib}
-}
-
-@inproceedings{Grimstead2005,
-	title        = {Collaborative visualization: A review and taxonomy},
-	author       = {Grimstead, I J and Walker, D W and Avis, N J},
-	year         = 2005,
-	booktitle    = {Distributed Simulation and {Real-Time} Applications, 2005. {DS-RT} 2005 Proceedings. Ninth {IEEE} International Symposium on},
-	publisher    = {IEEE},
-	pages        = {61--69},
-	keywords     = {litsurvey.bib}
-}
-
-@inproceedings{Gross2003,
-	title        = {blue-c: a spatially immersive display and {3D} video portal for telepresence},
-	author       = {Gross, Markus and W{\"u}rmlin, Stephan and Naef, Martin and Lamboray, Edouard and Spagno, Christian and Kunz, Andreas and Koller-Meier, Esther and Svoboda, Tomas and Van Gool, Luc and Lang, Silke and Strehlke, Kai and Moere, Andrew Vande and Staadt, Oliver},
-	year         = 2003,
-	month        = {\#jul\#},
-	booktitle    = {{ACM} {SIGGRAPH} 2003 Papers},
-	location     = {San Diego, California},
-	publisher    = {Association for Computing Machinery},
-	address      = {New York, NY, USA},
-	series       = {SIGGRAPH '03},
-	volume       = 22,
-	pages        = {819--827},
-	institution  = {ACM},
-	keywords     = {virtual environments, graphics hardware, spatially immersive displays, 3D Video, real-time graphics;litsurvey.bib}
 }
 
 @inproceedings{Gross2003,
@@ -2983,21 +2821,6 @@
 	series       = {CSCW '06},
 	pages        = {413--422},
 	keywords     = {2d and 3d video, are interested in comparing, collaborative virtual, distributed collaboration, environment, in our work we, photo-ware, social presence, videoconferencing; remote collaboration; collaborative virtual environment;litsurvey.bib}
-}
-
-@inproceedings{Hauber2006,
-	title        = {Spatiality in videoconferencing: trade-offs between efficiency and social presence},
-	author       = {Hauber, J{\"o}rg and Regenbrecht, Holger and Billinghurst, Mark and Cockburn, Andy},
-	year         = 2006,
-	month        = {\#nov\#},
-	booktitle    = {Proceedings of the 2006 20th anniversary conference on Computer supported cooperative work},
-	location     = {Banff, Alberta, Canada},
-	publisher    = {Association for Computing Machinery},
-	address      = {New York, NY, USA},
-	series       = {CSCW '06},
-	pages        = {413--422},
-	institution  = {ACM},
-	keywords     = {videoconferencing, social presence, remote collaboration, collaborative virtual environment, photo-ware;litsurvey.bib}
 }
 
 @article{Hauber2005,
@@ -3271,20 +3094,6 @@
 	number       = 1,
 	pages        = {66--75},
 	keywords     = {application program interfaces;augmented reality;data visualisation;groupware;stereo image processing;3D environment;API;Scape;application-programming interface;augmented reality;collaborative augmented reality system;multimodality interface device;multiple user;stereoscopic collaboration;virtual reality;widget interface;litsurvey.bib},
-	language     = {en}
-}
-
-@article{Hua2004,
-	title        = {Scape: supporting stereoscopic collaboration in augmented and projective environments},
-	author       = {Hua, Hong and Brown, Leonard D and Gao, Chunyu},
-	year         = 2004,
-	month        = {\#jan\#},
-	journal      = {IEEE Comput. Graph. Appl.},
-	publisher    = {IEEE},
-	volume       = 24,
-	number       = 1,
-	pages        = {66--75},
-	keywords     = {litsurvey.bib},
 	language     = {en}
 }
 
@@ -3799,21 +3608,6 @@
 	language     = {en}
 }
 
-@article{Kluttz2009,
-	title        = {The effect of head turn on the perception of gaze},
-	author       = {Kluttz, Nathan L and Mayes, Brandon R and West, Roger W and Kerby, Dave S},
-	year         = 2009,
-	month        = {\#jul\#},
-	journal      = {Vision Res.},
-	publisher    = {Elsevier},
-	volume       = 49,
-	number       = 15,
-	pages        = {1979--1993},
-	abstract     = {When subjects viewed straight and turned eyes that were isolated singly or in pairs from a head that was straight or turned, they underestimated their true direction of gaze. They also underestimated the direction of head turn when both eyes were closed. However, the judged direction of gaze was improved when the eyes were layered against the heads. Judged direction of averted gaze was primarily based on the abducting eye. The effect that the deviation between an eye's optical axis and its true direction of gaze (angle kappa) has on its judged direction of gaze is discussed.},
-	keywords     = {litsurvey.bib},
-	language     = {en}
-}
-
 @inproceedings{Knoblauch2008,
 	title        = {{VirtualizeMe}: interactive model reconstruction from stereo video streams},
 	author       = {Knoblauch, Daniel and Kuester, Falko},
@@ -3853,32 +3647,6 @@
 	number       = 1,
 	pages        = {977--986},
 	file         = {:C\:/Users/its352/Google Drive/DataVis/literature_repository/Data Visualisation/08440077.pdf:PDF}
-}
-
-@article{Kouvril2018a,
-	title        = {Labels on levels: labeling of multi-scale multi-instance and crowded 3D biological environments},
-	author       = {Kou{\v{r}}il, David and {\v{C}}mol{\'\i}k, Ladislav and Kozl{\'\i}kov{\'a}, Barbora and Wu, Hslanc-Yun and Johnson, Graham and Goodsell, David S and Olson, Arthur and Gr{\"o}ller, M Eduard and Viola, Ivan},
-	year         = 2018,
-	journal      = {IEEE transactions on visualization and computer graphics},
-	publisher    = {IEEE},
-	volume       = 25,
-	number       = 1,
-	pages        = {977--986},
-	file         = {:C\:/Users/its352/Google Drive/DataVis/literature_repository/Data Visualisation/kouril-2018-LoL-paper.pdf:PDF}
-}
-
-@incollection{Krauss1996,
-	title        = {Nonverbal Behavior and Nonverbal Communication: What do Conversational Hand Gestures Tell Us?},
-	author       = {Krauss, Robert M and Chen, Yihsiu and Chawla, Purnima},
-	year         = 1996,
-	month        = {\#jan\#},
-	booktitle    = {Advances in Experimental Social Psychology},
-	publisher    = {Academic Press},
-	volume       = 28,
-	pages        = {389--450},
-	editor       = {Zanna, Mark P},
-	abstract     = {Publisher Summary This chapter explores how gestures contribute to comprehension, how gesturing affect speech and what can be learned from studying conversational gestures. The primary function of conversational hand gestures is to aid in the formulation of speech. Gestures can convey nonsemantic information. The study of speech and gestures overlaps with the study of person perception and attribution processes. The significance of gestures can be ambiguous and will affect the meanings and consequences to the observed gestures. A topology of gestures is adopters, symbolic gestures, and conversational gestures. Different types of conversational gestures can be distinguished as---namely, motor movements and lexical movements. Conversational hand gestures have been assumed to convey semantic information. Several studies that attempt to assess the kinds of information conversational gestures convey to naive observers and the extent to which gestures enhance the communicativeness of spoken messages are described in the chapter.},
-	keywords     = {litsurvey.bib}
 }
 
 @incollection{Krauss1996,
@@ -4008,15 +3776,6 @@
 	volume       = 31,
 	pages        = 174,
 	keywords     = {litsurvey.bib}
-}
-
-@unpublished{Kuster2012,
-	title        = {Gaze correction for home video conferencing},
-	author       = {Kuster, Claudia and Popa, Tiberiu and Bazin, Jean-Charles and Gotsman, Craig and Gross, Markus},
-	year         = 2012,
-	month        = {\#nov\#},
-	number       = {Article 174},
-	keywords     = {gaze correction, depth camera, video conferencing;litsurvey.bib}
 }
 
 @inproceedings{Kuster2012,
@@ -4336,18 +4095,6 @@
 	keywords     = {litsurvey.bib}
 }
 
-@inproceedings{Lincoln2010,
-	title        = {Multi-view lenticular display for group teleconferencing},
-	author       = {Lincoln, Peter and Nashel, Andrew and Ilie, Adrian and Towles, Herman and Welch, Gregory and Fuchs, Henry},
-	year         = 2010,
-	month        = {\#may\#},
-	booktitle    = {Proceedings of the 2nd International Conference on Immersive Telecommunications},
-	publisher    = {ICST},
-	pages        = 22,
-	institution  = {ICST (Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering)},
-	keywords     = {litsurvey.bib}
-}
-
 @inproceedings{Lincoln2009,
 	title        = {Animatronic Shader Lamps Avatars},
 	author       = {Lincoln, P and Welch, G and Nashel, A and Ilie, A and State, A and Fuchs, H},
@@ -4555,18 +4302,6 @@
 	pages        = {137--146},
 	abstract     = {This paper introduces a proof-of-concept telepresence system that offers fully dynamic, real-time 3D scene capture and continuous-viewpoint, head-tracked stereo 3D display without requiring the user to wear any tracking or viewing apparatus. We present a complete software and hardware framework for implementing the system, which is based on an array of commodity Microsoft Kinect™color-plus-depth cameras. Novel contributions include an algorithm for merging data between multiple depth cameras and techniques for automatic color calibration and preserving stereo quality even with low rendering rates. Also presented is a solution to the problem of interference that occurs between Kinect cameras with overlapping views. Emphasis is placed on a fully GPU-accelerated data processing and rendering pipeline that can apply hole filling, smoothing, data merger, surface generation, and color correction at rates of up to 100 million triangles/sec on a single PC and graphics board. Also presented is a Kinect-based marker-less tracking system that combines 2D eye recognition with depth information to allow head-tracked stereo views to be rendered for a parallax barrier autostereoscopic display. Our system is affordable and reproducible, offering the opportunity to easily deliver 3D telepresence beyond the researcher's lab.},
 	keywords     = {Cameras;Graphics processing unit;Image color analysis;Interference;Rendering (computer graphics);Smoothing methods;Three dimensional displays;camera calibration;color calibration;computer vision;filtering;object recognition;parallel processing;sensor fusion;surface fitting;teleconferencing;three-dimensional displays;tracking;virtual reality;litsurvey.bib}
-}
-
-@inproceedings{Maimone2011,
-	title        = {Encumbrance-free telepresence system with real-time {3D} capture and display using commodity depth cameras},
-	author       = {Maimone, A and Fuchs, H},
-	year         = 2011,
-	month        = {\#oct\#},
-	booktitle    = {2011 10th {IEEE} International Symposium on Mixed and Augmented Reality},
-	pages        = {137--146},
-	abstract     = {This paper introduces a proof-of-concept telepresence system that offers fully dynamic, real-time 3D scene capture and continuous-viewpoint, head-tracked stereo 3D display without requiring the user to wear any tracking or viewing apparatus. We present a complete software and hardware framework for implementing the system, which is based on an array of commodity Microsoft Kinect™color-plus-depth cameras. Novel contributions include an algorithm for merging data between multiple depth cameras and techniques for automatic color calibration and preserving stereo quality even with low rendering rates. Also presented is a solution to the problem of interference that occurs between Kinect cameras with overlapping views. Emphasis is placed on a fully GPU-accelerated data processing and rendering pipeline that can apply hole filling, smoothing, data merger, surface generation, and color correction at rates of up to 100 million triangles/sec on a single PC and graphics board. Also presented is a Kinect-based marker-less tracking system that combines 2D eye recognition with depth information to allow head-tracked stereo views to be rendered for a parallax barrier autostereoscopic display. Our system is affordable and reproducible, offering the opportunity to easily deliver 3D telepresence beyond the researcher's lab.},
-	institution  = {IEEE},
-	keywords     = {Cameras;Three dimensional displays;Image color analysis;Graphics processing unit;Interference;Rendering (computer graphics);Smoothing methods;teleconferencing;virtual reality;sensor fusion;camera calibration;color calibration;surface fitting;filtering;parallel processing;computer vision;tracking;object recognition;three-dimensional displays;litsurvey.bib}
 }
 
 @article{Maimone2011,
@@ -4919,14 +4654,6 @@
 	keywords     = {litsurvey.bib}
 }
 
-@article{Munsell2013,
-	title        = {Skype and messenger coming together: the next chapter},
-	author       = {Munsell, Parri},
-	year         = 2013,
-	journal      = {URL: http://blogs. skype. com/2013/02/15/skype-and-messenger-coming-together-the-next-chapter/\# fbid= oFh6i6Q6aMm},
-	keywords     = {litsurvey.bib}
-}
-
 @unpublished{Murray2007,
 	title        = {An assessment of eye-gaze potential within immersive virtual environments},
 	author       = {Murray, Norman and Roberts, Dave and Steed, Anthony and Sharkey, Paul and Dickerson, Paul and Rae, John},
@@ -5041,21 +4768,6 @@
 	year         = 1973,
 	publisher    = {Houghton Mifflin},
 	keywords     = {litsurvey.bib}
-}
-
-@inproceedings{Nguyen2005,
-	title        = {{MultiView}: spatially faithful group video conferencing},
-	author       = {Nguyen, David and Canny, John},
-	year         = 2005,
-	month        = {\#apr\#},
-	booktitle    = {Proceedings of the {SIGCHI} Conference on Human Factors in Computing Systems},
-	location     = {Portland, Oregon, USA},
-	publisher    = {Association for Computing Machinery},
-	address      = {New York, NY, USA},
-	series       = {CHI '05},
-	pages        = {799--808},
-	institution  = {ACM},
-	keywords     = {video conferencing, spatial faithfulness, deixis, eye contact, gaze;litsurvey.bib}
 }
 
 @inproceedings{Nguyen2005,
@@ -5367,21 +5079,6 @@
 	keywords     = {telepresence, face-to-face conversation, multimodal interaction, computer-mediated communication, projection mapping;litsurvey.bib}
 }
 
-@inproceedings{Otsuka2013,
-	title        = {{MM+Space}: n x 4 degree-of-freedom kinetic display for recreating multiparty conversation spaces},
-	author       = {Otsuka, Kazuhiro and Kumano, Shiro and Ishii, Ryo and Zbogar, Maja and Yamato, Junji},
-	year         = 2013,
-	month        = {\#dec\#},
-	booktitle    = {Proceedings of the 15th {ACM} on International conference on multimodal interaction},
-	location     = {Sydney, Australia},
-	publisher    = {Association for Computing Machinery},
-	address      = {New York, NY, USA},
-	series       = {ICMI '13},
-	pages        = {389--396},
-	institution  = {ACM},
-	keywords     = {telepresence, face-to-face conversation, multimodal interaction, computer-mediated communication, projection mapping;litsurvey.bib}
-}
-
 @inproceedings{Otsuka2005,
 	title        = {A probabilistic inference of multiparty-conversation structure based on Markov-switching models of gaze patterns, head directions, and utterances},
 	author       = {Otsuka, Kazuhiro and Takemae, Yoshinao and Yamato, Junji},
@@ -5472,18 +5169,6 @@
 	author       = {Pan, Xueni and Gillies, Marco and Slater, Mel},
 	booktitle    = {Symposium on Mental States, Emotions and their Embodiment},
 	pages        = 8,
-	keywords     = {litsurvey.bib}
-}
-
-@inproceedings{Pan2008,
-	title        = {Male Bodily Responses during an Interaction with a Virtual Woman},
-	author       = {Pan, Xueni and Gillies, Marco and Slater, Mel},
-	year         = 2008,
-	booktitle    = {Intelligent Virtual Agents},
-	publisher    = {Springer Berlin Heidelberg},
-	pages        = {89--96},
-	abstract     = {This work presents the analysis of the body movement of male participants, while talking with a life-size virtual woman in a virtual social encounter within a CAVE-like system. We consider independent and explanatory variables including whether the participant is the centre of attention in the scenario, whether the participant is shy or confident, and his relationship status. We also examine whether this interaction between the participant and the virtual character changes as the conversation progresses. The results show that the participants tend to have different hand movements, head movements, and posture depending on these conditions. This research therefore provides strong evidence for using body movement as a systematic method to assess the responses of people within a virtual environment, especially when the participant interacts with a virtual character. These results also point the way towards the application of this technology to the treatment of social phobic males.},
-	institution  = {Springer},
 	keywords     = {litsurvey.bib}
 }
 
@@ -5752,21 +5437,6 @@
 	language     = {en}
 }
 
-@article{Porter2008,
-	title        = {Reading between the lies: identifying concealed and falsified emotions in universal facial expressions},
-	author       = {Porter, Stephen and ten Brinke, Leanne},
-	year         = 2008,
-	month        = {\#may\#},
-	journal      = {Psychol. Sci.},
-	publisher    = {SAGE Publications},
-	volume       = 19,
-	number       = 5,
-	pages        = {508--514},
-	abstract     = {The widespread supposition that aspects of facial communication are uncontrollable and can betray a deceiver's true emotion has received little empirical attention. We examined the presence of inconsistent emotional expressions and ``microexpressions'' (1/25-1/5 of a second) in genuine and deceptive facial expressions. Participants viewed disgusting, sad, frightening, happy, and neutral images, responding to each with a genuine or deceptive (simulated, neutralized, or masked) expression. Each 1/30-s frame (104,550 frames in 697 expressions) was analyzed for the presence and duration of universal expressions, microexpressions, and blink rate. Relative to genuine emotions, masked emotions were associated with more inconsistent expressions and an elevated blink rate; neutralized emotions showed a decreased blink rate. Negative emotions were more difficult to falsify than happiness. Although untrained observers performed only slightly above chance at detecting deception, inconsistent emotional leakage occurred in 100\% of participants at least once and lasted longer than the current definition of a microexpression suggests. Microexpressions were exhibited by 21.95\% of participants in 2\% of all expressions, and in the upper or lower face only.},
-	keywords     = {litsurvey.bib},
-	language     = {en}
-}
-
 @article{Potmesil1987,
 	title        = {{Generating octree models of {3D} objects from their silhouettes in a sequence of images}},
 	author       = {Potmesil, Michael},
@@ -5995,21 +5665,6 @@
 	keywords     = {augmented reality, collaboration, cscw, tangible user; 3DUI; tangible user interfaces;litsurvey.bib}
 }
 
-@inproceedings{Regenbrecht2002,
-	title        = {Interaction in a collaborative augmented reality environment},
-	author       = {Regenbrecht, Holger T and Wagner, Michael T},
-	year         = 2002,
-	month        = {\#apr\#},
-	booktitle    = {{CHI} '02 Extended Abstracts on Human Factors in Computing Systems},
-	location     = {Minneapolis, Minnesota, USA},
-	publisher    = {Association for Computing Machinery},
-	address      = {New York, NY, USA},
-	series       = {CHI EA '02},
-	pages        = {504--505},
-	institution  = {ACM},
-	keywords     = {augmented reality, 3DUI, tangible user interfaces, CSCW, collaboration;litsurvey.bib}
-}
-
 @inproceedings{Reitmaier2013,
 	title        = {Designing and theorizing co-located interactions},
 	author       = {Reitmaier, Thomas and Benz, Pierre and Marsden, Gary},
@@ -6032,19 +5687,6 @@
 	month        = {\#aug\#},
 	journal      = {The Photogrammetric Record},
 	publisher    = {Wiley Online Library},
-	volume       = 21,
-	number       = 115,
-	pages        = {269--291},
-	abstract     = {Abstract In this paper the main problems and the available solutions are addressed for the generation of 3D models from terrestrial images. Close range photogrammetry has dealt for many years with manual or automatic image measurements for precise 3D modelling. Nowadays 3D scanners are also becoming a standard source for input data in many application areas, but image-based modelling still remains the most complete, economical, portable, flexible and widely used approach. In this paper the full pipeline is presented for 3D modelling from terrestrial image data, considering the different approaches and analysing all the steps involved.},
-	keywords     = {litsurvey.bib}
-}
-
-@article{Remondino2006,
-	title        = {{Image-based {3D} Modelling: A Review}},
-	author       = {Remondino, Fabio and El-Hakim, Sabry},
-	year         = 2006,
-	month        = {\#aug\#},
-	journal      = {The Photogrammetric Record},
 	volume       = 21,
 	number       = 115,
 	pages        = {269--291},
@@ -6132,17 +5774,6 @@
 	keywords     = {teleconferencing;video communication;virtual reality;end to end latency;immersive collaborative environment;video conference;immersive virtual environment;synchronised cameras;immersive display devices;capture devices;event latency;log files;face-to-face meeting;Delay;Collaboration;Videoconference;Virtual environment;Cameras;Virtual reality;Analytical models;Aerospace simulation;Computational modeling;Computer displays;David Roberts;Toby Duckworth;Carl Moore;Robin Wolff and John O'Hare;litsurvey.bib}
 }
 
-@inproceedings{Roberts2009,
-	title        = {Comparing the End to End Latency of an Immersive Collaborative Environment and a Video Conference},
-	author       = {Roberts, D and Duckworth, T and Moore, C and Wolff, R and O'Hare, J},
-	year         = 2009,
-	month        = {\#oct\#},
-	booktitle    = {2009 13th {IEEE/ACM} International Symposium on Distributed Simulation and Real Time Applications},
-	pages        = {89--94},
-	abstract     = {Latency in a communication system can result in confusing a conversation through loss of causality as people exchange verbal and non-verbal nuances. This paper compares true end-to-end latencies across an immersive virtual environment and a video conference link using the same approach to measure both. Our approach is to measure end-to-end latency through filming the movements of a participant and their remote representation through synchronised cameras. We also compare contemporary and traditional immersive display and capture devices, whilst also measuring event latency taken from log files. We compare an immersive collaborative virtual environment to a video conference as both attempt to reproduce different aspects of the face-to- face meeting, the former favouring appearance and the latter attention. Results inform not only the designers of both approaches but also set the requirements for future developments for 3D video which has the potential to faithfully reproduce both appearance and attention.},
-	keywords     = {teleconferencing;video communication;virtual reality;end to end latency;immersive collaborative environment;video conference;immersive virtual environment;synchronised cameras;immersive display devices;capture devices;event latency;log files;face-to-face meeting;Delay;Collaboration;Videoconference;Virtual environment;Cameras;Virtual reality;Analytical models;Aerospace simulation;Computational modeling;Computer displays;David Roberts;Toby Duckworth;Carl Moore;Robin Wolff and John O'Hare;litsurvey.bib}
-}
-
 @article{Roberts2003,
 	title        = {Constructing a Gazebo: Supporting Teamwork in a Tightly Coupled, Distributed Task in Virtual Reality},
 	author       = {Roberts, David and Wolff, Robin and Otto, Oliver and Steed, Anthony},
@@ -6220,30 +5851,6 @@
 	pages        = {577--583},
 	organization = {IEEE},
 	file         = {:C\:/Users/its352/Google Drive/DataVis/literature_repository/Data Visualisation/01028832.pdf:PDF}
-}
-
-@inproceedings{Romano2001,
-	title        = {Meeting analysis: findings from research and practice},
-	author       = {Romano, N C and Nunamaker, J F},
-	year         = 2001,
-	month        = {\#jan\#},
-	booktitle    = {Proceedings of the 34th Annual Hawaii International Conference on System Sciences},
-	pages        = {13 pp.--},
-	abstract     = {Meeting analysis, that is the study of meeting expenses, productivity, processes, and outcomes, is relevant to GSS practice and research for several reasons. Many reviews and surveys reveal that meetings dominate workers' and managers' time and yet are considered to be costly, unproductive and dissatisfying. Studies show that meetings are essential and that the number of meetings and their duration has been steadily increasing. Studies of managers and knowledge workers reveal that they spend between 25\%-80\% of their time in meetings, suggesting that meetings are an important part of one's working life. Estimates of meeting expenses range from costs of $30 million to over 100 million per year to losses between $54 million and 3.7 billion annually! Self estimates of meeting productivity by managers in many different functional areas range from 33\%-47\%.},
-	institution  = {IEEE},
-	keywords     = {group decision support systems;meeting analysis;meeting expenses;productivity;GSS practice;knowledge workers;meeting productivity;group support systems;Productivity;Meeting planning;Teleworking;Business communication;Educational institutions;Information management;Knowledge management;Costs;Collaboration;Design methodology;litsurvey.bib}
-}
-
-@inproceedings{Romano2001,
-	title        = {Meeting analysis: findings from research and practice},
-	author       = {Romano, N C and Nunamaker, J F},
-	year         = 2001,
-	month        = {\#jan\#},
-	booktitle    = {Proceedings of the 34th Annual Hawaii International Conference on System Sciences},
-	pages        = {13 pp.--},
-	abstract     = {Meeting analysis, that is the study of meeting expenses, productivity, processes, and outcomes, is relevant to GSS practice and research for several reasons. Many reviews and surveys reveal that meetings dominate workers' and managers' time and yet are considered to be costly, unproductive and dissatisfying. Studies show that meetings are essential and that the number of meetings and their duration has been steadily increasing. Studies of managers and knowledge workers reveal that they spend between 25\%-80\% of their time in meetings, suggesting that meetings are an important part of one's working life. Estimates of meeting expenses range from costs of $30 million to over 100 million per year to losses between $54 million and 3.7 billion annually! Self estimates of meeting productivity by managers in many different functional areas range from 33\%-47\%.},
-	institution  = {IEEE},
-	keywords     = {group decision support systems;meeting analysis;meeting expenses;productivity;GSS practice;knowledge workers;meeting productivity;group support systems;Productivity;Meeting planning;Teleworking;Business communication;Educational institutions;Information management;Knowledge management;Costs;Collaboration;Design methodology;litsurvey.bib}
 }
 
 @inproceedings{Romano2001,
@@ -6508,35 +6115,6 @@
 	keywords     = {litsurvey.bib}
 }
 
-@inproceedings{Sellen1992,
-	title        = {Using spatial cues to improve videoconferencing},
-	author       = {Sellen, Abigail and Buxton, Bill and Arnott, John},
-	year         = 1992,
-	month        = {\#jun\#},
-	booktitle    = {Proceedings of the {SIGCHI} Conference on Human Factors in Computing Systems},
-	location     = {Monterey, California, USA},
-	publisher    = {Association for Computing Machinery},
-	address      = {New York, NY, USA},
-	series       = {CHI '92},
-	pages        = {651--652},
-	institution  = {ACM},
-	keywords     = {litsurvey.bib}
-}
-
-@article{Sellen1995,
-	title        = {Remote Conversations: The Effects of Mediating Talk With Technology},
-	author       = {Sellen, Abigail J},
-	year         = 1995,
-	month        = {\#dec\#},
-	journal      = {Human--Computer Interaction},
-	publisher    = {Taylor \& Francis},
-	volume       = 10,
-	number       = 4,
-	pages        = {401--444},
-	abstract     = {Three different videoconferencing systems for supporting multiparty, remote conversations are described and evaluated experimentally. The three systems differed by how many participants were visible at once, their spatial arrangement, and control over who was seen. Conversations using these systems were compared to same-room (Experiment 1) and audio-only (Experiment 2) conversations. Specialized speech-tracking equipment recorded the on-off patterns of speech that allowed objective measurement of structural aspects of the conversations, such as turn length, pauses, and interruptions. Questionnaires and interviews also documented participants' opinions and perceptions in the various settings. Contrary to expectation, systems in which visual cues such as selective gaze were absent produced no differences in turn-taking or in any other aspect of the structure of conversation. In fact, turn-taking was unaffected even when visual information was completely absent. Overall, only the same-room condition showed any significant differences from any other condition; people in the same room produced more interruptions and fewer formal handovers of the floor than in any of the technology-mediated conditions. In this respect, the audio-only and video systems examined in these studies were equivalent. However, analyses of participants' perceptions showed that participants felt that visual access in mediated conversations was both important and beneficial in conversation. Further, there were indications that the particular design of the different video systems did affect some aspects of conversational behavior, such as the ability to hold side and parallel conversations.},
-	keywords     = {litsurvey.bib}
-}
-
 @article{Sellen1995,
 	title        = {Remote Conversations: The Effects of Mediating Talk With Technology},
 	author       = {Sellen, Abigail J},
@@ -6731,19 +6309,6 @@
 	keywords     = {litsurvey.bib}
 }
 
-@article{Slater1999,
-	title        = {Measuring Presence: A Response to the Witmer and Singer Presence Questionnaire},
-	author       = {Slater, Mel},
-	year         = 1999,
-	month        = {\#oct\#},
-	journal      = {Presence: Teleoperators and Virtual Environments},
-	publisher    = {MIT Press},
-	volume       = 8,
-	number       = 5,
-	pages        = {560--565},
-	keywords     = {litsurvey.bib}
-}
-
 @inproceedings{Slater2000,
 	title        = {{Small-Group} Behavior in a Virtual and Real Environment: A Comparative Study},
 	author       = {Slater, Mel and Sadagic, Amela and Usoh, Martin and Schroeder, Ralph},
@@ -6914,20 +6479,6 @@
 	abstract     = {Business meetings conducted using fully-immersive telepresence systems provide participants with the lifelike-experience of a face-to-face meeting and offer the cost- and time-saving advantages of computer-mediated communication. However, telepresence systems are still much more expensive than simpler computer-mediated meeting modes, which makes the choice of this technology for business meetings a non-trivial decision problem. In this study, drawing upon the literature on social presence, media richness, and media appropriateness that relate media choice to task characteristics and objectives, we identify 19 objectives for business meetings. We then present hypotheses on the effectiveness of various meeting modes for achieving these objectives, focusing on the social presence dimension of four meeting modes (audio-conferencing, video-conferencing, telepresence, and face-to-face). We test these hypotheses using survey data from a large company in which all the technologies are available on a relatively broad basis.},
 	institution  = {IEEE},
 	keywords     = {business communication;computer mediated communication;teleconferencing;virtual reality;business meetings;telepresence systems;lifelike-experience;face-to-face meeting;cost-saving advantages;time-saving advantages;computer-mediated communication;computer-mediated meeting modes;media richness;media appropriateness;task characteristics;social presence dimension;audio-conferencing;video-conferencing;Media;Electronic mail;Computer mediated communication;Companies;Meetings;Telepresence;Social presence;Media richness;Media appropriateness;Meeting modes;Meeting objectives;litsurvey.bib}
-}
-
-@article{Starck2008,
-	title        = {Model-based human shape reconstruction from multiple views},
-	author       = {Starck, Jonathan and Hilton, Adrian},
-	year         = 2008,
-	month        = {\#aug\#},
-	journal      = {Comput. Vis. Image Underst.},
-	publisher    = {Elsevier},
-	volume       = 111,
-	number       = 2,
-	pages        = {179--194},
-	abstract     = {Image-based modelling allows the reconstruction of highly realistic digital models from real-world objects. This paper presents a model-based approach to recover animated models of people from multiple view video images. Two contributions are made, a multiple resolution model-based framework is introduced that combines multiple visual cues in reconstruction. Second, a novel mesh parameterisation is presented to preserve the vertex parameterisation in the model for animation. A prior humanoid surface model is first decomposed into multiple levels of detail and represented as a hierarchical deformable model for image fitting. A novel mesh parameterisation is presented that allows propagation of deformation in the model hierarchy and regularisation of surface deformation to preserve vertex parameterisation and animation structure. The hierarchical model is then used to fuse multiple shape cues from silhouette, stereo and sparse feature data in a coarse-to-fine strategy to recover a model that reproduces the appearance in the images. The framework is compared to physics-based deformable surface fitting at a single resolution, demonstrating an improved reconstruction accuracy against ground-truth data with a reduced model distortion. Results demonstrate realistic modelling of real people with accurate shape and appearance while preserving model structure for use in animation.},
-	keywords     = {Image-based modelling; Deformable model; Multiple resolution mesh; Shape-from-silhouette; Stereo vision; Character animation;litsurvey.bib}
 }
 
 @article{Starck2008,
@@ -7427,21 +6978,6 @@
 	keywords     = {video conferencing, teleoperation, remote presence;litsurvey.bib}
 }
 
-@inproceedings{Tsui2011,
-	title        = {Exploring use cases for telepresence robots},
-	author       = {Tsui, Katherine M and Desai, Munjal and Yanco, Holly A and Uhlik, Chris},
-	year         = 2011,
-	month        = {\#mar\#},
-	booktitle    = {Proceedings of the 6th international conference on Human-robot interaction},
-	location     = {Lausanne, Switzerland},
-	publisher    = {Association for Computing Machinery},
-	address      = {New York, NY, USA},
-	series       = {HRI '11},
-	pages        = {11--18},
-	institution  = {ACM},
-	keywords     = {video conferencing, teleoperation, remote presence;litsurvey.bib}
-}
-
 @inproceedings{Tuddenham2009,
 	title        = {Territorial coordination and workspace awareness in remote tabletop collaboration},
 	author       = {Tuddenham, Philip and Robinson, Peter},
@@ -7575,20 +7111,6 @@
 	keywords     = {cscw, multiparty; VRML 2; attention; gaze direction; awareness; multiparty videoconferencing; eyetracking;litsurvey.bib}
 }
 
-@inproceedings{Vertegaal1999,
-	title        = {{The {GAZE} groupware system: mediating joint attention in multiparty communication and collaboration}},
-	author       = {Vertegaal, Roel},
-	year         = 1999,
-	month        = {\#may\#},
-	booktitle    = {Proceedings of the {SIGCHI} conference on Human Factors in Computing Systems},
-	location     = {Pittsburgh, Pennsylvania, USA},
-	publisher    = {Association for Computing Machinery},
-	address      = {New York, NY, USA},
-	series       = {CHI '99},
-	pages        = {294--301},
-	keywords     = {gaze direction, eyetracking, VRML 2, awareness, CSCW, attention, multiparty videoconferencing;litsurvey.bib}
-}
-
 @inproceedings{Vertegaal1997,
 	title        = {Catching the eye: management of joint attention in cooperative work},
 	author       = {Vertegaal, Roel},
@@ -7609,20 +7131,6 @@
 	pages        = {41--48},
 	institution  = {IEEE},
 	keywords     = {gaze, eye tracking, avatars, attentive interfaces, agents, multiparty mediated communication;litsurvey.bib}
-}
-
-@inproceedings{Vertegaal2002,
-	title        = {Explaining effects of eye gaze on mediated group conversations: amount or synchronization?},
-	author       = {Vertegaal, Roel and Ding, Yaping},
-	year         = 2002,
-	month        = {\#nov\#},
-	booktitle    = {Proceedings of the 2002 {ACM} conference on Computer supported cooperative work},
-	location     = {New Orleans, Louisiana, USA},
-	publisher    = {Association for Computing Machinery},
-	address      = {New York, NY, USA},
-	series       = {CSCW '02},
-	pages        = {41--48},
-	keywords     = {agents, attentive interfaces, avatars, communication, eye tracking, gaze, multiparty mediated; multiparty mediated communication;litsurvey.bib}
 }
 
 @inproceedings{Vertegaal2001,
@@ -8113,18 +7621,6 @@
 	volume       = 51,
 	pages        = {2928--2932},
 	file         = {:C\:/Users/its352/Google Drive/DataVis/literature_repository/Data Visualisation/82249012.pdf:PDF}
-}
-
-@article{Zajonc1980,
-	title        = {Feeling and thinking: Preferences need no inferences},
-	author       = {Zajonc, Robert B},
-	year         = 1980,
-	journal      = {Am. Psychol.},
-	publisher    = {American Psychological Association},
-	volume       = 35,
-	number       = 2,
-	pages        = 151,
-	keywords     = {litsurvey.bib}
 }
 
 @article{Zajonc1980,
@@ -8650,14 +8146,6 @@
 	pages        = {49--65}
 }
 
-@inproceedings{katagiri2007aiduti,
-	title        = {Aiduti in Japanese multi-party design conversations},
-	author       = {Katagiri, Yasuhiro},
-	year         = 2007,
-	booktitle    = {Proceedings of the Workshop on Embodied Language Processing},
-	pages        = {9--16}
-}
-
 @book{griffith2021electrify,
 	title        = {Electrify: An Optimist's Playbook for Our Clean Energy Future},
 	author       = {Griffith, Saul},
@@ -8864,13 +8352,6 @@
 	author       = {Chohan, Usman W},
 	year         = 2021,
 	journal      = {Available at SSRN 3090174}
-}
-
-@article{szabo1997formalizing,
-	title        = {Formalizing and securing relationships on public networks},
-	author       = {Szabo, Nick},
-	year         = 1997,
-	journal      = {First monday}
 }
 
 @inproceedings{schnorr1989efficient,
@@ -9449,15 +8930,6 @@
 	author       = {Ball, Matthew},
 	year         = 2020,
 	journal      = {MatthewBall. Vc, available at: www. matthe wball. vc/all/themetaverse}
-}
-
-@inproceedings{apostolaki2017hijacking,
-	title        = {Hijacking bitcoin: Routing attacks on cryptocurrencies},
-	author       = {Apostolaki, Maria and Zohar, Aviv and Vanbever, Laurent},
-	year         = 2017,
-	booktitle    = {2017 IEEE symposium on security and privacy (SP)},
-	pages        = {375--392},
-	organization = {IEEE}
 }
 
 @article{apostolaki2016hijacking,
@@ -10217,31 +9689,4 @@
 	year         = 2020,
 	publisher    = {Online}
 }
-
-@Article{haidt2023social,
-  author    = {Haidt J.},
-  journal   = {ongoing},
-  title     = {Social media and mental health: A collaborative review. Unpublished manuscript, New York University.},
-  year      = {2023},
-  publisher = {Self Published},
-  url       = {https://tinyurl.com/SocialMediaMentalHealthReview},
-}
-
-@book{booth2020price,
-	title        = {The Price of Tomorrow: Why Deflation is the Key to an Abundant Future},
-	author       = {Booth, Jeff},
-	year         = 2020,
-	publisher    = {Stanley Press}
-}
-
-@Article{hou2022metaprompting,
-  author  = {Hou, Yutai and Dong, Hongyuan and Wang, Xinghao and Li, Bohan and Che, Wanxiang},
-  journal = {arXiv preprint arXiv:2209.11486},
-  title   = {MetaPrompting: Learning to Learn Better Prompts},
-  year    = {2022},
-}
-
-@Book{harari2014sapiens,
-  author    = {Harari, Yuval Noah},
-  publisher = {Random House},
-  title     = {Sapiens: A brief h
+

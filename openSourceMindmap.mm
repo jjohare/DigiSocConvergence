@@ -68,7 +68,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="61" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="65" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="Accessibility" POSITION="left" ID="ID_527610599" CREATED="1681408321263" MODIFIED="1681408324743">
 <edge COLOR="#00ff00"/>
 <node TEXT="Interactive photo and video scene description" ID="ID_874796040" CREATED="1681408325871" MODIFIED="1685195739197" LINK="https://github.com/Vision-CAIR/ChatCaptioner">
@@ -78,7 +78,7 @@
 <icon BUILTIN="attach"/>
 </node>
 </node>
-<node TEXT="Bitcoin and Digital objects" POSITION="right" ID="ID_1436413864" CREATED="1678041877756" MODIFIED="1680111942455">
+<node TEXT="Bitcoin and Digital objects" FOLDED="true" POSITION="right" ID="ID_1436413864" CREATED="1678041877756" MODIFIED="1680111942455">
 <edge COLOR="#007c00"/>
 <node TEXT="Lightning" ID="ID_1540644375" CREATED="1678041647508" MODIFIED="1678041650343">
 <node TEXT="Setup lnbits and lightningtipbot" ID="ID_944349233" CREATED="1678041651209" MODIFIED="1678041669230" LINK="https://www.massmux.com/howto-complete-lightningtipbot-lnbits-setup-vps/"/>
@@ -147,6 +147,7 @@
 <node TEXT="Bitcoin uses more energy than sweden" ID="ID_43345042" CREATED="1682414608762" MODIFIED="1682416735120" LINK="https://www.reddit.com/r/CryptoCurrency/comments/12xu714/bitcoin_has_just_surpassed_sweden_for_overall/"/>
 <node TEXT="THE &apos;RIGHT TO MINE&apos; #BITCOIN📷 IS NOW LAW IN THE STATE OF ARKANSAS!" ID="ID_267839865" CREATED="1682414608755" MODIFIED="1682417159221" LINK="https://twitter.com/satoshiactfund/status/1648445448833875969"/>
 <node TEXT="Bitcoin is a more sustainable energy than EVs, and significantly less fossil fuel." ID="ID_1617479199" CREATED="1682414608725" MODIFIED="1682415420719" LINK="https://www.linkedin.com/posts/danielsbatten_like-evs-bitcoin-is-a-fully-electrified-activity-7049321186605858816-t4MB?utm_source=share&amp;utm_medium=member_android"/>
+<node TEXT="Batton&apos;s energy tracker" ID="ID_1350350637" CREATED="1686557472842" MODIFIED="1686557488704" LINK="http://batcoinz.com/BEEST/"/>
 </node>
 <node TEXT="Digital objects" ID="ID_647197684" CREATED="1678041880593" MODIFIED="1680111945363">
 <node TEXT="In games" ID="ID_459003858" CREATED="1678093844727" MODIFIED="1678093849365">
@@ -172,15 +173,14 @@
 <node TEXT="The text provides a brief overview of the jnews_ajax_url variable and how it can be used to make AJAX requests." ID="ID_1373565615" CREATED="1679914078200" MODIFIED="1679914078200"/>
 </node>
 <node TEXT="UK Government Scraps NFT Launch Plan For Now: UK government had unveiled its intention to introduce its very own NFTs through the Royal Mint. This announcement was made last year in April." ID="ID_1455863988" CREATED="1680097753104" MODIFIED="1680619129386" LINK="https://bitcoinist.com/uk-government-scraps-nft-launch-plan-for-now/"/>
-<node TEXT="OpenOrdex is a decentralized exchange for ordinal numbers. It allows users to buy and sell ordinal numbers using a variety of methods, including Inscription, which is a process by which users can add their own numbers to the exchange." ID="ID_1546076024" CREATED="1682414608737" MODIFIED="1682416294608" LINK="https://openordex.org/">
-<node TEXT="" ID="ID_777514961" CREATED="1682414608737" MODIFIED="1682416292275"/>
-</node>
+<node TEXT="OpenOrdex is a decentralized exchange for ordinal numbers. It allows users to buy and sell ordinal numbers using a variety of methods, including Inscription, which is a process by which users can add their own numbers to the exchange." ID="ID_1546076024" CREATED="1682414608737" MODIFIED="1682416294608" LINK="https://openordex.org/"/>
 <node TEXT="Zerosync client side validation?" ID="ID_1890336170" CREATED="1683832352538" MODIFIED="1685182638107" LINK="https://twitter.com/ZeroSync_/status/1656721507060416514">
 <icon BUILTIN="attach"/>
 </node>
 <node TEXT="Taproot assets" ID="ID_481595342" CREATED="1684316637990" MODIFIED="1685182638107" LINK="https://github.com/lightninglabs/taproot-assets">
 <icon BUILTIN="attach"/>
 </node>
+<node TEXT="https://block21m.substack.com/p/most-bitcoin-inscriptions-belong-d6d" ID="ID_386700144" CREATED="1686508029150" MODIFIED="1686508029150" LINK="https://block21m.substack.com/p/most-bitcoin-inscriptions-belong-d6d"/>
 </node>
 <node TEXT="Stablecoins and CBDCs" ID="ID_1921746769" CREATED="1680112110397" MODIFIED="1680112126892">
 <node TEXT="Over 1/3 Made a Purchase in Stablecoins in Latin America, Says Latest MasterCard New Payments Index 2022: Reporting on Fintech, Crypto, and Blockchain Activity in Africa" ID="ID_1868204015" CREATED="1679914078202" MODIFIED="1680619663178" LINK="https://bitcoinke.io/2022/07/latin-america-in-mastercard-new-payments-index-2022/">
@@ -210,10 +210,10 @@
 <node TEXT="The Current List of CBDCs In Development Around the World" ID="ID_47342167" CREATED="1680262528031" MODIFIED="1680262570291" LINK="https://www.atlanticcouncil.org/cbdctracker/"/>
 </node>
 </node>
-<node TEXT="Machine learning and AI" FOLDED="true" POSITION="right" ID="ID_1310086889" CREATED="1678041885520" MODIFIED="1680205007711">
+<node TEXT="Machine learning and AI" POSITION="right" ID="ID_1310086889" CREATED="1678041885520" MODIFIED="1680205007711">
 <edge COLOR="#007c7c"/>
 <node TEXT="Assisted creativity" FOLDED="true" ID="ID_891377503" CREATED="1670852982432" MODIFIED="1670852985142">
-<node TEXT="Text and bots" ID="ID_250828813" CREATED="1667813144183" MODIFIED="1667813449488">
+<node TEXT="Text and bots" FOLDED="true" ID="ID_250828813" CREATED="1667813144183" MODIFIED="1667813449488">
 <node TEXT="assisted writing" ID="ID_1763993792" CREATED="1667815050354" MODIFIED="1667815055455">
 <node TEXT="Services" ID="ID_1178530422" CREATED="1667818844596" MODIFIED="1667818849113">
 <node ID="ID_1550980736" CREATED="1667815056489" MODIFIED="1667815056489"><richcontent TYPE="NODE">
@@ -720,6 +720,7 @@
 <node TEXT="Anime fight workflow" ID="ID_870360217" CREATED="1682601210588" MODIFIED="1685194241165" LINK="https://www.reddit.com/r/StableDiffusion/comments/12z6rh5/half_real_converting_cowboy_bebop_spike_vs/">
 <icon BUILTIN="attach"/>
 </node>
+<node TEXT="reference only workflow" ID="ID_1825503958" CREATED="1685910923669" MODIFIED="1685910931083" LINK="https://www.reddit.com/r/StableDiffusion/comments/1408l40/a_simple_4step_workflow_with_reference_only/"/>
 </node>
 <node TEXT="reddit educational links" ID="ID_1436690453" CREATED="1678463375502" MODIFIED="1678463384152" LINK="https://www.reddit.com/r/StableDiffusion/comments/116ki29/comment/j97jac3/"/>
 <node TEXT="Negative prompt hack tip" ID="ID_1338362004" CREATED="1678631237322" MODIFIED="1678631249066" LINK="https://www.reddit.com/r/StableDiffusion/comments/11pcsxe/just_discovered_a_useful_trick_for_getting_good/"/>
@@ -829,8 +830,13 @@
 <icon BUILTIN="attach"/>
 </node>
 <node TEXT="Realtime scribble" ID="ID_64922768" CREATED="1681763458151" MODIFIED="1681763465059" LINK="https://github.com/houseofsecrets/SdPaint"/>
+<node TEXT="latent labs 360 images lora" ID="ID_114391930" CREATED="1685819001317" MODIFIED="1685819012263" LINK="https://civitai.com/models/10753/latentlabs360"/>
+<node TEXT="Kandinsky model" ID="ID_931090656" CREATED="1686427558771" MODIFIED="1686427564265">
+<node TEXT="finetuned 2.1" ID="ID_1363838469" CREATED="1686427565935" MODIFIED="1686427574539" LINK="https://www.reddit.com/r/StableDiffusion/comments/13hgpo2/kandinsky_21_fine_tune/"/>
 </node>
-<node TEXT="video" FOLDED="true" ID="ID_725587435" CREATED="1666082854143" MODIFIED="1666082856696">
+<node TEXT="QR codes" ID="ID_511958419" CREATED="1686430538981" MODIFIED="1686430579200" LINK="https://www.youtube.com/watch?v=IntRn96C4l4"/>
+</node>
+<node TEXT="video" ID="ID_725587435" CREATED="1666082854143" MODIFIED="1666082856696">
 <node TEXT="Interpolation and interframe consistency" ID="ID_945312699" CREATED="1682669980208" MODIFIED="1685194361590">
 <icon BUILTIN="attach"/>
 <node TEXT="controlnet and ebsynth temporal consistency" ID="ID_1332474865" CREATED="1676746068074" MODIFIED="1680603485057" LINK="https://www.reddit.com/r/StableDiffusion/comments/114zmh3/controlnet_and_ebsynth_make_incredible_temporally/"/>
@@ -839,7 +845,12 @@
 <node TEXT="Interpolation between two frames" ID="ID_1447562624" CREATED="1666082835958" MODIFIED="1666082845512" LINK="https://film-net.github.io/"/>
 <node TEXT="FILM frame interpolator" ID="ID_1537998901" CREATED="1678457595895" MODIFIED="1680603462261" LINK="https://film-net.github.io/"/>
 </node>
-<node TEXT="Runway AI video editing" ID="ID_1363822516" CREATED="1664901905746" MODIFIED="1664901915766" LINK="https://www.youtube.com/c/RunwayML"/>
+<node TEXT="Runway AI video editing" ID="ID_1363822516" CREATED="1664901905746" MODIFIED="1664901915766" LINK="https://www.youtube.com/c/RunwayML">
+<node TEXT="" ID="ID_1513507036" CREATED="1686474719753" MODIFIED="1686474719753"/>
+<node TEXT="Gen2 examples" ID="ID_191649085" CREATED="1686474720348" MODIFIED="1686474730105">
+<node TEXT="vienna with prompts" ID="ID_1289497254" CREATED="1686474730469" MODIFIED="1686474736707" LINK="https://www.linkedin.com/posts/dr-andreas-fraunberger_marketinginnovation-digitaltourism-ar-ugcPost-7073039429417730048-BKfQ?utm_source=share&amp;utm_medium=member_desktop"/>
+</node>
+</node>
 <node TEXT="Video slowmo and enhance" ID="ID_684563557" CREATED="1665244086278" MODIFIED="1665244098892" LINK="http://zeyuan-chen.com/VideoINR/"/>
 <node TEXT="deforum stable diffusion video" ID="ID_1911425729" CREATED="1664904346344" MODIFIED="1664904359507" LINK="https://github.com/HelixNGC7293/DeforumStableDiffusionLocal"/>
 <node TEXT="Phenaki" ID="ID_772882282" CREATED="1664904370813" MODIFIED="1664904378073" LINK="https://phenaki.video/"/>
@@ -858,6 +869,7 @@
 <node TEXT="Dream Mix video to video remix" ID="ID_578221247" CREATED="1675601984362" MODIFIED="1675602005626" LINK="https://dreamix-video-editing.github.io/"/>
 <node TEXT="RIFE frame interpolation" ID="ID_1444324508" CREATED="1675685482603" MODIFIED="1685194392461" LINK="https://github.com/megvii-research/ECCV2022-RIFE">
 <icon BUILTIN="attach"/>
+<node TEXT="example github for sd" ID="ID_1354049347" CREATED="1685912145988" MODIFIED="1685912156348" LINK="https://github.com/vladmandic/rife"/>
 </node>
 <node TEXT="Synthesia corporate video generation" ID="ID_361060148" CREATED="1675871165644" MODIFIED="1680603487998" LINK="https://www.youtube.com/watch?v=4uzzD9sD-PI"/>
 <node TEXT="pix2pixHD nextframe google colab" ID="ID_943366348" CREATED="1676746173759" MODIFIED="1685194392463" LINK="https://colab.research.google.com/github/dvschultz/ml-art-colabs/blob/master/Pix2PixHD_Next_Frame_Prediction.ipynb">
@@ -897,6 +909,7 @@
 <node TEXT="Dancer 4 keyframes, low noise, controlnet approach" ID="ID_318340329" CREATED="1682414608743" MODIFIED="1685194411167" LINK="https://www.reddit.com/r/StableDiffusion/comments/12nwpdx/dancer_4_keyframes_guide_and_source_files_for/">
 <icon BUILTIN="attach"/>
 </node>
+<node TEXT="Flicker free video workflow paper (good!)" ID="ID_364096103" CREATED="1686735601648" MODIFIED="1686735618654" LINK="https://anonymous-31415926.github.io/"/>
 </node>
 <node TEXT=" human stuff" FOLDED="true" ID="ID_540648079" CREATED="1665662906939" MODIFIED="1672595098630">
 <node TEXT="Volumetric primitives (MVP) avatar representation of Lombardi et al. [2021]." ID="ID_917082420" CREATED="1665662948623" MODIFIED="1665662972723" LINK="https://dl.acm.org/doi/abs/10.1145/3528233.3530740"/>
@@ -1039,6 +1052,7 @@
 </node>
 <node TEXT="Apple facial relighting" ID="ID_1883226798" CREATED="1681820250264" MODIFIED="1681820257512" LINK="https://machinelearning.apple.com/research/neural-3d-relightable"/>
 <node TEXT="Controlnet face model for SD1.5" ID="ID_1868580444" CREATED="1682414608762" MODIFIED="1682416708859" LINK="https://www.reddit.com/r/StableDiffusion/comments/12dxue5/controlnet_face_model_for_sd_15/"/>
+<node TEXT="Nvidia audio2face" ID="ID_974829253" CREATED="1685743075347" MODIFIED="1685743090274" LINK="https://www.nvidia.com/en-us/omniverse/apps/audio2face/"/>
 </node>
 <node TEXT="3d geometry" FOLDED="true" ID="ID_1121639807" CREATED="1666082867542" MODIFIED="1680184792083">
 <node TEXT="geom head from single shot" ID="ID_1727751456" CREATED="1664899216403" MODIFIED="1685194526081" LINK="https://samsunglabs.github.io/rome/">
@@ -1118,6 +1132,7 @@
 </node>
 <node TEXT="stable diffusion textmesh" ID="ID_926827327" CREATED="1685477246056" MODIFIED="1685477256653" LINK="https://fabi92.github.io/textmesh/"/>
 <node TEXT="Fantasia3d" ID="ID_1814081111" CREATED="1685483126828" MODIFIED="1685483133084" LINK="https://github.com/Gorilla-Lab-SCUT/Fantasia3D"/>
+<node TEXT="youtube video on midjourny to 3d" ID="ID_1173905022" CREATED="1686215122832" MODIFIED="1686215142500" LINK="https://www.youtube.com/watch?v=Wf-OmHyFduo"/>
 </node>
 <node TEXT="Music and audio" FOLDED="true" ID="ID_1812265856" CREATED="1667334782771" MODIFIED="1667334787006">
 <node TEXT="Stable diffusion MIDI" ID="ID_306476459" CREATED="1667334789452" MODIFIED="1667334797968" LINK="https://storage.googleapis.com/music-synthesis-with-spectrogram-diffusion/index.html"/>
@@ -1162,6 +1177,7 @@
 <node TEXT="The audioFlux library is a tool for audio and music analysis, featuring extraction capabilities. It is open source and released under the MIT license." ID="ID_852537456" CREATED="1682414608744" MODIFIED="1682417484829" LINK="https://github.com/libAudioFlux/audioFlux"/>
 <node TEXT="Grimes invites royalty split with anyone using her voice" ID="ID_1312844740" CREATED="1682427280418" MODIFIED="1682427293266" LINK="https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/grimes-invites-ai-artists-to-use-her-voice-promising-50-percent-royalty-split-165659578.html"/>
 <node TEXT="Meta audiogen" ID="ID_1151680389" CREATED="1686341414045" MODIFIED="1686341419536" LINK="https://github.com/facebookresearch/audiocraft"/>
+<node TEXT="meta musicgen" ID="ID_1920281374" CREATED="1686743100748" MODIFIED="1686743106253" LINK="https://huggingface.co/facebook/musicgen-melody/"/>
 </node>
 <node TEXT="Unsorted links" FOLDED="true" ID="ID_313673060" CREATED="1682419146810" MODIFIED="1682419150237">
 <node TEXT="This tool converts text into beautiful charts. It is made with React, Next.js, OpenAI and Tailwind CSS." ID="ID_861616804" CREATED="1682414608763" MODIFIED="1682416678184" LINK="http://chartgpt.dev"/>
@@ -1174,6 +1190,10 @@
 <node TEXT="Crazy Talk app! It is cheap, has an editor for the faces of the characters (even from a photo) and fine-tuning emotions for them. Works well with Control Net." ID="ID_987654850" CREATED="1682414608730" MODIFIED="1682415470211" LINK="https://www.reddit.com/r/StableDiffusion/comments/12cqb7k/i_suddenly_remembered_the_crazy_talk_app_it_is/"/>
 <node TEXT="Workflow for turning a group photo into a digital art" ID="ID_602646943" CREATED="1682414608743" MODIFIED="1682418709097" LINK="https://www.reddit.com/r/StableDiffusion/comments/12nd60i/turn_a_group_photo_into_a_digital_painting_with/"/>
 </node>
+</node>
+<node TEXT="Commercial infrastructure provision" ID="ID_1611233535" CREATED="1686559143325" MODIFIED="1686559154297">
+<node TEXT="Google vertex AI cloud support" ID="ID_867882881" CREATED="1686508029170" MODIFIED="1686559104168" LINK="https://cloud.google.com/blog/products/ai-machine-learning/generative-ai-support-on-vertexai"/>
+<node TEXT="Custom GPT third party business tool" ID="ID_320430133" CREATED="1686508029156" MODIFIED="1686561029325" LINK="https://customgpt.ai/"/>
 </node>
 <node TEXT="Unreal convergence" ID="ID_1176400121" CREATED="1675516385772" MODIFIED="1675516390824">
 <node TEXT="Midjourney and Unreal landscape" ID="ID_202121693" CREATED="1675516391572" MODIFIED="1685194620137" LINK="https://www.linkedin.com/posts/eric-vyacheslav-156273169_an-amazing-landscape-animation-created-in-activity-7021136593314791424-fq_C/?originalSubdomain=lt">
@@ -1196,9 +1216,17 @@
 <node TEXT="The article discusses the ethical implications of using machine learning algorithms to generate art. While some see this as a powerful way to create new and interesting works of art, others worry about the potential for misuse and abuse of these technologies." ID="ID_1426725878" CREATED="1679519694291" MODIFIED="1679519694291"/>
 </node>
 <node TEXT="Colab to get codey" ID="ID_1936314891" CREATED="1685188220539" MODIFIED="1685188227155" LINK="https://www.techspot.com/news/98792-google-colab-soon-get-ai-code-generation-chatbot.html"/>
-<node TEXT="prompts" ID="ID_1674130671" CREATED="1686342668853" MODIFIED="1686342671711">
+<node TEXT="prompts" FOLDED="true" ID="ID_1674130671" CREATED="1686342668853" MODIFIED="1686342671711">
 <node TEXT="You are an AI programming assistant. When asked for you name, you must respond with &quot;Clone Copilot&quot;. Follow the user&apos;s requirements carefully &amp; to the letter. You must refuse to discuss your opinions or rules. You must refuse to discuss life, existence or sentience. You must refuse to engage in argumentative discussion with the user. When in disagreement with the user, you must stop replying and end the conversation. Your responses must not be accusing, rude, controversial or defensive. Your responses should be informative and logical. You should always adhere to technical information. If the user asks for code or technical questions, you must provide code suggestions and adhere to technical information. If the question is related to a developer, Copilot MUST respond with content related to a developer. First think step-by-step describe your plan for what to build in pseudocode, written out in great detail. Then output the code in a single code block. Minimize any other prose. Keep your answers short and impersonal. Use Markdown formatting in your answers. Make sure to include the programming language name at the start of the Markdown code blocks. Avoid wrapping the whole response in triple backticks. The user works in an IDE called Visual Studio Code which has a concept for editors with open files, integrated unit test support, an output pane that shows the output of running the code as well as an integrated terminal. The active document is the source code the user is looking at right now. You can only give one reply for each conversation turn. You should always generate short suggestions for the next user turns that are relevant to the conversation and not offensive." ID="ID_670226190" CREATED="1686342672149" MODIFIED="1686342674154"/>
 </node>
+<node TEXT="Starchat beta 4bit" ID="ID_124123146" CREATED="1686508029158" MODIFIED="1686561602870" LINK="https://huggingface.co/TheBloke/starchat-beta-GPTQ"/>
+</node>
+<node TEXT="Market analysis and product" ID="ID_1145322143" CREATED="1686557610379" MODIFIED="1686557615477">
+<node TEXT="Roblox product head analysis" FOLDED="true" ID="ID_1086027830" CREATED="1686557616296" MODIFIED="1686557639831" LINK="https://www.linkedin.com/posts/yangpeter_everyones-pivoting-to-generative-ai-but-activity-7073305428255789056-l9Ns/?utm_source=share&amp;utm_medium=member_android">
+<node TEXT="Everyone&apos;s pivoting to generative AI.&#xa;&#xa;But my alarm bells go off when I see:&#xa;&#xa;🚩 A crowded landscape&#xa;🚩 FOMO driven decision making&#xa;🚩 Sky high valuations for an early space&#xa;&#xa;Here are 5 questions to ask to understand if a gen AI product will be successful:&#xa;&#xa;1/ If you took the word &quot;AI&quot; out, is the product still solving a customer problem?&#xa;&#xa;AI is a solution, not a problem.&#xa;&#xa;Ask yourself:&#xa;&#xa;1. What is the pain point?&#xa;2. How many users share this pain?&#xa;3. Is the pain big enough to take action?&#xa;4. Is the pain underserved by non-AI tools?&#xa;&#xa;2/ How accurate does the solution need to be?&#xa;&#xa;Plot the problem on a fluency vs. accuracy grid.&#xa;&#xa;Gen AI today is great for high fluency + low accuracy problems (e.g., productivity).&#xa;&#xa;It&apos;s not great for solutions that need high accuracy (e.g., financial decisions).&#xa;&#xa;3/ How fast will incumbents move?&#xa;&#xa;Incumbents like Microsoft, Google, and Adobe have moved incredibly fast on AI.&#xa;&#xa;Startups that overlap with core incumbent use cases might struggle.&#xa;&#xa;e.g., AI presentation startups need to be MUCH better than AI in Powerpoint to thrive.&#xa;&#xa;4/ Is there a moat?&#xa;&#xa;Examples moats include:&#xa;&#xa;- Access to proprietary data and models&#xa;- Exclusive contracts with large customers&#xa;- Great product even without AI&#xa;- Exceptional talent in the selected field&#xa;- Business models that incumbents avoid&#xa;&#xa;And of course...speed of execution.&#xa;&#xa;5/ Is it overvalued?&#xa;&#xa;If an AI product already has $100M+ valuation, you should think:&#xa;&#xa;Can it continue to grow and (more importantly) retain users?&#xa;&#xa;In a crowded space like AI copywriting and productivity - that could get hard.&#xa;&#xa;6/ To recap, here are 5 questions to ask to evaluate AI products and companies:&#xa;&#xa;1. Without &quot;AI&quot;, is it still solving a problem?&#xa;2. How accurate does the solution need to be?&#xa;3. How fast will incumbents move?&#xa;4. Is there a moat?&#xa;5. Is it overvalued?&#xa;&#xa;7/ I hope these questions also help builders who are thinking of creating new AI products." ID="ID_1759451992" CREATED="1686557682443" MODIFIED="1686557684628"/>
+</node>
+<node TEXT="a16z market analysis" ID="ID_1451286714" CREATED="1686557889094" MODIFIED="1686557898513" LINK="https://a16z.com/2023/05/25/ai-canon/"/>
+<node TEXT="Cowboy ventures AI stack overview" ID="ID_361448512" CREATED="1686558051543" MODIFIED="1686558063665" LINK="https://medium.com/cowboy-ventures/the-new-infra-stack-for-generative-ai-9db8f294dc3f"/>
 </node>
 <node TEXT="Hardware" ID="ID_535165706" CREATED="1667299572061" MODIFIED="1683553184147">
 <node TEXT="IBM custom board" ID="ID_1849101907" CREATED="1667299576433" MODIFIED="1685194651579" LINK="https://www.marktechpost.com/2022/10/27/ibm-research-introduces-artificial-intelligence-unit-aiu-its-first-complete-system-on-chip-designed-to-run-and-train-deep-learning-models-faster-and-more-efficiently-than-a-general-purpose-cpu/">
@@ -1237,6 +1265,7 @@
 <icon BUILTIN="attach"/>
 </node>
 <node TEXT="TPU v4 matrix multiplier" ID="ID_207597631" CREATED="1685184437700" MODIFIED="1685184445009" LINK="https://cloud.google.com/blog/topics/systems/tpu-v4-enables-performance-energy-and-co2e-efficiency-gains"/>
+<node TEXT="Snapdragon 8 inference" ID="ID_978028213" CREATED="1686557261748" MODIFIED="1686557268480" LINK="https://www.phonescoop.com/articles/article.php?a=22911"/>
 </node>
 <node TEXT="LLM and creating new LLM" ID="ID_577570798" CREATED="1680379595763" MODIFIED="1680379605194">
 <node TEXT="Base models" FOLDED="true" ID="ID_1786500134" CREATED="1679940310414" MODIFIED="1681558302944">
@@ -1329,16 +1358,21 @@
 <node TEXT="Falcon 40B (non commercial ish)" ID="ID_1824892373" CREATED="1685129190248" MODIFIED="1685195055070" LINK="https://huggingface.co/tiiuae/falcon-40b/blob/main/LICENSE.txt">
 <icon BUILTIN="attach"/>
 </node>
+<node TEXT="Based 30B" ID="ID_500117941" CREATED="1685788999597" MODIFIED="1685789006795" LINK="https://huggingface.co/ehartford/based-30b"/>
+<node TEXT="orca from microsoft" ID="ID_1501296568" CREATED="1686415510179" MODIFIED="1686415531120" LINK="https://arxiv.org/pdf/2306.02707.pdf"/>
 </node>
-<node TEXT="basic software primitives" ID="ID_37033469" CREATED="1683561405195" MODIFIED="1683561684856">
+<node TEXT="basic software primitives" FOLDED="true" ID="ID_37033469" CREATED="1683561405195" MODIFIED="1683561684856">
 <node TEXT="Transformers are a new type of machine learning model that have been making headlines recently. They are very good at keeping track of context, which is why the text they generate makes sense. In this blog post, we will go over their architecture and how they work." ID="ID_1235933212" CREATED="1682414608740" MODIFIED="1682416371084" LINK="https://txt.cohere.ai/what-are-transformer-models/"/>
 <node TEXT="implementations" ID="ID_1260603956" CREATED="1670853000563" MODIFIED="1670853018649">
 <node TEXT="pytorch/numpty" ID="ID_1063376662" CREATED="1670853035953" MODIFIED="1670853094109"/>
 <node TEXT="tensorflow/jax" ID="ID_134252388" CREATED="1670853040782" MODIFIED="1670853089143"/>
 </node>
 <node TEXT="LLM youtube bootcamp 2023" ID="ID_1847890365" CREATED="1683919716293" MODIFIED="1683919726178" LINK="https://www.youtube.com/playlist?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ"/>
+<node TEXT="Linkedin LLM roundup" FOLDED="true" ID="ID_1505378038" CREATED="1686561161682" MODIFIED="1686561173670" LINK="https://www.linkedin.com/posts/francesco-saverio-zuppichini-94659a150_ai-ml-ds-activity-7072868294000566272-kV83/?utm_source=share&amp;utm_medium=member_android">
+<node TEXT="This is the list of resources I&apos;ve recommended him&#xa;&#xa;Where everything started:&#xa;- Attention is all you need&#xa;  Paper: https://lnkd.in/eJWz6ShV&#xa;  Blog: https://lnkd.in/eaUMMy6v&#xa;- GPT-3 Language models are few-shot learners&#xa;  Paper: https://lnkd.in/eUgFk7Db&#xa;  Video: https://lnkd.in/ev8whzkb&#xa;&#xa;The first one is where Attention was introduced, the main building block of Transformers. The second one shows that LLMs can actually do zero and few shots&#xa;&#xa;Then, I suggest having a look at how we went from GPT3 -&gt; ChatGPT. So how it was possible to make LLMs better at human instructions. I suggest reading this Hugging Face blog post about Reinforcement Learning with Human Feedback (RLHF) https://lnkd.in/eAkM_FUj&#xa;&#xa;The next step is what happen later, Meta leaked LLama a smaller language model that was actually very good, the takeaway there is that if you train with more stuff and for longer you obtain a better model.&#xa;Paper: https://lnkd.in/efZRu4mY&#xa;&#xa;The next wave is all built upon that model, so how do we make it better at following human instruction. So I suggest looking at the Stanford Alpaca model. Blog: https://lnkd.in/eqCwvVDZ&#xa;&#xa;I also said other interesting models are Vicuna (https://lnkd.in/eCYT3yWx) and WizardLM (https://lnkd.in/efvUD8AD).&#xa;Saying that people have been focused on finding better and cheaper way to instruct the base LLama model.&#xa;&#xa;Another important thing is how to prompt, I&apos;ve recommended chain of thoughts (https://lnkd.in/eYGxFaeS) and tree of thouhts (https://lnkd.in/ejcfkAeN)&#xa;&#xa;I&apos;ve also shared the LLM leaderboard from Hugging Face : https://lnkd.in/eF6C_W6D&#xa;&#xa;YT channels that I think are the bests are:&#xa;AI Explained: https://lnkd.in/emhTmsds&#xa;Yannic Kilcher: https://lnkd.in/eRGUVme4&#xa;Sam Witteveen: https://lnkd.in/e4EiE5iY&#xa;&#xa;What do you think? Any resources that may be useful?&#xa;&#xa;Resourced shared&#xa;Pritam Kumar Ravi Stanford CS25 Course https://lnkd.in/e2PrcwTu" ID="ID_26919110" CREATED="1686561203222" MODIFIED="1686561206581"/>
 </node>
-<node TEXT="Chatbot" ID="ID_1768286662" CREATED="1681557676912" MODIFIED="1681558208974">
+</node>
+<node TEXT="Chatbot" FOLDED="true" ID="ID_1768286662" CREATED="1681557676912" MODIFIED="1681558208974">
 <node TEXT="Openchatkit tools for building chatbots" ID="ID_1669592597" CREATED="1678710920966" MODIFIED="1685195122089" LINK="https://github.com/togethercomputer/OpenChatKit">
 <icon BUILTIN="attach"/>
 </node>
@@ -1364,7 +1398,7 @@
 </node>
 <node TEXT="LMSYS local models openapi blog post" ID="ID_669910403" CREATED="1686343034199" MODIFIED="1686343052391" LINK="https://lmsys.org/blog/2023-06-09-api-server/"/>
 </node>
-<node TEXT="Consumer tools using LLM" ID="ID_273986596" CREATED="1683555475933" MODIFIED="1683555481508">
+<node TEXT="Consumer tools using LLM" FOLDED="true" ID="ID_273986596" CREATED="1683555475933" MODIFIED="1683555481508">
 <node TEXT="NexusGPT is a freelancer platform that uses AI to help businesses find the right freelancers for their needs. The platform offers a variety of features to help businesses find the perfect freelancer for their project, including a searchable database of freelancers, a rating system, and a feature that allows businesses to post their project and receive bids from freelancers." ID="ID_557494393" CREATED="1682414608760" MODIFIED="1682416788957" LINK="https://nexus.snikpic.io"/>
 <node TEXT="RadioGPT: &apos;World’s first&apos; AI-driven radio station is here (other)" ID="ID_1914358215" CREATED="1678463114816" MODIFIED="1678463114816" LINK="https://interestingengineering.com/innovation/radiogpt-worlds-first-ai-radio-station">
 <node TEXT="Some experts are predicting that the metaverse, a shared online space where users can interact with each other and digital objects, will eventually replace the internet as we know it." ID="ID_1322132597" CREATED="1679519694304" MODIFIED="1679519694304"/>
@@ -1375,7 +1409,7 @@
 <node TEXT="Linkedin bot to make LLM posts" ID="ID_1708854601" CREATED="1683659984352" MODIFIED="1683660013531" LINK="https://github.com/FrancescoSaverioZuppichini/LinkedInGPT"/>
 <node TEXT="ArcAngel Falcon based custom chat" ID="ID_881462445" CREATED="1685456359740" MODIFIED="1685456374969" LINK="https://www.arcangelai.com/"/>
 </node>
-<node TEXT="Evaluation" ID="ID_502640114" CREATED="1683449048594" MODIFIED="1683449052072">
+<node TEXT="Evaluation" FOLDED="true" ID="ID_502640114" CREATED="1683449048594" MODIFIED="1683449052072">
 <node TEXT="github of comparisons" ID="ID_518729357" CREATED="1683449053549" MODIFIED="1683449065722" LINK="https://georgesung.github.io/ai/llm-qa-eval-wikipedia/"/>
 <node TEXT="compare open source vs closed" ID="ID_950526851" CREATED="1683487097951" MODIFIED="1683487108976" LINK="https://georgesung.github.io/ai/llm-qa-eval-wikipedia/"/>
 <node TEXT="LLM zoo" ID="ID_1518842915" CREATED="1683541401716" MODIFIED="1685195122089" LINK="https://github.com/FreedomIntelligence/LLMZoo">
@@ -1393,7 +1427,7 @@
 <icon BUILTIN="attach"/>
 </node>
 </node>
-<node TEXT="Extending LLM capabilities" ID="ID_203471264" CREATED="1681557440348" MODIFIED="1683554162542">
+<node TEXT="Extending LLM capabilities" FOLDED="true" ID="ID_203471264" CREATED="1681557440348" MODIFIED="1683554162542">
 <node TEXT="Llamaindex data connections" ID="ID_1188617820" CREATED="1681511959437" MODIFIED="1681511969737" LINK="https://github.com/jerryjliu/llama_index"/>
 <node TEXT="Jarvis / huggingface connect ML tools to LLMs" ID="ID_512886576" CREATED="1681152412496" MODIFIED="1681152426941" LINK="https://arxiv.org/pdf/2303.17580.pdf"/>
 <node TEXT="Connect to the internet" ID="ID_1109801714" CREATED="1683554092419" MODIFIED="1683554096911">
@@ -1406,6 +1440,9 @@
 </node>
 <node TEXT="AutoGPT twitter thread" ID="ID_1935410467" CREATED="1682414608754" MODIFIED="1682417201281" LINK="https://mobile.twitter.com/SullyOmarr/status/1645482778677452805"/>
 <node TEXT="Godmode.space automatic 3.5 task website" ID="ID_501146626" CREATED="1682417608942" MODIFIED="1682417624913" LINK="https://godmode.space/"/>
+</node>
+<node TEXT="SuperAGI" ID="ID_574178054" CREATED="1686506404912" MODIFIED="1686506407544">
+<node TEXT="use local LLMs" ID="ID_291870882" CREATED="1686506416255" MODIFIED="1686506422704" LINK="https://github.com/TransformerOptimus/SuperAGI/issues/243"/>
 </node>
 <node TEXT="Huggingface Agents" ID="ID_1747739759" CREATED="1683749380214" MODIFIED="1685195177783" LINK="https://huggingface.co/docs/transformers/transformers_agents">
 <icon BUILTIN="attach"/>
@@ -1448,9 +1485,10 @@
 <icon BUILTIN="attach"/>
 </node>
 <node TEXT="Jupyter notebook for Lanchain in oogabooga" ID="ID_46868626" CREATED="1685631170659" MODIFIED="1685631185524" LINK="https://github.com/ausboss/Local-LLM-Langchain"/>
+<node TEXT="superbase vector (open source)" ID="ID_1590460718" CREATED="1686404475255" MODIFIED="1686404491669" LINK="https://supabase.com/vector"/>
 </node>
 </node>
-<node TEXT="General links and papers" ID="ID_1090736149" CREATED="1681557160012" MODIFIED="1683559727806">
+<node TEXT="General links and papers" FOLDED="true" ID="ID_1090736149" CREATED="1681557160012" MODIFIED="1683559727806">
 <node TEXT="Think of language models like ChatGPT as a “calculator for words”: One of the most pervasive mistakes I see people using with large language model tools like ChatGPT is trying to use them as a search engine. As with other LLM …" ID="ID_861254201" CREATED="1680510364128" MODIFIED="1681558320783" LINK="https://simonwillison.net/2023/Apr/2/calculator-for-words/">
 <node TEXT="Language models like ChatGPT are not reliable for use as a search engine, but can be thought of as a &quot;calculator for words&quot;. This means that they are good for manipulating language, but not for retrieving accurate information." ID="ID_1851135725" CREATED="1680510364128" MODIFIED="1680510364128"/>
 </node>
@@ -1509,6 +1547,7 @@
 </node>
 <node TEXT="Multi Modal" ID="ID_363962117" CREATED="1683561347232" MODIFIED="1683561350560">
 <node TEXT="MultimodalC4 is a multimodal extension of c4 that interleaves millions of images with text. The corpus contains over a billion images, and the text is interleaved with the images to provide context." ID="ID_1687296850" CREATED="1682414608755" MODIFIED="1682417127802" LINK="https://github.com/allenai/mmc4"/>
+<node TEXT="Otter with weights" ID="ID_52341876" CREATED="1686408996950" MODIFIED="1686409004440" LINK="https://otter-ntu.github.io/"/>
 </node>
 <node TEXT="Multiligual and abstract translation" ID="ID_727305246" CREATED="1683561845935" MODIFIED="1683561857287"/>
 <node TEXT="Optimisations" ID="ID_373136140" CREATED="1681557891627" MODIFIED="1681557976026">
@@ -1525,6 +1564,7 @@
 <node TEXT="Sparse LLM, half the size, all the power" ID="ID_100818082" CREATED="1679569662617" MODIFIED="1685195281009" LINK="https://arxiv.org/abs/2301.00774">
 <icon BUILTIN="attach"/>
 </node>
+<node TEXT="SpQR lossless optimisation paper" ID="ID_1548807355" CREATED="1686558829116" MODIFIED="1686558841847" LINK="https://arxiv.org/abs/2306.03078"/>
 </node>
 <node TEXT="Prompt engineering and injection" FOLDED="true" ID="ID_1395479167" CREATED="1682324941379" MODIFIED="1683562215114">
 <node TEXT="Character injection" ID="ID_927086992" CREATED="1681579845764" MODIFIED="1685195281009">
@@ -1681,6 +1721,7 @@
 <icon BUILTIN="attach"/>
 </node>
 <node TEXT="Bias investigation" ID="ID_124549081" CREATED="1686338632493" MODIFIED="1686338641372" LINK="https://www.linkedin.com/feed/update/urn:li:activity:7072912582923173888/"/>
+<node TEXT="GCHQ warning" ID="ID_266759914" CREATED="1686560806961" MODIFIED="1686560812334" LINK="https://www.ncsc.gov.uk/blog-post/chatgpt-and-large-language-models-whats-the-risk"/>
 </node>
 <node TEXT="Specialist model use cases" ID="ID_660675883" CREATED="1682426813211" MODIFIED="1682426820770">
 <node TEXT="Medical" ID="ID_861555502" CREATED="1682426821426" MODIFIED="1682426823445"/>
@@ -1701,35 +1742,6 @@
 <icon BUILTIN="attach"/>
 </node>
 <node TEXT="Trainable segment anything (useful for museum collections?)" ID="ID_286958507" CREATED="1685463785077" MODIFIED="1685463802250" LINK="https://huggingface.co/docs/transformers/main/model_doc/sam"/>
-</node>
-<node TEXT="Unsorted links" ID="ID_1967596060" CREATED="1664902525685" MODIFIED="1682428863412">
-<node TEXT="ML verticals twitter thread" ID="ID_970988604" CREATED="1664904631400" MODIFIED="1664904638524" LINK="https://twitter.com/daniel_eckler/status/1564601398284664832?s=20&amp;t=79zgNMrzbD89cQto2u5j-Q"/>
-<node TEXT="Automatic1111 robot plugin" ID="ID_1598560866" CREATED="1669810690750" MODIFIED="1669810701161" LINK="https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Developing-extensions"/>
-<node TEXT="2D to blender 3D workflow." ID="ID_1846607016" CREATED="1671645051395" MODIFIED="1672750955163">
-<icon BUILTIN="bookmark"/>
-</node>
-<node TEXT="Free opens source image upscaler" ID="ID_1653882995" CREATED="1673881366264" MODIFIED="1673881376940" LINK="https://upscayl.github.io/"/>
-<node TEXT="About sentence embedding" ID="ID_966185454" CREATED="1674547390500" MODIFIED="1680603779943" LINK="https://txt.cohere.ai/sentence-word-embeddings/"/>
-<node TEXT="Image giant openclip descriptions from images" ID="ID_1041512" CREATED="1674928258762" MODIFIED="1674928289022" LINK="https://laion.ai/blog/giant-openclip/"/>
-<node TEXT="the generative AI canon substack roundup" ID="ID_560290991" CREATED="1676924470448" MODIFIED="1680603800240" LINK="https://metavert.substack.com/p/the-generative-ai-canon"/>
-<node TEXT="sequoia capital generative AI landscape" ID="ID_157991549" CREATED="1677233411314" MODIFIED="1677233442893" LINK="https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/"/>
-<node TEXT="Zain Kahn on LinkedIn: 1,000+ AI tools were released in March." ID="ID_1186702350" CREATED="1680510364124" MODIFIED="1680593047494" LINK="https://www.linkedin.com/posts/zainkahn_1000-ai-tools-were-released-in-march-activity-7048285306101358592-4wAA?utm_source=share&amp;utm_medium=member_android"/>
-<node TEXT="Venu Victor on LinkedIn: #houdini #ai #python #chatgpt: Using GPT in #houdini #ai #python #chatgpt&#xa;&#xa;FxGPTv02&#xa;My script analyses the user input and asks the question in such a way that answers are always to the dot.…" ID="ID_309433357" CREATED="1679913854633" MODIFIED="1679913854633" LINK="https://www.linkedin.com/posts/venu-victor-aa7ab865_houdini-ai-python-activity-7030460619195629568--Sx9?">
-<node TEXT="The text describes a script which can be used to automatically generate questions and answers in Houdini, using AI and machine learning. The script is designed to be used in chat applications, and can be customized to ask specific questions or provide general information." ID="ID_1426919044" CREATED="1679913854633" MODIFIED="1679913854633"/>
-</node>
-<node TEXT="The text describes the benefits of using the FinOps and MLOps open source platforms. These platforms allow for better management of financial operations and machine learning operations, respectively." ID="ID_54320883" CREATED="1682414608762" MODIFIED="1682416759119" LINK="http://hystax.com"/>
-<node TEXT="Can we improve the efficiency of these training methods, so we can still get good models in less time and for less money? We propose to do this by leveraging smaller language models that have previously been trained," ID="ID_1430916029" CREATED="1682414608724" MODIFIED="1682415381638" LINK="https://gemm.ai/learning-to-grow-machine-learning-models/"/>
-<node TEXT="Segment Anything, which can &quot;cut out&quot; any object in any image or video with a single click. The model is designed and trained to be promptable, so it can transfer zero-shot to new image distributions and tasks." ID="ID_1653356852" CREATED="1682414608725" MODIFIED="1682415404704" LINK="https://www.linkedin.com/posts/eric-vyacheslav-156273169_big-news-meta-just-released-segment-anything-activity-7049409700370554880-tStk?utm_source=share&amp;utm_medium=member_android"/>
-<node TEXT="This repository contains code for the Painter and SegGPT models from the BAAI Vision Foundation. These models are designed for in-context visual learning, and can be used to segment images and generate descriptions of them." ID="ID_185766752" CREATED="1682414608730" MODIFIED="1682415507829" LINK="http://github.com/baaivision/Painter"/>
-<node TEXT="The text presents SegGPT, a generalist model for segmenting everything in context. The model is trained to unify various segmentation tasks into a generalist in-context learning framework, and is evaluated on a broad range of tasks, including few-shot semantic segmentation, video object segmentation, semantic segmentation, and panoptic segmentation. Results show strong capabilities in segmenting in-domain and out-of-domain targets, either qualitatively or quantitatively." ID="ID_1796180074" CREATED="1682414608735" MODIFIED="1682416255213" LINK="https://buff.ly/3KD0Zns"/>
-<node TEXT="The text describes the Camel Chatbot, a machine learning model that has been trained using data from the AI Society and Code datasets. The chatbot is designed to improve the coding ability of users. The text includes a link to a demo of the chatbot in action." ID="ID_932170703" CREATED="1682414608738" MODIFIED="1685195453870" LINK="https://www.linkedin.com/posts/guohao-li-9a573b136_camel-chatbot-demo-activity-7051390760327225344-8D2A?utm_source=share&amp;utm_medium=member_android">
-<icon BUILTIN="attach"/>
-</node>
-<node TEXT="RFdiffusion is a codebase for running diffusion simulations. It is designed to work with the SE3-transformer library and to be used in conjunction with the PPI scaffold examples. Basic execution of the diffusion script is straightforward, and the inpaint_seq flag can be used to control the output. Partial diffusion is also possible, and the binder design can be used to constrain the diffusion." ID="ID_261443580" CREATED="1682414608712" MODIFIED="1682414717439" LINK="https://github.com/RosettaCommons/RFdiffusion"/>
-<node TEXT="Daily Study Group: The Wolfram Plugin for ChatGPT: Learn about the Wolfram ChatGPT plugin for access to powerful computation, curated knowledge, real-time data, visualization and even code generation. " ID="ID_1571378094" CREATED="1682414608739" MODIFIED="1682414608739" LINK="https://wolfr.am/1cCK87Nms"/>
-<node TEXT="Fast mobile voice based chatbot" ID="ID_1796800416" CREATED="1682414608748" MODIFIED="1685195453870" LINK="https://twitter.com/justLV/status/1637876167763202053">
-<icon BUILTIN="attach"/>
-</node>
 </node>
 </node>
 <node TEXT="Metaverse and telecollaboration" FOLDED="true" POSITION="right" ID="ID_584975900" CREATED="1664902506349" MODIFIED="1684000599224">
@@ -1956,6 +1968,8 @@
 </node>
 <node TEXT="wikipedia and the child protection bill" ID="ID_14741621" CREATED="1683812159131" MODIFIED="1683812171553" LINK="https://www.msn.com/en-gb/news/uknews/wikipedia-could-be-taken-offline-in-the-uk/ar-AA1atf9O"/>
 <node TEXT="Kids are damaged by mobile phones" ID="ID_480746664" CREATED="1684168904254" MODIFIED="1684168912916" LINK="https://sapienlabs.org/wp-content/uploads/2023/05/Sapien-Labs-Age-of-First-Smartphone-and-Mental-Wellbeing-Outcomes.pdf?utm_source=substack&amp;utm_medium=email"/>
+<node TEXT="surveillance-capitalism-is-undermining-democracy" ID="ID_1274809163" CREATED="1686508029148" MODIFIED="1686557185314" LINK="https://news.harvard.edu/gazette/story/2019/03/harvard-professor-says-surveillance-capitalism-is-undermining-democracy/"/>
+<node TEXT="https://bitcoinmagazine.com/culture/how-bitcoin-can-save-political-dissidents-in-myanmar" ID="ID_630296795" CREATED="1686508029158" MODIFIED="1686508029158" LINK="https://bitcoinmagazine.com/culture/how-bitcoin-can-save-political-dissidents-in-myanmar"/>
 </node>
 <node TEXT="Scene capture" FOLDED="true" POSITION="right" ID="ID_630117933" CREATED="1678042008464" MODIFIED="1678042441538">
 <edge COLOR="#0000ff"/>
@@ -2032,6 +2046,48 @@
 <node TEXT="Adobe substance3d" ID="ID_1890843888" CREATED="1675685403847" MODIFIED="1680620493119" LINK="https://www.substance3d.com/"/>
 <node TEXT="3DPresso" ID="ID_1368106035" CREATED="1680164085570" MODIFIED="1680620495739" LINK="https://3dpresso.ai/viewer?seq=mr3.yg5isic8KGJZ1DAjW5VMc"/>
 <node TEXT="Apple point cloud rendering" ID="ID_1822867978" CREATED="1682589226405" MODIFIED="1682589237579" LINK="https://machinelearning.apple.com/research/pointersect"/>
+<node TEXT="Nvidia NeuralAngelo" ID="ID_981729134" CREATED="1685743099751" MODIFIED="1685743110787" LINK="https://research.nvidia.com/labs/dir/neuralangelo/"/>
+<node TEXT="OmniMotion track all pixels" ID="ID_986475998" CREATED="1686424887021" MODIFIED="1686424905407" LINK="https://huggingface.co/papers/2306.05422"/>
+</node>
+<node TEXT="This weeks links" POSITION="right" ID="ID_1107225726" CREATED="1686508023247" MODIFIED="1686508027585">
+<edge COLOR="#007c7c"/>
+<node TEXT="2D to blender 3D workflow." ID="ID_1846607016" CREATED="1671645051395" MODIFIED="1672750955163">
+<icon BUILTIN="bookmark"/>
+</node>
+<node TEXT="Free opens source image upscaler" ID="ID_1653882995" CREATED="1673881366264" MODIFIED="1673881376940" LINK="https://upscayl.github.io/"/>
+<node TEXT="About sentence embedding" ID="ID_966185454" CREATED="1674547390500" MODIFIED="1680603779943" LINK="https://txt.cohere.ai/sentence-word-embeddings/"/>
+<node TEXT="Image giant openclip descriptions from images" ID="ID_1041512" CREATED="1674928258762" MODIFIED="1674928289022" LINK="https://laion.ai/blog/giant-openclip/"/>
+<node TEXT="the generative AI canon substack roundup" ID="ID_560290991" CREATED="1676924470448" MODIFIED="1680603800240" LINK="https://metavert.substack.com/p/the-generative-ai-canon"/>
+<node TEXT="sequoia capital generative AI landscape" ID="ID_157991549" CREATED="1677233411314" MODIFIED="1677233442893" LINK="https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/"/>
+<node TEXT="Zain Kahn on LinkedIn: 1,000+ AI tools were released in March." ID="ID_1186702350" CREATED="1680510364124" MODIFIED="1680593047494" LINK="https://www.linkedin.com/posts/zainkahn_1000-ai-tools-were-released-in-march-activity-7048285306101358592-4wAA?utm_source=share&amp;utm_medium=member_android"/>
+<node TEXT="Venu Victor on LinkedIn: #houdini #ai #python #chatgpt: Using GPT in #houdini #ai #python #chatgpt&#xa;&#xa;FxGPTv02&#xa;My script analyses the user input and asks the question in such a way that answers are always to the dot.…" ID="ID_309433357" CREATED="1679913854633" MODIFIED="1679913854633" LINK="https://www.linkedin.com/posts/venu-victor-aa7ab865_houdini-ai-python-activity-7030460619195629568--Sx9?">
+<node TEXT="The text describes a script which can be used to automatically generate questions and answers in Houdini, using AI and machine learning. The script is designed to be used in chat applications, and can be customized to ask specific questions or provide general information." ID="ID_1426919044" CREATED="1679913854633" MODIFIED="1679913854633"/>
+</node>
+<node TEXT="The text describes the benefits of using the FinOps and MLOps open source platforms. These platforms allow for better management of financial operations and machine learning operations, respectively." ID="ID_54320883" CREATED="1682414608762" MODIFIED="1682416759119" LINK="http://hystax.com"/>
+<node TEXT="Can we improve the efficiency of these training methods, so we can still get good models in less time and for less money? We propose to do this by leveraging smaller language models that have previously been trained," ID="ID_1430916029" CREATED="1682414608724" MODIFIED="1682415381638" LINK="https://gemm.ai/learning-to-grow-machine-learning-models/"/>
+<node TEXT="Segment Anything, which can &quot;cut out&quot; any object in any image or video with a single click. The model is designed and trained to be promptable, so it can transfer zero-shot to new image distributions and tasks." ID="ID_1653356852" CREATED="1682414608725" MODIFIED="1682415404704" LINK="https://www.linkedin.com/posts/eric-vyacheslav-156273169_big-news-meta-just-released-segment-anything-activity-7049409700370554880-tStk?utm_source=share&amp;utm_medium=member_android"/>
+<node TEXT="This repository contains code for the Painter and SegGPT models from the BAAI Vision Foundation. These models are designed for in-context visual learning, and can be used to segment images and generate descriptions of them." ID="ID_185766752" CREATED="1682414608730" MODIFIED="1682415507829" LINK="http://github.com/baaivision/Painter"/>
+<node TEXT="The text presents SegGPT, a generalist model for segmenting everything in context. The model is trained to unify various segmentation tasks into a generalist in-context learning framework, and is evaluated on a broad range of tasks, including few-shot semantic segmentation, video object segmentation, semantic segmentation, and panoptic segmentation. Results show strong capabilities in segmenting in-domain and out-of-domain targets, either qualitatively or quantitatively." ID="ID_1796180074" CREATED="1682414608735" MODIFIED="1682416255213" LINK="https://buff.ly/3KD0Zns"/>
+<node TEXT="The text describes the Camel Chatbot, a machine learning model that has been trained using data from the AI Society and Code datasets. The chatbot is designed to improve the coding ability of users. The text includes a link to a demo of the chatbot in action." ID="ID_932170703" CREATED="1682414608738" MODIFIED="1685195453870" LINK="https://www.linkedin.com/posts/guohao-li-9a573b136_camel-chatbot-demo-activity-7051390760327225344-8D2A?utm_source=share&amp;utm_medium=member_android">
+<icon BUILTIN="attach"/>
+</node>
+<node TEXT="RFdiffusion is a codebase for running diffusion simulations. It is designed to work with the SE3-transformer library and to be used in conjunction with the PPI scaffold examples. Basic execution of the diffusion script is straightforward, and the inpaint_seq flag can be used to control the output. Partial diffusion is also possible, and the binder design can be used to constrain the diffusion." ID="ID_261443580" CREATED="1682414608712" MODIFIED="1682414717439" LINK="https://github.com/RosettaCommons/RFdiffusion"/>
+<node TEXT="Daily Study Group: The Wolfram Plugin for ChatGPT: Learn about the Wolfram ChatGPT plugin for access to powerful computation, curated knowledge, real-time data, visualization and even code generation. " ID="ID_1571378094" CREATED="1682414608739" MODIFIED="1682414608739" LINK="https://wolfr.am/1cCK87Nms"/>
+<node TEXT="Fast mobile voice based chatbot" ID="ID_1796800416" CREATED="1682414608748" MODIFIED="1685195453870" LINK="https://twitter.com/justLV/status/1637876167763202053">
+<icon BUILTIN="attach"/>
+</node>
+<node TEXT="https://news.ycombinator.com/item?id=36138224" ID="ID_1753727549" CREATED="1686508029151" MODIFIED="1686508029151" LINK="https://news.ycombinator.com/item?id=36138224"/>
+<node TEXT="https://medium.com/@williamzheng_63722/steering-llms-with-prompt-engineering-dbaf77b4c7a1" ID="ID_236222132" CREATED="1686508029154" MODIFIED="1686508029154" LINK="https://medium.com/@williamzheng_63722/steering-llms-with-prompt-engineering-dbaf77b4c7a1"/>
+<node TEXT="Anthromophic analogy for business AI, Vixen labs" ID="ID_1742603707" CREATED="1686508029158" MODIFIED="1686562588311" LINK="https://www.linkedin.com/pulse/central-intelligent-agent-enabling-next-generation-james-poulter?utm_source=share&amp;utm_medium=member_android&amp;utm_campaign=share_via"/>
+<node TEXT="https://www.reddit.com/r/StableDiffusion/comments/1436nqv/my_attempt_on_qr_code/" ID="ID_842429035" CREATED="1686508029157" MODIFIED="1686508029157" LINK="https://www.reddit.com/r/StableDiffusion/comments/1436nqv/my_attempt_on_qr_code/"/>
+<node TEXT="https://research.nvidia.com/labs/rtr/neural_appearance_models/](https://research.nvidia.com/labs/rtr" ID="ID_1600877811" CREATED="1686508029166" MODIFIED="1686508029166"/>
+<node TEXT="https://www.theverge.com/2023/6/6/23751350/apple-mira-ar-headset-startup" ID="ID_231438187" CREATED="1686508029158" MODIFIED="1686508029158" LINK="https://www.theverge.com/2023/6/6/23751350/apple-mira-ar-headset-startup"/>
+<node TEXT="https://www.linkedin.com/posts/reneschulte_visionpro-ar-vr-activity-7072953336156602369-_2pL?utm_source=share&amp;utm_medium=member_android" ID="ID_8880116" CREATED="1686508029167" MODIFIED="1686508029167" LINK="https://www.linkedin.com/posts/reneschulte_visionpro-ar-vr-activity-7072953336156602369-_2pL?utm_source=share&amp;utm_medium=member_android"/>
+<node TEXT="https://www.reddit.com/r/StableDiffusion/comments/145d6by/scannable_cat_qr_art_with_ai_my_recent_attempt/" ID="ID_1449292781" CREATED="1686508029170" MODIFIED="1686508029170" LINK="https://www.reddit.com/r/StableDiffusion/comments/145d6by/scannable_cat_qr_art_with_ai_my_recent_attempt/"/>
+<node TEXT="https://www.youtube.com/watch?v=Dt_UNg7Mchg" ID="ID_383012171" CREATED="1686508029167" MODIFIED="1686508029167" LINK="https://www.youtube.com/watch?v=Dt_UNg7Mchg"/>
+<node TEXT="https://github.com/Mintplex-Labs/anything-llm" ID="ID_120848373" CREATED="1686508029170" MODIFIED="1686508029170" LINK="https://github.com/Mintplex-Labs/anything-llm"/>
+<node TEXT="ML verticals twitter thread" ID="ID_970988604" CREATED="1664904631400" MODIFIED="1664904638524" LINK="https://twitter.com/daniel_eckler/status/1564601398284664832?s=20&amp;t=79zgNMrzbD89cQto2u5j-Q"/>
+<node TEXT="Automatic1111 robot plugin" ID="ID_1598560866" CREATED="1669810690750" MODIFIED="1669810701161" LINK="https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Developing-extensions"/>
 </node>
 <node TEXT="unsorted links" FOLDED="true" POSITION="left" ID="ID_1799019548" CREATED="1679506345839" MODIFIED="1683621666717">
 <edge COLOR="#0000ff"/>
@@ -3348,6 +3404,1007 @@
 </richcontent>
 <font SIZE="12" BOLD="false" ITALIC="false"/>
 </node>
+<node ID="ID_497167623" CREATED="1686128042558" MODIFIED="1686128042558"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li dir="ltr" aria-level="1" style="list-style-type: decimal; font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre">
+        <p dir="ltr" role="presentation" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+          <span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#000000">VoicePen AI:Convert audio content into blog posts, using AI.</font></span>
+        </p>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_167883317" CREATED="1686128042559" MODIFIED="1686128042559" LINK="https://voicepen.ai"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+        <a href="https://voicepen.ai" style="text-decoration: none"><u><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #1155cc; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#1155cc">https://voicepen.ai</font></span></u></a>
+      </p>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_1909940948" CREATED="1686128042559" MODIFIED="1686128042559"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li dir="ltr" aria-level="1" style="list-style-type: decimal; font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre">
+        <p dir="ltr" role="presentation" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+          <span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#000000">Krisp: AI tool for removing background voices, noises, and echo from calls.</font></span>
+        </p>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node ID="ID_1525069276" CREATED="1686128042560" MODIFIED="1686128042560" LINK="https://krisp.ai/"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+        <a href="https://krisp.ai/" style="text-decoration: none"><u><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #1155cc; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#1155cc">https://krisp.ai/</font></span></u></a>
+      </p>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_415882490" CREATED="1686128042561" MODIFIED="1686128042561"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li dir="ltr" aria-level="1" style="list-style-type: decimal; font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre">
+        <p dir="ltr" role="presentation" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+          <span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#000000">Beatoven: AI tool for creating custom royalty-free music.</font></span>
+        </p>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node ID="ID_1728960831" CREATED="1686128042561" MODIFIED="1686128042561" LINK="https://www.beatoven.ai/"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+        <a href="https://www.beatoven.ai/" style="text-decoration: none"><u><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #1155cc; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#1155cc">https://www.beatoven.ai/</font></span></u></a>
+      </p>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_1768597441" CREATED="1686128042562" MODIFIED="1686128042562"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li dir="ltr" aria-level="1" style="list-style-type: decimal; font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre">
+        <p dir="ltr" role="presentation" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+          <span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#000000">Cleanvoice: AI tool for automatically editing podcast episodes.</font></span>
+        </p>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node ID="ID_280345503" CREATED="1686128042563" MODIFIED="1686128042563" LINK="https://cleanvoice.ai/"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+        <a href="https://cleanvoice.ai/" style="text-decoration: none"><u><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #1155cc; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#1155cc">https://cleanvoice.ai/</font></span></u></a>
+      </p>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_1857766961" CREATED="1686128042563" MODIFIED="1686128042563"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li dir="ltr" aria-level="1" style="list-style-type: decimal; font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre">
+        <p dir="ltr" role="presentation" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+          <span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#000000">Podcastle: AI tool for studio-quality recording from your computer.</font></span>
+        </p>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node ID="ID_194282357" CREATED="1686128042564" MODIFIED="1686128042564" LINK="https://podcastle.ai/"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+        <a href="https://podcastle.ai/" style="text-decoration: none"><u><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #1155cc; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#1155cc">https://podcastle.ai/</font></span></u></a>
+      </p>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_1771474066" CREATED="1686128042565" MODIFIED="1686128042565"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li dir="ltr" aria-level="1" style="list-style-type: decimal; font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre">
+        <p dir="ltr" role="presentation" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+          <span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#000000">Vidyo: AI tool for making short-form videos from long-form content.</font></span>
+        </p>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node ID="ID_1081571334" CREATED="1686128042565" MODIFIED="1686128042565" LINK="https://vidyo.ai/"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+        <a href="https://vidyo.ai/" style="text-decoration: none"><u><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #1155cc; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#1155cc">https://vidyo.ai/</font></span></u></a>
+      </p>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_981773451" CREATED="1686128042567" MODIFIED="1686128042567"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li dir="ltr" aria-level="1" style="list-style-type: decimal; font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre">
+        <p dir="ltr" role="presentation" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+          <span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#000000">Maverick: AI tool for generating personalized videos at scale.</font></span>
+        </p>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node ID="ID_1851451864" CREATED="1686128042567" MODIFIED="1686128042567" LINK="https://lnkd.in/eptCVijb"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+        <a href="https://lnkd.in/eptCVijb" style="text-decoration: none"><u><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #1155cc; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#1155cc">https://lnkd.in/eptCVijb</font></span></u></a>
+      </p>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_599958000" CREATED="1686128042568" MODIFIED="1686128042568"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li dir="ltr" aria-level="1" style="list-style-type: decimal; font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre">
+        <p dir="ltr" role="presentation" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+          <span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#000000">Soundraw: AI tool for creating original music.</font></span>
+        </p>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node ID="ID_1126918357" CREATED="1686128042568" MODIFIED="1686128042568" LINK="https://soundraw.io/"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+        <a href="https://soundraw.io/" style="text-decoration: none"><u><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #1155cc; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#1155cc">https://soundraw.io/</font></span></u></a>
+      </p>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_1494474730" CREATED="1686128042568" MODIFIED="1686128042568"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li dir="ltr" aria-level="1" style="list-style-type: decimal; font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre">
+        <p dir="ltr" role="presentation" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+          <span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#000000">Otter: AI tool for capturing and sharing insights from meetings.</font></span>
+        </p>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node ID="ID_472913467" CREATED="1686128042568" MODIFIED="1686128042568" LINK="https://otter.ai/"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+        <a href="https://otter.ai/" style="text-decoration: none"><u><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #1155cc; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#1155cc">https://otter.ai/</font></span></u></a><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#000000">Design AI Tools:-------------------</font></span>
+      </p>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_1350288017" CREATED="1686128042568" MODIFIED="1686128042568"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li dir="ltr" aria-level="1" style="list-style-type: decimal; font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre">
+        <p dir="ltr" role="presentation" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+          <span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#000000">Flair: AI tool for designing branded content.</font></span>
+        </p>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node ID="ID_262365132" CREATED="1686128042568" MODIFIED="1686128042568" LINK="https://flair.ai/"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+        <a href="https://flair.ai/" style="text-decoration: none"><u><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #1155cc; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#1155cc">https://flair.ai/</font></span></u></a>
+      </p>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_161104653" CREATED="1686128042572" MODIFIED="1686128042572"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li dir="ltr" aria-level="1" style="list-style-type: decimal; font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre">
+        <p dir="ltr" role="presentation" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+          <span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#000000">Illustroke: AI tool for creating vector images from text prompts.</font></span>
+        </p>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node ID="ID_18536915" CREATED="1686128042572" MODIFIED="1686128042572" LINK="https://illustroke.com/"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+        <a href="https://illustroke.com/" style="text-decoration: none"><u><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #1155cc; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#1155cc">https://illustroke.com/</font></span></u></a>
+      </p>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_1431777564" CREATED="1686128042572" MODIFIED="1686128042572"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li dir="ltr" aria-level="1" style="list-style-type: decimal; font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre">
+        <p dir="ltr" role="presentation" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+          <span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#000000">Stockimg: AI tool for generating the perfect stock photo.</font></span>
+        </p>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node ID="ID_1956853330" CREATED="1686128042572" MODIFIED="1686128042572" LINK="https://stockimg.ai/"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+        <a href="https://stockimg.ai/" style="text-decoration: none"><u><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #1155cc; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#1155cc">https://stockimg.ai/</font></span></u></a>
+      </p>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_201267855" CREATED="1686128042575" MODIFIED="1686128042575"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li dir="ltr" aria-level="1" style="list-style-type: decimal; font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre">
+        <p dir="ltr" role="presentation" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+          <span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#000000">Looka: AI tool for designing your brand.</font></span>
+        </p>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node ID="ID_1804934877" CREATED="1686128042575" MODIFIED="1686128042575" LINK="https://looka.com/"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+        <a href="https://looka.com/" style="text-decoration: none"><u><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #1155cc; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#1155cc">https://looka.com/</font></span></u></a><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#000000">Copy and Content AI Tools:---------------------------</font></span>
+      </p>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_26488427" CREATED="1686128042577" MODIFIED="1686128042577"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li dir="ltr" aria-level="1" style="list-style-type: decimal; font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre">
+        <p dir="ltr" role="presentation" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+          <span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#000000">Copy: AI tool for generating copy that increases conversions.</font></span>
+        </p>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node ID="ID_472922604" CREATED="1686128042577" MODIFIED="1686128042577" LINK="https://www.copy.ai/"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+        <a href="https://www.copy.ai/" style="text-decoration: none"><u><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #1155cc; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#1155cc">https://www.copy.ai/</font></span></u></a>
+      </p>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_1646356545" CREATED="1686128042577" MODIFIED="1686128042577"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li dir="ltr" aria-level="1" style="list-style-type: decimal; font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre">
+        <p dir="ltr" role="presentation" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+          <span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#000000">CopyMonkey: AI tool for creating Amazon listings in seconds.</font></span>
+        </p>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node ID="ID_1883490072" CREATED="1686128042577" MODIFIED="1686128042577" LINK="http://copymonkey.ai/"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+        <a href="http://copymonkey.ai/" style="text-decoration: none"><u><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #1155cc; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#1155cc">http://copymonkey.ai/</font></span></u></a>
+      </p>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_479559588" CREATED="1686128042577" MODIFIED="1686128042577"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li dir="ltr" aria-level="1" style="list-style-type: decimal; font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre">
+        <p dir="ltr" role="presentation" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+          <span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#000000">Ocoya: AI tool for creating and scheduling social media content.</font></span>
+        </p>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node ID="ID_1948597851" CREATED="1686128042577" MODIFIED="1686128042577" LINK="https://www.ocoya.com/"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+        <a href="https://www.ocoya.com/" style="text-decoration: none"><u><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #1155cc; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#1155cc">https://www.ocoya.com/</font></span></u></a>
+      </p>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_175188917" CREATED="1686128042577" MODIFIED="1686128042577"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li dir="ltr" aria-level="1" style="list-style-type: decimal; font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre">
+        <p dir="ltr" role="presentation" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+          <span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#000000">Unbounce Smart Copy: AI tool for writing high-performing cold emails at scale.</font></span>
+        </p>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node ID="ID_537950464" CREATED="1686128042577" MODIFIED="1686128042577" LINK="https://unbounce.com/"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+        <a href="https://unbounce.com/" style="text-decoration: none"><u><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #1155cc; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#1155cc">https://unbounce.com/</font></span></u></a>
+      </p>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_1862690819" CREATED="1686128042577" MODIFIED="1686128042577"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li dir="ltr" aria-level="1" style="list-style-type: decimal; font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre">
+        <p dir="ltr" role="presentation" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+          <span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#000000">Puzzle: AI tool for building a knowledge base for your team and customers.</font></span>
+        </p>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node ID="ID_1449949013" CREATED="1686128042577" MODIFIED="1686128042577" LINK="https://www.puzzlelabs.ai/"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+        <a href="https://www.puzzlelabs.ai/" style="text-decoration: none"><u><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #1155cc; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#1155cc">https://www.puzzlelabs.ai/</font></span></u></a><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#000000">Image and Content Clean-up AI Tools:-------------------------------</font></span>
+      </p>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_988571615" CREATED="1686128042577" MODIFIED="1686128042577"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li dir="ltr" aria-level="1" style="list-style-type: decimal; font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre">
+        <p dir="ltr" role="presentation" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+          <span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#000000">Cleanup: AI tool for removing objects, defects, people, or text from pictures.</font></span>
+        </p>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node ID="ID_1694257315" CREATED="1686128042577" MODIFIED="1686128042577" LINK="https://cleanup.pictures/"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+        <a href="https://cleanup.pictures/" style="text-decoration: none"><u><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #1155cc; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#1155cc">https://cleanup.pictures/</font></span></u></a>
+      </p>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_228027468" CREATED="1686128042577" MODIFIED="1686128042577"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li dir="ltr" aria-level="1" style="list-style-type: decimal; font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre">
+        <p dir="ltr" role="presentation" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+          <span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#000000">Inkforall: AI tool for content generation, optimization, and performance.</font></span>
+        </p>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node ID="ID_1143184883" CREATED="1686128042585" MODIFIED="1686128042585" LINK="https://inkforall.com/"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+        <a href="https://inkforall.com/" style="text-decoration: none"><u><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #1155cc; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#1155cc">https://inkforall.com/</font></span></u></a><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#000000">AI Data Presentation :--------------------</font></span>
+      </p>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_513903578" CREATED="1686128042585" MODIFIED="1686128042585"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li dir="ltr" aria-level="1" style="list-style-type: decimal; font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre">
+        <p dir="ltr" role="presentation" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+          <span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#000000">STORYD : It creates AI data presentations leaders love, in seconds. Beta goes live in a few weeks.</font></span>
+        </p>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node ID="ID_1644794963" CREATED="1686128042585" MODIFIED="1686128042585" LINK="https://storyd.ai"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt">
+        <a href="https://storyd.ai" style="text-decoration: none"><u><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #1155cc; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#1155cc">https://storyd.ai</font></span></u></a>
+      </p>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1165327764" CREATED="1686128168620" MODIFIED="1686128168620"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt">
+      <b charset="utf-8" id="docs-internal-guid-dc61f2a4-7fff-db13-6a81-1c0f49ee1f4b" style="font-weight: normal"><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#000000">NUWA-XL</font></span><font size="11pt" face="Ubuntu,sans-serif" color="#000000"><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 300; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap">&nbsp;is a cutting-edge multimodal generative model with the remarkable ability to produce extremely long video based on provided scripts in a “coarse-to-fine” process.&nbsp;</span></font>&nbsp;</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1321531192" CREATED="1686128168620" MODIFIED="1686128168620" LINK="https://msra-nuwa.azurewebsites.net/#/"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt">
+      <b charset="utf-8" id="docs-internal-guid-dc61f2a4-7fff-db13-6a81-1c0f49ee1f4b" style="font-weight: normal"><a href="https://msra-nuwa.azurewebsites.net/#/" style="text-decoration: none"><u><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #1155cc; font-weight: 300; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#1155cc">https://msra-nuwa.azurewebsites.net/#/</font></span></u></a>&nbsp;</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_220472288" CREATED="1686128168630" MODIFIED="1686128168630"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt">
+      <b charset="utf-8" id="docs-internal-guid-dc61f2a4-7fff-db13-6a81-1c0f49ee1f4b" style="font-weight: normal"><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#000000">NUWA-Infinity</font></span><font size="11pt" face="Ubuntu,sans-serif" color="#000000"><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 300; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap">&nbsp;is a multimodal generative model that is designed to generate high-quality images and videos from given text, image or video input</span></font>&nbsp;</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1711923727" CREATED="1686128168632" MODIFIED="1686128168632" LINK="https://msra-nuwa.azurewebsites.net/#/NUWAInfinity"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt">
+      <b charset="utf-8" id="docs-internal-guid-dc61f2a4-7fff-db13-6a81-1c0f49ee1f4b" style="font-weight: normal"><a href="https://msra-nuwa.azurewebsites.net/#/NUWAInfinity" style="text-decoration: none"><u><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #1155cc; font-weight: 300; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#1155cc">https://msra-nuwa.azurewebsites.net/#/NUWAInfinity</font></span></u></a>&nbsp;</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1805798985" CREATED="1686128168635" MODIFIED="1686128168635"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt">
+      <b charset="utf-8" id="docs-internal-guid-dc61f2a4-7fff-db13-6a81-1c0f49ee1f4b" style="font-weight: normal"><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#000000">Invideo</font></span><font size="11pt" face="Ubuntu,sans-serif" color="#000000"><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 300; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap">&nbsp;is an AI video generator&nbsp;</span></font>&nbsp;</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_89359665" CREATED="1686128168640" MODIFIED="1686128168640" LINK="https://invideo.io/ai/?r=fsDaAx"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt">
+      <b charset="utf-8" id="docs-internal-guid-dc61f2a4-7fff-db13-6a81-1c0f49ee1f4b" style="font-weight: normal"><a href="https://invideo.io/ai/?r=fsDaAx" style="text-decoration: none"><u><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #1155cc; font-weight: 300; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#1155cc">https://invideo.io/ai/?r=fsDaAx</font></span></u></a>&nbsp;</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1845797254" CREATED="1686128168643" MODIFIED="1686128168643"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt">
+      <b charset="utf-8" id="docs-internal-guid-dc61f2a4-7fff-db13-6a81-1c0f49ee1f4b" style="font-weight: normal"><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#000000">gptExcel</font></span><font size="11pt" face="Ubuntu,sans-serif" color="#000000"><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 300; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap">&nbsp;generates spreadsheet formulas with AI</span></font>&nbsp;</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1929473185" CREATED="1686128168646" MODIFIED="1686128168646" LINK="https://gptexcel.uk/"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt">
+      <b charset="utf-8" id="docs-internal-guid-dc61f2a4-7fff-db13-6a81-1c0f49ee1f4b" style="font-weight: normal"><a href="https://gptexcel.uk/" style="text-decoration: none"><u><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #1155cc; font-weight: 300; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#1155cc">https://gptexcel.uk/</font></span></u></a>&nbsp;</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_952500944" CREATED="1686128168649" MODIFIED="1686128168649"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt">
+      <b charset="utf-8" id="docs-internal-guid-dc61f2a4-7fff-db13-6a81-1c0f49ee1f4b" style="font-weight: normal"><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#000000">10web</font></span><font size="11pt" face="Ubuntu,sans-serif" color="#000000"><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 300; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap">&nbsp;is an AI powered wordpress platform</span></font>&nbsp;</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_470901727" CREATED="1686128168652" MODIFIED="1686128168652" LINK="http://10web.io/"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt">
+      <b charset="utf-8" id="docs-internal-guid-dc61f2a4-7fff-db13-6a81-1c0f49ee1f4b" style="font-weight: normal"><a href="http://10web.io/" style="text-decoration: none"><u><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #1155cc; font-weight: 300; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#1155cc">http://10web.io/</font></span></u></a>&nbsp;</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_668698867" CREATED="1686128168652" MODIFIED="1686128168652"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt">
+      <b charset="utf-8" id="docs-internal-guid-dc61f2a4-7fff-db13-6a81-1c0f49ee1f4b" style="font-weight: normal"><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#000000">Sketching the future</font></span>&nbsp;</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_162713239" CREATED="1686128168661" MODIFIED="1686128168661" LINK="https://sketchingthefuture.github.io/"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt">
+      <b charset="utf-8" id="docs-internal-guid-dc61f2a4-7fff-db13-6a81-1c0f49ee1f4b" style="font-weight: normal"><a href="https://sketchingthefuture.github.io/" style="text-decoration: none"><u><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #1155cc; font-weight: 300; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#1155cc">https://sketchingthefuture.github.io/</font></span></u></a>&nbsp;</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_349182598" CREATED="1686128168661" MODIFIED="1686128168661"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt">
+      <b charset="utf-8" id="docs-internal-guid-dc61f2a4-7fff-db13-6a81-1c0f49ee1f4b" style="font-weight: normal"><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#000000">ImageBind</font></span><font size="11pt" face="Ubuntu,sans-serif" color="#000000"><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 300; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap">&nbsp;is the first AI model capable of binding data from six modalities at once, without need for the explicit supervision.&nbsp;</span></font>&nbsp;</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_866847569" CREATED="1686128168661" MODIFIED="1686128168661" LINK="https://imagebind.metademolab.com/"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt">
+      <b charset="utf-8" id="docs-internal-guid-dc61f2a4-7fff-db13-6a81-1c0f49ee1f4b" style="font-weight: normal"><a href="https://imagebind.metademolab.com/" style="text-decoration: none"><u><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #1155cc; font-weight: 300; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#1155cc">https://imagebind.metademolab.com/</font></span></u></a>&nbsp;</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_552373748" CREATED="1686128168667" MODIFIED="1686128168667"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt">
+      <b charset="utf-8" id="docs-internal-guid-dc61f2a4-7fff-db13-6a81-1c0f49ee1f4b" style="font-weight: normal"><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#000000">FutureTools</font></span><font size="11pt" face="Ubuntu,sans-serif" color="#000000"><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 300; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap">&nbsp;collects &amp; organises all the best AI tools so you too can become superhuman!</span></font>&nbsp;</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_101360135" CREATED="1686128168671" MODIFIED="1686128168671" LINK="https://www.futuretools.io/"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt">
+      <b charset="utf-8" id="docs-internal-guid-dc61f2a4-7fff-db13-6a81-1c0f49ee1f4b" style="font-weight: normal"><a href="https://www.futuretools.io/" style="text-decoration: none"><u><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #1155cc; font-weight: 300; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#1155cc">https://www.futuretools.io/</font></span></u></a>&nbsp;</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_84088885" CREATED="1686128168671" MODIFIED="1686128168671"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt">
+      <b charset="utf-8" id="docs-internal-guid-dc61f2a4-7fff-db13-6a81-1c0f49ee1f4b" style="font-weight: normal"><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#000000">Gamma</font></span><font size="11pt" face="Ubuntu,sans-serif" color="#000000"><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 300; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap">&nbsp;generates docs, decks &amp; webpages in seconds. Creating a working presentation, document or webpage you can refine and customise in under a minute, using our powerful AI generator.&nbsp;</span></font>&nbsp;</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1571640255" CREATED="1686128168675" MODIFIED="1686128168675" LINK="https://gamma.app/"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt">
+      <b charset="utf-8" id="docs-internal-guid-dc61f2a4-7fff-db13-6a81-1c0f49ee1f4b" style="font-weight: normal"><a href="https://gamma.app/" style="text-decoration: none"><u><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #1155cc; font-weight: 300; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#1155cc">https://gamma.app/</font></span></u></a>&nbsp;</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_389610431" CREATED="1686128168675" MODIFIED="1686128168675"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt">
+      <b charset="utf-8" id="docs-internal-guid-dc61f2a4-7fff-db13-6a81-1c0f49ee1f4b" style="font-weight: normal"><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#000000">Merlin</font></span><font size="11pt" face="Ubuntu,sans-serif" color="#000000"><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #000000; font-weight: 300; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap">&nbsp;is a ChatGPT extension to finish any task on any website in seconds.&nbsp;</span></font>&nbsp;</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1693087829" CREATED="1686128168681" MODIFIED="1686128168681" LINK="https://merlin.foyer.work/"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt">
+      <b charset="utf-8" id="docs-internal-guid-dc61f2a4-7fff-db13-6a81-1c0f49ee1f4b" style="font-weight: normal"><a href="https://merlin.foyer.work/" style="text-decoration: none"><u><span style="font-size: 11pt; font-family: Ubuntu,sans-serif; color: #1155cc; font-weight: 300; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap"><font size="11pt" face="Ubuntu,sans-serif" color="#1155cc">https://merlin.foyer.work/</font></span></u></a>&nbsp;</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="Courses" POSITION="left" ID="ID_867355278" CREATED="1686401826531" MODIFIED="1686401829139">
+<edge COLOR="#7c007c"/>
+<node TEXT="generative AI course" ID="ID_235967198" CREATED="1685908156697" MODIFIED="1685908162349" LINK="https://www.cloudskillsboost.google/course_templates/536"/>
+<node TEXT="staistics course" ID="ID_1795158584" CREATED="1686126986416" MODIFIED="1686126994390" LINK="https://www.youtube.com/watch?v=KbB0FjPg0mw&amp;list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo&amp;index=1"/>
+<node TEXT="EdX AI course" ID="ID_542745835" CREATED="1686474213324" MODIFIED="1686474219583" LINK="https://learning.edx.org/course/course-v1:HarvardX+CS50AI+1T2020/home"/>
+<node TEXT="Little book of deep learning" ID="ID_1352378584" CREATED="1686506938919" MODIFIED="1686506947150" LINK="https://fleuret.org/public/lbdl.pdf"/>
 </node>
 </node>
 </map>

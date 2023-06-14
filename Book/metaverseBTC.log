@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.30)  10 JUN 2023 13:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.13)  14 JUN 2023 20:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2482,14 +2482,23 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [312]
-[313] [314] [315] [316] [317] [318] [319] [320] [321] [322]
+[313] [314]
+
+LaTeX Warning: Citation 'shumailov2023curse' on page 315 undefined on input lin
+e 173.
+
+[315] [316] [317] [318] [319] [320] [321] [322]
 <Images/mltaxonomy.jpg, id=5107, 312.72389pt x 239.56166pt>
 File: Images/mltaxonomy.jpg Graphic file (type jpg)
 <use Images/mltaxonomy.jpg>
 Package pdftex.def Info: Images/mltaxonomy.jpg  used on input line 258.
 (pdftex.def)             Requested size: 278.83702pt x 213.60397pt.
- [323] [324 <./Images/mltaxonomy.jpg>] [325]
-Underfull \vbox (badness 4660) has occurred while \output is active []
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [323]
+[324 <./Images/mltaxonomy.jpg>] [325]
+Underfull \vbox (badness 1515) has occurred while \output is active []
 
  [326]
 [327] [328]
@@ -2507,7 +2516,11 @@ File: Images/mltaxonomy.jpg Graphic file (type jpg)
 <use Images/mltaxonomy.jpg>
 Package pdftex.def Info: Images/mltaxonomy.jpg  used on input line 350.
 (pdftex.def)             Requested size: 278.83702pt x 213.60397pt.
-[329] [330 <./Images/chatGPTdata.png>]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [329]
+[330 <./Images/chatGPTdata.png>]
 Overfull \hbox (0.87498pt too wide) in paragraph at lines 369--370
 []\T1/ptm/m/n/10 (-20) Retraining mod-els from scratch is ex-pen-sive and time-
 consuming;
@@ -2517,39 +2530,37 @@ consuming;
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [333]
-<Images/sdtools.jpg, id=5195, 1729.46124pt x 1738.495pt>
+<Images/sdtools.jpg, id=5193, 1729.46124pt x 1738.495pt>
 File: Images/sdtools.jpg Graphic file (type jpg)
 <use Images/sdtools.jpg>
 Package pdftex.def Info: Images/sdtools.jpg  used on input line 404.
 (pdftex.def)             Requested size: 278.83702pt x 280.28706pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [334 <./Images/sdtools.jpg>]
-<Images/aitechstack.jpeg, id=5202, 803.0pt x 909.3975pt>
+<Images/aitechstack.jpeg, id=5195, 803.0pt x 909.3975pt>
 File: Images/aitechstack.jpeg Graphic file (type jpg)
 <use Images/aitechstack.jpeg>
 Package pdftex.def Info: Images/aitechstack.jpeg  used on input line 420.
 (pdftex.def)             Requested size: 278.83702pt x 315.78229pt.
 
+Underfull \vbox (badness 3907) has occurred while \output is active []
+
+ [334]
+[335 <./Images/sdtools.jpg>] [336 <./Images/aitechstack.jpeg>]
 Overfull \hbox (0.9551pt too wide) in paragraph at lines 434--435
 []\T1/ptm/m/n/10 (-20) It has been sug-gested that such sys-tems be dubbed semi
 -autonomous
  []
 
-[335] [336 <./Images/aitechstack.jpeg>]
+[337]
 Underfull \hbox (badness 10000) in paragraph at lines 445--446
 
  []
 
-[337]
+[338]
 Underfull \hbox (badness 10000) in paragraph at lines 459--460
 
  []
 
-) (08_metaverse_points_revised.tex [338]) [339] [340
-
-]
+) (08_metaverse_points_revised.tex [339]) [340]
 Chapter 10.
 <Images/orange11.jpg, id=5254, 770.88pt x 513.92pt>
 File: Images/orange11.jpg Graphic file (type jpg)
@@ -2564,7 +2575,9 @@ Package pdftex.def Info: Images/landscapevenn.png  used on input line 5.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [341 <./Images/orange11.jpg>] [342]
+ [341
+
+ <./Images/orange11.jpg>] [342]
 Overfull \hbox (2.4122pt too wide) in paragraph at lines 36--37
 \T1/ptm/m/n/10 (-20) appropriate, and user-friendly spe-cial-ized telecol-lab-o
 -ra-tion spaces
@@ -5190,6 +5203,11 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: There were multiply-defined labels.
 
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                metaverseBTC
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'metaverseBTC.run.xml'.
 \openout1 = `metaverseBTC.run.xml'.
 
@@ -5197,7 +5215,7 @@ Package logreq Info: Writing requests to 'metaverseBTC.run.xml'.
 Here is how much of TeX's memory you used:
  40032 strings out of 476411
  806597 string characters out of 5789606
- 1926927 words of memory out of 5000000
+ 1926998 words of memory out of 5000000
  57400 multiletter control sequences out of 15000+600000
  653599 words of font info for 578 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -5223,7 +5241,7 @@ imes/utmb8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/ti
 mes/utmbi8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/ti
 mes/utmr8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/tim
 es/utmri8a.pfb>
-Output written on metaverseBTC.pdf (496 pages, 23727383 bytes).
+Output written on metaverseBTC.pdf (496 pages, 23728162 bytes).
 PDF statistics:
  8486 PDF objects out of 8907 (max. 8388607)
  1604 named destinations out of 1728 (max. 500000)
