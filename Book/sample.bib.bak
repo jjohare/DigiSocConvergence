@@ -9799,6 +9799,99 @@
   primaryclass  = {cs.LG},
 }
 
+@InProceedings{hansberger2017dispelling,
+  author       = {Hansberger, Jeffrey T and Peng, Chao and Mathis, Shannon L and Areyur Shanthakumar, Vaidyanath and Meacham, Sarah C and Cao, Lizhou and Blakely, Victoria R},
+  booktitle    = {Virtual, Augmented and Mixed Reality: 9th International Conference, VAMR 2017, Held as Part of HCI International 2017, Vancouver, BC, Canada, July 9-14, 2017, Proceedings 9},
+  title        = {Dispelling the gorilla arm syndrome: the viability of prolonged gesture interactions},
+  year         = {2017},
+  organization = {Springer},
+  pages        = {505--520},
+}
+
+@InProceedings{boring2009scroll,
+  author    = {Boring, Sebastian and Jurmu, Marko and Butz, Andreas},
+  booktitle = {Proceedings of the 21st Annual Conference of the Australian Computer-Human Interaction Special Interest Group: Design: Open 24/7},
+  title     = {Scroll, tilt or move it: using mobile phones to continuously control pointers on large public displays},
+  year      = {2009},
+  pages     = {161--168},
+}
+
+@Article{mollick2023assigning,
+  author  = {Mollick, Ethan R and Mollick, Lilach},
+  journal = {Available at SSRN},
+  title   = {Assigning AI: Seven Approaches for Students, with Prompts},
+  year    = {2023},
+}
+
+@Article{mollick2023using,
+  author  = {Mollick, Ethan R and Mollick, Lilach},
+  journal = {Including Prompts (March 17, 2023)},
+  title   = {Using AI to implement effective teaching strategies in classrooms: Five strategies, including prompts},
+  year    = {2023},
+}
+
+@Article{mollick2022new,
+  author  = {Mollick, Ethan R and Mollick, Lilach},
+  journal = {Available at SSRN},
+  title   = {New Modes of Learning Enabled by AI Chatbots: Three Methods and Assignments},
+  year    = {2022},
+}
+
+@Article{dettmers2022case,
+  author  = {Dettmers, Tim and Zettlemoyer, Luke},
+  journal = {arXiv preprint arXiv:2212.09720},
+  title   = {The case for 4-bit precision: k-bit Inference Scaling Laws},
+  year    = {2022},
+}
+
+@Misc{eloundou2023gpts,
+  author        = {Tyna Eloundou and Sam Manning and Pamela Mishkin and Daniel Rock},
+  title         = {GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models},
+  year          = {2023},
+  archiveprefix = {arXiv},
+  eprint        = {2303.10130},
+  primaryclass  = {econ.GN},
+}
+
+@Misc{pan2023unifying,
+  author        = {Shirui Pan and Linhao Luo and Yufei Wang and Chen Chen and Jiapu Wang and Xindong Wu},
+  title         = {Unifying Large Language Models and Knowledge Graphs: A Roadmap},
+  year          = {2023},
+  archiveprefix = {arXiv},
+  eprint        = {2306.08302},
+  primaryclass  = {cs.CL},
+}
+
+@Misc{ohare2022money,
+  author        = {John Joseph O'Hare and Allen Fairchild and Umran Ali},
+  title         = {Money and Trust in Digital Society -- Bitcoin, Nostr, Stablecoins, Digital Objects and Machine Learning in B2B Telepresent Mixed Reality},
+  year          = {2022},
+  archiveprefix = {arXiv},
+  eprint        = {2207.09460},
+  primaryclass  = {cs.CR},
+}
+
+@Book{bandow1994perpetuating,
+  author    = {Bandow, Doug and V{\'a}squez, Ian},
+  publisher = {Cato Institute Washington\^{} eDC DC},
+  title     = {Perpetuating poverty: The World Bank, the IMF, and the developing world},
+  year      = {1994},
+}
+
+@InProceedings{han2023autoad,
+  author    = {Tengda Han and Max Bain and Arsha Nagrani and G\"ul Varol and Weidi Xie and Andrew Zisserman},
+  booktitle = {CVPR},
+  title     = {{AutoAD}: Movie Description in Context},
+  year      = {2023},
+}
+
+@Article{penedo2023refinedweb,
+  author  = {Penedo, Guilherme and Malartic, Quentin and Hesslow, Daniel and Cojocaru, Ruxandra and Cappelli, Alessandro and Alobeidli, Hamza and Pannier, Baptiste and Almazrouei, Ebtesam and Launay, Julien},
+  journal = {arXiv preprint arXiv:2306.01116},
+  title   = {The RefinedWeb Dataset for Falcon LLM: Outperforming Curated Corpora with Web Data, and Web Data Only},
+  year    = {2023},
+}
+
 @Misc{juneja2022human,
   author        = {Prerna Juneja and Tanushree Mitra},
   title         = {Human and technological infrastructures of fact-checking},
@@ -9819,13 +9912,58 @@
   publisher = {Taylor \& Francis},
 }
 
-@Article{digiSocBTC22,
-  author = {John Joseph O'Hare and Allen Fairchild and Umran Ali},
-  title  = {Money & Trust in Digital Society -- Bitcoin, Nostr, Stablecoins, Digital Objects and Machine Learning in B2B Telepresent Mixed Reality},
-  year   = {2022},
-  doi    = {10.13140/RG.2.2.30897.66403},
-  eprint = {arXiv:2207.09460},
-  url    = {https://github.com/flossverse/product/blob/draft/Book/metaverseBTC.pdf},
+@Misc{yang2023large,
+  author        = {Kai-Cheng Yang and Filippo Menczer},
+  title         = {Large language models can rate news outlet credibility},
+  year          = {2023},
+  archiveprefix = {arXiv},
+  eprint        = {2304.00228},
+  primaryclass  = {cs.CL},
+}
+
+@Misc{vargas2023predicting,
+  author        = {Francielle Vargas and Kokil Jaidka and Thiago A. S. Pardo and Fabrício Benevenuto},
+  title         = {Predicting Sentence-Level Factuality of News and Bias of Media Outlets},
+  year          = {2023},
+  archiveprefix = {arXiv},
+  eprint        = {2301.11850},
+  primaryclass  = {cs.CL},
+}
+
+@Misc{liu2023retallm,
+  author        = {Jiongnan Liu and Jiajie Jin and Zihan Wang and Jiehan Cheng and Zhicheng Dou and Ji-Rong Wen},
+  title         = {RETA-LLM: A Retrieval-Augmented Large Language Model Toolkit},
+  year          = {2023},
+  archiveprefix = {arXiv},
+  eprint        = {2306.05212},
+  primaryclass  = {cs.IR},
+}
+
+@Misc{vladika2023scientific,
+  author        = {Juraj Vladika and Florian Matthes},
+  title         = {Scientific Fact-Checking: A Survey of Resources and Approaches},
+  year          = {2023},
+  archiveprefix = {arXiv},
+  eprint        = {2305.16859},
+  primaryclass  = {cs.CL},
+}
+
+@Misc{huang2023manitweet,
+  author        = {Kung-Hsiang Huang and Hou Pong Chan and Kathleen McKeown and Heng Ji},
+  title         = {ManiTweet: A New Benchmark for Identifying Manipulation of News on Social Media},
+  year          = {2023},
+  archiveprefix = {arXiv},
+  eprint        = {2305.14225},
+  primaryclass  = {cs.CL},
+}
+
+@Misc{pikuliak2023multilingual,
+  author        = {Matúš Pikuliak and Ivan Srba and Robert Moro and Timo Hromadka and Timotej Smolen and Martin Melisek and Ivan Vykopal and Jakub Simko and Juraj Podrouzek and Maria Bielikova},
+  title         = {Multilingual Previously Fact-Checked Claim Retrieval},
+  year          = {2023},
+  archiveprefix = {arXiv},
+  eprint        = {2305.07991},
+  primaryclass  = {cs.CL},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

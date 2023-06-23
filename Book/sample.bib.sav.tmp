@@ -9689,4 +9689,200 @@
 	year         = 2020,
 	publisher    = {Online}
 }
-
+
+@Article{haidt2023social,
+  author    = {Haidt J.},
+  journal   = {ongoing},
+  title     = {Social media and mental health: A collaborative review. Unpublished manuscript, New York University.},
+  year      = {2023},
+  publisher = {Self Published},
+  url       = {https://tinyurl.com/SocialMediaMentalHealthReview},
+}
+
+@book{booth2020price,
+	title        = {The Price of Tomorrow: Why Deflation is the Key to an Abundant Future},
+	author       = {Booth, Jeff},
+	year         = 2020,
+	publisher    = {Stanley Press}
+}
+
+@Article{hou2022metaprompting,
+  author  = {Hou, Yutai and Dong, Hongyuan and Wang, Xinghao and Li, Bohan and Che, Wanxiang},
+  journal = {arXiv preprint arXiv:2209.11486},
+  title   = {MetaPrompting: Learning to Learn Better Prompts},
+  year    = {2022},
+}
+
+@Book{harari2014sapiens,
+  author    = {Harari, Yuval Noah},
+  publisher = {Random House},
+  title     = {Sapiens: A brief history of humankind},
+  year      = {2014},
+}
+
+@Misc{yang2023harnessing,
+  author        = {Jingfeng Yang and Hongye Jin and Ruixiang Tang and Xiaotian Han and Qizhang Feng and Haoming Jiang and Bing Yin and Xia Hu},
+  title         = {Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond},
+  year          = {2023},
+  archiveprefix = {arXiv},
+  eprint        = {2304.13712},
+  primaryclass  = {cs.CL},
+}
+
+@Misc{schaeffer2023emergent,
+  author        = {Rylan Schaeffer and Brando Miranda and Sanmi Koyejo},
+  title         = {Are Emergent Abilities of Large Language Models a Mirage?},
+  year          = {2023},
+  archiveprefix = {arXiv},
+  eprint        = {2304.15004},
+  primaryclass  = {cs.AI},
+}
+
+@Article{rosenbergmanipulation,
+  author = {Rosenberg, Louis B},
+  title  = {The Manipulation Problem: Conversational AI as a Threat to Epistemic Agency},
+}
+
+@Misc{wu2022sustainable,
+  author        = {Carole-Jean Wu and Ramya Raghavendra and Udit Gupta and Bilge Acun and Newsha Ardalani and Kiwan Maeng and Gloria Chang and Fiona Aga Behram and James Huang and Charles Bai and Michael Gschwind and Anurag Gupta and Myle Ott and Anastasia Melnikov and Salvatore Candido and David Brooks and Geeta Chauhan and Benjamin Lee and Hsien-Hsin S. Lee and Bugra Akyildiz and Maximilian Balandat and Joe Spisak and Ravi Jain and Mike Rabbat and Kim Hazelwood},
+  title         = {Sustainable AI: Environmental Implications, Challenges and Opportunities},
+  year          = {2022},
+  archiveprefix = {arXiv},
+  eprint        = {2111.00364},
+  primaryclass  = {cs.LG},
+}
+
+@Article{DBLP:journals/corr/abs-2112-04895,
+  author     = {Itai Gat and Guy Lorberbom and Idan Schwartz and Tamir Hazan},
+  journal    = {CoRR},
+  title      = {Latent Space Explanation by Intervention},
+  year       = {2021},
+  volume     = {abs/2112.04895},
+  bibsource  = {dblp computer science bibliography, https://dblp.org},
+  biburl     = {https://dblp.org/rec/journals/corr/abs-2112-04895.bib},
+  eprint     = {2112.04895},
+  eprinttype = {arXiv},
+  timestamp  = {Mon, 13 Dec 2021 17:51:48 +0100},
+  url        = {https://arxiv.org/abs/2112.04895},
+}
+
+@InProceedings{li2023neuralangelo,
+  author    = {Li, Zhaoshuo and M\"uller, Thomas and Evans, Alex and Taylor, Russell H and Unberath, Mathias and Liu, Ming-Yu and Lin, Chen-Hsuan},
+  booktitle = {IEEE Conference on Computer Vision and Pattern Recognition ({CVPR})},
+  title     = {Neuralangelo: High-Fidelity Neural Surface Reconstruction},
+  year      = {2023},
+}
+
+@InProceedings{luong2022demographic,
+  author       = {Luong, Tiffany and Plechata, Ad{\'e}la and M{\"o}bus, Max and Atchapero, Michael and B{\"o}hm, Robert and Makransky, Guido and Holz, Christian},
+  booktitle    = {2022 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)},
+  title        = {Demographic and Behavioral Correlates of Cybersickness: A Large Lab-in-the-Field Study of 837 Participants},
+  year         = {2022},
+  organization = {IEEE},
+  pages        = {307--316},
+}
+
+@Article{fleuret2023little,
+  author  = {Fleuret, Fran{\c{c}}ois},
+  journal = {A lovely concise introduction},
+  title   = {The Little Book of Deep Learning},
+  year    = {2023},
+  url     = {https://fleuret.org/public/lbdl.pdf},
+}
+
+@Misc{shumailov2023curse,
+  author        = {Ilia Shumailov and Zakhar Shumaylov and Yiren Zhao and Yarin Gal and Nicolas Papernot and Ross Anderson},
+  title         = {The Curse of Recursion: Training on Generated Data Makes Models Forget},
+  year          = {2023},
+  archiveprefix = {arXiv},
+  eprint        = {2305.17493},
+  primaryclass  = {cs.LG},
+}
+
+@InProceedings{hansberger2017dispelling,
+  author       = {Hansberger, Jeffrey T and Peng, Chao and Mathis, Shannon L and Areyur Shanthakumar, Vaidyanath and Meacham, Sarah C and Cao, Lizhou and Blakely, Victoria R},
+  booktitle    = {Virtual, Augmented and Mixed Reality: 9th International Conference, VAMR 2017, Held as Part of HCI International 2017, Vancouver, BC, Canada, July 9-14, 2017, Proceedings 9},
+  title        = {Dispelling the gorilla arm syndrome: the viability of prolonged gesture interactions},
+  year         = {2017},
+  organization = {Springer},
+  pages        = {505--520},
+}
+
+@InProceedings{boring2009scroll,
+  author    = {Boring, Sebastian and Jurmu, Marko and Butz, Andreas},
+  booktitle = {Proceedings of the 21st Annual Conference of the Australian Computer-Human Interaction Special Interest Group: Design: Open 24/7},
+  title     = {Scroll, tilt or move it: using mobile phones to continuously control pointers on large public displays},
+  year      = {2009},
+  pages     = {161--168},
+}
+
+@Article{mollick2023assigning,
+  author  = {Mollick, Ethan R and Mollick, Lilach},
+  journal = {Available at SSRN},
+  title   = {Assigning AI: Seven Approaches for Students, with Prompts},
+  year    = {2023},
+}
+
+@Article{mollick2023using,
+  author  = {Mollick, Ethan R and Mollick, Lilach},
+  journal = {Including Prompts (March 17, 2023)},
+  title   = {Using AI to implement effective teaching strategies in classrooms: Five strategies, including prompts},
+  year    = {2023},
+}
+
+@Article{mollick2022new,
+  author  = {Mollick, Ethan R and Mollick, Lilach},
+  journal = {Available at SSRN},
+  title   = {New Modes of Learning Enabled by AI Chatbots: Three Methods and Assignments},
+  year    = {2022},
+}
+
+@Article{dettmers2022case,
+  author  = {Dettmers, Tim and Zettlemoyer, Luke},
+  journal = {arXiv preprint arXiv:2212.09720},
+  title   = {The case for 4-bit precision: k-bit Inference Scaling Laws},
+  year    = {2022},
+}
+
+@Misc{eloundou2023gpts,
+  author        = {Tyna Eloundou and Sam Manning and Pamela Mishkin and Daniel Rock},
+  title         = {GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models},
+  year          = {2023},
+  archiveprefix = {arXiv},
+  eprint        = {2303.10130},
+  primaryclass  = {econ.GN},
+}
+
+@Misc{pan2023unifying,
+  author        = {Shirui Pan and Linhao Luo and Yufei Wang and Chen Chen and Jiapu Wang and Xindong Wu},
+  title         = {Unifying Large Language Models and Knowledge Graphs: A Roadmap},
+  year          = {2023},
+  archiveprefix = {arXiv},
+  eprint        = {2306.08302},
+  primaryclass  = {cs.CL},
+}
+
+@Misc{ohare2022money,
+  author        = {John Joseph O'Hare and Allen Fairchild and Umran Ali},
+  title         = {Money and Trust in Digital Society -- Bitcoin, Nostr, Stablecoins, Digital Objects and Machine Learning in B2B Telepresent Mixed Reality},
+  year          = {2022},
+  archiveprefix = {arXiv},
+  eprint        = {2207.09460},
+  primaryclass  = {cs.CR},
+}
+
+@Book{bandow1994perpetuating,
+  author    = {Bandow, Doug and V{\'a}squez, Ian},
+  publisher = {Cato Institute Washington\^{} eDC DC},
+  title     = {Perpetuating poverty: The World Bank, the IMF, and the developing world},
+  year      = {1994},
+}
+
+@InProceedings{han2023autoad,
+  author    = {Tengda Han and Max Bain and Arsha Nagrani and G\"ul Varol and Weidi Xie and Andrew Zisserman},
+  booktitle = {CVPR},
+  title     = {{AutoAD}: Movie Description in Context},
+  year      = {2023},
+}
+
+@Article{pen

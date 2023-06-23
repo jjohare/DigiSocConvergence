@@ -39,7 +39,7 @@
 
 \usepackage{lipsum} % Required to insert dummy text. To be removed otherwise
 
-\usepackage[usenames, svgnames, table]{xcolor} % Required for defining and using custom colors
+%\usepackage[usenames, svgnames, table]{xcolor} % Required for defining and using custom colors
 
 \usepackage{calc} % For simpler calculations - used for spacing the index letter headings correctly
 
@@ -107,6 +107,8 @@
 }
 
 \usepackage{emptypage} % This package removes headers and footers on empty pages between chapters
+
+\usepackage[most]{tcolorbox}
 
 %----------------------------------------------------------------------------------------
 %	SECTION STYLING

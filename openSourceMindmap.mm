@@ -142,6 +142,7 @@
 <node TEXT="10101 custodial DLC trading" ID="ID_1022796199" CREATED="1685182839983" MODIFIED="1685182946421" LINK="https://medium.com/10101-finance/itchysats-becomes-10101-216dd64941d2">
 <icon BUILTIN="attach"/>
 </node>
+<node TEXT="Quantum miners" ID="ID_1696018634" CREATED="1686942304340" MODIFIED="1686942312412" LINK="https://arxiv.org/pdf/2306.03321.pdf"/>
 </node>
 <node TEXT="Mining and energy" ID="ID_1061586400" CREATED="1682419893438" MODIFIED="1682419900064">
 <node TEXT="Bitcoin uses more energy than sweden" ID="ID_43345042" CREATED="1682414608762" MODIFIED="1682416735120" LINK="https://www.reddit.com/r/CryptoCurrency/comments/12xu714/bitcoin_has_just_surpassed_sweden_for_overall/"/>
@@ -418,7 +419,7 @@
 <icon BUILTIN="attach"/>
 </node>
 </node>
-<node TEXT="Voice" FOLDED="true" ID="ID_1018945850" CREATED="1667813471984" MODIFIED="1667813481618">
+<node TEXT="Voice" ID="ID_1018945850" CREATED="1667813471984" MODIFIED="1667813481618">
 <node TEXT="OpenAI whisper local deploy" ID="ID_1728234314" CREATED="1674746306056" MODIFIED="1685185579946" LINK="https://github.com/openai/whisper">
 <icon BUILTIN="attach"/>
 <node TEXT="realtime transciber" ID="ID_1542886599" CREATED="1674746768907" MODIFIED="1674746776713" LINK="https://github.com/davabase/transcriber_app/"/>
@@ -477,6 +478,7 @@
 </richcontent>
 </node>
 <node TEXT="Voice cloning local" ID="ID_1467676691" CREATED="1685195763289" MODIFIED="1685195864828" LINK="https://git.ecker.tech/mrq/ai-voice-cloning"/>
+<node TEXT="Meta voicebox" ID="ID_1324050798" CREATED="1686941675145" MODIFIED="1686941688205" LINK="https://ai.facebook.com/blog/voicebox-generative-ai-model-speech/"/>
 </node>
 <node TEXT="Compendium of tools" ID="ID_1001579744" CREATED="1668596101736" MODIFIED="1668596110965" LINK="https://www.futurepedia.io/"/>
 <node TEXT="images" FOLDED="true" ID="ID_784164284" CREATED="1666082857502" MODIFIED="1666082859025">
@@ -1054,7 +1056,7 @@
 <node TEXT="Controlnet face model for SD1.5" ID="ID_1868580444" CREATED="1682414608762" MODIFIED="1682416708859" LINK="https://www.reddit.com/r/StableDiffusion/comments/12dxue5/controlnet_face_model_for_sd_15/"/>
 <node TEXT="Nvidia audio2face" ID="ID_974829253" CREATED="1685743075347" MODIFIED="1685743090274" LINK="https://www.nvidia.com/en-us/omniverse/apps/audio2face/"/>
 </node>
-<node TEXT="3d geometry" FOLDED="true" ID="ID_1121639807" CREATED="1666082867542" MODIFIED="1680184792083">
+<node TEXT="3d geometry" ID="ID_1121639807" CREATED="1666082867542" MODIFIED="1680184792083">
 <node TEXT="geom head from single shot" ID="ID_1727751456" CREATED="1664899216403" MODIFIED="1685194526081" LINK="https://samsunglabs.github.io/rome/">
 <icon BUILTIN="attach"/>
 </node>
@@ -1133,6 +1135,7 @@
 <node TEXT="stable diffusion textmesh" ID="ID_926827327" CREATED="1685477246056" MODIFIED="1685477256653" LINK="https://fabi92.github.io/textmesh/"/>
 <node TEXT="Fantasia3d" ID="ID_1814081111" CREATED="1685483126828" MODIFIED="1685483133084" LINK="https://github.com/Gorilla-Lab-SCUT/Fantasia3D"/>
 <node TEXT="youtube video on midjourny to 3d" ID="ID_1173905022" CREATED="1686215122832" MODIFIED="1686215142500" LINK="https://www.youtube.com/watch?v=Wf-OmHyFduo"/>
+<node TEXT="Procedural landscapes in blender" ID="ID_1089520951" CREATED="1687283476374" MODIFIED="1687283487270" LINK="https://www.youtube.com/watch?v=6tgspeI-GHY"/>
 </node>
 <node TEXT="Music and audio" FOLDED="true" ID="ID_1812265856" CREATED="1667334782771" MODIFIED="1667334787006">
 <node TEXT="Stable diffusion MIDI" ID="ID_306476459" CREATED="1667334789452" MODIFIED="1667334797968" LINK="https://storage.googleapis.com/music-synthesis-with-spectrogram-diffusion/index.html"/>
@@ -1565,6 +1568,7 @@
 <icon BUILTIN="attach"/>
 </node>
 <node TEXT="SpQR lossless optimisation paper" ID="ID_1548807355" CREATED="1686558829116" MODIFIED="1686558841847" LINK="https://arxiv.org/abs/2306.03078"/>
+<node TEXT="Landmark attention qlora oogabooga" ID="ID_690966547" CREATED="1686862073113" MODIFIED="1686862087932" LINK="https://github.com/eugenepentland/landmark-attention-qlora"/>
 </node>
 <node TEXT="Prompt engineering and injection" FOLDED="true" ID="ID_1395479167" CREATED="1682324941379" MODIFIED="1683562215114">
 <node TEXT="Character injection" ID="ID_927086992" CREATED="1681579845764" MODIFIED="1685195281009">
@@ -1971,7 +1975,7 @@
 <node TEXT="surveillance-capitalism-is-undermining-democracy" ID="ID_1274809163" CREATED="1686508029148" MODIFIED="1686557185314" LINK="https://news.harvard.edu/gazette/story/2019/03/harvard-professor-says-surveillance-capitalism-is-undermining-democracy/"/>
 <node TEXT="https://bitcoinmagazine.com/culture/how-bitcoin-can-save-political-dissidents-in-myanmar" ID="ID_630296795" CREATED="1686508029158" MODIFIED="1686508029158" LINK="https://bitcoinmagazine.com/culture/how-bitcoin-can-save-political-dissidents-in-myanmar"/>
 </node>
-<node TEXT="Scene capture" FOLDED="true" POSITION="right" ID="ID_630117933" CREATED="1678042008464" MODIFIED="1678042441538">
+<node TEXT="Scene capture" POSITION="right" ID="ID_630117933" CREATED="1678042008464" MODIFIED="1678042441538">
 <edge COLOR="#0000ff"/>
 <node TEXT="Fantastical NeRFs" ID="ID_1365164684" CREATED="1667813624731" MODIFIED="1673174158056">
 <icon BUILTIN="bookmark"/>
@@ -2037,6 +2041,7 @@
 <icon BUILTIN="attach"/>
 </node>
 <node TEXT="nerf RPN" ID="ID_1925774521" CREATED="1683320970439" MODIFIED="1683320982543" LINK="https://github.com/lyclyc52/NeRF_RPN"/>
+<node TEXT="google indoor reconstruction from nerfs" ID="ID_255026239" CREATED="1687165266388" MODIFIED="1687166579584" LINK="https://ai.googleblog.com/2023/06/reconstructing-indoor-spaces-with-nerf.html"/>
 </node>
 <node TEXT="RP-Lidar + Raspberry pi + ROS RTAB-MAP" ID="ID_1868010211" CREATED="1673816545467" MODIFIED="1680620499221">
 <node TEXT="RTAB-Map" ID="ID_1293686985" CREATED="1673816570803" MODIFIED="1673816577662" LINK="http://introlab.github.io/rtabmap/"/>
@@ -2048,6 +2053,7 @@
 <node TEXT="Apple point cloud rendering" ID="ID_1822867978" CREATED="1682589226405" MODIFIED="1682589237579" LINK="https://machinelearning.apple.com/research/pointersect"/>
 <node TEXT="Nvidia NeuralAngelo" ID="ID_981729134" CREATED="1685743099751" MODIFIED="1685743110787" LINK="https://research.nvidia.com/labs/dir/neuralangelo/"/>
 <node TEXT="OmniMotion track all pixels" ID="ID_986475998" CREATED="1686424887021" MODIFIED="1686424905407" LINK="https://huggingface.co/papers/2306.05422"/>
+<node TEXT="Leica handheld scanner" ID="ID_1345833226" CREATED="1686944457392" MODIFIED="1686944470696" LINK="https://leica-geosystems.com/products/laser-scanners/autonomous-reality-capture/leica-blk2go-handheld-imaging-laser-scanner"/>
 </node>
 <node TEXT="This weeks links" POSITION="right" ID="ID_1107225726" CREATED="1686508023247" MODIFIED="1686508027585">
 <edge COLOR="#007c7c"/>
