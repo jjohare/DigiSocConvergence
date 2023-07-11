@@ -322,6 +322,36 @@ Although impressive, it is generally agreed that GPT-4 is not an AGI due to its 
 \subsubsection{GPT API and programming}
 In the context of programming, GPT-4's advancements may have a significant impact on how developers interact with AI systems,, and their productivity and creativity. The impact of AI systems like GPT-4 on programming is significant, changing the way programmers work by allowing an iterative process and back-and-forth dialogue with the AI as a creative partner. This development is seen as a major step forward in programming.\par 
 It seems almost inevitable that at some stage a large language model will be optimised for computer instruction sets,   and simply be able to bridge directly from human intentionality to bytecode, running it's own tests and refinements without external consultation. The degree to which this would still be considered `a compiler' is unclear.
+
+\subsubsection{ChatGPT - Code Interpreter}
+The ChatGPT Code Interpreter Plugin, introduced in March 2023, offers a sandboxed environment featuring a working Python interpreter. This environment, which is isolated from other users and the Internet, supports an impressive array of functionalities. It comes pre-loaded with over 330 libraries, including popular ones such as pandas, matplotlib, seaborn, and TensorFlow, among others.
+
+As illustrated in Figure \ref{fig:chatGPTdata}, the Code Interpreter Plugin is capable of performing a myriad of tasks. For example, it can visualize any data inputted by the user, generate GIFs of the visualizations, and perform file uploads and downloads. It can extract colors from an image to create a color palette, and autonomously compress large images when memory is running low. Moreover, the plugin can clean and process data, generate insightful visualizations, and convert files to different formats quickly and efficiently.
+
+The Code Interpreter Plugin can be installed by ChatGPT Plus users in a few simple steps. However, it is worth noting that while this plugin is powerful, it does have certain limitations, such as frequent environment resets, limited Optical Character Recognition (OCR) capabilities, and an inability to access the web. Despite these limitations, OpenAI continues to work on improving the capabilities of the Code Interpreter Plugin, promising a future with substantial impacts on the world of programming.
+
+\begin{itemize}
+\item The Code Interpreter Plugin introduces a sandbox and an advanced language model, both of which are critical to its functionality.
+\item The emphasis of the plugin is on the quality of the model, which can generate code, debug it, and even decide when not to proceed without human input.
+\item The plugin offers substantial model autonomy, enabling it to work through multiple steps of code generation autonomously.
+\item Despite its powerful capabilities, the plugin does have limitations, such as frequent environment resets and limited OCR capabilities.
+\item The plugin is only available to ChatGPT Plus users, and requires a few simple steps for installation.
+\item The Code Interpreter Plugin represents a significant advancement in the realm of programming, changing the way programmers interact with AI systems.
+\end{itemize}
+
+This is the list of libraries that code interpreter can call.
+
+\input{09_code_interpreter_libs}
+
+
+\begin{figure}
+  \centering
+    \includegraphics[width=\linewidth]{chatGPTdata}
+  \caption{A multi-model conversation with chatGPT4 `code interpreter plugin' by \href{https://www.oneusefulthing.org/p/it-is-starting-to-get-strange}{Mollick}}
+  \label{fig:chatGPTdata}
+\end{figure}
+
+
 \subsection{Researcher toolkits}
 \subsubsection{COG containers for ML}
 Cog is an \href{https://github.com/replicate/cog}{open-source tool} for packaging machine learning models into production-ready containers. It simplifies Docker container creation, resolves compatibility issues between CUDA, cuDNN, PyTorch, TensorFlow, and Python, and uses standard Python to define model inputs and outputs. Cog generates an OpenAPI schema, validates inputs and outputs with Pydantic, creates an automatic HTTP prediction server using FastAPI, and offers automatic queue worker functionality. It supports cloud storage with Amazon S3 and Google Cloud Storage (coming soon), and allows model deployment on any infrastructure that supports Docker images, including Replicate.
@@ -340,13 +370,6 @@ As discussed Nvidia still hope that their enterprise metaverse offering Onmivers
 Nvidia's partnerships with TSMC, ASML, and Synopsys could lead to advancements in chips and efficiency. Grace, Grace Hopper, and Bluefield 3 are designed for energy-efficient accelerated data centers.\par
 Microsoft's investment in OpenAI and especially ChatGPT is clearly paying dividends right now, but it is possible that they are mindful of the transition to less centrally controlled `edge' hardware as previously mentioned has forced their hand toward offering their generalised systems for use by corporations as plugins. It's not clear at all that this is the correct model. With that said the current response from Microsoft it yielding incredible powerful results. Their plugin `code interpreter' allows uploading of data files of up to 100MBin size, and both writing and execution of Python code, one of the languages of data analystics. This toolkit is the first major leveraging of a unified multi-modal model. It can create media rich documents with charts, images, and diagrams, providing appropriate descriptive analysis and diagnostics of the statistics employed. This is said to be happening at the level of a junior data analytics specialist so far, and could represent the beginning of a distributive democratisation of data science Figure \ref{fig:chatGPTdata} and Figure \ref{fig:chatGPTword}.
 
-
-\begin{figure}
-  \centering
-    \includegraphics[width=\linewidth]{chatGPTdata}
-  \caption{A multi-model conversation with chatGPT4 `code interpreter plugin' by \href{https://www.oneusefulthing.org/p/it-is-starting-to-get-strange}{Mollick}}
-  \label{fig:chatGPTdata}
-\end{figure}
 
 \begin{figure}
   \centering
