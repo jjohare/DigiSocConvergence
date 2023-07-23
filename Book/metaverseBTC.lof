@@ -76,31 +76,36 @@
 \contentsline {figure}{\numberline {9.1}{\ignorespaces The terminology in the field is both somewhat blurred and highly `nested'.}}{317}{figure.9.1}%
 \contentsline {figure}{\numberline {9.2}{\ignorespaces Major stands of generative AI and their associated models at the time of print.}}{318}{figure.9.2}%
 \contentsline {figure}{\numberline {9.3}{\ignorespaces Major stands of large language models from Yang et al \blx@tocontentsinit {0}\cite {yang2023harnessing}}}{319}{figure.9.3}%
-\contentsline {figure}{\numberline {9.4}{\ignorespaces Stanford's assessment of the compliance of current foundation models vs the EU AI act.}}{332}{figure.9.4}%
-\contentsline {figure}{\numberline {9.5}{\ignorespaces EU AI compliance flowchart.}}{334}{figure.9.5}%
-\contentsline {figure}{\numberline {9.6}{\ignorespaces Taxonomy of \href {https://arxiv.org/abs/2301.04655}{recent generative ML systems} by Gozalo-Brizuela and Garrido-Merchan used with permission.}}{343}{figure.9.6}%
-\contentsline {figure}{\numberline {9.7}{\ignorespaces A multi-model conversation with chatGPT4 `code interpreter plugin' by \href {https://www.oneusefulthing.org/p/it-is-starting-to-get-strange}{Mollick}}}{350}{figure.9.7}%
-\contentsline {figure}{\numberline {9.8}{\ignorespaces The planned integration of these tools with Office Suite is likely to be a historic moment}}{352}{figure.9.8}%
-\contentsline {figure}{\numberline {9.9}{\ignorespaces SD tools website shows elements of creation and training.}}{356}{figure.9.9}%
-\contentsline {figure}{\numberline {9.10}{\ignorespaces A16Z view the nominal deployment of and AI tech stack in this way, but we are not using any of these models.}}{358}{figure.9.10}%
+\contentsline {figure}{\numberline {9.4}{\ignorespaces The terminology in the field is both somewhat blurred and highly `nested'.}}{320}{figure.9.4}%
+\contentsline {figure}{\numberline {9.5}{\ignorespaces Stanford's assessment of the compliance of current foundation models vs the EU AI act.}}{337}{figure.9.5}%
+\contentsline {figure}{\numberline {9.6}{\ignorespaces A progression of human-AI interaction, oneshot collaboration between ChatGPT and SDXL. Placeholder.}}{341}{figure.9.6}%
+\contentsline {figure}{\numberline {9.7}{\ignorespaces Vixen Labs anthropomorphic taxonomy of business functions}}{352}{figure.9.7}%
+\contentsline {figure}{\numberline {9.8}{\ignorespaces Changes to GPT models performance over time - denied by OpenAI (Chen et al) \blx@tocontentsinit {0}\cite {chen2023chatgpts}}}{358}{figure.9.8}%
+\contentsline {figure}{\numberline {9.9}{\ignorespaces Results from home hosted LLM}}{363}{figure.9.9}%
+\contentsline {figure}{\numberline {9.10}{\ignorespaces Taxonomy of \href {https://arxiv.org/abs/2301.04655}{recent generative ML systems} by Gozalo-Brizuela and Garrido-Merchan used with permission.}}{374}{figure.9.10}%
+\contentsline {figure}{\numberline {9.11}{\ignorespaces A multi-model conversation with chatGPT4 `code interpreter plugin' by \href {https://www.oneusefulthing.org/p/it-is-starting-to-get-strange}{Mollick}}}{381}{figure.9.11}%
+\contentsline {figure}{\numberline {9.12}{\ignorespaces The planned integration of these tools with Office Suite is likely to be a historic moment}}{383}{figure.9.12}%
+\contentsline {figure}{\numberline {9.13}{\ignorespaces SD tools website shows elements of creation and training.}}{387}{figure.9.13}%
+\contentsline {figure}{\numberline {9.14}{\ignorespaces A16Z view the nominal deployment of and AI tech stack in this way, but we are not using any of these models.}}{389}{figure.9.14}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {10.1}{\ignorespaces Another look at the diagram of intersections.}}{364}{figure.10.1}%
-\contentsline {figure}{\numberline {10.2}{\ignorespaces Models exhibit uncanny behaviours.}}{379}{figure.10.2}%
-\contentsline {figure}{\numberline {10.3}{\ignorespaces Pyramid showing the components for sats, stablecoins on lightning, asssets, and trust}}{381}{figure.10.3}%
-\contentsline {figure}{\numberline {10.4}{\ignorespaces High level overview showing the components for sats, stablecoins on lightning, asssets, and trust}}{382}{figure.10.4}%
-\contentsline {figure}{\numberline {10.5}{\ignorespaces Top panel is a screen grab from Vircadia and the bottom panel is a quick pass through img2img from Stable Diffusion.}}{391}{figure.10.5}%
-\contentsline {figure}{\numberline {10.6}{\ignorespaces Robot VP}}{392}{figure.10.6}%
-\contentsline {figure}{\numberline {10.7}{\ignorespaces Functional elements for infrastructure.}}{392}{figure.10.7}%
-\contentsline {figure}{\numberline {10.8}{\ignorespaces Client server C4 diagrams.}}{393}{figure.10.8}%
-\contentsline {figure}{\numberline {10.9}{\ignorespaces Ubuntu 20.04 Desktop Settings}}{412}{figure.10.9}%
-\contentsline {figure}{\numberline {10.10}{\ignorespaces Ubuntu 20.04 Desktop Settings - Network}}{413}{figure.10.10}%
-\contentsline {figure}{\numberline {10.11}{\ignorespaces Vircadia build settings and installation screen grab}}{414}{figure.10.11}%
-\contentsline {figure}{\numberline {10.12}{\ignorespaces Vircadia build Qt warning}}{414}{figure.10.12}%
-\contentsline {figure}{\numberline {10.13}{\ignorespaces Vircadia server configuration landing page}}{417}{figure.10.13}%
-\contentsline {figure}{\numberline {10.14}{\ignorespaces Vircadia server configuration import page}}{417}{figure.10.14}%
-\contentsline {figure}{\numberline {10.15}{\ignorespaces Vircadia server configuration import page}}{418}{figure.10.15}%
-\contentsline {figure}{\numberline {10.16}{\ignorespaces Vircadia server configuration import page}}{418}{figure.10.16}%
-\contentsline {figure}{\numberline {10.17}{\ignorespaces Vircadia server configuration import page}}{419}{figure.10.17}%
-\contentsline {figure}{\numberline {10.18}{\ignorespaces Vircadia server configuration import page}}{420}{figure.10.18}%
+\contentsline {figure}{\numberline {10.1}{\ignorespaces Another look at the diagram of intersections.}}{394}{figure.10.1}%
+\contentsline {figure}{\numberline {10.2}{\ignorespaces Models exhibit uncanny behaviours.}}{409}{figure.10.2}%
+\contentsline {figure}{\numberline {10.3}{\ignorespaces Pyramid showing the components for sats, stablecoins on lightning, asssets, and trust}}{411}{figure.10.3}%
+\contentsline {figure}{\numberline {10.4}{\ignorespaces High level overview showing the components for sats, stablecoins on lightning, asssets, and trust}}{412}{figure.10.4}%
+\contentsline {figure}{\numberline {10.5}{\ignorespaces Top panel is a screen grab from Vircadia and the bottom panel is a quick pass through img2img from Stable Diffusion.}}{418}{figure.10.5}%
+\contentsline {figure}{\numberline {10.6}{\ignorespaces Robot VP}}{419}{figure.10.6}%
+\contentsline {figure}{\numberline {10.7}{\ignorespaces Omniverse allows voice created 3D models.}}{425}{figure.10.7}%
+\contentsline {figure}{\numberline {10.8}{\ignorespaces Functional elements for infrastructure.}}{432}{figure.10.8}%
+\contentsline {figure}{\numberline {10.9}{\ignorespaces Client server C4 diagrams.}}{433}{figure.10.9}%
+\contentsline {figure}{\numberline {10.10}{\ignorespaces Ubuntu 20.04 Desktop Settings}}{452}{figure.10.10}%
+\contentsline {figure}{\numberline {10.11}{\ignorespaces Ubuntu 20.04 Desktop Settings - Network}}{453}{figure.10.11}%
+\contentsline {figure}{\numberline {10.12}{\ignorespaces Vircadia build settings and installation screen grab}}{454}{figure.10.12}%
+\contentsline {figure}{\numberline {10.13}{\ignorespaces Vircadia build Qt warning}}{454}{figure.10.13}%
+\contentsline {figure}{\numberline {10.14}{\ignorespaces Vircadia server configuration landing page}}{457}{figure.10.14}%
+\contentsline {figure}{\numberline {10.15}{\ignorespaces Vircadia server configuration import page}}{457}{figure.10.15}%
+\contentsline {figure}{\numberline {10.16}{\ignorespaces Vircadia server configuration import page}}{458}{figure.10.16}%
+\contentsline {figure}{\numberline {10.17}{\ignorespaces Vircadia server configuration import page}}{458}{figure.10.17}%
+\contentsline {figure}{\numberline {10.18}{\ignorespaces Vircadia server configuration import page}}{459}{figure.10.18}%
+\contentsline {figure}{\numberline {10.19}{\ignorespaces Vircadia server configuration import page}}{460}{figure.10.19}%
 \addvspace {10\p@ }
 \contentsfinish 

@@ -9993,4 +9993,22 @@
   publisher = {Citeseer},
 }
 
+@Misc{liu2023lost,
+  author        = {Nelson F. Liu and Kevin Lin and John Hewitt and Ashwin Paranjape and Michele Bevilacqua and Fabio Petroni and Percy Liang},
+  title         = {Lost in the Middle: How Language Models Use Long Contexts},
+  year          = {2023},
+  archiveprefix = {arXiv},
+  eprint        = {2307.03172},
+  primaryclass  = {cs.CL},
+}
+
+@Misc{chen2023chatgpts,
+  author        = {Lingjiao Chen and Matei Zaharia and James Zou},
+  title         = {How is ChatGPT's behavior changing over time?},
+  year          = {2023},
+  archiveprefix = {arXiv},
+  eprint        = {2307.09009},
+  primaryclass  = {cs.CL},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
