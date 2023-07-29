@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.7.12)  23 JUL 2023 17:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.7.12)  29 JUL 2023 11:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2311,31 +2311,30 @@ File: Images/ai.jpg Graphic file (type jpg)
 <use Images/ai.jpg>
 Package pdftex.def Info: Images/ai.jpg  used on input line 11.
 (pdftex.def)             Requested size: 307.28978pt x 304.41872pt.
-<images/sequoiacapLandscape.png, id=5105, 1003.75pt x 758.835pt>
-File: images/sequoiacapLandscape.png Graphic file (type png)
-<use images/sequoiacapLandscape.png>
-Package pdftex.def Info: images/sequoiacapLandscape.png  used on input line 18.
+<Images/sequoiacapLandscape.png, id=5103, 1003.75pt x 758.835pt>
+File: Images/sequoiacapLandscape.png Graphic file (type png)
+<use Images/sequoiacapLandscape.png>
+Package pdftex.def Info: Images/sequoiacapLandscape.png  used on input line 19.
 
 (pdftex.def)             Requested size: 307.28978pt x 232.30696pt.
 
 
 LaTeX Warning: Reference `fig:llmlandscape' on page 291 undefined on input line
- 23.
+ 24.
 
-<images/llmlandscape.jpg, id=5106, 1543.7675pt x 1192.455pt>
-File: images/llmlandscape.jpg Graphic file (type jpg)
-<use images/llmlandscape.jpg>
-Package pdftex.def Info: images/llmlandscape.jpg  used on input line 24.
+<Images/llmlandscape.jpg, id=5104, 1543.7675pt x 1192.455pt>
+File: Images/llmlandscape.jpg Graphic file (type jpg)
+<use Images/llmlandscape.jpg>
+Package pdftex.def Info: Images/llmlandscape.jpg  used on input line 25.
 (pdftex.def)             Requested size: 307.28978pt x 237.35866pt.
 (09_AIML_Overview.tex (09_LLMs.tex [291] [292 <./Images/ai.jpg>]
-<images/ai.jpg, id=5127, 642.4pt x 636.3775pt>
-File: images/ai.jpg Graphic file (type jpg)
-<use images/ai.jpg>
-Package pdftex.def Info: images/ai.jpg  used on input line 11.
+File: Images/ai.jpg Graphic file (type jpg)
+<use Images/ai.jpg>
+Package pdftex.def Info: Images/ai.jpg  used on input line 11.
 (pdftex.def)             Requested size: 245.83275pt x 243.52527pt.
- [293 <./images/sequoiacapLandscape.png (PNG copy)>] [294 <./images/llmlandscap
+ [293 <./Images/sequoiacapLandscape.png (PNG copy)>] [294 <./Images/llmlandscap
 e.jpg>]
-[295 <./images/ai.jpg>]
+[295]
 Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
  []
@@ -2385,78 +2384,78 @@ Package hyperref Warning: Suppressing link with empty target on input line 279.
 
 
 [311]
-<images/euaicompliance.png, id=5308, 2284.535pt x 1210.5225pt>
-File: images/euaicompliance.png Graphic file (type png)
-<use images/euaicompliance.png>
-Package pdftex.def Info: images/euaicompliance.png  used on input line 286.
+<Images/euaicompliance.png, id=5305, 2284.535pt x 1210.5225pt>
+File: Images/euaicompliance.png Graphic file (type png)
+<use Images/euaicompliance.png>
+Package pdftex.def Info: Images/euaicompliance.png  used on input line 286.
 (pdftex.def)             Requested size: 291.92435pt x 154.67667pt.
- [312 <./images/euaicompliance.png>]
+ [312 <./Images/euaicompliance.png>]
 
 LaTeX Warning: Reference `fig:EUAIflowchart.pdf' on page 313 undefined on input
  line 306.
 
 
 
-pdfTeX warning: pdflatex (file ./images/euaiflowchart.pdf): PDF inclusion: foun
+pdfTeX warning: pdflatex (file ./Images/euaiflowchart.pdf): PDF inclusion: foun
 d PDF version <1.6>, but at most version <1.5> allowed
-<images/euaiflowchart.pdf, id=5317, 845.03705pt x 2332.96594pt>
-File: images/euaiflowchart.pdf Graphic file (type pdf)
-<use images/euaiflowchart.pdf>
-Package pdftex.def Info: images/euaiflowchart.pdf  used on input line 309.
+<Images/euaiflowchart.pdf, id=5314, 845.03705pt x 2332.96594pt>
+File: Images/euaiflowchart.pdf Graphic file (type pdf)
+<use Images/euaiflowchart.pdf>
+Package pdftex.def Info: Images/euaiflowchart.pdf  used on input line 309.
 (pdftex.def)             Requested size: 153.64488pt x 424.15193pt.
-[313] [314 <./images/euaiflowchart.pdf>] [315] [316]
-<images/base_output_00002_.png, id=5391, 1084.05pt x 1084.05pt>
-File: images/base_output_00002_.png Graphic file (type png)
-<use images/base_output_00002_.png>
-Package pdftex.def Info: images/base_output_00002_.png  used on input line 331.
+[313] [314 <./Images/euaiflowchart.pdf>] [315] [316]
+<Images/base_output_00002_.png, id=5388, 1084.05pt x 1084.05pt>
+File: Images/base_output_00002_.png Graphic file (type png)
+<use Images/base_output_00002_.png>
+Package pdftex.def Info: Images/base_output_00002_.png  used on input line 331.
 
 (pdftex.def)             Requested size: 58.3858pt x 58.37407pt.
-<images/base_output_00003_.png, id=5392, 1084.05pt x 1084.05pt>
-File: images/base_output_00003_.png Graphic file (type png)
-<use images/base_output_00003_.png>
-Package pdftex.def Info: images/base_output_00003_.png  used on input line 333.
+<Images/base_output_00003_.png, id=5389, 1084.05pt x 1084.05pt>
+File: Images/base_output_00003_.png Graphic file (type png)
+<use Images/base_output_00003_.png>
+Package pdftex.def Info: Images/base_output_00003_.png  used on input line 333.
 
 (pdftex.def)             Requested size: 58.3858pt x 58.37407pt.
-<images/base_output_00005_.png, id=5393, 1084.05pt x 1084.05pt>
-File: images/base_output_00005_.png Graphic file (type png)
-<use images/base_output_00005_.png>
-Package pdftex.def Info: images/base_output_00005_.png  used on input line 335.
+<Images/base_output_00005_.png, id=5390, 1084.05pt x 1084.05pt>
+File: Images/base_output_00005_.png Graphic file (type png)
+<use Images/base_output_00005_.png>
+Package pdftex.def Info: Images/base_output_00005_.png  used on input line 335.
 
 (pdftex.def)             Requested size: 58.3858pt x 58.37407pt.
-<images/base_output_00006_.png, id=5394, 1084.05pt x 1084.05pt>
-File: images/base_output_00006_.png Graphic file (type png)
-<use images/base_output_00006_.png>
-Package pdftex.def Info: images/base_output_00006_.png  used on input line 337.
+<Images/base_output_00006_.png, id=5391, 1084.05pt x 1084.05pt>
+File: Images/base_output_00006_.png Graphic file (type png)
+<use Images/base_output_00006_.png>
+Package pdftex.def Info: Images/base_output_00006_.png  used on input line 337.
 
 (pdftex.def)             Requested size: 58.3858pt x 58.37407pt.
-<images/base_output_00007_.png, id=5395, 1084.05pt x 1084.05pt>
-File: images/base_output_00007_.png Graphic file (type png)
-<use images/base_output_00007_.png>
-Package pdftex.def Info: images/base_output_00007_.png  used on input line 339.
+<Images/base_output_00007_.png, id=5392, 1084.05pt x 1084.05pt>
+File: Images/base_output_00007_.png Graphic file (type png)
+<use Images/base_output_00007_.png>
+Package pdftex.def Info: Images/base_output_00007_.png  used on input line 339.
 
 (pdftex.def)             Requested size: 58.3858pt x 58.37407pt.
- [317 <./images/base_output_00002_.png (PNG copy)> <./images/base_output_00003_
-.png (PNG copy)> <./images/base_output_00005_.png (PNG copy)> <./images/base_ou
-tput_00006_.png (PNG copy)> <./images/base_output_00007_.png (PNG copy)>]
+ [317 <./Images/base_output_00002_.png (PNG copy)> <./Images/base_output_00003_
+.png (PNG copy)> <./Images/base_output_00005_.png (PNG copy)> <./Images/base_ou
+tput_00006_.png (PNG copy)> <./Images/base_output_00007_.png (PNG copy)>]
 Overfull \hbox (3.24608pt too wide) in paragraph at lines 359--360
 [] []\T1/pag/db/n/10 (-20) Eq-uity: Now to Next[] \T1/ptm/m/n/10 (-20) By de-mo
 c-ra-tiz-ing re-sources, and low-er-ing the marginal
  []
 
 [318] [319] [320]) (09_GenArt.tex [321] [322] [323] [324] [325] [326])
-<images/vixenanthro.png, id=5525, 694.595pt x 501.875pt>
-File: images/vixenanthro.png Graphic file (type png)
-<use images/vixenanthro.png>
-Package pdftex.def Info: images/vixenanthro.png  used on input line 10.
+<Images/vixenanthro.png, id=5522, 694.595pt x 501.875pt>
+File: Images/vixenanthro.png Graphic file (type png)
+<use Images/vixenanthro.png>
+Package pdftex.def Info: Images/vixenanthro.png  used on input line 10.
 (pdftex.def)             Requested size: 291.92435pt x 210.93155pt.
  [327]
-[328 <./images/vixenanthro.png>] [329] [330] [331]
-<images/gptchanges.jpg, id=5566, 1207.51125pt x 963.6pt>
-File: images/gptchanges.jpg Graphic file (type jpg)
-<use images/gptchanges.jpg>
-Package pdftex.def Info: images/gptchanges.jpg  used on input line 83.
+[328 <./Images/vixenanthro.png>] [329] [330] [331]
+<Images/gptchanges.jpg, id=5563, 1207.51125pt x 963.6pt>
+File: Images/gptchanges.jpg Graphic file (type jpg)
+<use Images/gptchanges.jpg>
+Package pdftex.def Info: Images/gptchanges.jpg  used on input line 83.
 (pdftex.def)             Requested size: 291.92435pt x 232.9449pt.
- [332] [333 <./images/gptchanges.jpg>]
+ [332] [333 <./Images/gptchanges.jpg>]
 Overfull \hbox (2.85014pt too wide) in paragraph at lines 128--129
 [] []\T1/pag/db/n/10 (-20) Li-cense Grant[] \T1/ptm/m/n/10 (-20) You are grante
 d a non-exclusive, world-wide, non-transferable,
@@ -2468,33 +2467,33 @@ Package hyperref Warning: Suppressing link with empty target on input line 154.
 
 
 [335] [336]
-<images/ICOPERLLM.png, id=5608, 350.81062pt x 195.73125pt>
-File: images/ICOPERLLM.png Graphic file (type png)
-<use images/ICOPERLLM.png>
-Package pdftex.def Info: images/ICOPERLLM.png  used on input line 194.
+<Images/ICOPERLLM.png, id=5605, 350.81062pt x 195.73125pt>
+File: Images/ICOPERLLM.png Graphic file (type png)
+<use Images/ICOPERLLM.png>
+Package pdftex.def Info: Images/ICOPERLLM.png  used on input line 194.
 (pdftex.def)             Requested size: 291.92435pt x 162.88695pt.
- [337] [338 <./images/ICOPERLLM.png>] [339]
+ [337] [338 <./Images/ICOPERLLM.png>] [339]
 
 Package hyperref Warning: Suppressing link with empty target on input line 235.
 
 
 [340] [341] [342] [343] [344] [345] [346] [347])
-<Images/mltaxonomy.jpg, id=5707, 312.72389pt x 239.56166pt>
+<Images/mltaxonomy.jpg, id=5704, 312.72389pt x 239.56166pt>
 File: Images/mltaxonomy.jpg Graphic file (type jpg)
 <use Images/mltaxonomy.jpg>
-Package pdftex.def Info: Images/mltaxonomy.jpg  used on input line 36.
+Package pdftex.def Info: Images/mltaxonomy.jpg  used on input line 37.
 (pdftex.def)             Requested size: 307.28978pt x 235.4012pt.
  [348 <./Images/mltaxonomy.jpg>] [349] [350] [351] [352] (09_code_interpreter_l
 ibs.tex
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
 )
-Overfull \hbox (9.68251pt too wide) in paragraph at lines 2--99
+Overfull \hbox (9.68251pt too wide) in paragraph at lines 2--100
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2--99
+Underfull \hbox (badness 10000) in paragraph at lines 2--100
 
  []
 
@@ -2503,40 +2502,40 @@ Overfull \vbox (13.07675pt too high) has occurred while \output is active []
 
 
 [354]
-<Images/chatGPTdata.png, id=5750, 2353.79375pt x 1418.29875pt>
+<Images/chatGPTdata.png, id=5747, 2353.79375pt x 1418.29875pt>
 File: Images/chatGPTdata.png Graphic file (type png)
 <use Images/chatGPTdata.png>
-Package pdftex.def Info: Images/chatGPTdata.png  used on input line 103.
+Package pdftex.def Info: Images/chatGPTdata.png  used on input line 104.
 (pdftex.def)             Requested size: 307.28978pt x 185.14276pt.
  [355 <./Images/chatGPTdata.png>] [356]
 File: Images/mltaxonomy.jpg Graphic file (type jpg)
 <use Images/mltaxonomy.jpg>
-Package pdftex.def Info: Images/mltaxonomy.jpg  used on input line 130.
+Package pdftex.def Info: Images/mltaxonomy.jpg  used on input line 131.
 (pdftex.def)             Requested size: 307.28978pt x 235.4012pt.
  [357] [358] [359]
-<Images/sdtools.jpg, id=5791, 1729.46124pt x 1738.495pt>
+<Images/sdtools.jpg, id=5788, 1729.46124pt x 1738.495pt>
 File: Images/sdtools.jpg Graphic file (type jpg)
 <use Images/sdtools.jpg>
-Package pdftex.def Info: Images/sdtools.jpg  used on input line 178.
+Package pdftex.def Info: Images/sdtools.jpg  used on input line 179.
 (pdftex.def)             Requested size: 307.28978pt x 308.88345pt.
-<Images/aitechstack.jpeg, id=5793, 803.0pt x 909.3975pt>
+<Images/aitechstack.jpeg, id=5790, 803.0pt x 909.3975pt>
 File: Images/aitechstack.jpeg Graphic file (type jpg)
 <use Images/aitechstack.jpeg>
-Package pdftex.def Info: Images/aitechstack.jpeg  used on input line 191.
+Package pdftex.def Info: Images/aitechstack.jpeg  used on input line 192.
 (pdftex.def)             Requested size: 307.28978pt x 348.01686pt.
  [360] [361 <./Images/sdtools.jpg>] [362 <./Images/aitechstack.jpeg>] [363]
-Underfull \hbox (badness 10000) in paragraph at lines 216--217
+Underfull \hbox (badness 10000) in paragraph at lines 217--218
 
  []
 
 [364]
-Underfull \hbox (badness 10000) in paragraph at lines 230--231
+Underfull \hbox (badness 10000) in paragraph at lines 231--232
 
  []
 
 ) (08_metaverse_points_revised.tex [365]) [366]
 Chapter 10.
-<Images/orange11.jpg, id=5849, 770.88pt x 513.92pt>
+<Images/orange11.jpg, id=5846, 770.88pt x 513.92pt>
 File: Images/orange11.jpg Graphic file (type jpg)
 <use Images/orange11.jpg>
 Package pdftex.def Info: Images/orange11.jpg  used on input line 192.
@@ -2556,18 +2555,18 @@ change
  []
 
 [377] [378] [379]) [380]
-<Images/rlhf.png, id=5929, 349.305pt x 290.08376pt>
+<Images/rlhf.png, id=5926, 349.305pt x 290.08376pt>
 File: Images/rlhf.png Graphic file (type png)
 <use Images/rlhf.png>
 Package pdftex.def Info: Images/rlhf.png  used on input line 87.
 (pdftex.def)             Requested size: 307.28978pt x 255.20808pt.
  [381] [382 <./Images/rlhf.png>]
-<Images/pyramid.jpg, id=5941, 2791.42876pt x 2255.42625pt>
+<Images/pyramid.jpg, id=5938, 2791.42876pt x 2255.42625pt>
 File: Images/pyramid.jpg Graphic file (type jpg)
 <use Images/pyramid.jpg>
 Package pdftex.def Info: Images/pyramid.jpg  used on input line 127.
 (pdftex.def)             Requested size: 307.28978pt x 248.26973pt.
-<Images/highlevelstack.png, id=5942, 1065.9825pt x 703.62875pt>
+<Images/highlevelstack.png, id=5939, 1065.9825pt x 703.62875pt>
 File: Images/highlevelstack.png Graphic file (type png)
 <use Images/highlevelstack.png>
 Package pdftex.def Info: Images/highlevelstack.png  used on input line 132.
@@ -2592,12 +2591,12 @@ Overfull \vbox (87.87671pt too high) has occurred while \output is active []
 
 
 [388] [389]
-<Images/vircadiasd.jpg, id=5990, 992.70876pt x 1190.4475pt>
+<Images/vircadiasd.jpg, id=5987, 992.70876pt x 1190.4475pt>
 File: Images/vircadiasd.jpg Graphic file (type jpg)
 <use Images/vircadiasd.jpg>
 Package pdftex.def Info: Images/vircadiasd.jpg  used on input line 227.
 (pdftex.def)             Requested size: 307.28978pt x 368.48997pt.
-<Images/robotvp.jpg, id=5992, 1025.33063pt x 588.69937pt>
+<Images/robotvp.jpg, id=5989, 1025.33063pt x 588.69937pt>
 File: Images/robotvp.jpg Graphic file (type jpg)
 <use Images/robotvp.jpg>
 Package pdftex.def Info: Images/robotvp.jpg  used on input line 234.
@@ -2609,19 +2608,19 @@ graphic keys. Check
  []
 
 [393] [394]
-<images/nvidiavoice.jpg, id=6033, 1606.0pt x 903.375pt>
-File: images/nvidiavoice.jpg Graphic file (type jpg)
-<use images/nvidiavoice.jpg>
-Package pdftex.def Info: images/nvidiavoice.jpg  used on input line 129.
+<Images/nvidiavoice.jpg, id=6030, 1606.0pt x 903.375pt>
+File: Images/nvidiavoice.jpg Graphic file (type jpg)
+<use Images/nvidiavoice.jpg>
+Package pdftex.def Info: Images/nvidiavoice.jpg  used on input line 129.
 (pdftex.def)             Requested size: 291.92435pt x 164.19946pt.
- [395] [396 <./images/nvidiavoice.jpg>] [397] [398] [399] [400]
+ [395] [396 <./Images/nvidiavoice.jpg>] [397] [398] [399] [400]
 [401])
-<Images/globalclassroom.png, id=6092, 1484.04437pt x 1121.18875pt>
+<Images/globalclassroom.png, id=6089, 1484.04437pt x 1121.18875pt>
 File: Images/globalclassroom.png Graphic file (type png)
 <use Images/globalclassroom.png>
 Package pdftex.def Info: Images/globalclassroom.png  used on input line 272.
 (pdftex.def)             Requested size: 307.28978pt x 232.15475pt.
-<Images/systemc4.png, id=6093, 1576.89125pt x 1024.82875pt>
+<Images/systemc4.png, id=6090, 1576.89125pt x 1024.82875pt>
 File: Images/systemc4.png Graphic file (type png)
 <use Images/systemc4.png>
 Package pdftex.def Info: Images/systemc4.png  used on input line 278.
@@ -2848,13 +2847,13 @@ s been already used, duplicate ignored
                    \relax 
 l.5 \subsection{Overview}\label{overview}}
                                           
-<Images/UbuntuDesktop20_04Settings.png, id=6269, 767.86874pt x 371.13657pt>
+<Images/UbuntuDesktop20_04Settings.png, id=6266, 767.86874pt x 371.13657pt>
 File: Images/UbuntuDesktop20_04Settings.png Graphic file (type png)
 <use Images/UbuntuDesktop20_04Settings.png>
 Package pdftex.def Info: Images/UbuntuDesktop20_04Settings.png  used on input l
 ine 54.
 (pdftex.def)             Requested size: 294.76926pt x 142.47177pt.
-<Images/UbuntuDesktop20_04SettingsNetwork.png, id=6270, 766.36313pt x 465.23813
+<Images/UbuntuDesktop20_04SettingsNetwork.png, id=6267, 766.36313pt x 465.23813
 pt>
 File: Images/UbuntuDesktop20_04SettingsNetwork.png Graphic file (type png)
 <use Images/UbuntuDesktop20_04SettingsNetwork.png>
@@ -2863,7 +2862,7 @@ input line 62.
 (pdftex.def)             Requested size: 294.76926pt x 178.9504pt.
  [421] [422 <./Images/UbuntuDesktop20_04Settings.png> <./Images/UbuntuDesktop20
 _04SettingsNetwork.png>]
-<Images/UbuntuDesktop20_04VircadiaBuildSettings.png, id=6290, 764.10469pt x 477
+<Images/UbuntuDesktop20_04VircadiaBuildSettings.png, id=6287, 764.10469pt x 477
 .28313pt>
 File: Images/UbuntuDesktop20_04VircadiaBuildSettings.png Graphic file (type png
 )
@@ -2871,7 +2870,7 @@ File: Images/UbuntuDesktop20_04VircadiaBuildSettings.png Graphic file (type png
 Package pdftex.def Info: Images/UbuntuDesktop20_04VircadiaBuildSettings.png  us
 ed on input line 106.
 (pdftex.def)             Requested size: 294.76926pt x 184.12234pt.
-<Images/UbuntuDesktop20_04VircadiaQTWarnings.png, id=6291, 765.6103pt x 502.878
+<Images/UbuntuDesktop20_04VircadiaQTWarnings.png, id=6288, 765.6103pt x 502.878
 75pt>
 File: Images/UbuntuDesktop20_04VircadiaQTWarnings.png Graphic file (type png)
 <use Images/UbuntuDesktop20_04VircadiaQTWarnings.png>
@@ -2951,32 +2950,32 @@ Overfull \hbox (12.88203pt too wide) in paragraph at lines 214--214
 [] 
  []
 
-<Images/Vircadia1.png, id=6309, 763.35187pt x 572.89032pt>
+<Images/Vircadia1.png, id=6306, 763.35187pt x 572.89032pt>
 File: Images/Vircadia1.png Graphic file (type png)
 <use Images/Vircadia1.png>
 Package pdftex.def Info: Images/Vircadia1.png  used on input line 240.
 (pdftex.def)             Requested size: 294.76926pt x 221.22343pt.
-<Images/Vircadia2.png, id=6310, 764.8575pt x 571.38469pt>
+<Images/Vircadia2.png, id=6307, 764.8575pt x 571.38469pt>
 File: Images/Vircadia2.png Graphic file (type png)
 <use Images/Vircadia2.png>
 Package pdftex.def Info: Images/Vircadia2.png  used on input line 248.
 (pdftex.def)             Requested size: 294.76926pt x 220.2061pt.
-<Images/Vircadia3.png, id=6311, 766.36313pt x 572.1375pt>
+<Images/Vircadia3.png, id=6308, 766.36313pt x 572.1375pt>
 File: Images/Vircadia3.png Graphic file (type png)
 <use Images/Vircadia3.png>
 Package pdftex.def Info: Images/Vircadia3.png  used on input line 256.
 (pdftex.def)             Requested size: 294.76926pt x 220.06845pt.
-<Images/Vircadia4.png, id=6312, 766.36313pt x 575.14874pt>
+<Images/Vircadia4.png, id=6309, 766.36313pt x 575.14874pt>
 File: Images/Vircadia4.png Graphic file (type png)
 <use Images/Vircadia4.png>
 Package pdftex.def Info: Images/Vircadia4.png  used on input line 264.
 (pdftex.def)             Requested size: 294.76926pt x 221.22672pt.
-<Images/Vircadia5.png, id=6313, 767.11594pt x 572.1375pt>
+<Images/Vircadia5.png, id=6310, 767.11594pt x 572.1375pt>
 File: Images/Vircadia5.png Graphic file (type png)
 <use Images/Vircadia5.png>
 Package pdftex.def Info: Images/Vircadia5.png  used on input line 272.
 (pdftex.def)             Requested size: 294.76926pt x 219.8502pt.
-<Images/Vircadia6.png, id=6314, 764.8575pt x 572.89032pt>
+<Images/Vircadia6.png, id=6311, 764.8575pt x 572.89032pt>
 File: Images/Vircadia6.png Graphic file (type png)
 <use Images/Vircadia6.png>
 Package pdftex.def Info: Images/Vircadia6.png  used on input line 281.
@@ -4052,12 +4051,12 @@ Overfull \hbox (1.58316pt too wide) in paragraph at lines 3360--3362
 ) [479] (metaverseBTC.ptc) [480
 
 ]
-<Images/JOH.jpg, id=7794, 110.66344pt x 165.61874pt>
+<Images/JOH.jpg, id=7791, 110.66344pt x 165.61874pt>
 File: Images/JOH.jpg Graphic file (type jpg)
 <use Images/JOH.jpg>
 Package pdftex.def Info: Images/JOH.jpg  used on input line 213.
 (pdftex.def)             Requested size: 103.49965pt x 154.90579pt.
-<Images/AF.jpg, id=7796, 379.4175pt x 504.38437pt>
+<Images/AF.jpg, id=7793, 379.4175pt x 504.38437pt>
 File: Images/AF.jpg Graphic file (type jpg)
 <use Images/AF.jpg>
 Package pdftex.def Info: Images/AF.jpg  used on input line 224.
@@ -4072,7 +4071,7 @@ Overfull \hbox (101.40617pt too wide) in paragraph at lines 208--226
 [][][]$[]$ 
  []
 
-<Images/UA.jpg, id=7798, 200.75pt x 200.75pt>
+<Images/UA.jpg, id=7795, 200.75pt x 200.75pt>
 File: Images/UA.jpg Graphic file (type jpg)
 <use Images/UA.jpg>
 Package pdftex.def Info: Images/UA.jpg  used on input line 232.
@@ -4723,10 +4722,10 @@ Package logreq Info: Writing requests to 'metaverseBTC.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 46493 strings out of 475551
- 968622 string characters out of 5763026
- 2152304 words of memory out of 5000000
- 64438 multiletter control sequences out of 15000+600000
+ 46496 strings out of 475551
+ 968608 string characters out of 5763026
+ 2151263 words of memory out of 5000000
+ 64441 multiletter control sequences out of 15000+600000
  708839 words of font info for 630 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,13n,113p,3334b,1483s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -4751,9 +4750,9 @@ imes/utmb8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/ti
 mes/utmbi8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/ti
 mes/utmr8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/urw/tim
 es/utmri8a.pfb>
-Output written on metaverseBTC.pdf (522 pages, 32977665 bytes).
+Output written on metaverseBTC.pdf (522 pages, 32919462 bytes).
 PDF statistics:
- 9116 PDF objects out of 10688 (max. 8388607)
+ 9113 PDF objects out of 10688 (max. 8388607)
  1761 named destinations out of 2073 (max. 500000)
- 153433 words of extra memory for PDF output out of 154059 (max. 10000000)
+ 153428 words of extra memory for PDF output out of 154059 (max. 10000000)
 
