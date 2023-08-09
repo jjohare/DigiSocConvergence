@@ -275,10 +275,41 @@ The USA has published it's ``AI Bill of Human Rights'', highlighting five themes
 \item Notice and Explanation
 \item Human Alternatives, Consideration, and Fallback
 \end{itemize}
-It would be worth digging into these further here were it not so clear that the guardrails have already been breeched. The \href{https://www.whitehouse.gov/wp-content/uploads/2022/10/Blueprint-for-an-AI-Bill-of-Rights.pdf}{full report} is still worth reading.\par 
-The US FTC has published a \href{}{blogpost} discussing the legal implications of AI-generated deception under the FTC Act. As synthetic media becomes more widespread, understanding the legal landscape is crucial for businesses involved in creating, distributing, or using AI-generated content. The FTC Act governs deceptive or unfair practices, including synthetic media and generative AI tools. Businesses should consider liability assessment, risk mitigation, deterrence measures, avoiding misrepresentation and false advertising, and post-release detection and monitoring. Other legal frameworks, such as copyright and trademark laws, defamation, and privacy rights, may also apply. The FTC emphasizes the importance of considering the broader social and ethical implications of these technologies and calls for collaboration among legal professionals, regulators, and industry stakeholders to ensure responsible development and use of AI-generated content. It feels like even this comparatively swift response is too little too late. 
+It would be worth digging into these further here were it not so clear that the guardrails have already been breeched. The \href{https://www.whitehouse.gov/wp-content/uploads/2022/10/Blueprint-for-an-AI-Bill-of-Rights.pdf}{full report} is still worth reading.\par
 
-The legislative overhead (globally - taken in aggregate) is very high, and there's growing concern about the energy and carbon footprint of the technology \cite{wu2022sustainable}. The EU is first mover on this, and they have over-corrected for their lack of knowledge (arguably fair enough):\par
+\subsubsection{AI Regulation and Compliance: Navigating the Evolving Landscape}
+
+The global urgency to regulate AI is intensifying, prompting organizations to adapt their governance structures to current and upcoming regulatory requirements. This section provides an overview of existing and new AI regulations in the EU and US, and suggests key action points for navigating AI compliance.
+
+\paragraph{International Soft-Law Approaches}
+\begin{itemize}
+\item Various international bodies have adopted non-binding guidelines for ethical and responsible AI use. These include the \href{https://oecd.ai/en/ai-principles}{OECD AI Principles}, the \href{https://www.unesco.org/en/artificial-intelligence/recommendation-ethics}{UNESCO’s Recommendation on the Ethics of AI}, and the \href{https://www.whitehouse.gov/ostp/ai-bill-of-rights/}{White House Blueprint for an AI Bill of Rights}.
+\item Standardization bodies such as \href{https://www.iso.org/standard/77608.html}{ISO/IEC}, \href{https://standards.ieee.org/initiatives/autonomous-intelligence-systems/}{IEEE}, and the U.S. \href{https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf}{NIST} provide additional guidance.
+\item These initiatives encourage the responsible and human-centric use of AI, focusing on principles like privacy, data governance, accountability, and human oversight.
+\end{itemize}
+
+The legislative overhead (globally - taken in aggregate) is very high, and there's growing concern about the energy and carbon footprint of the technology \cite{wu2022sustainable}. 
+
+
+\subsubsection{US's Sectoral Approach to AI Regulation}
+\begin{itemize}
+\item US AI governance is dispersed across various federal agencies and tailored to specific sectors.
+\item The Federal Trade Commission (FTC), wielding its \href{https://www.ftc.gov/business-guidance/blog/2021/04/aiming-truth-fairness-equity-your-companys-use-ai}{authority}, is actively involved in AI regulation. Its commitment to enforcing fair AI use was demonstrated by opening an \href{https://www.washingtonpost.com/documents/67a7081c-c770-4f05-a39e-9d02117e50e8.pdf?itid=lk_inline_manual_4}{investigation} into OpenAI's chatbot ChatGPT.
+\item The Equal Employment Opportunity Commission (\href{https://www.eeoc.gov/newsroom/eeoc-releases-new-resource-artificial-intelligence-and-title-vii}{EEOC}) and the Consumer Financial Protection Bureau (\href{https://www.consumerfinance.gov/about-us/blog/algorithms-artificial-intelligence-fairness-in-home-appraisals/{CFPB}) are other examples of active sectoral regulators for AI.
+\item States are also showing interest in AI regulation, with California introducing \href{https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202320240AB331}{AB 331}, a law specifically targeting automated decision tools.
+\item Public discourse suggests potential for a broader approach, incorporating AI requirements in a comprehensive national privacy law, like the proposed \href{https://www.commerce.senate.gov/services/files/9BA7EF5C-7554-4DF2-AD05-AD940E2B3E50}{American Data Privacy and Protection Act}.
+\item In addition to actively governing algorithms, \href{https://carnegieendowment.org/2023/07/10/china-s-ai-regulations-and-how-they-get-made-pub-90117}{China recently introduced AI regulations} targeting generative AI and fake news.
+\end{itemize}
+The FTC has published a \href{}{blogpost} discussing the legal implications of AI-generated deception under the FTC Act. As synthetic media becomes more widespread, understanding the legal landscape is crucial for businesses involved in creating, distributing, or using AI-generated content. The FTC Act governs deceptive or unfair practices, including synthetic media and generative AI tools. Businesses should consider liability assessment, risk mitigation, deterrence measures, avoiding misrepresentation and false advertising, and post-release detection and monitoring. Other legal frameworks, such as copyright and trademark laws, defamation, and privacy rights, may also apply. The FTC emphasizes the importance of considering the broader social and ethical implications of these technologies and calls for collaboration among legal professionals, regulators, and industry stakeholders to ensure responsible development and use of AI-generated content. It feels like even this comparatively swift response is too little too late. 
+
+\subsubsection{EU's Comprehensive AI Regulatory Approach}
+\begin{itemize}
+\item The European Commission (EC) introduced the \href{https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai}{draft AI Act in April 2021}, aiming to be the EU's first comprehensive, cross-sectorial regulation focusing on AI.
+\item The Act will categorize AI systems based on risk, impose fines for non-compliance, and is currently in the negotiation phase.
+\item The \href{https://commission.europa.eu/business-economy-euro/doing-business-eu/contract-rules/digital-contracts/liability-rules-artificial-intelligence_en}{AI Liability Directive} and a revision of sectoral safety legislation, including for \href{https://law.stanford.edu/publications/machine-learning-eu-data-sharing-practices/}{machinery and general product safety}, are also part of the EU's AI strategy.
+\end{itemize}
+
+The EU is first mover on this, and they have over-corrected for their lack of knowledge (arguably fair enough):\
 The EU regulation has been passed on 14/6 and classifies AI systems into four risk categories: unacceptable risk, high risk, limited risk, and minimal risk. Unacceptable risk AI systems will be prohibited, while high-risk AI systems will be subject to strict requirements. Any training of a model is automatically a foundational model (annoyingly) and therefore high risk. Getting a compliant model will require a demonstration of deep understanding of the workings of the model. It's unclear how anyone will accomplish this and it may end up being a defacto ban on trained models and possibly even optimised ones (\hyperref[sec:LoRA]{LoRA}). Any product derived from a \textbf{compliant} foundational model will be deemed acceptable by default. This question of compliant foundation models is absolutely key as we plan through the 3 year grace period which the EU has allowed. Short of a proper external legal assessment we \textit{must} assume that Immersive is in scope in terms of it's projects, because of the global reach of the law. Any business doing any business in the EU is exposed. Stanford University Centre for Research on Foundation Models have done their own assessment on the compliance of the current models, and they simply aren't \ref{fig:euAIcompliance}. Bloom from Huggingface is closest and is `perhaps' \href{https://huggingface.co/BelleGroup/BELLE_BLOOM_GPTQ_4BIT}{usable in optimised modes} on cloud \href{https://lambdalabs.com/nvidia-h100-gpus}{hardware} \cite{dettmers2022case}. I suggest we just plough on with whatever is most performant but keep and eye on it.
 
 \begin{figure}[H]
@@ -368,7 +399,7 @@ AI's role in predicting and monitoring environmental changes, optimizing resourc
 
 \paragraph{Supporting our place: Later}: 
 AI will support human relationships with nature by monitoring and managing our physical health at a micro-level. These systems will provide educational information about our natural environment, helping us make more sustainable choices.
-\subsection{Holistic health: Next to Later}
+\subsection{Holistic health}
 Our interaction with the environment is intrinsically linked to our overall health and well-being. AI’s role in environmental management can directly impact our personal health. As AI technologies evolve to help us predict and respond to environmental changes, optimize resource consumption, and enhance waste management, they also pave the way for more holistic approaches to health management. This progression from environmental stewardship to personalized health care is the next evolution in the integration of AI into our daily lives.
 \paragraph{Personal Health Management: Now to Next}: 
 AI will also support our relationships with our own health and internal biome. Personalized AI systems will analyze and respond to changes in our biomes to optimize our health, making recommendations based on our specific needs and preferences.
