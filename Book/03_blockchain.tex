@@ -258,6 +258,38 @@ ECDSA has already been replaced by the more efficient Schnorr signature method \
   \caption{Given a start point on the curve and a number of reflection operations it's trivial to find a number at the end point, but impossible to find the number of \href{https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch04.asciidoc}{hops} from the two end points alone. (CC Mastering Bitcoin second edition)}
   \label{fig:ECDSA}
 \end{figure}
+\subsubsection{Analysis of the underlying security}
+The evidence available paints a picture of strong and improving but not ironclad cryptographic robustness. 
+\begin{itemize}
+\item Who is involved:
+\begin{itemize}
+\item Pieter Wuille, Gregory Maxwell, and Andrew Poelstra are some of the most prominent Bitcoin Core developers and cryptographers. Their extensive experience and contributions to Bitcoin speak to their credentials.
+\item Jonas Nick is a cryptography researcher who has published analyses of Bitcoin's ECDSA signature scheme.
+\item Tim Ruffing, Pedro Moreno-Sanchez, and Yannick Seurin are cryptographers who have published academic papers analyzing and improving Bitcoin's cryptographic constructions.
+\item Tadge Dryja is one of the original Lightning developers and an MIT DCI researcher focused on Bitcoin's cryptography.
+\item Arvind Narayanan is a professor at Princeton who has published seminal works on Bitcoin and cryptocurrency cryptography.
+\item There are likely many other credentialed cryptographers working on Bitcoin, but these are some of the most well-known examples. The common thread is a strong academic background in cryptography.
+\end{itemize}
+\item Where critical analysis is published:
+\begin{itemize}
+\item Many analyses have been published at top cryptography and security conferences like IEEE S\&P, ACM CCS, Financial Cryptography, and Real World Crypto. These are generally highly regarded venues.
+\item Academic journals like Journal of Cryptography, Ledger, and Journal of Cryptographic Engineering have also published peer-reviewed papers. The impact factors are not as high as broader CS journals however.
+\item Bitcoin Improvement Proposals (BIPs) also undergo scrutiny by expert reviewers.
+\item There is still room for more peer review in top journals, but publication venue credibility is generally decent.
+\end{itemize}
+\item Test of time:
+\begin{itemize}
+\item Bitcoin has been live since 2009 and its core cryptographic protocols have stood the test of time so far, with no major breaks of ECDSA, SHA256, RIPEMD160, etc despite enormous incentives.
+\item That being said, 13 years is short in cryptography timescales. Continued analysis over decades is ideal.
+\item Some newer proposals like Taproot have undergone less time testing but build on proven constructions.
+\end{itemize}
+\item Academic acceptance:
+\begin{itemize}
+\item Acceptance has been increasing steadily, with a growing number of peer-reviewed academic papers, PhD dissertations, and university courses on Bitcoin cryptography.
+\item Funding remains limited but is increasing through organizations like Square Crypto that fund open source work.
+\item Controversy around Bitcoin's social implications persists but its technical merit and cryptography seem to be gaining more mainstream academic respect.
+\end{itemize}
+\end{itemize}
 \subsubsection{Addresses \& UTXOs}
 Ethereum has addresses which transactions flow in and out of. This is synonymous to a bank account number and so makes intuitive sense to users of banks. This is not the case in Bitcoin.\par
 Bitcoin is a UTXO model blockchain. UTXO stands for unspent transaction output, and these are `portions' of Bitcoin created and destroyed as value changes hands (through the action of cryptographic keys). They are the basis of the evolving ledger. This process is described well by Rajarshi Maitra in \href{https://medium.com/bitbees/what-the-heck-is-utxo-ca68f2651819}{this post}.\par

@@ -101,9 +101,23 @@ We will see in the following chapters that participation in this new Web3 is con
 Germany is bringing forward legislation allowing the `tokenisation' of legacy instruments such as stocks, though it's far from clear what the value of this would be, except perhaps lowering risk for custodians. It seems that this EU position has prompted the UK government to seize the potential competitive advantage offered, and there will be more on this later. Japan meanwhile has gone so far as to \href{https://cointelegraph.com/news/japanese-prime-minister-says-gov-t-investment-in-digital-transformation-will-include-metaverse-nfts}{make an announcement} about supporting the technologies at a national level.\par
 %Many of the mentioned components here will be described later in the book. The suggestion is that this is happening regardless of a decent use case or definition.\par
 It's a complex evolving narrative, and clearly contradictions are common. Right now there seems little appeal for stepping into Web3. Into the confusion, this book advances a narrow take, and toolset, which might extract some value from the technologies, while maintaining a low barrier to entry.\par 
-\begin{comment}
 \section{Example applications}
 It's handy here to get a feel for what this looks like. These aren't things that this book wishes to contribute to, or even have a firm opinion on, they're just representative of current activity in the decentralised web space.
+\subsection{Veilid - A Peer-to-Peer Privacy Mesh Project}
+
+Veilid is an open-source, mobile-first, networked application framework for building decentralized apps with networking, distributed data storage, and built-in IP privacy without reliance on external services.
+
+\begin{itemize}
+\item \textbf{Platforms}: Runs on Linux, Mac, Windows, Android, iOS, and in browsers via WASM. Bindings available in Rust, Dart, and other languages.
+\item \textbf{Protocols}: Supports UDP, TCP, WebSockets. DNS only used briefly during bootstrap.
+
+\item \textbf{Encryption}: Uses Ed25519, XChaCha20, BLAKE3 for end-to-end encryption and authentication.
+\item \textbf{Storage}: Distributed hash table for data records close to node keys. Popular data replicated.
+\item \textbf{Routing}: Nodes help each other connect. Routing based on node IDs. Private routing over encrypted hops.
+\item \textbf{Goals}: Enable decentralized apps without reliance on centralized corporate systems.
+\end{itemize}
+
+Key features include strong cryptography, ability to run on a variety of platforms, distributed and replicated data storage, and private routing to provide IP privacy. The decentralized design aims to avoid issues with centralized and corporate controlled systems.
 \subsection{Podcasting2.0}
 \href{https://medium.com/@everywheretrip/an-introduction-to-podcasting-2-0-3c4f61ea17f4}{Podcasting 2.0} leverages \href{https://www.rssboard.org/rss-specification}{RSS} (the original dissemination system for podcasts) and the Bitcoin Lightning network, to enable so-called `\href{https://www.youtube.com/watch?v=NO1aDZ6L4NQ&t=1123s}{value for value}' broadcasting. Subscribers use one of a variety of apps to stream micro-transactions of Bitcoin directly to the content creators as they listen to the podcast. No intermediate business takes a cut. Some variation on this model exists, such as John Carvalho's crowd funded podcast ``The Biz'' which progressively unlocks more minutes for everyone based on \href{https://thebiz.pro/about#crowdwall}{crowd funded donations}.
 \subsection{Crowd funding}
@@ -135,7 +149,7 @@ It might be that the future of Web3 comes in the guise of integrated suites such
 \item    Identity, without the state.
 \end{itemize}
 This is obviously leading marketing hype, and they're already late for their release deadline, but what they're talking about here is an integration of the components mentioned in this book. If they can get critical mass around this browser then perhaps the Web3 market can be kickstarted. CEO Chase Perkins has \href{https://www.youtube.com/watch?v=2J8v-TMygK8}{recently presented} on this.
-\end{comment}
+
 \section{Web 4.0}
 The EU has released it's \href{https://ec.europa.eu/commission/presscorner/detail/en/ip_23_3718}{positional thinking} on Web 4. This has come pretty much out of nowhere but seems highly relevant to us if it sticks. From the text:
 Here is the bullet point list in LaTeX:
@@ -160,3 +174,4 @@ This whole area is `crypto', which is increasingly seeping into the human consci
 All the new crypto technologies circling the Web3 narrative are bound tightly together, but there is currently very little meaningful value to be seen.\par
 The rest of this book will focus on the trust and value transfer elements of this shift in internet technologies, and attempt to build a case for it's use in decentralised, open source, collaborative mixed reality applications.
 %\section{Risks}
+
