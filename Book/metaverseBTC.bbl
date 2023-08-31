@@ -2837,6 +2837,33 @@
       \field{pages}{641\bibrangedash 658}
       \range{pages}{18}
     \endentry
+    \entry{Alden2023}{book}{}
+      \name{author}{1}{}{%
+        {{hash=98ddf16a82be76d96f6be0e4fac15aaa}{%
+           family={Alden},
+           familyi={A\bibinitperiod},
+           given={Lyn},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Timestamp Press}%
+      }
+      \strng{namehash}{98ddf16a82be76d96f6be0e4fac15aaa}
+      \strng{fullhash}{98ddf16a82be76d96f6be0e4fac15aaa}
+      \strng{bibnamehash}{98ddf16a82be76d96f6be0e4fac15aaa}
+      \strng{authorbibnamehash}{98ddf16a82be76d96f6be0e4fac15aaa}
+      \strng{authornamehash}{98ddf16a82be76d96f6be0e4fac15aaa}
+      \strng{authorfullhash}{98ddf16a82be76d96f6be0e4fac15aaa}
+      \field{extraname}{1}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1}
+      \field{isbn}{979-8988666301}
+      \field{title}{Broken Money}
+      \field{year}{2023}
+    \endentry
     \entry{homer1996history}{book}{}
       \name{author}{2}{}{%
         {{hash=7d6b5035380d9ab1b8d9de0ab9f33916}{%
@@ -2881,8 +2908,8 @@
       \strng{authornamehash}{7a8fa37f931a316fe587067d55ea90fb}
       \strng{authorfullhash}{7a8fa37f931a316fe587067d55ea90fb}
       \field{extraname}{2}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Satoshi Nakamoto Institute}
@@ -3088,6 +3115,38 @@
       \field{pages}{36\bibrangedash 53}
       \range{pages}{18}
     \endentry
+    \entry{Eichengreen2023}{article}{}
+      \name{author}{2}{}{%
+        {{hash=f4d61c3fbb6caa6fbfa7f45bda4630b4}{%
+           family={Eichengreen},
+           familyi={E\bibinitperiod},
+           given={Barry},
+           giveni={B\bibinitperiod}}}%
+        {{hash=90cf828507bc0b17e2584354b525d27f}{%
+           family={Arslanalp},
+           familyi={A\bibinitperiod},
+           given={Serkan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{ce887d3c4df58ff59cb65c91875d9c53}
+      \strng{fullhash}{ce887d3c4df58ff59cb65c91875d9c53}
+      \strng{bibnamehash}{ce887d3c4df58ff59cb65c91875d9c53}
+      \strng{authorbibnamehash}{ce887d3c4df58ff59cb65c91875d9c53}
+      \strng{authornamehash}{ce887d3c4df58ff59cb65c91875d9c53}
+      \strng{authorfullhash}{ce887d3c4df58ff59cb65c91875d9c53}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Living with High Public Debt Serkan Arslanalp and Barry Eichengreen August 2023}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.kansascityfed.org/Jackson Hole/documents/9749/JH_Paper_Eichengreen.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.kansascityfed.org/Jackson%20Hole/documents/9749/JH_Paper_Eichengreen.pdf
+      \endverb
+    \endentry
     \entry{tomlinson2003third}{article}{}
       \name{author}{1}{}{%
         {{hash=1b6e5f06c310d21901672df564878338}{%
@@ -3144,8 +3203,8 @@
       \strng{authorbibnamehash}{1c81fcf257f44be3fc86cc2c941f0efb}
       \strng{authornamehash}{1c81fcf257f44be3fc86cc2c941f0efb}
       \strng{authorfullhash}{1c81fcf257f44be3fc86cc2c941f0efb}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Financial crash, commodity prices and global imbalances}
@@ -3169,8 +3228,8 @@
       \strng{authorbibnamehash}{5d7da40e30408d9a488fa3744359c2a6}
       \strng{authornamehash}{5d7da40e30408d9a488fa3744359c2a6}
       \strng{authorfullhash}{5d7da40e30408d9a488fa3744359c2a6}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The hidden hand of American hegemony}
@@ -3193,8 +3252,8 @@
       \strng{authorbibnamehash}{789a70514273e7bf5dbbe9c9318c54bd}
       \strng{authornamehash}{789a70514273e7bf5dbbe9c9318c54bd}
       \strng{authorfullhash}{789a70514273e7bf5dbbe9c9318c54bd}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Struggling Amidst Plenty: A Layperson’s Guide to Our Awful Monetary System, Why it’s the Root Cause of Inequality, Debt, and “Too Big to Fail,” \& The Little-Known Way to Fix it}
@@ -3702,6 +3761,7 @@
       \strng{authorbibnamehash}{98ddf16a82be76d96f6be0e4fac15aaa}
       \strng{authornamehash}{98ddf16a82be76d96f6be0e4fac15aaa}
       \strng{authorfullhash}{98ddf16a82be76d96f6be0e4fac15aaa}
+      \field{extraname}{2}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
@@ -6508,8 +6568,8 @@
       \strng{authorbibnamehash}{ad83efa4bc2a6aa3ae80562c9b66fab5}
       \strng{authornamehash}{ad83efa4bc2a6aa3ae80562c9b66fab5}
       \strng{authorfullhash}{ad83efa4bc2a6aa3ae80562c9b66fab5}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Assistive technology for blindness and low vision}
@@ -9738,8 +9798,8 @@
       \strng{authorbibnamehash}{b0c08419ab9309ce94bd4015471880e4}
       \strng{authornamehash}{b0c08419ab9309ce94bd4015471880e4}
       \strng{authorfullhash}{b0c08419ab9309ce94bd4015471880e4}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The chameleon effect refers to nonconscious mimicry of the postures, mannerisms, facial expressions, and other behaviors of one's interaction partners, such that one's behavior passively and unintentionally changes to match that of others in one's current social environment. The authors suggest that the mechanism involved is the perception-behavior link, the recently documented finding (e.g., J. A. Bargh, M. Chen, \& L. Burrows, 1996) that the mere perception of another's behavior automatically increases the likelihood of engaging in that behavior oneself. Experiment 1 showed that the motor behavior of participants unintentionally matched that of strangers with whom they worked on a task. Experiment 2 had confederates mimic the posture and movements of participants and showed that mimicry facilitates the smoothness of interactions and increases liking between interaction partners. Experiment 3 showed that dispositionally empathic individuals exhibit the chameleon effect to a greater extent than do other people.}
@@ -9773,8 +9833,8 @@
       \strng{authorbibnamehash}{52670afb569dafdc1a786f3856915c1c}
       \strng{authornamehash}{52670afb569dafdc1a786f3856915c1c}
       \strng{authorfullhash}{52670afb569dafdc1a786f3856915c1c}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The Hawthorne effect in experimental research is the unwanted effect of the experimental operations themselves. Following the Hawthorne studies, various explanations have been proposed to account for rising rates of production. Although in the Relay Assembly Test Room experiment the experimental operations may have produced other extraneous variables, a reexamination based on new and neglected evidence has yielded a new interpretation. The new variable, made more plausible because research in other contexts has shown it to have similar effects, is a combination of information feedback and financial reward. It is an example of the control of behavior by its consequences. Although several approaches may be taken to explain the effects of response-consequence contingencies, I have favored operant conditioning because it seems to account for progressive increases in response rate-the Hawthorne phenomenon. Generalizing from the particular situation at Hawthorne, I would define the Hawthorne effect as the confounding that occurs if experimenters fail to realize how the consequences of subjects' performance affect what subjects do. But the Hawthorne effect need not be viewed solely as a problem in conducting experiments. The phenomenon that created it should be studied in its own right, as Sommer (67) suggested with a different phenomenon in mind. The study of response-consequence contingencies might well be extended to the examination of motivation in industrial workers.}
@@ -13579,8 +13639,8 @@
       \strng{authorbibnamehash}{c3dfaab69ae4bf768f79dfc9aefb0c5e}
       \strng{authornamehash}{c3dfaab69ae4bf768f79dfc9aefb0c5e}
       \strng{authorfullhash}{c3dfaab69ae4bf768f79dfc9aefb0c5e}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Training and collaboration with virtual worlds: How to create cost-saving, efficient and engaging programs}
@@ -13603,8 +13663,8 @@
       \strng{authorbibnamehash}{5a8134e026faf8204184f1fbbad0ec90}
       \strng{authornamehash}{5a8134e026faf8204184f1fbbad0ec90}
       \strng{authorfullhash}{5a8134e026faf8204184f1fbbad0ec90}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Learning by doing: A comprehensive guide to simulations, computer games, and pedagogy in e-learning and other educational experiences}
@@ -13634,8 +13694,8 @@
       \strng{authorbibnamehash}{8a9b6b63071acbe2e545ba4c7ee3124b}
       \strng{authornamehash}{8a9b6b63071acbe2e545ba4c7ee3124b}
       \strng{authorfullhash}{8a9b6b63071acbe2e545ba4c7ee3124b}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 19th International Workshop on Mobile Computing Systems \& Applications}
