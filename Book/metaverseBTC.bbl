@@ -2837,33 +2837,6 @@
       \field{pages}{641\bibrangedash 658}
       \range{pages}{18}
     \endentry
-    \entry{Alden2023}{book}{}
-      \name{author}{1}{}{%
-        {{hash=98ddf16a82be76d96f6be0e4fac15aaa}{%
-           family={Alden},
-           familyi={A\bibinitperiod},
-           given={Lyn},
-           giveni={L\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Timestamp Press}%
-      }
-      \strng{namehash}{98ddf16a82be76d96f6be0e4fac15aaa}
-      \strng{fullhash}{98ddf16a82be76d96f6be0e4fac15aaa}
-      \strng{bibnamehash}{98ddf16a82be76d96f6be0e4fac15aaa}
-      \strng{authorbibnamehash}{98ddf16a82be76d96f6be0e4fac15aaa}
-      \strng{authornamehash}{98ddf16a82be76d96f6be0e4fac15aaa}
-      \strng{authorfullhash}{98ddf16a82be76d96f6be0e4fac15aaa}
-      \field{extraname}{1}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{edition}{1}
-      \field{isbn}{979-8988666301}
-      \field{title}{Broken Money}
-      \field{year}{2023}
-    \endentry
     \entry{homer1996history}{book}{}
       \name{author}{2}{}{%
         {{hash=7d6b5035380d9ab1b8d9de0ab9f33916}{%
@@ -2908,8 +2881,8 @@
       \strng{authornamehash}{7a8fa37f931a316fe587067d55ea90fb}
       \strng{authorfullhash}{7a8fa37f931a316fe587067d55ea90fb}
       \field{extraname}{2}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Satoshi Nakamoto Institute}
@@ -3114,6 +3087,33 @@
       \field{year}{2018}
       \field{pages}{36\bibrangedash 53}
       \range{pages}{18}
+    \endentry
+    \entry{Alden2023}{book}{}
+      \name{author}{1}{}{%
+        {{hash=98ddf16a82be76d96f6be0e4fac15aaa}{%
+           family={Alden},
+           familyi={A\bibinitperiod},
+           given={Lyn},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Timestamp Press}%
+      }
+      \strng{namehash}{98ddf16a82be76d96f6be0e4fac15aaa}
+      \strng{fullhash}{98ddf16a82be76d96f6be0e4fac15aaa}
+      \strng{bibnamehash}{98ddf16a82be76d96f6be0e4fac15aaa}
+      \strng{authorbibnamehash}{98ddf16a82be76d96f6be0e4fac15aaa}
+      \strng{authornamehash}{98ddf16a82be76d96f6be0e4fac15aaa}
+      \strng{authorfullhash}{98ddf16a82be76d96f6be0e4fac15aaa}
+      \field{extraname}{1}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1}
+      \field{isbn}{979-8988666301}
+      \field{title}{Broken Money}
+      \field{year}{2023}
     \endentry
     \entry{Eichengreen2023}{article}{}
       \name{author}{2}{}{%
