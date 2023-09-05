@@ -1,7 +1,7 @@
 %\input{09_LLMs}
 \input{09_GenArt}
 \subsection{Explore and document enterprise AI}
-For this micro project we briefly explore and document setting up a `proof of concept' project work-flow assistant for Immersive. What we'd like to explore here is the current state of workarounds for the token limit problem. In a business context an LLM should ideally provide accurate, suitable, specific and/or actionable responses when prompted about things to do with our work's processes and work-flows. It is fair to say that LLMs are pretty awful at this. That is likely to change pretty soon. \par
+What we'd like to explore here is the current state of workarounds for the token limit problem. In a business context an LLM should ideally provide accurate, suitable, specific and/or actionable responses when prompted about things to do with our work's processes and work-flows. It is fair to say that LLMs are pretty awful at this. That is likely to change pretty soon. \par
 \textbf{There are several options to look at, with different trade-offs. Keeping an eye on the right tool for the job in the medium term will give a competitive advantage for a while}, and prevent the replication of effort many companies will have to go through, as they pivot between approaches.
 \subsubsection{Some ways of thinking}
 Poulter \href{https://twitter.com/jamespoulter}{CEO} of Vixen Labs has come up with a somewhat strained analogy he calls ``The Central Intelligence Agent''. I'm going to include it until I find something better because I think he's struck on something by dividing up the company needs with his taxonomy (Figure \ref{fig:vixenAnthro}).
@@ -346,3 +346,57 @@ Use of instruction tuning: This makes the desired outcome of the model clearer.
 Reinforcement learning with a reward model: This technique takes the results to another level and provides feedback to improve the model.
 
 Avoidance of mode collapse: The model should avoid fixating on a particular way of answering.
+
+\subsection{Evaluation Metrics for Language Models}
+
+Evaluating the performance of language models involves a multi-faceted approach that considers both unsupervised and supervised metrics, along with human evaluation, bias and safety factors, and efficiency. The following sections expand on these aspects.
+
+\subsubsection{Perplexity}
+
+Perplexity measures the likelihood that the model will predict the next word in a sequence correctly. Mathematically, it can be expressed as:
+
+\[
+\text{Perplexity} = 2^{-\frac{1}{N}\sum_{i=1}^{N}\log_2 q(x_i)}
+\]
+
+where \( N \) is the length of the text and \( q(x_i) \) is the predicted probability of each word \( x_i \).
+
+\subsubsection{Diversity}
+
+Diversity can be quantified using Self-BLEU scores and unique n-grams. These metrics help in understanding the richness and uniqueness of the generated text. Higher diversity scores suggest a less repetitive and more novel generation.
+
+\subsubsection{Supervised Evaluation}
+
+\begin{itemize}
+    \item \textbf{Accuracy:} The ratio of correct predictions to the total number of samples in a classification test set.
+    \item \textbf{F1 Score:} The harmonic mean of precision and recall, used primarily in classification tasks.
+    \item \textbf{BLEU:} Stands for Bilingual Evaluation Understudy. Measures the similarity between candidate translations and reference translations using n-gram overlap.
+    \item \textbf{ROUGE:} Metrics designed to compare the similarity between generated summaries and reference summaries.
+    \item \textbf{Confidence:} Reflects the model's predicted confidence on test examples. This is often calibrated using metrics like Expected Calibration Error (ECE).
+\end{itemize}
+
+\subsubsection{Human Evaluation}
+
+Human evaluation involves subjective assessment on various qualitative aspects such as:
+
+\begin{itemize}
+    \item Relevance
+    \item Fluency
+    \item Coherence
+\end{itemize}
+
+\subsubsection{Bias and Safety}
+
+\begin{itemize}
+    \item \textbf{Toxicity:} The rate at which the model generates language that can be considered toxic, hateful, or biased.
+    \item \textbf{Stereotyping:} Measures the model's propensity for unfair generalizations and stereotypes.
+\end{itemize}
+
+\subsubsection{Efficiency Metrics}
+
+\begin{itemize}
+    \item \textbf{Parameters:} Indicates the size and complexity of the model. Fewer parameters usually mean more efficiency.
+    \item \textbf{FLOPs:} The number of Floating Point Operations performed by the model.
+    \item \textbf{Latency:} Measures the time required to generate an output.
+    \item \textbf{Power Usage:} Quantifies the energy consumed during the inference phase. Lower energy consumption is preferable.
+\end{itemize}
