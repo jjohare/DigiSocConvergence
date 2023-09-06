@@ -1,0 +1,117 @@
+\subsection{Event Hyperpersonalisation}
+
+The ultimate goal is to create a seamless, highly personalized visitor experience that evolves and continues before, during, and after a visit to a digital exhibition. This level of personalization is only made possible through the integration of advanced AI technology, biometrics, and a deep inferred understanding of individual preferences and behaviours. 
+
+\subsubsection{Key Ideas}
+\begin{enumerate}
+\item \textbf{Leveraging AI and Contextual Data:} The venue will use AI and contextual data to create dynamic narratives and activities tailored to each visitor in real-time. This will revolutionize the resort experience, making it highly personalized and immersive. However, the implementation of AI must be mindful of privacy concerns and be done in a way that respects the data sovereignty of the guests.
+\item \textbf{Tailored Personalization:} Visitors should have the ability to opt into different levels of personalization. Some may want a fully immersive, personalized experience, while others may prefer a more `hands off' experience. This is an important aspect of respecting individual preferences and ensuring that all visitors feel comfortable and catered for.
+\item \textbf{Communication Devices:} Various communication devices could be utilized within the resort to facilitate interactions between visitors and the AI system. These could include badges, wands, glasses, headphones, etc. Each of these devices would contribute to the immersion and thematic consistency of the resort while serving a practical purpose.
+\item \textbf{Biometrics:} The use of biometrics such as gaze tracking and gesture recognition could allow the AI to understand visitor preferences passively. This technology could be incorporated in a non-intrusive way to augment the guest experience without breaching privacy.
+\item \textbf{Data Extraction:} Visitors should have the ability to extract their distilled data or creations, enabling them to continue their vistor experience at home. This could also open up new possibilities for visitors to create and share their own narratives based on their visit experiences. To be clear this should not be the raw data supplied to the venue inferencing engines (which should be destroyed soon after use), but rather a distilled narrative of the inference from the system.
+\item \textbf{Data Privacy:} Data sharing should be underpinned by robust privacy controls to ensure guest data sovereignty. It's crucial to maintain the trust of the visitors by demonstrating a strong commitment to privacy. This should be externally audited on a regular cadence.
+\item \textbf{Continuous Experience:} The visitor experience should feel continuous before, during, and after the visit. However, it's important to manage guest expectations and avoid over promising pre-visit AI interactions. Ensuring a smooth transition between these stages will enhance the overall guest experience.
+\item \textbf{Hyper-Personalization:} Hyper-personalization should span the venue. This level of detail will ensure each guest has a unique and highly personalized experience.
+\item \textbf{Adaptive and Immersive Experiences:} The core aim should be to craft continuously adaptive and immersive experiences based on visitor needs and implied preferences. By doing so, the venue can ensure each visitor has a unique, enjoyable, and highly memorable experience, supportive of return visits.
+\end{enumerate}
+
+The integration of these concepts will require careful planning and execution, but the result could be a venue experience like no other, one that caters to each individual guests and provides an experience that extends beyond the confines of the experience itself.
+\subsubsection{Multiview barrier lenticular}
+\subsubsection{Background}
+Ubiquitous display technology, which allows different personalized views for multiple people on the same screen, has the potential to disrupt the way visitors interact and experience venues and exhibits. The displays can use techniques like lenticular lenses, or other steerable light, to send different light to viewers' eyes, allowing for discrete, customized views. 
+\subsubsection{Technical Overview}
+The following display technologies have been identified as suitable for implementation:
+\begin{itemize}
+    \item Lenticular lens arrays: By placing an array of magnifying lenses over the screen, these displays direct light from alternating columns of pixels toward the left and right eyes to create a stereoscopic 3D image without glasses. There are several suppliers of this technology, mainly for the events market. It seems that churn of these companies is relatively high, with few demonstrating longevity.
+    \item Parallax barriers: These displays have a layer of opaque and transparent slits over the LCD matrix that directs different pixel columns to each eye, creating a stereoscopic 3D image without glasses. Alioscopy is known to use this approach, along with eye tracking technology. They have been in business for decades and are a good case study, but engaging with a research partner in China is likely the best medium terms approach.
+  \item These display consists of a large lenticular lens sheet or array of smaller tiled lenticular lenses mounted in front of a high-resolution LED. The lenticular lenses are cylindrical and arranged vertically, with each lens covering multiple pixel columns of the display.
+
+\item Behind the lens array, the display content is formatted into vertical interleaved channels, with each channel containing a slightly different perspective view of the 3D stereoscopic image. The different perspective views are calculated in real-time based on the tracked head positions of multiple viewers in front of the display.
+\item As light from the display pixels passes through the cylindrical lenses, it is refracted into multiple viewing zones in front of the screen. Each viewing zone contains a specific view channel, so each eye of each viewer sees the perspective that matches their position. This creates a glasses-free 3D effect with motion parallax as viewers move their heads.
+
+\item The viewer head tracking system uses camera and computer vision techniques to determine the 3D positions of each viewer's eyes in the space in front of the display. The changing viewer positions are fed to the display rendering system to compute the proper perspective views and adjust the lenticular flaps as needed.
+
+\item This lenticular 3D display with dynamic view steering provides illusion of depth for multiple viewers simultaneously, creating an immersive large-screen 3D experience without the need for special glasses. The real-time tracking and rendering system updates the content smoothly as the viewers move around, maintaining the stereo 3D perspectives tailored individually to each viewer's changing position.
+
+\end{itemize}
+\subsubsection{Tracking Technologies}
+For personalization, tracking viewers' eyes, face, gestures, etc., is necessary. This can be done with cameras and computer vision algorithms, employing techniques like mesh abstraction for body tracking, facial landmark recognition, gaze estimation, micro expression recognition, and gross gesture detection.
+\subsubsection{AI Integration}
+AI can be integrated to steer personalized narratives and experiences subtly in the background or provide interactive moments. The AI backend can use game engines like Unreal Engine or Unity to render personalized content dynamically, allowing for real-time adaptation to the viewer's reactions.
+\subsubsection{Privacy and Security}
+The tracking data provides extremely valuable insights for personalizing experiences but raises significant privacy concerns. Thoughtful design around privacy and security, including data segmentation, auditing, and transparency, is critical to protect user data and ensure compliance with privacy regulations.
+\subsubsection{Technical Challenges}
+There are technical challenges in achieving dense personalized displays, especially for a large number of viewers. As of now, creating a personalized display for up to 5 people is feasible, but scaling up requires a substantial budget and careful planning. Fortunately both of these seem available and it seems timely to look at this option.
+\subsubsection{Proof of Concept}
+Starting with a small-scale proof of concept for up to 5 people would allow for demonstration of the capabilities and building stakeholder confidence. This would also provide valuable insights into the technical and logistical challenges that may arise during larger-scale implementation.
+\subsubsection{Future Developments}
+The display technology is rapidly evolving, with new advancements in resolution, refresh rates, brightness, and tracking accuracy. As the technology matures, there will be more opportunities to enhance the personalized experiences.
+This system would allow multiple viewers to see different images or perspectives from the same display, enhancing the interactive and educational value of the exhibit. Mollick et al. have done some lovely actionable work on the pedagogical implications of chatbots \cite{mollick2022new, mollick2023assigning, mollick2023using}. This could transform the way visitors engage with exhibits, providing a more immersive and personalized experience.
+
+
+
+\subsubsection{Alioscopy}
+
+Alioscopy uses a different approach than lenticular lenses for their glasses-free 3D displays. Their screens contain a parallax barrier - a layer of opaque and transparent slits - over the LCD matrix. This directs different pixel columns to each eye, creating a stereoscopic 3D image without glasses.
+
+Their displays also incorporate proprietary eye tracking technology. An infrared camera follows the viewer's head position, automatically adjusting the angle of the projected 3D image for optimal viewing. This compensates for display viewing angle limitations.
+
+Alioscopy's recent prototypes feature very high resolution like 4K and 8K to improve 3D image quality. Their barriers and tracking algorithms are precisely tuned to the display characteristics and desired viewing parameters.
+
+\subsubsection{Pitch section}
+Personalised emergent narratives for our visitors.
+What problem does the user, business or industry have that you want to solve?
+
+Introducing: VisionFlow
+The name of your solution
+
+For today's digital experience venue managers navigating the complexities of providing unique experiences, our AI solution, KnoWhere, offers a unique approach which will result in the capability to enhance visitor experiences. By utilising images from on-premise cameras, we enable to leverage data on visitors attention. Our solution's unique value propositions include spatial and attention tracking through AI, because of our ability to understand the needs of experience designers. 
+
+It works like this:
+Combine personal data, with visitor gaze
+Provide location and attention data stream
+Venue provides this to experience designers 
+Designers build incredible emergent journeys 
+
+We believe this solution will impact our business/industry by:
+Elevating interactions through personalisation
+Making attention in physical spaces quantifiable
+Providing feedback data to experience designers
+
+We will measure our impact by: Performing A/B testing on visitors engagement
+This can be a KPI that changes, ex: a productivity score  - or it can be an amount saved because of the soluion
+
+Describe what data is behind this AI model? 
+Alphapose (2)
+Insightface (5)
+
+Rate the quality/quantity of each point of data from 1-5 (1 being little data / low quality – 5 being lots of data / high quality)
+
+What will be the biggest challenge in implementing the AI model?
+Real time pose engine is noncommercial 
+Occlusion can be tricky with space constraints
+The rich dataset is a privacy concern
+
+Here are some areas to think about in terms of challenges:
+
+Data: How much data exists? How representative is it of what we're trying to model? Are there issues in how it is collected which could impact the model? Is it likely to contain any missing values? 
+Adoptance from users/customers
+Will it be easy to get people to use the AI in their business?
+
+Governance
+Is the data accessible and are you allowed to use it?  Who is responsible once the AI model is in use? How will make the final decisions?
+
+Impact of solution
+What do we know about the need for this type of solution - is it nice to have or need to have? Can we find out if we don’t know? Feasibility
+What will be the biggest challenge in implementing an AI solution to solve this problem? Can the issue / problem we're solving actually be measured / forecasted?
+
+Ethics
+
+Regulations
+
+Cybersecurity
+
+
+
+"Our goal is to empower venue owners to provide an advanced platform that allows world class exhibition creators to tailor unique experiences for each visitor. This enables the crafting of rich, interconnected stories for groups of people, all while ensuring unforgettable, safe experiences for individuals and families.
+
