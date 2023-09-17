@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.7.12)  9 SEP 2023 15:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.7.12)  14 SEP 2023 11:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1662,12 +1662,12 @@ LaTeX Font Info:    Font shape `T1/pag/b/n' in size <12> not available
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <9> not available
 (Font)              Font shape `T1/pag/db/n' tried instead on input line 82.
  [5] [6] [7] [8] [9] [10]
-Overfull \hbox (271.45612pt too wide) detected at line 518
+Overfull \hbox (271.45612pt too wide) detected at line 519
 [][][][][][] [][][][][][] 
  []
 
 
-Overfull \hbox (271.45612pt too wide) detected at line 579
+Overfull \hbox (271.45612pt too wide) detected at line 580
 [][][][][][] [][][][][][] 
  []
 
@@ -1721,7 +1721,7 @@ LaTeX Font Info:    Font shape `T1/pag/b/n' in size <30> not available
 ] (conflicts.tex)
 [19]
 Chapter 1.
-<Images/orange2.jpg, id=1877, 770.88pt x 513.92pt>
+<Images/orange2.jpg, id=1881, 770.88pt x 513.92pt>
 File: Images/orange2.jpg Graphic file (type jpg)
 <use Images/orange2.jpg>
 Package pdftex.def Info: Images/orange2.jpg  used on input line 166.
@@ -1729,20 +1729,20 @@ Package pdftex.def Info: Images/orange2.jpg  used on input line 166.
 (00_overview.tex [20
 
  <./Images/orange2.jpg>]
-<Images/vprobot.jpg, id=1884, 2055.68pt x 1156.32pt>
+<Images/vprobot.jpg, id=1888, 2055.68pt x 1156.32pt>
 File: Images/vprobot.jpg Graphic file (type jpg)
 <use Images/vprobot.jpg>
 Package pdftex.def Info: Images/vprobot.jpg  used on input line 10.
 (pdftex.def)             Requested size: 307.28978pt x 172.84062pt.
  [21 <./Images/vprobot.jpg>])
 (01_introduction.tex [22] [23]
-<Images/ecosystemmap.jpg, id=1904, 1826.825pt x 1086.0575pt>
+<Images/ecosystemmap.jpg, id=1908, 1826.825pt x 1086.0575pt>
 File: Images/ecosystemmap.jpg Graphic file (type jpg)
 <use Images/ecosystemmap.jpg>
 Package pdftex.def Info: Images/ecosystemmap.jpg  used on input line 13.
 (pdftex.def)             Requested size: 307.28978pt x 182.67184pt.
  [24] [25 <./Images/ecosystemmap.jpg>]
-<Images/landscapevenn.png, id=1918, 770.88pt x 578.16pt>
+<Images/landscapevenn.png, id=1922, 770.88pt x 578.16pt>
 File: Images/landscapevenn.png Graphic file (type png)
 <use Images/landscapevenn.png>
 Package pdftex.def Info: Images/landscapevenn.png  used on input line 28.
@@ -1751,26 +1751,26 @@ Package pdftex.def Info: Images/landscapevenn.png  used on input line 28.
 
 Package hyperref Warning: Suppressing link with empty target on input line 35.
 
-<Images/goldmanFront.jpg, id=1935, 1287.81125pt x 867.24pt>
+<Images/goldmanFront.jpg, id=1939, 1287.81125pt x 867.24pt>
 File: Images/goldmanFront.jpg Graphic file (type jpg)
 <use Images/goldmanFront.jpg>
 Package pdftex.def Info: Images/goldmanFront.jpg  used on input line 37.
 (pdftex.def)             Requested size: 153.64488pt x 103.45558pt.
 [27 <./Images/goldmanFront.jpg>]
-<Images/pgim.jpg, id=1946, 803.0pt x 419.5675pt>
+<Images/pgim.jpg, id=1950, 803.0pt x 419.5675pt>
 File: Images/pgim.jpg Graphic file (type jpg)
 <use Images/pgim.jpg>
 Package pdftex.def Info: Images/pgim.jpg  used on input line 44.
 (pdftex.def)             Requested size: 153.64488pt x 80.27562pt.
  [28 <./Images/pgim.jpg>] [29]
-<Images/gartners.png, id=1975, 1227.6264pt x 1128.8574pt>
+<Images/gartners.png, id=1979, 1227.6264pt x 1128.8574pt>
 File: Images/gartners.png Graphic file (type png)
 <use Images/gartners.png>
 Package pdftex.def Info: Images/gartners.png  used on input line 64.
 (pdftex.def)             Requested size: 276.55891pt x 254.30922pt.
  [30 <./Images/gartners.png>]) [31]
 Chapter 2.
-<Images/orange3.jpg, id=1990, 770.88pt x 513.92pt>
+<Images/orange3.jpg, id=1994, 770.88pt x 513.92pt>
 File: Images/orange3.jpg Graphic file (type jpg)
 <use Images/orange3.jpg>
 Package pdftex.def Info: Images/orange3.jpg  used on input line 171.
@@ -1778,38 +1778,38 @@ Package pdftex.def Info: Images/orange3.jpg  used on input line 171.
 (02_decentralised_web.tex [32
 
  <./Images/orange3.jpg>]
-<Images/deloitteweb3.jpg, id=2006, 588.1975pt x 535.50063pt>
+<Images/deloitteweb3.jpg, id=2010, 588.1975pt x 535.50063pt>
 File: Images/deloitteweb3.jpg Graphic file (type jpg)
 <use Images/deloitteweb3.jpg>
 Package pdftex.def Info: Images/deloitteweb3.jpg  used on input line 23.
 (pdftex.def)             Requested size: 307.28978pt x 279.76112pt.
  [33] [34 <./Images/deloitteweb3.jpg>]
-<Images/c-a-e.jpg, id=2024, 602.25pt x 501.875pt>
+<Images/c-a-e.jpg, id=2028, 602.25pt x 501.875pt>
 File: Images/c-a-e.jpg Graphic file (type jpg)
 <use Images/c-a-e.jpg>
 Package pdftex.def Info: Images/c-a-e.jpg  used on input line 33.
 (pdftex.def)             Requested size: 307.28978pt x 256.08304pt.
  [35 <./Images/c-a-e.jpg>]
-<Images/web1web2web3.jpg, id=2035, 999.735pt x 538.01pt>
+<Images/web1web2web3.jpg, id=2039, 999.735pt x 538.01pt>
 File: Images/web1web2web3.jpg Graphic file (type jpg)
 <use Images/web1web2web3.jpg>
 Package pdftex.def Info: Images/web1web2web3.jpg  used on input line 43.
 (pdftex.def)             Requested size: 307.28978pt x 165.36935pt.
  [36 <./Images/web1web2web3.jpg>]
-<Images/Web3ARK.jpg, id=2044, 2840.6125pt x 1597.97pt>
+<Images/Web3ARK.jpg, id=2048, 2840.6125pt x 1597.97pt>
 File: Images/Web3ARK.jpg Graphic file (type jpg)
 <use Images/Web3ARK.jpg>
 Package pdftex.def Info: Images/Web3ARK.jpg  used on input line 56.
 (pdftex.def)             Requested size: 307.28978pt x 172.85127pt.
 
 [37 <./Images/Web3ARK.jpg>] [38]
-<Images/pitchbook.jpg, id=2067, 1351.0475pt x 845.1575pt>
+<Images/pitchbook.jpg, id=2071, 1351.0475pt x 845.1575pt>
 File: Images/pitchbook.jpg Graphic file (type jpg)
 <use Images/pitchbook.jpg>
 Package pdftex.def Info: Images/pitchbook.jpg  used on input line 81.
 (pdftex.def)             Requested size: 307.28978pt x 192.2285pt.
  [39 <./Images/pitchbook.jpg>] [40] [41]
-<Images/dnssec.jpg, id=2105, 451.6875pt x 265.99374pt>
+<Images/dnssec.jpg, id=2109, 451.6875pt x 265.99374pt>
 File: Images/dnssec.jpg Graphic file (type jpg)
 <use Images/dnssec.jpg>
 Package pdftex.def Info: Images/dnssec.jpg  used on input line 136.
@@ -1817,7 +1817,7 @@ Package pdftex.def Info: Images/dnssec.jpg  used on input line 136.
 
 [42] [43 <./Images/dnssec.jpg>] [44]) [45]
 Chapter 3.
-<Images/orange4.jpg, id=2142, 770.88pt x 513.92pt>
+<Images/orange4.jpg, id=2146, 770.88pt x 513.92pt>
 File: Images/orange4.jpg Graphic file (type jpg)
 <use Images/orange4.jpg>
 Package pdftex.def Info: Images/orange4.jpg  used on input line 174.
@@ -1825,115 +1825,115 @@ Package pdftex.def Info: Images/orange4.jpg  used on input line 174.
 (03_blockchain.tex [46
 
  <./Images/orange4.jpg>]
-<Images/prehistory.jpg, id=2175, 1980.39874pt x 1376.14125pt>
+<Images/prehistory.jpg, id=2179, 1980.39874pt x 1376.14125pt>
 File: Images/prehistory.jpg Graphic file (type jpg)
 <use Images/prehistory.jpg>
 Package pdftex.def Info: Images/prehistory.jpg  used on input line 14.
 (pdftex.def)             Requested size: 307.28978pt x 213.53067pt.
-<Images/bitcointopics.jpg, id=2177, 1927.2pt x 1084.05pt>
+<Images/bitcointopics.jpg, id=2181, 1927.2pt x 1084.05pt>
 File: Images/bitcointopics.jpg Graphic file (type jpg)
 <use Images/bitcointopics.jpg>
 Package pdftex.def Info: Images/bitcointopics.jpg  used on input line 21.
 (pdftex.def)             Requested size: 307.28978pt x 172.83951pt.
-<Images/venn.png, id=2180, 1606.0pt x 1204.5pt>
+<Images/venn.png, id=2184, 1606.0pt x 1204.5pt>
 File: Images/venn.png Graphic file (type png)
 <use Images/venn.png>
 Package pdftex.def Info: Images/venn.png  used on input line 28.
 (pdftex.def)             Requested size: 307.28978pt x 230.45636pt.
  [47 <./Images/prehistory.jpg>]
 [48 <./Images/bitcointopics.jpg>] [49 <./Images/venn.png (PNG copy)>]
-<Images/evolvingnarrative.png, id=2212, 1405.25pt x 746.79pt>
+<Images/evolvingnarrative.png, id=2216, 1405.25pt x 746.79pt>
 File: Images/evolvingnarrative.png Graphic file (type png)
 <use Images/evolvingnarrative.png>
 Package pdftex.def Info: Images/evolvingnarrative.png  used on input line 41.
 (pdftex.def)             Requested size: 307.28978pt x 163.30293pt.
-<Images/walledworld.jpg, id=2216, 1927.2pt x 1446.15282pt>
+<Images/walledworld.jpg, id=2220, 1927.2pt x 1446.15282pt>
 File: Images/walledworld.jpg Graphic file (type jpg)
 <use Images/walledworld.jpg>
 Package pdftex.def Info: Images/walledworld.jpg  used on input line 48.
 (pdftex.def)             Requested size: 307.28978pt x 230.57271pt.
  [50 <./Images/evolvingnarrative.png>]
-<Images/optimism.jpg, id=2225, 1897.0875pt x 997.7275pt>
+<Images/optimism.jpg, id=2229, 1897.0875pt x 997.7275pt>
 File: Images/optimism.jpg Graphic file (type jpg)
 <use Images/optimism.jpg>
 Package pdftex.def Info: Images/optimism.jpg  used on input line 62.
 (pdftex.def)             Requested size: 307.28978pt x 161.60356pt.
  [51 <./Images/walledworld.jpg>]
-<Images/grow.png, id=2235, 2055.68pt x 1519.6775pt>
+<Images/grow.png, id=2239, 2055.68pt x 1519.6775pt>
 File: Images/grow.png Graphic file (type png)
 <use Images/grow.png>
 Package pdftex.def Info: Images/grow.png  used on input line 70.
 (pdftex.def)             Requested size: 307.28978pt x 227.15338pt.
  [52 <./Images/optimism.jpg>]
-<Images/ownership.jpg, id=2244, 1204.5pt x 677.53125pt>
+<Images/ownership.jpg, id=2248, 1204.5pt x 677.53125pt>
 File: Images/ownership.jpg Graphic file (type jpg)
 <use Images/ownership.jpg>
 Package pdftex.def Info: Images/ownership.jpg  used on input line 78.
 (pdftex.def)             Requested size: 307.28978pt x 172.84572pt.
-<Images/userFigures.jpg, id=2245, 681.62021pt x 788.88411pt>
+<Images/userFigures.jpg, id=2249, 681.62021pt x 788.88411pt>
 File: Images/userFigures.jpg Graphic file (type jpg)
 <use Images/userFigures.jpg>
 Package pdftex.def Info: Images/userFigures.jpg  used on input line 83.
 (pdftex.def)             Requested size: 307.28978pt x 355.65663pt.
-<Images/euroinvest.jpg, id=2246, 1204.5pt x 1204.5pt>
+<Images/euroinvest.jpg, id=2250, 1204.5pt x 1204.5pt>
 File: Images/euroinvest.jpg Graphic file (type jpg)
 <use Images/euroinvest.jpg>
 Package pdftex.def Info: Images/euroinvest.jpg  used on input line 89.
 (pdftex.def)             Requested size: 307.28978pt x 307.28128pt.
  [53 <./Images/grow.png (PNG copy)>] (03_ether.tex [54 <./Images/ownership.jpg>
 ] [55]
-<Images/etherbubble.jpg, id=2302, 1084.05pt x 1107.13625pt>
+<Images/etherbubble.jpg, id=2306, 1084.05pt x 1107.13625pt>
 File: Images/etherbubble.jpg Graphic file (type jpg)
 <use Images/etherbubble.jpg>
 Package pdftex.def Info: Images/etherbubble.jpg  used on input line 15.
 (pdftex.def)             Requested size: 307.28978pt x 313.83086pt.
  [56]
-<Images/ethemission.png, id=2316, 763.85374pt x 469.755pt>
+<Images/ethemission.png, id=2320, 763.85374pt x 469.755pt>
 File: Images/ethemission.png Graphic file (type png)
 <use Images/ethemission.png>
 Package pdftex.def Info: Images/ethemission.png  used on input line 27.
 (pdftex.def)             Requested size: 307.28978pt x 188.97385pt.
  [57]) [58] [59]
-<Images/settlement2021.jpg, id=2383, 1120.185pt x 790.955pt>
+<Images/settlement2021.jpg, id=2387, 1120.185pt x 790.955pt>
 File: Images/settlement2021.jpg Graphic file (type jpg)
 <use Images/settlement2021.jpg>
 Package pdftex.def Info: Images/settlement2021.jpg  used on input line 115.
 (pdftex.def)             Requested size: 307.28978pt x 216.97623pt.
  [60]
-<Images/gource.jpg, id=2413, 1016.1162pt x 242.1045pt>
+<Images/gource.jpg, id=2417, 1016.1162pt x 242.1045pt>
 File: Images/gource.jpg Graphic file (type jpg)
 <use Images/gource.jpg>
 Package pdftex.def Info: Images/gource.jpg  used on input line 127.
 (pdftex.def)             Requested size: 307.28978pt x 73.21559pt.
  [61]
-<Images/top500.jpg, id=2441, 1204.5pt x 714.67pt>
+<Images/top500.jpg, id=2445, 1204.5pt x 714.67pt>
 File: Images/top500.jpg Graphic file (type jpg)
 <use Images/top500.jpg>
 Package pdftex.def Info: Images/top500.jpg  used on input line 138.
 (pdftex.def)             Requested size: 307.28978pt x 182.32022pt.
-<Images/energycompare.jpg, id=2443, 1284.8pt x 722.7pt>
+<Images/energycompare.jpg, id=2447, 1284.8pt x 722.7pt>
 File: Images/energycompare.jpg Graphic file (type jpg)
 <use Images/energycompare.jpg>
 Package pdftex.def Info: Images/energycompare.jpg  used on input line 143.
 (pdftex.def)             Requested size: 307.28978pt x 172.84503pt.
-<Images/energycomparison.png, id=2444, 526.06537pt x 237.88875pt>
+<Images/energycomparison.png, id=2448, 526.06537pt x 237.88875pt>
 File: Images/energycomparison.png Graphic file (type png)
 <use Images/energycomparison.png>
 Package pdftex.def Info: Images/energycomparison.png  used on input line 148.
 (pdftex.def)             Requested size: 307.28978pt x 138.95563pt.
-<Images/energyNYT.png, id=2456, 1204.5pt x 677.53125pt>
+<Images/energyNYT.png, id=2460, 1204.5pt x 677.53125pt>
 File: Images/energyNYT.png Graphic file (type png)
 <use Images/energyNYT.png>
 Package pdftex.def Info: Images/energyNYT.png  used on input line 158.
 (pdftex.def)             Requested size: 307.28978pt x 172.84572pt.
  [62]
-<Images/miningshare.png, id=2474, 378.91562pt x 273.02pt>
+<Images/miningshare.png, id=2478, 378.91562pt x 273.02pt>
 File: Images/miningshare.png Graphic file (type png)
 <use Images/miningshare.png>
 Package pdftex.def Info: Images/miningshare.png  used on input line 166.
 (pdftex.def)             Requested size: 307.28978pt x 221.41577pt.
  [63]
-<Images/methane.png, id=2525, 693.59125pt x 448.67625pt>
+<Images/methane.png, id=2529, 693.59125pt x 448.67625pt>
 File: Images/methane.png Graphic file (type png)
 <use Images/methane.png>
 Package pdftex.def Info: Images/methane.png  used on input line 178.
@@ -1944,13 +1944,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 189--201
  []
 
 [66] [67] [68]
-<Images/goldmanvgold.jpg, id=2609, 1174.3875pt x 890.32625pt>
+<Images/goldmanvgold.jpg, id=2613, 1174.3875pt x 890.32625pt>
 File: Images/goldmanvgold.jpg Graphic file (type jpg)
 <use Images/goldmanvgold.jpg>
 Package pdftex.def Info: Images/goldmanvgold.jpg  used on input line 226.
 (pdftex.def)             Requested size: 307.28978pt x 232.96016pt.
  [69]
-<Images/presidenttaxonomy.jpg, id=2625, 1666.225pt x 1090.0725pt>
+<Images/presidenttaxonomy.jpg, id=2629, 1666.225pt x 1090.0725pt>
 File: Images/presidenttaxonomy.jpg Graphic file (type jpg)
 <use Images/presidenttaxonomy.jpg>
 Package pdftex.def Info: Images/presidenttaxonomy.jpg  used on input line 234.
@@ -1961,7 +1961,7 @@ Package hyperref Warning: Suppressing link with empty target on input line 241.
 
 
 [71] [72]
-<Images/ECDSA.png, id=2657, 981.6675pt x 984.67876pt>
+<Images/ECDSA.png, id=2661, 981.6675pt x 984.67876pt>
 File: Images/ECDSA.png Graphic file (type png)
 <use Images/ECDSA.png>
 Package pdftex.def Info: Images/ECDSA.png  used on input line 257.
@@ -1973,36 +1973,36 @@ By in-cor-po-rat-ing the color-encoded
  []
 
 [78]
-<Images/hdwalletblock.png, id=2718, 550.15538pt x 443.256pt>
+<Images/hdwalletblock.png, id=2722, 550.15538pt x 443.256pt>
 File: Images/hdwalletblock.png Graphic file (type png)
 <use Images/hdwalletblock.png>
 Package pdftex.def Info: Images/hdwalletblock.png  used on input line 361.
 (pdftex.def)             Requested size: 307.28978pt x 247.59265pt.
  [79]
-<Images/seedsigner.jpeg, id=2733, 175.6161pt x 207.4149pt>
+<Images/seedsigner.jpeg, id=2737, 175.6161pt x 207.4149pt>
 File: Images/seedsigner.jpeg Graphic file (type jpg)
 <use Images/seedsigner.jpeg>
 Package pdftex.def Info: Images/seedsigner.jpeg  used on input line 373.
 (pdftex.def)             Requested size: 307.28978pt x 362.97516pt.
  [80] [81] [82] [83]
-<Images/lightningAdoption.jpg, id=2805, 712.16063pt x 946.28531pt>
+<Images/lightningAdoption.jpg, id=2809, 712.16063pt x 946.28531pt>
 File: Images/lightningAdoption.jpg Graphic file (type jpg)
 <use Images/lightningAdoption.jpg>
 Package pdftex.def Info: Images/lightningAdoption.jpg  used on input line 416.
 (pdftex.def)             Requested size: 307.28978pt x 408.30978pt.
  [84] [85]
-<Images/nostrzaps.png, id=2827, 438.73912pt x 501.97537pt>
+<Images/nostrzaps.png, id=2831, 438.73912pt x 501.97537pt>
 File: Images/nostrzaps.png Graphic file (type png)
 <use Images/nostrzaps.png>
 Package pdftex.def Info: Images/nostrzaps.png  used on input line 437.
 (pdftex.def)             Requested size: 153.64488pt x 175.78592pt.
-<Images/bolt12keyring.jpg, id=2830, 1541.76pt x 2055.68pt>
+<Images/bolt12keyring.jpg, id=2834, 1541.76pt x 2055.68pt>
 File: Images/bolt12keyring.jpg Graphic file (type jpg)
 <use Images/bolt12keyring.jpg>
 Package pdftex.def Info: Images/bolt12keyring.jpg  used on input line 447.
 (pdftex.def)             Requested size: 153.64488pt x 204.8586pt.
  [86] [87]
-<Images/LnBitsPoS.jpg, id=2856, 291.18788pt x 508.90125pt>
+<Images/LnBitsPoS.jpg, id=2860, 291.18788pt x 508.90125pt>
 File: Images/LnBitsPoS.jpg Graphic file (type jpg)
 <use Images/LnBitsPoS.jpg>
 Package pdftex.def Info: Images/LnBitsPoS.jpg  used on input line 489.
@@ -2019,7 +2019,7 @@ g>] [113 <./Images/seedsigner.jpeg>] [114 <./Images/lightningAdoption.jpg>]
 [115 <./Images/nostrzaps.png> <./Images/bolt12keyring.jpg>] [116 <./Images/LnBi
 tsPoS.jpg>]
 Chapter 4.
-<Images/orange5.jpg, id=3081, 770.88pt x 513.92pt>
+<Images/orange5.jpg, id=3085, 770.88pt x 513.92pt>
 File: Images/orange5.jpg Graphic file (type jpg)
 <use Images/orange5.jpg>
 Package pdftex.def Info: Images/orange5.jpg  used on input line 177.
@@ -2033,14 +2033,14 @@ d sil-ver emerged
  []
 
 [120] [121] [122] [123] [124] [125] [126]
-<Images/CNNmobile.jpg, id=3221, 396.58162pt x 551.661pt>
+<Images/CNNmobile.jpg, id=3225, 396.58162pt x 551.661pt>
 File: Images/CNNmobile.jpg Graphic file (type jpg)
 <use Images/CNNmobile.jpg>
 Package pdftex.def Info: Images/CNNmobile.jpg  used on input line 142.
 (pdftex.def)             Requested size: 307.28978pt x 427.46552pt.
  [127] [128 <./Images/CNNmobile.jpg>]
 [129] [130] [131] [132] [133] [134]
-<Images/ukdigitalbill.png, id=3303, 552.56438pt x 343.2825pt>
+<Images/ukdigitalbill.png, id=3307, 552.56438pt x 343.2825pt>
 File: Images/ukdigitalbill.png Graphic file (type png)
 <use Images/ukdigitalbill.png>
 Package pdftex.def Info: Images/ukdigitalbill.png  used on input line 243.
@@ -2051,21 +2051,21 @@ Package hyperref Warning: Suppressing link with empty target on input line 254.
 
 
 [136 <./Images/ukdigitalbill.png>]
-<Images/CBDClikely.jpg, id=3326, 1202.4925pt x 661.47125pt>
+<Images/CBDClikely.jpg, id=3330, 1202.4925pt x 661.47125pt>
 File: Images/CBDClikely.jpg Graphic file (type jpg)
 <use Images/CBDClikely.jpg>
 Package pdftex.def Info: Images/CBDClikely.jpg  used on input line 258.
 (pdftex.def)             Requested size: 307.28978pt x 169.03123pt.
  [137 <./Images/CBDClikely.jpg>] [138]
 [139] [140]
-<Images/treasury.jpg, id=3374, 447.92343pt x 542.025pt>
+<Images/treasury.jpg, id=3378, 447.92343pt x 542.025pt>
 File: Images/treasury.jpg Graphic file (type jpg)
 <use Images/treasury.jpg>
 Package pdftex.def Info: Images/treasury.jpg  used on input line 293.
 (pdftex.def)             Requested size: 153.64488pt x 185.91536pt.
  [141 <./Images/treasury.jpg>] [142] [143] [144] [145] [146]
 [147] [148] [149]
-<Images/BitcoinShareOfMoney.jpg, id=3453, 2862.695pt x 1575.8875pt>
+<Images/BitcoinShareOfMoney.jpg, id=3457, 2862.695pt x 1575.8875pt>
 File: Images/BitcoinShareOfMoney.jpg Graphic file (type jpg)
 <use Images/BitcoinShareOfMoney.jpg>
 Package pdftex.def Info: Images/BitcoinShareOfMoney.jpg  used on input line 396
@@ -2073,23 +2073,23 @@ Package pdftex.def Info: Images/BitcoinShareOfMoney.jpg  used on input line 396
 (pdftex.def)             Requested size: 307.28978pt x 169.14009pt.
  [150 <./Images/BitcoinShareOfMoney.jpg>] [151] [152] [153]
 [154] [155]
-<Images/talebturkey.png, id=3502, 487.8225pt x 388.45125pt>
+<Images/talebturkey.png, id=3506, 487.8225pt x 388.45125pt>
 File: Images/talebturkey.png Graphic file (type png)
 <use Images/talebturkey.png>
 Package pdftex.def Info: Images/talebturkey.png  used on input line 476.
 (pdftex.def)             Requested size: 215.1019pt x 171.28656pt.
  [156] [157 <./Images/talebturkey.png>]
-<Images/davethewave.jpg, id=3520, 1840.8775pt x 910.40125pt>
+<Images/davethewave.jpg, id=3524, 1840.8775pt x 910.40125pt>
 File: Images/davethewave.jpg Graphic file (type jpg)
 <use Images/davethewave.jpg>
 Package pdftex.def Info: Images/davethewave.jpg  used on input line 492.
 (pdftex.def)             Requested size: 307.28978pt x 151.96005pt.
-<Images/btcdistribution.jpg, id=3524, 1373.13pt x 685.56125pt>
+<Images/btcdistribution.jpg, id=3528, 1373.13pt x 685.56125pt>
 File: Images/btcdistribution.jpg Graphic file (type jpg)
 <use Images/btcdistribution.jpg>
 Package pdftex.def Info: Images/btcdistribution.jpg  used on input line 502.
 (pdftex.def)             Requested size: 307.28978pt x 153.41821pt.
-<Images/notselling.jpg, id=3529, 1509.64pt x 1379.1525pt>
+<Images/notselling.jpg, id=3533, 1509.64pt x 1379.1525pt>
 File: Images/notselling.jpg Graphic file (type jpg)
 <use Images/notselling.jpg>
 Package pdftex.def Info: Images/notselling.jpg  used on input line 511.
@@ -2098,7 +2098,7 @@ Package pdftex.def Info: Images/notselling.jpg  used on input line 511.
 Images/notselling.jpg>]
 [161] [162] [163] [164] [165]) [166]
 Chapter 5.
-<Images/orange6.jpg, id=3637, 764.8575pt x 513.92pt>
+<Images/orange6.jpg, id=3641, 764.8575pt x 513.92pt>
 File: Images/orange6.jpg Graphic file (type jpg)
 <use Images/orange6.jpg>
 Package pdftex.def Info: Images/orange6.jpg  used on input line 182.
@@ -2106,99 +2106,99 @@ Package pdftex.def Info: Images/orange6.jpg  used on input line 182.
 (05_change_and_geopolitics.tex [167
 
  <./Images/orange6.jpg>] [168] [169]
-[170] [171]
-<Images/pope.jpg, id=3664, 903.375pt x 497.15738pt>
+[170] [171] [172]
+<Images/pope.jpg, id=3672, 903.375pt x 497.15738pt>
 File: Images/pope.jpg Graphic file (type jpg)
 <use Images/pope.jpg>
-Package pdftex.def Info: Images/pope.jpg  used on input line 49.
+Package pdftex.def Info: Images/pope.jpg  used on input line 53.
 (pdftex.def)             Requested size: 276.55891pt x 152.19794pt.
- [172] [173 <./Images/pope.jpg>] [174] [175] [176] [177] [178]
-[179] [180] [181] [182]
-Overfull \hbox (0.24966pt too wide) in paragraph at lines 124--124
+ [173] [174 <./Images/pope.jpg>] [175] [176] [177] [178]
+[179] [180] [181] [182] [183]
+Overfull \hbox (0.24966pt too wide) in paragraph at lines 128--128
 []\T1/ptm/m/n/10 (-20) Anonymous read-ing is be-ing de-ter-mined against. Ef-fo
 rts dis-cussed through-
  []
 
-[183] [184] [185] [186]
-Overfull \hbox (3.54337pt too wide) in paragraph at lines 151--151
+[184] [185] [186] [187]
+Overfull \hbox (3.54337pt too wide) in paragraph at lines 155--155
 |[]\T1/pag/db/n/14.4 (-20) Government over-reach through bu-reau-cracy| 
  []
 
-[187] [188] [189] [190] [191] [192] (05_AI_section.tex [193] [194] [195]
-[196] [197] [198])) [199]
+[188] [189] [190] [191] [192] [193] (05_AI_section.tex [194] [195] [196]
+[197] [198] [199])) [200]
 Chapter 6.
-<Images/orange7.jpg, id=3821, 770.88pt x 513.92pt>
+<Images/orange7.jpg, id=3829, 770.88pt x 513.92pt>
 File: Images/orange7.jpg Graphic file (type jpg)
 <use Images/orange7.jpg>
 Package pdftex.def Info: Images/orange7.jpg  used on input line 185.
 (pdftex.def)             Requested size: 421.10078pt x 280.72778pt.
-(06_identity.tex [200
+(06_identity.tex [201
 
  <./Images/orange7.jpg>]
-<Images/DID.jpg, id=3834, 843.90282pt x 585.68813pt>
+<Images/DID.jpg, id=3842, 843.90282pt x 585.68813pt>
 File: Images/DID.jpg Graphic file (type jpg)
 <use Images/DID.jpg>
 Package pdftex.def Info: Images/DID.jpg  used on input line 18.
 (pdftex.def)             Requested size: 307.28978pt x 213.26945pt.
- [201] [202 <./Images/DID.jpg>]
-[203] [204] [205] [206]
-<Images/starhistory.png, id=3886, 577.25662pt x 429.10312pt>
+ [202] [203 <./Images/DID.jpg>]
+[204] [205] [206] [207] [208]
+<Images/starhistory.png, id=3900, 577.25662pt x 429.10312pt>
 File: Images/starhistory.png Graphic file (type png)
 <use Images/starhistory.png>
-Package pdftex.def Info: Images/starhistory.png  used on input line 119.
+Package pdftex.def Info: Images/starhistory.png  used on input line 127.
 (pdftex.def)             Requested size: 307.28978pt x 228.42534pt.
- [207] [208] [209 <./Images/starhistory.png>] [210]
-[211]
-<Images/files.jpg, id=3922, 903.375pt x 858.20625pt>
+ [209] [210 <./Images/starhistory.png>] [211]
+[212] [213]
+<Images/files.jpg, id=3936, 903.375pt x 858.20625pt>
 File: Images/files.jpg Graphic file (type jpg)
 <use Images/files.jpg>
-Package pdftex.def Info: Images/files.jpg  used on input line 166.
+Package pdftex.def Info: Images/files.jpg  used on input line 178.
 (pdftex.def)             Requested size: 307.28978pt x 291.93031pt.
- [212] (05_daos.tex [213 <./Images/files.jpg>] [214] [215]) [216])
-[217]
+ (05_daos.tex [214] [215 <./Images/files.jpg>] [216] [217]))
+[218]
 Chapter 7.
-<Images/orange8.jpg, id=3964, 770.88pt x 513.92pt>
+<Images/orange8.jpg, id=3969, 770.88pt x 513.92pt>
 File: Images/orange8.jpg Graphic file (type jpg)
 <use Images/orange8.jpg>
 Package pdftex.def Info: Images/orange8.jpg  used on input line 188.
 (pdftex.def)             Requested size: 421.10078pt x 280.72778pt.
-(07_nft.tex [218
+(07_nft.tex [219
 
  <./Images/orange8.jpg>]
-<Images/solnfts.jpg, id=3987, 916.42375pt x 1063.975pt>
+<Images/solnfts.jpg, id=3992, 916.42375pt x 1063.975pt>
 File: Images/solnfts.jpg Graphic file (type jpg)
 <use Images/solnfts.jpg>
 Package pdftex.def Info: Images/solnfts.jpg  used on input line 13.
 (pdftex.def)             Requested size: 215.1019pt x 249.7257pt.
- [219] (07_NFTUmran.tex [220 <./Images/solnfts.jpg>]
-<Images/first5000days.jpg, id=4006, 495.95288pt x 497.4585pt>
+ [220] (07_NFTUmran.tex [221 <./Images/solnfts.jpg>]
+<Images/first5000days.jpg, id=4011, 495.95288pt x 497.4585pt>
 File: Images/first5000days.jpg Graphic file (type jpg)
 <use Images/first5000days.jpg>
 Package pdftex.def Info: Images/first5000days.jpg  used on input line 20.
 (pdftex.def)             Requested size: 307.28978pt x 308.23131pt.
- [221] [222 <./Images/first5000days.jpg>]
+ [222] [223 <./Images/first5000days.jpg>]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 90.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 90.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 90.
- [223] [224]
-<Images/monkey.jpg, id=4049, 447.17062pt x 406.51875pt>
+ [224] [225]
+<Images/monkey.jpg, id=4054, 447.17062pt x 406.51875pt>
 File: Images/monkey.jpg Graphic file (type jpg)
 <use Images/monkey.jpg>
 Package pdftex.def Info: Images/monkey.jpg  used on input line 120.
 (pdftex.def)             Requested size: 307.28978pt x 279.35689pt.
- [225]
-[226 <./Images/monkey.jpg>] [227]) [228] [229] [230] [231] [232] [233]
-<Images/degens.jpg, id=4138, 770.88pt x 694.39426pt>
+ [226]
+[227 <./Images/monkey.jpg>] [228]) [229] [230] [231] [232] [233] [234]
+<Images/degens.jpg, id=4143, 770.88pt x 694.39426pt>
 File: Images/degens.jpg Graphic file (type jpg)
 <use Images/degens.jpg>
 Package pdftex.def Info: Images/degens.jpg  used on input line 95.
 (pdftex.def)             Requested size: 215.1019pt x 193.75095pt.
- [234 <./Images/degens.jpg>] [235] [236]) [237]
+ [235 <./Images/degens.jpg>] [236] [237]) [238]
 Chapter 8.
-<Images/orange9.jpg, id=4171, 770.88pt x 513.92pt>
+<Images/orange9.jpg, id=4176, 770.88pt x 513.92pt>
 File: Images/orange9.jpg Graphic file (type jpg)
 <use Images/orange9.jpg>
 Package pdftex.def Info: Images/orange9.jpg  used on input line 191.
@@ -2208,29 +2208,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--4
 
  []
 
-[238
+[239
 
  <./Images/orange9.jpg>]
-<Images/tencent.png, id=4181, 1606.0pt x 1148.29pt>
+<Images/tencent.png, id=4186, 1606.0pt x 1148.29pt>
 File: Images/tencent.png Graphic file (type png)
 <use Images/tencent.png>
 Package pdftex.def Info: Images/tencent.png  used on input line 28.
 (pdftex.def)             Requested size: 307.28978pt x 219.70174pt.
- [239] [240 <./Images/tencent.png>] [241] [242]
-[243] [244] [245]
-<Images/muskWeb3.png, id=4241, 408.02437pt x 168.63pt>
+ [240] [241 <./Images/tencent.png>] [242] [243]
+[244] [245] [246]
+<Images/muskWeb3.png, id=4246, 408.02437pt x 168.63pt>
 File: Images/muskWeb3.png Graphic file (type png)
 <use Images/muskWeb3.png>
 Package pdftex.def Info: Images/muskWeb3.png  used on input line 153.
 (pdftex.def)             Requested size: 307.28978pt x 127.0048pt.
- (08_b2b_telepresence.tex [246 <./Images/muskWeb3.png>]
-[247] [248] [249] [250] [251] [252]
+ (08_b2b_telepresence.tex [247 <./Images/muskWeb3.png>]
+[248] [249] [250] [251] [252] [253]
 
-LaTeX Warning: Citation 'katagiri2007aiduti' on page 253 undefined on input lin
+LaTeX Warning: Citation 'katagiri2007aiduti' on page 254 undefined on input lin
 e 112.
 
-[253] [254] [255] [256] [257] [258]
-<Images/murrayeyegaze.jpg, id=4529, 377.15906pt x 241.65282pt>
+[254] [255] [256] [257] [258] [259]
+<Images/murrayeyegaze.jpg, id=4535, 377.15906pt x 241.65282pt>
 File: Images/murrayeyegaze.jpg Graphic file (type jpg)
 <use Images/murrayeyegaze.jpg>
 Package pdftex.def Info: Images/murrayeyegaze.jpg  used on input line 178.
@@ -2239,8 +2239,8 @@ Package pdftex.def Info: Images/murrayeyegaze.jpg  used on input line 178.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[259] [260 <./Images/murrayeyegaze.jpg>]
-<Images/proxemics.png, id=4566, 1927.2pt x 1927.2pt>
+[260] [261 <./Images/murrayeyegaze.jpg>]
+<Images/proxemics.png, id=4571, 1927.2pt x 1927.2pt>
 File: Images/proxemics.png Graphic file (type png)
 <use Images/proxemics.png>
 Package pdftex.def Info: Images/proxemics.png  used on input line 197.
@@ -2249,9 +2249,9 @@ Package pdftex.def Info: Images/proxemics.png  used on input line 197.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[261] [262 <./Images/proxemics.png>] [263] [264] [265] [266] [267] [268]
-[269] [270] [271] [272] [273]
-<Images/frameworkVenn.png, id=4907, 509.40312pt x 432.11438pt>
+[262] [263 <./Images/proxemics.png>] [264] [265] [266] [267] [268] [269]
+[270] [271] [272] [273] [274]
+<Images/frameworkVenn.png, id=4912, 509.40312pt x 432.11438pt>
 File: Images/frameworkVenn.png Graphic file (type png)
 <use Images/frameworkVenn.png>
 Package pdftex.def Info: Images/frameworkVenn.png  used on input line 342.
@@ -2260,71 +2260,71 @@ Package pdftex.def Info: Images/frameworkVenn.png  used on input line 342.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[274] [275 <./Images/frameworkVenn.png>]) [276] [277] (08_market_numbers.tex
-[278] [279] [280] [281]
-<Images/applications.png, id=4967, 517.935pt x 295.1025pt>
+[275] [276 <./Images/frameworkVenn.png>]) [277] [278] (08_market_numbers.tex
+[279] [280] [281] [282]
+<Images/applications.png, id=4972, 517.935pt x 295.1025pt>
 File: Images/applications.png Graphic file (type png)
 <use Images/applications.png>
 Package pdftex.def Info: Images/applications.png  used on input line 57.
 (pdftex.def)             Requested size: 307.28978pt x 175.09058pt.
-) [282 <./Images/applications.png>] [283]
+) [283 <./Images/applications.png>] [284]
 
 Package hyperref Warning: Suppressing link with empty target on input line 186.
 
 
-[284] [285]
+[285] [286]
 Underfull \hbox (badness 10000) in paragraph at lines 217--218
 
  []
 
-[286]
+[287]
 
 Package hyperref Warning: Suppressing link with empty target on input line 243.
 
 
-[287] (08_vircadia.tex) [288] [289]
+[288] (08_vircadia.tex) [289] [290]
 Overfull \hbox (5.05608pt too wide) in paragraph at lines 262--262
 \T1/ptm/m/n/10 (-20) The Sand-box, a de-cen-tral-ized gam-ing plat-form built o
 n the Ethereum blockchain,
  []
 
-[290] [291] [292] [293] [294] [295]
-<Images/time.png, id=5119, 578.16pt x 770.88pt>
+[291] [292] [293] [294] [295] [296]
+<Images/time.png, id=5124, 578.16pt x 770.88pt>
 File: Images/time.png Graphic file (type png)
 <use Images/time.png>
 Package pdftex.def Info: Images/time.png  used on input line 400.
 (pdftex.def)             Requested size: 153.64488pt x 204.8586pt.
-<Images/epicflywheel.jpg, id=5122, 1284.8pt x 1346.02875pt>
+<Images/epicflywheel.jpg, id=5127, 1284.8pt x 1346.02875pt>
 File: Images/epicflywheel.jpg Graphic file (type jpg)
 <use Images/epicflywheel.jpg>
 Package pdftex.def Info: Images/epicflywheel.jpg  used on input line 407.
 (pdftex.def)             Requested size: 215.1019pt x 225.35081pt.
- [296] [297 <./Images/time.png (PNG copy)> <./Images/epicflywheel.jpg>]
+ [297] [298 <./Images/time.png (PNG copy)> <./Images/epicflywheel.jpg>]
 File: Images/vprobot.jpg Graphic file (type jpg)
 <use Images/vprobot.jpg>
 Package pdftex.def Info: Images/vprobot.jpg  used on input line 425.
 (pdftex.def)             Requested size: 215.1019pt x 120.9849pt.
- (08_MR.tex) [298] [299]
+ (08_MR.tex) [299] [300]
 Underfull \hbox (badness 10000) in paragraph at lines 465--466
 
  []
 
-) [300]
+) (08_metaverse_points_revised.tex [301]) [302]
 Chapter 9.
-<Images/orange10.jpg, id=5162, 770.88pt x 513.92pt>
+<Images/orange10.jpg, id=5173, 770.88pt x 513.92pt>
 File: Images/orange10.jpg Graphic file (type jpg)
 <use Images/orange10.jpg>
-Package pdftex.def Info: Images/orange10.jpg  used on input line 194.
+Package pdftex.def Info: Images/orange10.jpg  used on input line 196.
 (pdftex.def)             Requested size: 421.10078pt x 280.72778pt.
-(09_AIandML.tex [301
+(09_AIandML.tex [303
 
  <./Images/orange10.jpg>]
-<Images/ai.jpg, id=5189, 642.4pt x 636.3775pt>
+<Images/ai.jpg, id=5199, 642.4pt x 636.3775pt>
 File: Images/ai.jpg Graphic file (type jpg)
 <use Images/ai.jpg>
 Package pdftex.def Info: Images/ai.jpg  used on input line 11.
 (pdftex.def)             Requested size: 307.28978pt x 304.41872pt.
-<Images/sequoiacapLandscape.png, id=5191, 1003.75pt x 758.835pt>
+<Images/sequoiacapLandscape.png, id=5201, 1003.75pt x 758.835pt>
 File: Images/sequoiacapLandscape.png Graphic file (type png)
 <use Images/sequoiacapLandscape.png>
 Package pdftex.def Info: Images/sequoiacapLandscape.png  used on input line 19.
@@ -2332,30 +2332,30 @@ Package pdftex.def Info: Images/sequoiacapLandscape.png  used on input line 19.
 (pdftex.def)             Requested size: 307.28978pt x 232.30696pt.
 
 
-LaTeX Warning: Reference `fig:llmlandscape' on page 302 undefined on input line
+LaTeX Warning: Reference `fig:llmlandscape' on page 304 undefined on input line
  24.
 
-<Images/llmlandscape.jpg, id=5192, 1543.7675pt x 1192.455pt>
+<Images/llmlandscape.jpg, id=5202, 1543.7675pt x 1192.455pt>
 File: Images/llmlandscape.jpg Graphic file (type jpg)
 <use Images/llmlandscape.jpg>
 Package pdftex.def Info: Images/llmlandscape.jpg  used on input line 25.
 (pdftex.def)             Requested size: 307.28978pt x 237.35866pt.
-(09_AIML_Overview.tex (09_GenArt.tex [302] [303 <./Images/ai.jpg>] [304 <./Imag
-es/sequoiacapLandscape.png (PNG copy)>] [305 <./Images/llmlandscape.jpg>]
-[306] [307] [308] [309])
-<Images/vixenanthro.png, id=5301, 694.595pt x 501.875pt>
+(09_AIML_Overview.tex (09_GenArt.tex [304] [305 <./Images/ai.jpg>] [306 <./Imag
+es/sequoiacapLandscape.png (PNG copy)>] [307 <./Images/llmlandscape.jpg>]
+[308] [309] [310] [311])
+<Images/vixenanthro.png, id=5311, 694.595pt x 501.875pt>
 File: Images/vixenanthro.png Graphic file (type png)
 <use Images/vixenanthro.png>
 Package pdftex.def Info: Images/vixenanthro.png  used on input line 10.
 (pdftex.def)             Requested size: 291.92435pt x 210.93155pt.
- [310 <./Images/vixenanthro.png>] [311] [312] [313]
-[314]
-<Images/gptchanges.jpg, id=5342, 1207.51125pt x 963.6pt>
+ [312 <./Images/vixenanthro.png>] [313] [314] [315]
+[316]
+<Images/gptchanges.jpg, id=5352, 1207.51125pt x 963.6pt>
 File: Images/gptchanges.jpg Graphic file (type jpg)
 <use Images/gptchanges.jpg>
 Package pdftex.def Info: Images/gptchanges.jpg  used on input line 83.
 (pdftex.def)             Requested size: 291.92435pt x 232.9449pt.
- [315 <./Images/gptchanges.jpg>] [316]
+ [317 <./Images/gptchanges.jpg>] [318]
 Overfull \hbox (2.85014pt too wide) in paragraph at lines 128--129
 [] []\T1/pag/db/n/10 (-20) Li-cense Grant[] \T1/ptm/m/n/10 (-20) You are grante
 d a non-exclusive, world-wide, non-transferable,
@@ -2365,25 +2365,25 @@ d a non-exclusive, world-wide, non-transferable,
 Package hyperref Warning: Suppressing link with empty target on input line 154.
 
 
-[317] [318]
-<Images/ICOPERLLM.png, id=5380, 350.81062pt x 195.73125pt>
+[319] [320]
+<Images/ICOPERLLM.png, id=5391, 350.81062pt x 195.73125pt>
 File: Images/ICOPERLLM.png Graphic file (type png)
 <use Images/ICOPERLLM.png>
 Package pdftex.def Info: Images/ICOPERLLM.png  used on input line 194.
 (pdftex.def)             Requested size: 291.92435pt x 162.88695pt.
- [319] [320 <./Images/ICOPERLLM.png>] [321]
+ [321] [322 <./Images/ICOPERLLM.png>] [323]
 
 Package hyperref Warning: Suppressing link with empty target on input line 235.
 
 
-[322] [323] [324] [325] [326] [327] [328] [329] [330])
-<Images/mltaxonomy.jpg, id=5491, 312.72389pt x 239.56166pt>
+[324] [325] [326] [327] [328] [329] [330] [331] [332])
+<Images/mltaxonomy.jpg, id=5502, 312.72389pt x 239.56166pt>
 File: Images/mltaxonomy.jpg Graphic file (type jpg)
 <use Images/mltaxonomy.jpg>
 Package pdftex.def Info: Images/mltaxonomy.jpg  used on input line 37.
 (pdftex.def)             Requested size: 307.28978pt x 235.4012pt.
- [331] [332 <./Images/mltaxonomy.jpg>] [333] [334] [335] (09_code_interpreter_l
-ibs.tex [336]
+ [333] [334 <./Images/mltaxonomy.jpg>] [335] [336] [337] (09_code_interpreter_l
+ibs.tex [338]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
 )
@@ -2396,81 +2396,108 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--104
 
  []
 
-[337]
+[339]
 Overfull \vbox (13.07675pt too high) has occurred while \output is active []
 
 
-[338]
-<Images/chatGPTdata.png, id=5544, 2353.79375pt x 1418.29875pt>
+[340]
+<Images/chatGPTdata.png, id=5554, 2353.79375pt x 1418.29875pt>
 File: Images/chatGPTdata.png Graphic file (type png)
 <use Images/chatGPTdata.png>
 Package pdftex.def Info: Images/chatGPTdata.png  used on input line 108.
 (pdftex.def)             Requested size: 307.28978pt x 185.14276pt.
- [339 <./Images/chatGPTdata.png>] [340]
+ [341 <./Images/chatGPTdata.png>] [342]
 File: Images/mltaxonomy.jpg Graphic file (type jpg)
 <use Images/mltaxonomy.jpg>
 Package pdftex.def Info: Images/mltaxonomy.jpg  used on input line 135.
 (pdftex.def)             Requested size: 307.28978pt x 235.4012pt.
- [341] [342] [343]
-<Images/sdtools.jpg, id=5585, 1729.46124pt x 1738.495pt>
+ [343] [344] [345]
+<Images/sdtools.jpg, id=5595, 1729.46124pt x 1738.495pt>
 File: Images/sdtools.jpg Graphic file (type jpg)
 <use Images/sdtools.jpg>
 Package pdftex.def Info: Images/sdtools.jpg  used on input line 183.
 (pdftex.def)             Requested size: 307.28978pt x 308.88345pt.
-<Images/aitechstack.jpeg, id=5587, 803.0pt x 909.3975pt>
+<Images/aitechstack.jpeg, id=5597, 803.0pt x 909.3975pt>
 File: Images/aitechstack.jpeg Graphic file (type jpg)
 <use Images/aitechstack.jpeg>
 Package pdftex.def Info: Images/aitechstack.jpeg  used on input line 196.
 (pdftex.def)             Requested size: 307.28978pt x 348.01686pt.
- [344] [345 <./Images/sdtools.jpg>] [346 <./Images/aitechstack.jpeg>] [347]
+ [346] [347 <./Images/sdtools.jpg>] [348 <./Images/aitechstack.jpeg>] [349]
 Underfull \hbox (badness 10000) in paragraph at lines 221--222
 
  []
 
-[348]
+[350]
 Underfull \hbox (badness 10000) in paragraph at lines 235--236
 
  []
 
-) (08_metaverse_points_revised.tex [349]) [350]
+) [351]
 Chapter 10.
-<Images/orange11.jpg, id=5643, 770.88pt x 513.92pt>
+<Images/orange11.jpg, id=5649, 770.88pt x 513.92pt>
 File: Images/orange11.jpg Graphic file (type jpg)
 <use Images/orange11.jpg>
 Package pdftex.def Info: Images/orange11.jpg  used on input line 199.
+(pdftex.def)             Requested size: 421.10078pt x 280.72778pt.
+(05_change_and_geopolitics.tex [352
+
+ <./Images/orange11.jpg>] [353] [354]
+[355] [356] [357]
+File: Images/pope.jpg Graphic file (type jpg)
+<use Images/pope.jpg>
+Package pdftex.def Info: Images/pope.jpg  used on input line 53.
+(pdftex.def)             Requested size: 276.55891pt x 152.19794pt.
+ [358] [359] [360] [361] [362] [363] [364] [365] [366]
+[367] [368]
+Overfull \hbox (0.24966pt too wide) in paragraph at lines 128--128
+[]\T1/ptm/m/n/10 (-20) Anonymous read-ing is be-ing de-ter-mined against. Ef-fo
+rts dis-cussed through-
+ []
+
+[369] [370] [371] [372]
+Overfull \hbox (3.54337pt too wide) in paragraph at lines 155--155
+|[]\T1/pag/db/n/14.4 (-20) Government over-reach through bu-reau-cracy| 
+ []
+
+[373] [374] [375] [376] [377] [378] (05_AI_section.tex [379] [380] [381]
+[382] [383] [384])) [385]
+Chapter 11.
+File: Images/orange11.jpg Graphic file (type jpg)
+<use Images/orange11.jpg>
+Package pdftex.def Info: Images/orange11.jpg  used on input line 202.
 (pdftex.def)             Requested size: 421.10078pt x 280.72778pt.
 (10_proposition.tex
 File: Images/landscapevenn.png Graphic file (type png)
 <use Images/landscapevenn.png>
 Package pdftex.def Info: Images/landscapevenn.png  used on input line 5.
 (pdftex.def)             Requested size: 307.28978pt x 230.46591pt.
- [351
+ [386
 
- <./Images/orange11.jpg>] [352] [353] [354] [355]
-(10_case_studies.tex [356] [357] [358] [359] [360]
+] [387] [388] [389] [390] (10_case_studies.tex [391]
+[392] [393] [394] [395]
 Overfull \hbox (5.43074pt too wide) in paragraph at lines 78--78
 |[]\T1/pag/db/n/12 (-20) Case Study: Bio-di-ver-sity Mon-i-tor-ing and Data Ex-
 change
  []
 
-[361] [362] [363]) [364]
-<Images/rlhf.png, id=5722, 349.305pt x 290.08376pt>
+[396] [397] [398]) [399]
+<Images/rlhf.png, id=5951, 349.305pt x 290.08376pt>
 File: Images/rlhf.png Graphic file (type png)
 <use Images/rlhf.png>
 Package pdftex.def Info: Images/rlhf.png  used on input line 87.
 (pdftex.def)             Requested size: 307.28978pt x 255.20808pt.
- [365] [366 <./Images/rlhf.png>]
-<Images/pyramid.jpg, id=5735, 2791.42876pt x 2255.42625pt>
+ [400] [401 <./Images/rlhf.png>]
+<Images/pyramid.jpg, id=5974, 2791.42876pt x 2255.42625pt>
 File: Images/pyramid.jpg Graphic file (type jpg)
 <use Images/pyramid.jpg>
 Package pdftex.def Info: Images/pyramid.jpg  used on input line 127.
 (pdftex.def)             Requested size: 307.28978pt x 248.26973pt.
-<Images/highlevelstack.png, id=5736, 1065.9825pt x 703.62875pt>
+<Images/highlevelstack.png, id=5975, 1065.9825pt x 703.62875pt>
 File: Images/highlevelstack.png Graphic file (type png)
 <use Images/highlevelstack.png>
 Package pdftex.def Info: Images/highlevelstack.png  used on input line 132.
 (pdftex.def)             Requested size: 307.28978pt x 202.83388pt.
- [367] [368 <./Images/pyramid.jpg>] [369 <./Images/highlevelstack.png>] [370]
+ [402] [403 <./Images/pyramid.jpg>] [404 <./Images/highlevelstack.png>] [405]
 Underfull \hbox (badness 2591) in paragraph at lines 204--205
 []|\T1/ptm/m/n/10 (+20) "The vir-tual pro-duc-tion mar-ket is
  []
@@ -2485,53 +2512,53 @@ Overfull \hbox (40.19997pt too wide) in paragraph at lines 198--219
 [][] 
  []
 
-(eventGaze.tex [371]
+(eventGaze.tex [406]
 Overfull \vbox (87.87671pt too high) has occurred while \output is active []
 
 
-[372] [373] [374] [375] [376] [377]) [378]
-<Images/vircadiasd.jpg, id=5832, 992.70876pt x 1190.4475pt>
+[407] [408] [409] [410] [411] [412]) [413]
+<Images/vircadiasd.jpg, id=6083, 992.70876pt x 1190.4475pt>
 File: Images/vircadiasd.jpg Graphic file (type jpg)
 <use Images/vircadiasd.jpg>
 Package pdftex.def Info: Images/vircadiasd.jpg  used on input line 229.
 (pdftex.def)             Requested size: 307.28978pt x 368.48997pt.
-<Images/robotvp.jpg, id=5834, 1025.33063pt x 588.69937pt>
+<Images/robotvp.jpg, id=6085, 1025.33063pt x 588.69937pt>
 File: Images/robotvp.jpg Graphic file (type jpg)
 <use Images/robotvp.jpg>
 Package pdftex.def Info: Images/robotvp.jpg  used on input line 236.
 (pdftex.def)             Requested size: 307.28978pt x 176.4315pt.
- [379] [380] (10_otherusecases.tex
-[381] [382]
+ [414] [415] (10_otherusecases.tex
+[416] [417]
 Overfull \hbox (0.95749pt too wide) in paragraph at lines 105--106
 []\T1/ptm/m/n/10 (-20) Secure mes-sag-ing and group mes-sag-ing us-ing cryp-to-
 graphic keys. Check
  []
 
-[383]
-<Images/nvidiavoice.jpg, id=5875, 1606.0pt x 903.375pt>
+[418]
+<Images/nvidiavoice.jpg, id=6136, 1606.0pt x 903.375pt>
 File: Images/nvidiavoice.jpg Graphic file (type jpg)
 <use Images/nvidiavoice.jpg>
 Package pdftex.def Info: Images/nvidiavoice.jpg  used on input line 129.
 (pdftex.def)             Requested size: 291.92435pt x 164.19946pt.
- [384] [385 <./Images/nvidiavoice.jpg>] [386] [387] [388] [389] [390])
-<Images/globalclassroom.png, id=5934, 1484.04437pt x 1121.18875pt>
+ [419] [420 <./Images/nvidiavoice.jpg>] [421] [422] [423] [424] [425])
+<Images/globalclassroom.png, id=6199, 1484.04437pt x 1121.18875pt>
 File: Images/globalclassroom.png Graphic file (type png)
 <use Images/globalclassroom.png>
 Package pdftex.def Info: Images/globalclassroom.png  used on input line 274.
 (pdftex.def)             Requested size: 307.28978pt x 232.15475pt.
-<Images/systemc4.png, id=5935, 1576.89125pt x 1024.82875pt>
+<Images/systemc4.png, id=6200, 1576.89125pt x 1024.82875pt>
 File: Images/systemc4.png Graphic file (type png)
 <use Images/systemc4.png>
 Package pdftex.def Info: Images/systemc4.png  used on input line 280.
 (pdftex.def)             Requested size: 307.28978pt x 199.70789pt.
 )
-[391] [392 <./Images/vircadiasd.jpg>] [393 <./Images/robotvp.jpg> <./Images/glo
-balclassroom.png>] [394 <./Images/systemc4.png>] (metaverseBTC.ptc)
+[426] [427 <./Images/vircadiasd.jpg>] [428 <./Images/robotvp.jpg> <./Images/glo
+balclassroom.png>] [429 <./Images/systemc4.png>] (metaverseBTC.ptc)
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 202.
+(hyperref)                removing `\\' on input line 205.
 
-[395
+[430
 
 ] (HOWTO.tex
 Overfull \hbox (95.71118pt too wide) in paragraph at lines 81--86
@@ -2539,7 +2566,7 @@ Overfull \hbox (95.71118pt too wide) in paragraph at lines 81--86
 ller (https://www.proxmox.com/en/proxmox-
  []
 
-[396]
+[431]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
 37.
  (C:\Users\john\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
@@ -2567,7 +2594,7 @@ Overfull \hbox (65.36922pt too wide) in paragraph at lines 150--150
 bscription[] 
  []
 
-[397]
+[432]
 Overfull \hbox (33.8769pt too wide) in paragraph at lines 158--158
 []\T1/cmtt/m/n/10 deb http://ftp.uk.debian.org/debian bullseye-updates main con
 trib[] 
@@ -2609,7 +2636,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 216--218
 x-ve-pve-like-
  []
 
-[398]
+[433]
 Overfull \hbox (81.11537pt too wide) in paragraph at lines 252--252
 []\T1/cmtt/m/n/10 $ git clone -b equuleus --single-branch https://github.com/vy
 os/vyos-build 
@@ -2627,25 +2654,25 @@ Overfull \hbox (154.36385pt too wide) in paragraph at lines 298--301
 re-ments https://docs.vyos.io/en/latest/installation/install.html) 
  []
 
-[399]
+[434]
 Overfull \hbox (60.1205pt too wide) in paragraph at lines 369--369
 []\T1/cmtt/m/n/10 set protocols static route 0.0.0.0/0 next-hop 192.168.x.254 d
 istance 1[] 
  []
 
-[400] [401]
+[435] [436]
 Overfull \hbox (85.93872pt too wide) in paragraph at lines 430--434
 []\T1/ptm/m/n/10 (-20) In the main, the in-stall guide (https://github.com/fort
 -nix/nix-bitcoin/blob/master/docs/install.md)
  []
 
-[402]
+[437]
 Overfull \hbox (39.12563pt too wide) in paragraph at lines 532--532
 []\T1/cmtt/m/n/10 $ ip route add 192.168.y.0/24 dev ens18 scope link src 192.16
 8.y.3[] 
  []
 
-[403] [404]
+[438] [439]
 Overfull \hbox (138.85127pt too wide) in paragraph at lines 631--631
 []\T1/cmtt/m/n/10 set nat destination rule 12 description 'Port Forward: 2222 t
 o 22 SSH on 192.168.y.2'[] 
@@ -2669,7 +2696,7 @@ Overfull \hbox (12.88203pt too wide) in paragraph at lines 661--661
 [] 
  []
 
-[405]
+[440]
 Overfull \hbox (72.23326pt too wide) in paragraph at lines 715--720
 \T1/ptm/m/n/10 (-20) https://nixos.org/nix/install and this will redi-rect to f
 or ex-am-ple: https://releases.nixos.org/nix/nix-
@@ -2698,7 +2725,7 @@ Overfull \hbox (98.76096pt too wide) in paragraph at lines 740--742
 l-nix-2.6.0.asc 
  []
 
-[406]
+[441]
 Overfull \hbox (107.35896pt too wide) in paragraph at lines 804--804
 []    \T1/cmtt/m/n/10 "hardware-configuration.nix".file = toString ../hardware-
 configuration.nix;[] 
@@ -2716,7 +2743,7 @@ Overfull \hbox (128.35384pt too wide) in paragraph at lines 815--815
 t node to signal krops[] 
  []
 
-[407]
+[442]
 Overfull \hbox (65.36922pt too wide) in paragraph at lines 837--837
 []\T1/cmtt/m/n/10 # Do not modify this file!  It was generated by `nixos-genera
 te-config' 
@@ -2740,29 +2767,29 @@ Overfull \hbox (212.33333pt too wide) in paragraph at lines 862--862
 ardware.enableRedistributableFirmware;[] 
  []
 
-[408] [409]) (HOWTO_VIRCADIA.tex
+[443] [444]) (HOWTO_VIRCADIA.tex
 pdfTeX warning (ext4): destination with the same identifier (name{overview}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.5 \subsection{Overview}\label{overview}}
                                           
-<Images/UbuntuDesktop20_04Settings.png, id=6112, 767.86874pt x 371.13657pt>
+<Images/UbuntuDesktop20_04Settings.png, id=6391, 767.86874pt x 371.13657pt>
 File: Images/UbuntuDesktop20_04Settings.png Graphic file (type png)
 <use Images/UbuntuDesktop20_04Settings.png>
 Package pdftex.def Info: Images/UbuntuDesktop20_04Settings.png  used on input l
 ine 54.
 (pdftex.def)             Requested size: 294.76926pt x 142.47177pt.
-<Images/UbuntuDesktop20_04SettingsNetwork.png, id=6113, 766.36313pt x 465.23813
+<Images/UbuntuDesktop20_04SettingsNetwork.png, id=6392, 766.36313pt x 465.23813
 pt>
 File: Images/UbuntuDesktop20_04SettingsNetwork.png Graphic file (type png)
 <use Images/UbuntuDesktop20_04SettingsNetwork.png>
 Package pdftex.def Info: Images/UbuntuDesktop20_04SettingsNetwork.png  used on 
 input line 62.
 (pdftex.def)             Requested size: 294.76926pt x 178.9504pt.
- [410] [411 <./Images/UbuntuDesktop20_04Settings.png> <./Images/UbuntuDesktop20
+ [445] [446 <./Images/UbuntuDesktop20_04Settings.png> <./Images/UbuntuDesktop20
 _04SettingsNetwork.png>]
-<Images/UbuntuDesktop20_04VircadiaBuildSettings.png, id=6132, 764.10469pt x 477
+<Images/UbuntuDesktop20_04VircadiaBuildSettings.png, id=6417, 764.10469pt x 477
 .28313pt>
 File: Images/UbuntuDesktop20_04VircadiaBuildSettings.png Graphic file (type png
 )
@@ -2770,7 +2797,7 @@ File: Images/UbuntuDesktop20_04VircadiaBuildSettings.png Graphic file (type png
 Package pdftex.def Info: Images/UbuntuDesktop20_04VircadiaBuildSettings.png  us
 ed on input line 106.
 (pdftex.def)             Requested size: 294.76926pt x 184.12234pt.
-<Images/UbuntuDesktop20_04VircadiaQTWarnings.png, id=6133, 765.6103pt x 502.878
+<Images/UbuntuDesktop20_04VircadiaQTWarnings.png, id=6418, 765.6103pt x 502.878
 75pt>
 File: Images/UbuntuDesktop20_04VircadiaQTWarnings.png Graphic file (type png)
 <use Images/UbuntuDesktop20_04VircadiaQTWarnings.png>
@@ -2789,7 +2816,7 @@ Overfull \hbox (7.63332pt too wide) in paragraph at lines 140--140
 ] 
  []
 
-[412] [413 <./Images/UbuntuDesktop20_04VircadiaBuildSettings.png> <./Images/Ubu
+[447] [448 <./Images/UbuntuDesktop20_04VircadiaBuildSettings.png> <./Images/Ubu
 ntuDesktop20_04VircadiaQTWarnings.png>]
 Overfull \hbox (317.3077pt too wide) in paragraph at lines 172--172
 []\T1/cmtt/m/n/10 set nat destination rule 15 description 'Port Forward: 40100 
@@ -2832,7 +2859,7 @@ Overfull \hbox (369.79488pt too wide) in paragraph at lines 193--193
 (+3): (udp) main connection from clients (encrypted) on 192.168.y.4'[] 
  []
 
-[414]
+[449]
 Overfull \hbox (12.88203pt too wide) in paragraph at lines 197--197
 []\T1/cmtt/m/n/10 set nat destination rule 18 translation address '192.168.y.4'
 [] 
@@ -2850,38 +2877,38 @@ Overfull \hbox (12.88203pt too wide) in paragraph at lines 214--214
 [] 
  []
 
-<Images/Vircadia1.png, id=6151, 763.35187pt x 572.89032pt>
+<Images/Vircadia1.png, id=6438, 763.35187pt x 572.89032pt>
 File: Images/Vircadia1.png Graphic file (type png)
 <use Images/Vircadia1.png>
 Package pdftex.def Info: Images/Vircadia1.png  used on input line 240.
 (pdftex.def)             Requested size: 294.76926pt x 221.22343pt.
-<Images/Vircadia2.png, id=6152, 764.8575pt x 571.38469pt>
+<Images/Vircadia2.png, id=6439, 764.8575pt x 571.38469pt>
 File: Images/Vircadia2.png Graphic file (type png)
 <use Images/Vircadia2.png>
 Package pdftex.def Info: Images/Vircadia2.png  used on input line 248.
 (pdftex.def)             Requested size: 294.76926pt x 220.2061pt.
-<Images/Vircadia3.png, id=6153, 766.36313pt x 572.1375pt>
+<Images/Vircadia3.png, id=6440, 766.36313pt x 572.1375pt>
 File: Images/Vircadia3.png Graphic file (type png)
 <use Images/Vircadia3.png>
 Package pdftex.def Info: Images/Vircadia3.png  used on input line 256.
 (pdftex.def)             Requested size: 294.76926pt x 220.06845pt.
-<Images/Vircadia4.png, id=6154, 766.36313pt x 575.14874pt>
+<Images/Vircadia4.png, id=6441, 766.36313pt x 575.14874pt>
 File: Images/Vircadia4.png Graphic file (type png)
 <use Images/Vircadia4.png>
 Package pdftex.def Info: Images/Vircadia4.png  used on input line 264.
 (pdftex.def)             Requested size: 294.76926pt x 221.22672pt.
-<Images/Vircadia5.png, id=6155, 767.11594pt x 572.1375pt>
+<Images/Vircadia5.png, id=6442, 767.11594pt x 572.1375pt>
 File: Images/Vircadia5.png Graphic file (type png)
 <use Images/Vircadia5.png>
 Package pdftex.def Info: Images/Vircadia5.png  used on input line 272.
 (pdftex.def)             Requested size: 294.76926pt x 219.8502pt.
-<Images/Vircadia6.png, id=6156, 764.8575pt x 572.89032pt>
+<Images/Vircadia6.png, id=6443, 764.8575pt x 572.89032pt>
 File: Images/Vircadia6.png Graphic file (type png)
 <use Images/Vircadia6.png>
 Package pdftex.def Info: Images/Vircadia6.png  used on input line 281.
 (pdftex.def)             Requested size: 294.76926pt x 220.78636pt.
-[415] [416 <./Images/Vircadia1.png> <./Images/Vircadia2.png>] [417 <./Images/Vi
-rcadia3.png> <./Images/Vircadia4.png>] [418 <./Images/Vircadia5.png> <./Images/
+[450] [451 <./Images/Vircadia1.png> <./Images/Vircadia2.png>] [452 <./Images/Vi
+rcadia3.png> <./Images/Vircadia4.png>] [453 <./Images/Vircadia5.png> <./Images/
 Vircadia6.png>]
 Overfull \hbox (65.36922pt too wide) in paragraph at lines 344--344
 []\T1/cmtt/m/n/10 sudo tar -xJvf node-v16.14.2-linux-x64.tar.xz -C /usr/local/l
@@ -2894,7 +2921,7 @@ Overfull \hbox (44.37434pt too wide) in paragraph at lines 352--352
 :$PATH 
  []
 
-[419]
+[454]
 Overfull \hbox (18.13075pt too wide) in paragraph at lines 373--373
 []\T1/cmtt/m/n/10 $ git clone https://github.com/vircadia/vircadia-metaverse.gi
 t 
@@ -2924,7 +2951,7 @@ Overfull \hbox (117.8564pt too wide) in paragraph at lines 419--419
 d44-27840a8afea4") }[] 
  []
 
-[420]
+[455]
 Overfull \hbox (632.23079pt too wide) in paragraph at lines 429--429
 []        \T1/cmtt/m/n/10 2022-04-11T12:50:28.108+01:00: Using the XFS filesyst
 em is strongly recommended with the WiredTiger storage engine. See http://dochu
@@ -2998,7 +3025,7 @@ Overfull \hbox (301.56154pt too wide) in paragraph at lines 456--456
 3", roles: [{ role: "readWrite", db: "domainstore" }]})[] 
  []
 
-[421]
+[456]
 Overfull \hbox (60.1205pt too wide) in paragraph at lines 494--494
 []        \T1/cmtt/m/n/10 "metaverse-server-url": "https://metaverse.example.or
 g:9400/",[] 
@@ -3022,7 +3049,7 @@ Overfull \hbox (18.13075pt too wide) in paragraph at lines 533--533
 f[] 
  []
 
-[422]
+[457]
 Overfull \hbox (91.61281pt too wide) in paragraph at lines 542--542
 []        \T1/cmtt/m/n/10 'max-body-size': 300000,  // maximum body size for in
 put JSON bodies[] 
@@ -3130,7 +3157,7 @@ Overfull \hbox (280.56667pt too wide) in paragraph at lines 572--572
 conds between checks for Place lastActivity updates[] 
  []
 
-[423]
+[458]
 Overfull \hbox (49.62306pt too wide) in paragraph at lines 574--574
 []        \T1/cmtt/m/n/10 // redirection URL used for initial domain token gene
 ration,[] 
@@ -3292,7 +3319,7 @@ Overfull \hbox (96.86153pt too wide) in paragraph at lines 611--611
  with your info.[] 
  []
 
-[424]
+[459]
 Overfull \hbox (7.63332pt too wide) in paragraph at lines 622--622
 []        \T1/cmtt/m/n/10 'enable': true,           // enable value monitoring[
 ] 
@@ -3388,7 +3415,7 @@ Overfull \hbox (102.11024pt too wide) in paragraph at lines 654--654
 og to the console[] 
  []
 
-[425]
+[460]
 Overfull \hbox (128.35384pt too wide) in paragraph at lines 659--659
 []        \T1/cmtt/m/n/10 'request-detail': false,  // output the received requ
 est info when received[] 
@@ -3465,18 +3492,18 @@ Overfull \hbox (2.3846pt too wide) in paragraph at lines 717--717
  
  []
 
-[426]
+[461]
 Overfull \hbox (14.99995pt too wide) in paragraph at lines 743--766
 [][] 
  []
 
-[427]
+[462]
 Overfull \hbox (6.79149pt too wide) in paragraph at lines 843--849
 []\T1/ptm/m/n/10 (-20) A new page should open (http://a.b.c.d:9400/static/Domai
 nTokenLogin.html)
  []
 
-[428]
+[463]
 Overfull \hbox (138.85127pt too wide) in paragraph at lines 904--904
 []\T1/cmtt/m/n/10 set nat destination rule 14 description 'Port Forward: 2224 t
 o 22 SSH on 192.168.y.4'[] 
@@ -3488,7 +3515,7 @@ Overfull \hbox (12.88203pt too wide) in paragraph at lines 908--908
 [] 
  []
 
-[429]
+[464]
 Overfull \hbox (138.85127pt too wide) in paragraph at lines 928--928
 []\T1/cmtt/m/n/10 set nat destination rule 19 description 'Port Forward: 2225 t
 o 22 SSH on 192.168.y.5'[] 
@@ -3500,660 +3527,660 @@ Overfull \hbox (12.88203pt too wide) in paragraph at lines 932--932
 [] 
  []
 
-) [430] (metaverseBTC.ptc) [431
+) [465] (metaverseBTC.ptc) [466
 
 ]
-<Images/JOH.jpg, id=6286, 110.66344pt x 165.61874pt>
+<Images/JOH.jpg, id=6580, 110.66344pt x 165.61874pt>
 File: Images/JOH.jpg Graphic file (type jpg)
 <use Images/JOH.jpg>
-Package pdftex.def Info: Images/JOH.jpg  used on input line 220.
+Package pdftex.def Info: Images/JOH.jpg  used on input line 223.
 (pdftex.def)             Requested size: 103.49965pt x 154.90579pt.
-<Images/AF.jpg, id=6288, 379.4175pt x 504.38437pt>
+<Images/AF.jpg, id=6582, 379.4175pt x 504.38437pt>
 File: Images/AF.jpg Graphic file (type jpg)
 <use Images/AF.jpg>
-Package pdftex.def Info: Images/AF.jpg  used on input line 231.
+Package pdftex.def Info: Images/AF.jpg  used on input line 234.
 (pdftex.def)             Requested size: 103.49965pt x 137.58632pt.
 
-Overfull \hbox (101.40617pt too wide) in paragraph at lines 215--233
+Overfull \hbox (101.40617pt too wide) in paragraph at lines 218--236
 [][][]$[]$
  []
 
 
-Overfull \hbox (101.40617pt too wide) in paragraph at lines 215--233
+Overfull \hbox (101.40617pt too wide) in paragraph at lines 218--236
 [][][]$[]$ 
  []
 
-<Images/UA.jpg, id=6290, 200.75pt x 200.75pt>
+<Images/UA.jpg, id=6584, 200.75pt x 200.75pt>
 File: Images/UA.jpg Graphic file (type jpg)
 <use Images/UA.jpg>
-Package pdftex.def Info: Images/UA.jpg  used on input line 239.
+Package pdftex.def Info: Images/UA.jpg  used on input line 242.
 (pdftex.def)             Requested size: 103.49965pt x 103.50226pt.
 
-Overfull \hbox (101.40617pt too wide) in paragraph at lines 234--241
+Overfull \hbox (101.40617pt too wide) in paragraph at lines 237--244
 [][][]$[]$ 
  []
 
-[432 <./Images/JOH.jpg> <./Images/AF.jpg>] [433 <./Images/UA.jpg>] [434
+[467 <./Images/JOH.jpg> <./Images/AF.jpg>] [468 <./Images/UA.jpg>] [469
 
 ]
-Overfull \hbox (6.14679pt too wide) in paragraph at lines 259--259
+Overfull \hbox (6.14679pt too wide) in paragraph at lines 262--262
 []\T1/ptm/m/n/10 (-20) Mark Berners-Lee Tim; Fis-chetti. \T1/ptm/m/it/10 (-20) 
 Weav-ing the web\T1/ptm/m/n/10 (-20) . [][]$\T1/cmtt/m/n/10 https : / / archive
  .
  []
 
-[435
+[470
 
 ]
-Overfull \hbox (27.37471pt too wide) in paragraph at lines 259--259
+Overfull \hbox (27.37471pt too wide) in paragraph at lines 262--262
 []\T1/ptm/m/n/10 (-20) Phil Salin. \T1/ptm/m/it/10 (-20) Costs and Com-put-ers\
 T1/ptm/m/n/10 (-20) . 1991. \T1/ptm/m/sc/10 (-20) url\T1/ptm/m/n/10 (-20) : [][
 ]$\T1/cmtt/m/n/10 http : / / cdn . oreillystatic .
  []
 
-[436]
-Overfull \hbox (24.21588pt too wide) in paragraph at lines 259--259
+[471]
+Overfull \hbox (24.21588pt too wide) in paragraph at lines 262--262
 \T1/ptm/m/n/10 (-20) Wait-ing Time, and Con-sen-sus Se-cu-rity''. In: \T1/ptm/m
 /it/10 (-20) arXiv preprint arXiv:2201.05574
  []
 
-[437]
-Overfull \hbox (15.95103pt too wide) in paragraph at lines 259--259
+[472]
+Overfull \hbox (15.95103pt too wide) in paragraph at lines 262--262
 []\T1/ptm/m/n/10 (-20) Alessio Fac-cia and Nar-cisa Rox-ana Mosteanu. ``Ac-coun
 t-ing and blockchain
  []
 
 
-Overfull \hbox (3.0504pt too wide) in paragraph at lines 259--259
+Overfull \hbox (3.0504pt too wide) in paragraph at lines 262--262
 []\T1/ptm/m/n/10 (-20) Phillip Ro-g-away and Thomas Shrimp-ton. ``Cryp-to-graph
 ic hash-function
  []
 
-[438] [439]
-Overfull \hbox (20.76352pt too wide) in paragraph at lines 259--259
+[473] [474]
+Overfull \hbox (20.76352pt too wide) in paragraph at lines 262--262
 []\T1/ptm/m/n/10 (-20) Jonathan Chiu and Thorsten V Koeppl. ``The eco-nomics of
  cryptocurrencies--
  []
 
-[440]
-Overfull \hbox (1.83311pt too wide) in paragraph at lines 259--259
+[475]
+Overfull \hbox (1.83311pt too wide) in paragraph at lines 262--262
 []\T1/ptm/m/n/10 (-20) Nick Sz-abo. ``Shelling out: the ori-gins of money''. In
 : \T1/ptm/m/it/10 (-20) Satoshi Nakamoto
  []
 
-[441] [442] [443]
+[476] [477] [478]
 
 Package biblatex Warning: No driver for 'other'.
-(biblatex)                Using fallback driver on input line 256.
+(biblatex)                Using fallback driver on input line 259.
 
-[444] [445]
-Overfull \hbox (1.46643pt too wide) in paragraph at lines 259--259
+[479] [480]
+Overfull \hbox (1.46643pt too wide) in paragraph at lines 262--262
 []\T1/ptm/m/n/10 (-20) Mick Lock-wood. ``Ex-plor-ing value propo-si-tions to dr
 ive Self-Sovereign
  []
 
 
-Overfull \hbox (3.02283pt too wide) in paragraph at lines 259--259
+Overfull \hbox (3.02283pt too wide) in paragraph at lines 262--262
 \T1/cmtt/m/n/10 might -[] accidentally -[] fix -[] bitcoins -[] security -[] bu
 dget/$[][] \T1/ptm/m/n/10 (-20) (cited
  []
 
 
-Overfull \hbox (19.16562pt too wide) in paragraph at lines 259--259
+Overfull \hbox (19.16562pt too wide) in paragraph at lines 262--262
 []\T1/ptm/m/n/10 (-20) Stylianos Mys-takidis. ``Meta-verse''. In: \T1/ptm/m/it/
 10 (-20) En-cy-clo-pe-dia \T1/ptm/m/n/10 (-20) 2.1 (2022), pages 486^^U
  []
 
-[446]
+[481]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Wolff2008' on input line 256.
-
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Dourish1996' on input line 256.
-
-[447]
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Criminisi2003' on input line 256.
+(biblatex)                at entry 'Wolff2008' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Van_Eijk2010' on input line 256.
+(biblatex)                at entry 'Dourish1996' on input line 259.
+
+[482]
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Criminisi2003' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Chen2002' on input line 256.
+(biblatex)                at entry 'Van_Eijk2010' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Roberts2013' on input line 256.
+(biblatex)                at entry 'Chen2002' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Sellen1992' on input line 256.
+(biblatex)                at entry 'Roberts2013' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Sellen1995' on input line 256.
+(biblatex)                at entry 'Sellen1992' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Monk2002' on input line 256.
+(biblatex)                at entry 'Sellen1995' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Gemmell2000' on input line 256.
+(biblatex)                at entry 'Monk2002' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Kuster2012' on input line 256.
-
-[448]
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Pejsa2016' on input line 256.
+(biblatex)                at entry 'Gemmell2000' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Bardram2012' on input line 256.
+(biblatex)                at entry 'Kuster2012' on input line 259.
+
+[483]
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Pejsa2016' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Adamczyk2007' on input line 256.
+(biblatex)                at entry 'Bardram2012' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Ishii1993' on input line 256.
+(biblatex)                at entry 'Adamczyk2007' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Fullwood2006' on input line 256.
-
-[449]
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Nguyen2005' on input line 256.
+(biblatex)                at entry 'Ishii1993' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Vertegaal2002' on input line 256.
+(biblatex)                at entry 'Fullwood2006' on input line 259.
+
+[484]
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Nguyen2005' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Bock2008' on input line 256.
+(biblatex)                at entry 'Vertegaal2002' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Aoki2003' on input line 256.
+(biblatex)                at entry 'Bock2008' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Heldner2010' on input line 256.
+(biblatex)                at entry 'Aoki2003' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Kleinke1986' on input line 256.
+(biblatex)                at entry 'Heldner2010' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Otsuka2005' on input line 256.
-
-[450]
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Goodwin2000' on input line 256.
+(biblatex)                at entry 'Kleinke1986' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Argyle1976' on input line 256.
+(biblatex)                at entry 'Otsuka2005' on input line 259.
+
+[485]
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Goodwin2000' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Novick1996' on input line 256.
+(biblatex)                at entry 'Argyle1976' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Vertegaal2001' on input line 256.
+(biblatex)                at entry 'Novick1996' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Langton2000' on input line 256.
-
-[451]
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Macrae2002' on input line 256.
+(biblatex)                at entry 'Vertegaal2001' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Kluttz2009' on input line 256.
+(biblatex)                at entry 'Langton2000' on input line 259.
+
+[486]
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Macrae2002' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Schrammel2007' on input line 256.
+(biblatex)                at entry 'Kluttz2009' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Stiefelhagen2001' on input line 256.
+(biblatex)                at entry 'Schrammel2007' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Stiefelhagen2002' on input line 256.
+(biblatex)                at entry 'Stiefelhagen2001' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Steptoe2009' on input line 256.
-
-[452]
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Fagel2010' on input line 256.
+(biblatex)                at entry 'Stiefelhagen2002' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Bohannon2013' on input line 256.
+(biblatex)                at entry 'Steptoe2009' on input line 259.
+
+[487]
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Fagel2010' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Boker2011' on input line 256.
+(biblatex)                at entry 'Bohannon2013' on input line 259.
 
 
-Overfull \hbox (4.64546pt too wide) in paragraph at lines 259--259
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Boker2011' on input line 259.
+
+
+Overfull \hbox (4.64546pt too wide) in paragraph at lines 262--262
 []\T1/ptm/m/n/10 (-20) M St John et al. ``The use of 2D and 3D dis-plays for sh
 ape-understanding
  []
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Rienks2010' on input line 256.
+(biblatex)                at entry 'Rienks2010' on input line 259.
 
-[453]
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Nguyen2009' on input line 256.
-
+[488]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Ekman1993' on input line 256.
+(biblatex)                at entry 'Nguyen2009' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Chovil1991' on input line 256.
+(biblatex)                at entry 'Ekman1993' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'schiano2004' on input line 256.
+(biblatex)                at entry 'Chovil1991' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'ohba1998' on input line 256.
+(biblatex)                at entry 'schiano2004' on input line 259.
 
 
-Overfull \hbox (5.59827pt too wide) in paragraph at lines 259--259
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'ohba1998' on input line 259.
+
+
+Overfull \hbox (5.59827pt too wide) in paragraph at lines 262--262
 []\T1/ptm/m/n/10 (-20) K Ohba et al. ``Fa-cial ex-pres-sion space for smooth te
 le-communications''.
  []
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Hofmann2006' on input line 256.
+(biblatex)                at entry 'Hofmann2006' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Iverson2005' on input line 256.
+(biblatex)                at entry 'Iverson2005' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Krauss1996' on input line 256.
+(biblatex)                at entry 'Krauss1996' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Kleinsmith2013' on input line 256.
+(biblatex)                at entry 'Kleinsmith2013' on input line 259.
 
-[454]
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Ou2005' on input line 256.
-
+[489]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Murray2009' on input line 256.
+(biblatex)                at entry 'Ou2005' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Tang2010' on input line 256.
+(biblatex)                at entry 'Murray2009' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Tse2007' on input line 256.
+(biblatex)                at entry 'Tang2010' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Tang2006' on input line 256.
+(biblatex)                at entry 'Tse2007' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Norris2013' on input line 256.
+(biblatex)                at entry 'Tang2006' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Norris2012' on input line 256.
+(biblatex)                at entry 'Norris2013' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Luff2011' on input line 256.
-
-[455]
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Tuddenham2009' on input line 256.
+(biblatex)                at entry 'Norris2012' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Jamil2011' on input line 256.
+(biblatex)                at entry 'Luff2011' on input line 259.
+
+[490]
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Tuddenham2009' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Jetter2011' on input line 256.
+(biblatex)                at entry 'Jamil2011' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Watson1966' on input line 256.
+(biblatex)                at entry 'Jetter2011' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Slessor2008' on input line 256.
+(biblatex)                at entry 'Watson1966' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Yee2007' on input line 256.
-
-[456]
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Bailenson2003' on input line 256.
+(biblatex)                at entry 'Slessor2008' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Blascovich2002' on input line 256.
+(biblatex)                at entry 'Yee2007' on input line 259.
+
+[491]
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Bailenson2003' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Hager1979' on input line 256.
+(biblatex)                at entry 'Blascovich2002' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Carlston2013' on input line 256.
+(biblatex)                at entry 'Hager1979' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Deckers2013' on input line 256.
+(biblatex)                at entry 'Carlston2013' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Gibson1963' on input line 256.
+(biblatex)                at entry 'Deckers2013' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Fels2000' on input line 256.
-
-[457]
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Voida2012' on input line 256.
+(biblatex)                at entry 'Gibson1963' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Berger1975' on input line 256.
+(biblatex)                at entry 'Fels2000' on input line 259.
+
+[492]
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Voida2012' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Mihoub2015' on input line 256.
+(biblatex)                at entry 'Berger1975' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Chartrand1999' on input line 256.
+(biblatex)                at entry 'Mihoub2015' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Parsons1974' on input line 256.
+(biblatex)                at entry 'Chartrand1999' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Risko2011' on input line 256.
+(biblatex)                at entry 'Parsons1974' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Kollock1998' on input line 256.
+(biblatex)                at entry 'Risko2011' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Cuddihy2000' on input line 256.
-
-[458]
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Hancock2004' on input line 256.
+(biblatex)                at entry 'Kollock1998' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Holm2010' on input line 256.
+(biblatex)                at entry 'Cuddihy2000' on input line 259.
+
+[493]
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Hancock2004' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Porter2008' on input line 256.
+(biblatex)                at entry 'Holm2010' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Roberts2015' on input line 256.
+(biblatex)                at entry 'Porter2008' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Schuemie2001' on input line 256.
+(biblatex)                at entry 'Roberts2015' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Slater1999' on input line 256.
+(biblatex)                at entry 'Schuemie2001' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Heeter1992' on input line 256.
+(biblatex)                at entry 'Slater1999' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Fulk1987' on input line 256.
+(biblatex)                at entry 'Heeter1992' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Haythornthwaite1995' on input line 256.
+(biblatex)                at entry 'Fulk1987' on input line 259.
 
 
-Overfull \hbox (1.08884pt too wide) in paragraph at lines 259--259
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Haythornthwaite1995' on input line 259.
+
+
+Overfull \hbox (1.08884pt too wide) in paragraph at lines 262--262
 []\T1/ptm/m/n/10 (-20) Caroline Haythorn-th-waite, Barry Well-man, and Mar-i-ly
 n Man-tei. ``Work
  []
 
-[459]
+[494]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Gunawardena1997' on input line 256.
-
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Bulu2012' on input line 256.
+(biblatex)                at entry 'Gunawardena1997' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Slater2004' on input line 256.
-
-[460]
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Hauber2006' on input line 256.
+(biblatex)                at entry 'Bulu2012' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Kauff2002' on input line 256.
+(biblatex)                at entry 'Slater2004' on input line 259.
+
+[495]
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Hauber2006' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Jones2009' on input line 256.
+(biblatex)                at entry 'Kauff2002' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Okada1994' on input line 256.
+(biblatex)                at entry 'Jones2009' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Kulik2011' on input line 256.
-
-[461]
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Otsuka2013' on input line 256.
+(biblatex)                at entry 'Okada1994' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Tay2008' on input line 256.
+(biblatex)                at entry 'Kulik2011' on input line 259.
+
+[496]
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Otsuka2013' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Eldes2013' on input line 256.
+(biblatex)                at entry 'Tay2008' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Yendo2010' on input line 256.
+(biblatex)                at entry 'Eldes2013' on input line 259.
 
 
-Overfull \hbox (87.29427pt too wide) in paragraph at lines 259--259
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Yendo2010' on input line 259.
+
+
+Overfull \hbox (87.29427pt too wide) in paragraph at lines 262--262
 \T1/ptm/m/sc/10 (-20) url\T1/ptm/m/n/10 (-20) : [][]$\T1/cmtt/m/n/10 https : / 
 / drive . google . com / file / d / 1i4NJKAggS82wqMamCJ1OHRGgViuyoY6R$[][]
  []
 
 
-Overfull \hbox (0.60136pt too wide) in paragraph at lines 259--259
+Overfull \hbox (0.60136pt too wide) in paragraph at lines 262--262
 []\T1/ptm/m/n/10 (-20) Masahiro Mori. ``The un-canny val-ley''. In: \T1/ptm/m/i
 t/10 (-20) En-ergy \T1/ptm/m/n/10 (-20) 7.4 (1970), pages 33^^U
  []
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Bartneck2007' on input line 256.
+(biblatex)                at entry 'Bartneck2007' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Mitchell2011' on input line 256.
+(biblatex)                at entry 'Mitchell2011' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Ho2008' on input line 256.
+(biblatex)                at entry 'Ho2008' on input line 259.
 
-[462]
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Strait2014' on input line 256.
-
+[497]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Marti2005' on input line 256.
+(biblatex)                at entry 'Strait2014' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Adalgeirsson2010' on input line 256.
+(biblatex)                at entry 'Marti2005' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Lee2011' on input line 256.
+(biblatex)                at entry 'Adalgeirsson2010' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Tsui2011' on input line 256.
+(biblatex)                at entry 'Lee2011' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Paulos1998' on input line 256.
+(biblatex)                at entry 'Tsui2011' on input line 259.
 
 
-Overfull \hbox (13.80135pt too wide) in paragraph at lines 259--259
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Paulos1998' on input line 259.
+
+
+Overfull \hbox (13.80135pt too wide) in paragraph at lines 262--262
 \T1/ptm/m/it/10 (-20) ing Sys-tems\T1/ptm/m/n/10 (-20) . CHI '98. Los An-ge-les
 , Cal-i-for-nia, USA: ACM Press/Addison-
  []
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Kristoffersson2013' on input line 256.
+(biblatex)                at entry 'Kristoffersson2013' on input line 259.
 
-[463]
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Desai2011' on input line 256.
-
+[498]
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Tsui2012' on input line 256.
+(biblatex)                at entry 'Desai2011' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Sakamoto2007' on input line 256.
+(biblatex)                at entry 'Tsui2012' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Lincoln2009' on input line 256.
+(biblatex)                at entry 'Sakamoto2007' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Lincoln2010' on input line 256.
+(biblatex)                at entry 'Lincoln2009' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Oyekoya2012' on input line 256.
-
-[464]
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Pan2014' on input line 256.
+(biblatex)                at entry 'Lincoln2010' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Pan2012' on input line 256.
+(biblatex)                at entry 'Oyekoya2012' on input line 259.
+
+[499]
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Pan2014' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Nagendran2012' on input line 256.
+(biblatex)                at entry 'Pan2012' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Bandyopadhyay2001' on input line 256.
+(biblatex)                at entry 'Nagendran2012' on input line 259.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Dalsgaard2011' on input line 256.
+(biblatex)                at entry 'Bandyopadhyay2001' on input line 259.
 
-[465] [466] [467]
-Overfull \hbox (3.39922pt too wide) in paragraph at lines 259--259
+
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Dalsgaard2011' on input line 259.
+
+[500] [501] [502]
+Overfull \hbox (3.39922pt too wide) in paragraph at lines 262--262
 \T1/ptm/m/it/10 (-20) from the Sci-ence of Con-scious-ness\T1/ptm/m/n/10 (-20) 
 . 2023. arXiv: [][]$\T1/cmtt/m/n/10 2308 . 08708$ [cs.AI][][]
  []
 
-[468] [469]
-Overfull \hbox (5.77155pt too wide) in paragraph at lines 259--259
+[503] [504]
+Overfull \hbox (5.77155pt too wide) in paragraph at lines 262--262
 [][]$\T1/cmtt/m/n/10 https : / / tinyurl . com / SocialMediaMentalHealthReview$
 [][] \T1/ptm/m/n/10 (-20) (cited
  []
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Fairchild2017' on input line 256.
+(biblatex)                at entry 'Fairchild2017' on input line 259.
 
-[470]
-Overfull \hbox (1.3068pt too wide) in paragraph at lines 259--259
+[505]
+Overfull \hbox (1.3068pt too wide) in paragraph at lines 262--262
 []\T1/ptm/m/n/10 (-20) Ethan R Mol-lick and Lilach Mol-lick. ``As-sign-ing AI: 
 Seven Ap-proaches
  []
 
-[471] (metaverseBTC.ind)
+[506] (metaverseBTC.ind)
 \tf@ptc=\write9
 \openout9 = `metaverseBTC.ptc'.
 
@@ -4169,15 +4196,19 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: There were multiply-defined labels.
 
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to 'metaverseBTC.run.xml'.
 \openout1 = `metaverseBTC.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 46273 strings out of 475551
- 962003 string characters out of 5763026
- 2077540 words of memory out of 5000000
- 64315 multiletter control sequences out of 15000+600000
+ 46432 strings out of 475551
+ 964307 string characters out of 5763026
+ 2077786 words of memory out of 5000000
+ 64320 multiletter control sequences out of 15000+600000
  716324 words of font info for 617 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,13n,113p,3334b,1481s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -4193,6 +4224,330 @@ exist, replaced by a fixed one
 pdfTeX warning (dest): name{ux5cux23ux5cux23Upload-the-ISO-image-to-the-Proxmox
 -VE-server} has been referenced but does not exist, replaced by a fixed one
 
+
+pdfTeX warning (dest): name{figure.10.19} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{figure.10.18} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{figure.10.17} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{figure.10.16} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{figure.10.15} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{figure.10.14} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{figure.10.13} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{figure.10.12} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{figure.10.11} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{figure.10.10} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{figure.10.9} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{figure.10.8} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{figure.10.6} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{figure.10.5} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{figure.10.7} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{figure.10.4} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{figure.10.3} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{figure.10.2} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section.10.20} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section.10.19} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.18.3} has been referenced but does no
+t exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.18.2} has been referenced but does no
+t exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.18.1} has been referenced but does no
+t exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section.10.18} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.17.9} has been referenced but does no
+t exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.17.8} has been referenced but does no
+t exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.17.7} has been referenced but does no
+t exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.17.6} has been referenced but does no
+t exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.17.5} has been referenced but does no
+t exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.17.4} has been referenced but does no
+t exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.17.3} has been referenced but does no
+t exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.17.2} has been referenced but does no
+t exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.17.1} has been referenced but does no
+t exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section.10.17} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section.10.16} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.15.5} has been referenced but does no
+t exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.15.4} has been referenced but does no
+t exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.15.3} has been referenced but does no
+t exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.15.2} has been referenced but does no
+t exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.15.1} has been referenced but does no
+t exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section.10.15} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section.10.14} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.13.2} has been referenced but does no
+t exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.13.1} has been referenced but does no
+t exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section.10.13} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.12.2} has been referenced but does no
+t exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.12.1} has been referenced but does no
+t exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section.10.12} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section.10.11} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section.10.10} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.9.1} has been referenced but does not
+ exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section.10.9} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section.10.8} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.7.6} has been referenced but does not
+ exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.7.5} has been referenced but does not
+ exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.7.4} has been referenced but does not
+ exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.7.3} has been referenced but does not
+ exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.7.2} has been referenced but does not
+ exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.7.1} has been referenced but does not
+ exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section.10.7} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.5.4} has been referenced but does not
+ exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.5.3} has been referenced but does not
+ exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.5.2} has been referenced but does not
+ exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.5.1} has been referenced but does not
+ exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.4.15} has been referenced but does no
+t exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.4.14} has been referenced but does no
+t exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.4.13} has been referenced but does no
+t exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.4.12} has been referenced but does no
+t exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.4.11} has been referenced but does no
+t exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.4.10} has been referenced but does no
+t exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.4.9} has been referenced but does not
+ exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.4.8} has been referenced but does not
+ exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.4.7} has been referenced but does not
+ exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.4.6} has been referenced but does not
+ exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.4.5} has been referenced but does not
+ exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.4.4} has been referenced but does not
+ exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.4.3} has been referenced but does not
+ exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.3.3} has been referenced but does not
+ exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.3.2} has been referenced but does not
+ exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.10.3.1} has been referenced but does not
+ exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section.9.3} has been referenced but does not exist
+, replaced by a fixed one
+
  <C:\Users\john\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt100
 0.pk><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
 m/cmr10.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
@@ -4204,9 +4559,9 @@ urw/times/utmb8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/u
 rw/times/utmbi8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/u
 rw/times/utmr8a.pfb><C:/Users/john/AppData/Local/Programs/MiKTeX/fonts/type1/ur
 w/times/utmri8a.pfb>
-Output written on metaverseBTC.pdf (471 pages, 24983197 bytes).
+Output written on metaverseBTC.pdf (506 pages, 25117784 bytes).
 PDF statistics:
- 7551 PDF objects out of 8907 (max. 8388607)
- 1695 named destinations out of 1728 (max. 500000)
- 155443 words of extra memory for PDF output out of 184870 (max. 10000000)
+ 7881 PDF objects out of 8907 (max. 8388607)
+ 1845 named destinations out of 2073 (max. 500000)
+ 155451 words of extra memory for PDF output out of 184870 (max. 10000000)
 
