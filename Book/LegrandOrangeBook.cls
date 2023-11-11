@@ -166,10 +166,13 @@
 		% If a chapter image has been specified
 		\expandafter\ifstrequal\expandafter{\thechapterimage}{}{}{
 			% Output the chapter image
-			\node[
-				anchor=north west, % Anchor point on the image
-				inner sep=0pt, % Inner padding
-			] at (current page.north west) {\includegraphics[width=\paperwidth]{\thechapterimage}};
+\node[
+    anchor=north west, % Anchor point on the image
+    inner sep=0pt, % Inner padding
+] at (current page.north west) {
+    \includegraphics[width=\paperwidth, trim=0 6cm 0 6cm, clip]{\thechapterimage}
+};
+
 		}
 		% Box with the chapter title
 		\draw[anchor=west] (current page.north west) node [
