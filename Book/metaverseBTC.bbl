@@ -2340,6 +2340,35 @@
       \field{pages}{239\bibrangedash 252}
       \range{pages}{14}
     \endentry
+    \entry{harris2020flood}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=f05c32b9e065bf87cd62e5e94360e53a}{%
+           family={Harris},
+           familyi={H\bibinitperiod},
+           given={Jona},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4dc8e02c1943053c2c553cd83d668173}{%
+           family={Zohar},
+           familyi={Z\bibinitperiod},
+           given={Aviv},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{ea6d312be7527f1f29e6a8977cb7be50}
+      \strng{fullhash}{ea6d312be7527f1f29e6a8977cb7be50}
+      \strng{bibnamehash}{ea6d312be7527f1f29e6a8977cb7be50}
+      \strng{authorbibnamehash}{ea6d312be7527f1f29e6a8977cb7be50}
+      \strng{authornamehash}{ea6d312be7527f1f29e6a8977cb7be50}
+      \strng{authorfullhash}{ea6d312be7527f1f29e6a8977cb7be50}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2nd ACM Conference on Advances in Financial Technologies}
+      \field{title}{Flood \& loot: A systemic attack on the lightning network}
+      \field{year}{2020}
+      \field{pages}{202\bibrangedash 213}
+      \range{pages}{12}
+    \endentry
     \entry{blocksizewars}{book}{}
       \name{author}{1}{}{%
         {{hash=b3d53ddcf5bac5ec57f03cce3976f96e}{%
@@ -2881,8 +2910,8 @@
       \strng{authornamehash}{7a8fa37f931a316fe587067d55ea90fb}
       \strng{authorfullhash}{7a8fa37f931a316fe587067d55ea90fb}
       \field{extraname}{2}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Satoshi Nakamoto Institute}
@@ -3164,8 +3193,8 @@
       \strng{authorbibnamehash}{1b6e5f06c310d21901672df564878338}
       \strng{authornamehash}{1b6e5f06c310d21901672df564878338}
       \strng{authorfullhash}{1b6e5f06c310d21901672df564878338}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Contemporary History}
@@ -9766,8 +9795,8 @@
       \strng{authorbibnamehash}{3a5193d4e28382fee13c21c33fcd6b71}
       \strng{authornamehash}{3a5193d4e28382fee13c21c33fcd6b71}
       \strng{authorfullhash}{3a5193d4e28382fee13c21c33fcd6b71}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Measure what matters: How Google, Bono, and the Gates Foundation rock the world with OKRs}
@@ -13605,8 +13634,8 @@
       \strng{authorbibnamehash}{24fa2aab2aedf90efd04c07cde965c96}
       \strng{authornamehash}{24fa2aab2aedf90efd04c07cde965c96}
       \strng{authorfullhash}{24fa2aab2aedf90efd04c07cde965c96}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Sensors}

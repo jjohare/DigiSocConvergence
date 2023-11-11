@@ -89,8 +89,65 @@ Input
 --- Response:''
 \end{tcolorbox}
 As the conversation with the chat interface continues the users' prior inputs are added into the context, and that goes in with each and every request. This builds up quickly to reinforce the current conversational flow. The model is inherently blind to the previous conversations, it's just being fed more and more of the previous chat behind whatever you just typed. This is where the systems currently break down. The input frame for ChatGPT is generally 8000 tokens. This allows a lot of chat (about 6000 words), but anyone who's used these systems will have seen it `forget' the earliest context as those tokens fall out of the back of the input frame.\par 
+\subsection{Evolving Landscape of LLM Pipelines}
+
+This section delves into the key pillars that form the backbone of deploying and managing these advanced systems.
+
+\begin{comment}
+flowchart TB
+    A[Start: User Request] -->|Determine Jurisdiction| B[Jurisdiction Check]
+    B -->|Data Input| C[Observability]
+    C --> D[AI Gateway]
+    D -->|Model Selection| E[Model Interaction]
+    E --> F[Security and Compliance Check]
+    F --> G[End: Deliver Response]
+
+\end{comment}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.2\textwidth]{llmflow}
+    \caption{The flow of data through a modern LLM pipeline}
+    \label{fig:llmflow}
+\end{figure}
+
+
+
+\subsubsection{Observability in AI Systems}
+Observability plays a pivotal role in the effective management of AI and LLM pipelines. It involves a comprehensive monitoring mechanism that encompasses various aspects:
+\begin{itemize}
+    \item \textit{Performance Monitoring:} Tracking the efficiency and accuracy of AI models in real-time.
+    \item \textit{System Health Checks:} Regular assessments to ensure the AI systems are functioning optimally.
+    \item \textit{User Interaction Analysis:} Understanding how users interact with AI systems to enhance user experience.
+\end{itemize}
+
+\subsubsection{The AI Gateway: A Multiplex Interface}
+The AI Gateway acts as a central hub, orchestrating the interaction between different AI models and the user interface. Key functionalities include:
+\begin{itemize}
+    \item \textit{Model Integration:} Seamlessly connecting various AI models to the system.
+    \item \textit{Dynamic Swapping:} Allowing for the exchange of models without disrupting the system’s operations.
+    \item \textit{Load Balancing:} Distributing requests effectively among different models to optimize performance.
+\end{itemize}
+
+\subsubsection{Prompt Management and Experimentation}
+Effective communication with AI models is achieved through carefully crafted prompts. This area focuses on:
+\begin{itemize}
+    \item \textit{Prompt Library Development:} Creating a diverse range of prompts to elicit specific responses from AI models.
+    \item \textit{A/B Testing:} Experimenting with different prompts to determine the most effective ones.
+    \item \textit{User-Centric Design:} Tailoring prompts to align with user preferences and behaviors.
+\end{itemize}
+
+\subsubsection{Security and Compliance in AI Ecosystems}
+Ensuring the security and regulatory compliance of AI systems is crucial. This involves:
+\begin{itemize}
+    \item \textit{Data Privacy Measures:} Implementing strategies to protect sensitive user data.
+    \item \textit{Regulatory Compliance:} Adhering to global standards and regulations like GDPR (including segmentation of personal data and routing issues).
+    \item \textit{Threat Mitigation:} Developing robust defences against cyber threats and vulnerabilities.
+\end{itemize}
+
+Each pillar represents an integral component in the architecture of modern AI and LLM pipelines, facilitating their evolution and adaptation in a fast-paced digital world.
+
 \subsection{Ethics \& Impact}
-This section is adapted from my open source book \cite{ohare2022money}.\par
 AI ethics is now a hot topic even outside of the academic fields which have previously wrestled with these issues. These new systems are thought likely to be able to impact all human activity \cite{eloundou2023gpts}. \par
 The Centre for Humane Technology \href{https://www.humanetech.com/key-issues}{highlight the negative assessment} of the risk of Large Language Models, stating that major advancements in AI are coming and society needs to address the issues before they become `entangled'. The misalignment problem with social media has not been fixed, and this is where Harris and Raskin made their name. Their focus is not on AGI apocalypse scenarios but rather on the potential consequences of rapid AI advancements. AI has evolved significantly since 2017. They somewhat hyperbolically call such models `golems', in reference to their emergent capabilities. They would like society to address the potential risks of LLMs before they become entangled in society and to better understand and manage their impact.\par
 They highlight author \cite{harari2014sapiens} Harari's quote: \textit{``What nukes are to the physical world, AI is to the virtual and symbolic world.''} - and this quote feels very compelling when held up against our assertions about cryptographic end points and trust.\par

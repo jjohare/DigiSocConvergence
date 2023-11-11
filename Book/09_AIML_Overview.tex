@@ -1,8 +1,32 @@
 %\input{09_LLMs}
 \input{09_GenArt}
-\subsection{Explore and document enterprise AI}
-What we'd like to explore here is the current state of workarounds for the token limit problem. In a business context an LLM should ideally provide accurate, suitable, specific and/or actionable responses when prompted about things to do with our work's processes and work-flows. It is fair to say that LLMs are pretty awful at this. That is likely to change pretty soon. \par
-\textbf{There are several options to look at, with different trade-offs. Keeping an eye on the right tool for the job in the medium term will give a competitive advantage for a while}, and prevent the replication of effort many companies will have to go through, as they pivot between approaches.
+\subsection{Major trends in AI}
+\subsubsection{The concentration of AI power}
+In recent times, the arena of artificial intelligence (AI) has seen the emergence of colossal entities that have taken the helm of AI research and development. Prominent players such as Google, Microsoft, Meta, and OpenAI have plunged billions into the cultivation of potent AI architectures, with a special emphasis on large language models (LLMs) like GPT-3 and ChatGPT.
+
+Originating in 2015 as a non-profit entity dedicated to the open exploration of AI for the collective good, OpenAI transitioned from its foundational ethos following a pivotal investment of \$1 billion from Microsoft in 2019. This infusion of capital marked a turn towards a more proprietary and competitive orientation, with the endgame of reaching the pinnacle of artificial general intelligence (AGI). In this paradigm shift, OpenAI's formidable 175 billion parameter behemoth, GPT-4, became an enigmatic entity, shielded from public scrutiny. The rationale provided for this clandestine stance revolved around safety and competitive considerations.
+
+Contrastingly, Meta adopted a path of openness, fully disclosing its 65 billion parameter LLaMA 2 LLM, inclusive of the model weights, to the public domain. This ethos is rooted in the belief that a culture of openness propels rapid advancement by paving the way for widespread experimentation and communal contributions. However, it is pertinent to note that Meta's LLaMA 2 does carry stipulations on commercial exploitation.
+
+Initially, Google was at the forefront of AI innovation with its TensorFlow framework, but has seen its leading position eroded by Meta's PyTorch. Post the commercial success of its products, Google's AI endeavors have veered towards a more proprietary model, with novel models and academic publications seeing the light of day post commercialization.
+
+\subsubsection{Concentration of Power and Control}
+The centralization of AI evolution within the confines of a select few private behemoths such as Microsoft-backed OpenAI or Google engenders a nucleus of power and control over AI advancements. Contrary Research has an \href{https://research.contrary.com/reports/the-openness-of-ai}{excellent report} on this. As AI melds deeper into the fabric of products and services, these titans stand to wield extensive sway over the modalities of human communication, thought processes, and information accessibility.
+
+The dependency on a sparse set of centralized LLMs harbors risks such as a widespread dissemination of confidential data in the face of a security breach. Moreover, the consolidated control furnishes these corporations with the means to potentially curtail information or mold narratives in alignment with their vested interests. For instance, OpenAI exercises centralized control over the narrative frameworks of its influential models like ChatGPT.
+
+\subsubsection{Lack of Transparency and Innovation}
+
+Centralized LLMs exhibit a veil of opacity regarding their operational mechanics and training methodologies. The elusive nature of OpenAI's GPT-4 renders it a veritable black box, impervious to audits aimed at uncovering issues such as bias within the 175 billion parameter model's training data. This shroud of mystery precludes informed discourse on the ethical employment of this technology.
+
+On the flip side, Meta's open-sourced LLaMA facilitates a level of public oversight that could preemptively address inherent issues. The clandestine nature of closed models stifles innovation as it bars a significant portion of the research community from building atop these models. Open ideologies foster a milieu of collaboration, propelling progress forward.
+
+In summation, the monopolization of AI progression and influence within a handful of private juggernauts engenders risks spanning lack of transparency, potential censorship, stifled innovation, and single points of vulnerability. A paradigm shift towards more open and decentralized methodologies is imperative to mitigate these looming threats.
+
+
+%What we'd like to explore here is the current state of workarounds for the token limit problem. In a business context an LLM should ideally provide accurate, suitable, specific and/or actionable responses when prompted about things to do with our work's processes and work-flows. It is fair to say that LLMs are pretty awful at this. That is likely to change pretty soon. \par
+%\textbf{There are several options to look at, with different trade-offs. Keeping an eye on the right tool for the job in the medium term will give a competitive advantage for a while}, and prevent the replication of effort many companies will have to go through, as they pivot between approaches.
+
 \subsubsection{Some ways of thinking}
 Poulter \href{https://twitter.com/jamespoulter}{CEO} of Vixen Labs has come up with a somewhat strained analogy he calls ``The Central Intelligence Agent''. I'm going to include it until I find something better because I think he's struck on something by dividing up the company needs with his taxonomy (Figure \ref{fig:vixenAnthro}).
 \begin{figure}[H]
