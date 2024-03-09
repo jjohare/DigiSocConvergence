@@ -1,0 +1,240 @@
+\section{The Cambrian explosion of ML/AI}
+
+This section is full of rough edges and some repetition; Working on it!
+
+\subsection{Overview}
+Though the history of this field reaches back to the 1940's with McCulloch et al. exploration of the possible mathematical underpinnings of human brain neurons \cite{mcculloch1943logical}. During the writing of this book we have seen an inflection point in machine learning, to the point where the term ``artificial intelligence'' is feeling intuitively and subjectively real for the first time.  To be clear AI is still a pretty meaningless term. `Intelligence' is one of those slippery words which is highly dependent on context. A satnav system running on a phone can make an intelligent choice about a route by synthesising data and presenting comprehensible results, but it seems absurd to ascribe an intelligence to it. It's possible that there's some kind of ``spoooky'' quantum activity in play in a conscious human brain, as described in mind bending mathematical depth by Penrose in 1989 \cite{penrose1990emperor}. It's something of an unknown unknown \cite{kerskens2022experimental}, and that we'll never get to what's called `strong' or `general' AI \cite{larson2021myth, searle1980minds}, reserved by some scientists for ``true consciousness'', whatever that means \cite{butlin2023consciousness}. With that said we may be approaching the threshold of the `Turing Test` \cite{sep-turing-test}, initially posited by Alan Turing in 1950 \cite{turing1950computing}, and the goalposts have begun to move in response to claims that there have been successful examples \cite{warwick2016can, french2012moving, french2000turing, searle2009turing}. It feels that in this moment it is appropriate to open with a risks section, and work backwards. This is grounded in the hypothesis that there is no agreed end goal here (as we saw with the Bitcoin/Crypto chapter).\par
+To set the tone here let's have OpenAI's ChatGPT give us a definition:
+it{Intelligence is the ability to acquire and apply knowledge and skills in order to solve problems and adapt to new situations. It can involve a range of cognitive abilities, such as perception, learning, memory, reasoning, and decision-making. Intelligence is a complex and multifaceted concept that has been studied by psychologists, philosophers, and scientists for centuries.}\par
+The Oxford English Dictionary defines Artificial intelligence as ``The capacity of computers or other machines to exhibit or simulate intelligent behaviour''. This is very murky territory. The boundary line between very capable trained systems and something that it{feels} like intelligence is obviously a subjective one, and different for each person and context, (Figure \ref{fig:aiVenn}.\par
+
+\begin{figure}[ht]\centering 	\includegraphics{ai}
+	\caption{The terminology in the field is both somewhat blurred and highly `nested'.}
+	\label{fig:aiVenn}
+\end{figure}
+
+We will use AI and ML interchangeably in this text, but is so doing we hope to draw attention to the moment we find ourselves in. It feels like there is an inflection point in human history happening right now, though to somewhat burst the bubble on this hyperbole it's worth reading the legendary Stephen Wolframs \href{https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/}{explanation of these current systems} as glorified autocompletes. \par
+Irrespective of the gap between the perception and truth around these systems there is now a feedback loop where the data that these systems are trained on will be learning from both human \textbf{and} outputs from such systems. Todays young children will never know a world in which the information they encounter is verifiable as of purely human origin. The implications of this are unclear but exciting. In writing this book it became obvious to add this chapter in, and change the direction on the research and product development, because nothing in human history will remain untouched by this. As we will see `metaverse' is likely to change at an incredible rate as a function of some parts of this technology. %Sequoia Capital \href{https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/}{maintain an overview} of the generative art landscape and update their findings regularly (Figure \ref{fig:sequoiacapLandscape}).
+
+\begin{figure}[ht]\centering 	\includegraphics{sequoiacapLandscape.png}
+	\caption{Major stands of generative AI and their associated models at the time of print.}
+	\label{fig:sequoiacapLandscape}
+\end{figure}
+
+\ref{fig:llmlandscape}).
+\begin{figure}[ht]\centering 	\includegraphics{llmlandscape}
+	\caption{Major stands of large language models from Yang et al \cite{yang2023harnessing}}
+	\label{fig:sequoiacapLandscape}
+\end{figure}
+
+\input{09_AIML_Overview}
+
+\subsection{Consumer tools}
+Gozalo-Brizuela and Garrido-Merchan provide a helpful review and taxonomy of recent generative ML systems in their paper `ChatGPT is not all you need' \cite{gozalo2023chatgpt}, with Figure \ref{fig:MLtaxonomy} showing some of the main categories and systems. 
+
+\begin{figure}
+  \centering
+    \includegraphics{mltaxonomy}
+  \caption{Taxonomy of \href{https://arxiv.org/abs/2301.04655}{recent generative ML systems} by Gozalo-Brizuela and Garrido-Merchan used with permission.}
+  \label{fig:MLtaxonomy}
+\end{figure}
+\subsubsection{ChatGPT}
+ChatGPT is a neural network-based natural language processing (NLP) model developed by OpenAI. It is a continuation of the OpenAI programme which binds iteratively more capable Generative Pre-trained Transformer models to a web and API based text chat interface. It uses self-attention mechanisms to generate high-quality text in a variety of different languages. ChatGPT is specifically designed for conversational text generation, and has been trained on a large corpus of dialogue data in order to produce responses that are natural, diverse, and relevant to a given conversation. Because it is a large language model, ChatGPT has a vast amount of knowledge and can generate responses to a wide range of questions and prompts and meta-prompts \cite{hou2022metaprompting}. This allows it to generate responses that are relevant, natural-sounding, and diverse in nature. It has proved incredibly popular, demonstrating uncanny abilities for natural conversation, code generation, copy writing and more. It is substantially flawed in that it `speaks' with authority but often makes things up completely. This extended recently to creating academic references to back it's assertions, completely out of thin air. The interface and APIs seem to be evolving and improving in real time.\par
+The model uses a transformer-based architecture, which means that it consists of a series of interconnected ``blocks'' that process the input data and generate the output text. Each block contains multiple self-attention mechanisms, which allow the model to focus on different aspects of the input data and generate a response that is coherent and relevant to the conversation. In addition to its transformer-based architecture, ChatGPT also uses a variety of other techniques to improve its performance. For example, it uses beam search to generate multiple candidate responses for each input, and then selects the best one based on a combination of factors such as relevance, coherence, and diversity. This allows the model to generate high-quality responses that are appropriate for a given conversation. Additionally, ChatGPT uses a technique called ``response conditioning'' to bias the model towards generating responses that are appropriate for a given conversation context. This allows the model to generate more relevant and coherent responses, even when faced with challenging input data. Microsoft have  \href{https://medium.com/@owenyin/scoop-oh-the-things-youll-do-with-bing-s-chatgpt-62b42d8d7198}{integrated GPT4} with Bing, their internet search engine, and plugins for other websites are coming soon.\par 
+One key aspect of GPT-4 is reinforcement learning with human feedback (RLHF), which helps align the model with human preferences, making it more useful and easier to interact with. The process involves using human feedback to fine-tune the model, requiring relatively less data compared to the initial training phase. The development of GPT-4 involves multiple components: the design of neural network algorithms, data selection, and human supervision through RLHF. Researchers have made significant progress in understanding the behavior of the fully trained system using evaluation processes, although the complete understanding of the model remains a challenge. GPT-4 has the ability to perform `reasoning' based on the knowledge it has gained from the training data. While some interactions with the model may display wisdom, others might lack it. The dialog format used in the model enables it to answer follow-up questions, admit mistakes, challenge incorrect premises, and reject inappropriate requests. In a recent report, researchers revealed groundbreaking advancements in GPT-4, hinting at sparks of artificial general intelligence \cite{bubeck2023sparks}. The Microsoft researchers had access to the unrestrained GPT-4 during its early development, allowing them to experiment for around six months. 
+\begin{itemize}
+\item GPT-4 can use tools with minimal instruction, displaying an emergent capability to utilize calculators, character APIs, and text-to-image rendering.
+\item  GPT-4 can pass mock technical interviews on LeetCode and could potentially be hired as a software engineer.
+\item When tasked with creating a complex 3D game, GPT-4 produces a working game in a zero-shot fashion.
+\item GPT-4 can tackle the 2022 International Mathematics Olympiad, demonstrating a high level of mathematical ability.
+\item It can answer Fermi questions, which are complex questions often used in difficult interviews.
+\item GPT-4 can serve as an AI personal assistant, coordinating with others over email, booking events, and managing calendars.
+\item It can help diagnose and solve real-life problems, such as fixing a leak in a bathroom.
+\item GPT-4 can build mental maps of physical locations, which may be useful when embodied.
+\item It displays a theory of mind, capable of understanding what others may be thinking or believing about a situation.
+\end{itemize}
+There are obviously still limitations to GPT-4. As an autoregressive model, it cannot plan ahead and struggles with discontinuous tasks. This issue could potentially be addressed by augmenting language models with external memory. The paper raises concerns about the unrestricted GPT-4's ability to create propaganda and conspiracy theories, and the ethical implications of giving AI intrinsic motivation. The researchers call for a better understanding of AI systems like GPT-4 to address these challenges.\par
+When asked about controversial figures or topics, GPT-4 can provide nuanced and balanced answers, highlighting its potential to reintroduce nuance to conversations. It is important to consider AI safety and alignment when developing powerful models like GPT-4. After its completion, the model underwent extensive internal and external testing, including red teaming and safety evaluations, to ensure alignment with human values. To ensure that AI systems align with various human values, it is necessary to establish broad societal boundaries, which may differ across countries and individual users. The art of crafting effective prompts for GPT-4 involves understanding the model's behavior and composing prompts in a way that elicits the desired response. This process is similar to human conversation, where individuals adapt their phrasing to communicate more effectively. As the model becomes more advanced, it may increasingly resemble human interactions, which can offer insights into human communication and behaviour. \par 
+Although impressive, it is generally agreed that GPT-4 is not an AGI due to its limitations in approximating human-level intelligence. The concept of consciousness in AI is debated, with some believing AI can be conscious, while others argue that AI can convincingly fake consciousness without being truly aware. Potential risks associated with even a `simply' and unconcious AI include disinformation, economic shocks, and geopolitical impacts. These concerns do not necessarily require superintelligence but could result from large-scale deployment of powerful language models without proper safety controls.
+\subsubsection{GPT API and programming}
+In the context of programming, GPT-4's advancements may have a significant impact on how developers interact with AI systems,, and their productivity and creativity. The impact of AI systems like GPT-4 on programming is significant, changing the way programmers work by allowing an iterative process and back-and-forth dialogue with the AI as a creative partner. This development is seen as a major step forward in programming.\par 
+It seems almost inevitable that at some stage a large language model will be optimised for computer instruction sets,   and simply be able to bridge directly from human intentionality to bytecode, running it's own tests and refinements without external consultation. The degree to which this would still be considered `a compiler' is unclear.
+
+\subsubsection{ChatGPT - Advanced Data Analysis}
+The ChatGPT Code Interpreter Plugin, introduced in March 2023, offers a sandboxed environment featuring a working Python interpreter. This environment, which is isolated from other users and the Internet, supports an impressive array of functionalities. It comes pre-loaded with over 330 libraries, including popular ones such as pandas, matplotlib, seaborn, and TensorFlow, among others.
+
+As illustrated in Figure \ref{fig:chatGPTdata}, the Code Interpreter Plugin is capable of performing a myriad of tasks. For example, it can visualize any data inputted by the user, generate GIFs of the visualizations, and perform file uploads and downloads. It can extract colors from an image to create a color palette, and autonomously compress large images when memory is running low. Moreover, the plugin can clean and process data, generate insightful visualizations, and convert files to different formats quickly and efficiently.
+
+The Code Interpreter Plugin can be installed by ChatGPT Plus users in a few simple steps. However, it is worth noting that while this plugin is powerful, it does have certain limitations, such as frequent environment resets, limited Optical Character Recognition (OCR) capabilities, and an inability to access the web. Despite these limitations, OpenAI continues to work on improving the capabilities of the Code Interpreter Plugin, promising a future with substantial impacts on the world of programming.
+
+\begin{itemize}
+\item The Code Interpreter Plugin introduces a sandbox and an advanced language model, both of which are critical to its functionality.
+\item The emphasis of the plugin is on the quality of the model, which can generate code, debug it, and even decide when not to proceed without human input.
+\item The plugin offers substantial model autonomy, enabling it to work through multiple steps of code generation autonomously.
+\item Despite its powerful capabilities, the plugin does have limitations, such as frequent environment resets and limited OCR capabilities.
+\item The plugin is only available to ChatGPT Plus users, and requires a few simple steps for installation.
+\item The Code Interpreter Plugin represents a significant advancement in the realm of programming, changing the way programmers interact with AI systems.
+\end{itemize}
+
+\subsubsection{CodeLlama}
+Meta is now preparing to launch CodeLama, an open source code generating model to rival OpenAI's Codex and Microsoft's GitHub Copilot. This could disrupt the industry.
+\subsubsection{Google Gemini}
+
+\subsubsection{Current LLM Capabilities}
+
+\begin{itemize}
+\item it{GPT-4} - Best for difficult reasoning tasks based on comparisons with Claude 2. Most advanced reasoning of current LLMs.
+
+\item it{Claude 2} - 100k token context window allows ingesting entire documents and books. Useful for QA and summarization with large knowledge bases.
+
+\item it{Bard} - Integrated with web like Google Search. New multimodal features understand images. 40 language support.
+
+\item it{Codex} - Unlocks new abilities like running and refining code iteratively. Suspected separate model accessed via API.
+
+\item it{Pi} - Focused on being a friendly personal assistant. Asks followup questions to continue conversations.
+
+\item it{LLaMA 2} - Open source alternative to GPT-4 from Meta. Could pose threat as safer open LLM.
+
+\item it{Personal LLMs} - Allow customization with your own data. Create personalized AI assistants.
+\end{itemize}
+
+This is the list of libraries that code interpreter can call.
+
+\input{09_code_interpreter_libs}
+
+
+\begin{figure}
+  \centering
+    \includegraphics{chatGPTdata}
+  \caption{A multi-model conversation with chatGPT4 `code interpreter plugin' by \href{https://www.oneusefulthing.org/p/it-is-starting-to-get-strange}{Mollick}}
+  \label{fig:chatGPTdata}
+\end{figure}
+
+
+\subsection{Researcher toolkits}
+\subsubsection{COG containers for ML}
+Cog is an \href{https://github.com/replicate/cog}{open-source tool} for packaging machine learning models into production-ready containers. It simplifies Docker container creation, resolves compatibility issues between CUDA, cuDNN, PyTorch, TensorFlow, and Python, and uses standard Python to define model inputs and outputs. Cog generates an OpenAPI schema, validates inputs and outputs with Pydantic, creates an automatic HTTP prediction server using FastAPI, and offers automatic queue worker functionality. It supports cloud storage with Amazon S3 and Google Cloud Storage (coming soon), and allows model deployment on any infrastructure that supports Docker images, including Replicate.
+\subsection{Enterprise and convergence}
+Startups are clearly eager to create innovative products and business models, while established companies are exploring ways to respond to the rapid advancements in generative AI. There seems to be a sense of urgency for enterprises worldwide to develop AI strategies. Into the space Nvidia AI have emerged as the clear market enabler, offering more accessible and faster infrastructure.\par
+Their flagship product, the Nvidia DGX H100 is in full production and available through partners like Microsoft Azure. They're also launching Nvidia DGX Cloud in collaboration with Microsoft Azure, Google GCP, and Oracle OCI, making AI supercomputers accessible from a browser. Nvidia AI Foundations might be a suitable solution as a cloud service that includes:
+\begin{itemize}
+\item Language, visual, and biology model-making services
+\item Nvidia NeMo for building custom language models
+\item Picasso, a visual language model-making service for custom models trained with licensed or proprietary content
+\end{itemize} 
+Nvidia Picasso could transform how visual content is created by allowing enterprises, ISVs, and service providers to deploy their own models. This might enable the generation of photorealistic images, high-resolution videos, and detailed 3D geometry for various applications, so it's certainly something to watch closely. Our alignment to self hosted and open source pipelines makes this less of a priority for exploration however.\par 
+Companies like Getty Images and Shutterstock intend to use Picasso for building generative models with their extensive libraries. Nvidia say they will also expand its partnership with Adobe to integrate generative AI into creative workflows, focusing on commercial viability and proper content attribution.\par
+In the field of biology, Nvidia's Clara could be a healthcare application framework for imaging instruments, genomics, and drug discovery. Their Bio NeMo might help researchers create fine-tuned custom models with proprietary data. Nvidia BioNeMo service could provide generative AI models for drug discovery as a cloud service for easy access to accelerated workflows.\par
+As discussed Nvidia still hope that their enterprise metaverse offering Onmiverse will gain worldwide traction. They are investing heavily in bringing ML into this product line. This is an incrediby similar proposition to flossvers, our proposal in this book, but operating at a different level of investment and technology, with commensurately more gated access. \par
+Nvidia's partnerships with TSMC, ASML, and Synopsys could lead to advancements in chips and efficiency. Grace, Grace Hopper, and Bluefield 3 are designed for energy-efficient accelerated data centers.\par
+Microsoft's investment in OpenAI and especially ChatGPT is clearly paying dividends right now, but it is possible that they are mindful of the transition to less centrally controlled `edge' hardware as previously mentioned has forced their hand toward offering their generalised systems for use by corporations as plugins. It's not clear at all that this is the correct model. With that said the current response from Microsoft it yielding incredible powerful results. Their plugin `code interpreter' allows uploading of data files of up to 100MBin size, and both writing and execution of Python code, one of the languages of data analystics. This toolkit is the first major leveraging of a unified multi-modal model. It can create media rich documents with charts, images, and diagrams, providing appropriate descriptive analysis and diagnostics of the statistics employed. This is said to be happening at the level of a junior data analytics specialist so far, and could represent the beginning of a distributive democratisation of data science Figure \ref{fig:chatGPTdata} and Figure \ref{fig:chatGPTword}.
+
+
+\begin{figure}
+  \centering
+    \includegraphics{mltaxonomy}
+  \caption{The planned integration of these tools with Office Suite is likely to be a historic moment}
+  \label{fig:chatGPTword}
+\end{figure}
+
+
+\subsection{Accessibility}
+\subsubsection{Open source LLM chat and assistants}
+Sheng at el present FlexGen which allows execution of large language model chat bots in powerful but affordable hardware\cite{Sheng2023}. The paper presents FlexGen, a high-throughput generation engine for large language models (LLMs) that can be run with a single commodity GPU. FlexGen can be configured under various hardware resource constraints by aggregating memory and computation from the GPU, CPU, and disk, and it uses a linear programming optimizer to store and access tensors. FlexGen compresses weights and attention key/value cache to 4 bits with negligible accuracy loss, allowing for a larger batch size and increased throughput. When running OPT-175B on a single 16GB GPU. A PC running alongside our metaverse server could provide ML assistance services to users of the collaborative space immediately. We are currently using \href{https://huggingface.co/Pi3141/alpaca-lora-30B-ggml/tree/main}{Alpaca Llama 4-bit quantised models}.\par 
+\bigskip
+\href{https://www.semianalysis.com/p/google-we-have-no-moat-and-neither}{This leak} purporting to be from a Google employee rings very true against the research we have done (paraphrased highlights):
+\begin{itemize}
+\item Open-source models are outpacing Google and OpenAI in terms of development speed and capabilities.
+\item Examples of open-source achievements include LLMs on a phone, scalable personal AI, responsible release, and multimodal advances.
+\item Google's models have a slight edge in quality, but open-source models are faster, more customizable, more private, and overall more capable.
+\item Google has no secret sauce and should consider collaborating with the open-source community and enabling third-party integrations.
+\item Large models might slow down progress; smaller, faster models should be prioritized for quicker iteration.
+\item Meta's LLaMA was leaked and sparked an outpouring of innovation in the open-source community, lowering the barrier to entry for training and experimentation.
+\item LoRA, an inexpensive fine-tuning method, has been underexploited within Google and should be paid more attention to.
+\item Retraining models from scratch is expensive and time-consuming; using LoRA allows for stackable improvements that can be kept up to date more easily.
+\item Large models may not be advantageous in the long run compared to rapid iteration on small models.
+\item Data quality scales better than data size; high-quality, curated datasets are becoming the standard in open-source training.
+\item Competing with open source is a losing proposition; Google should consider working with them instead.
+\item Owning the ecosystem, as Meta does, allows them to benefit from free labor and innovation, which Google could adopt by cooperating with the open-source community.
+\end{itemize}
+\subsubsection{Real time transcription}
+Real-time language translation can be applied to text interfaces within metaverse applications. This can be useful in situations where users are typing or reading text, rather than speaking.\par
+To apply NMT to text interfaces in the metaverse, the algorithm can be integrated into the interface itself. When a user types text in a specific language, the NMT algorithm can automatically detect the language and generate a translation in the desired language. This can be done in real-time, allowing for fast and seamless communication between users speaking different languages. NMT algorithms are well-suited for use in text interfaces, allowing for fast and accurate translations between multiple languages. As the technology continues to advance, we can expect to see more and more applications of NMT in the metaverse.
+\subsubsection{Real time translation}
+One of its most impressive recent applications is real-time language translation. In this section we will explore how this technology works, and how it can be used in metaverse applications.\par
+Real-time language translation refers to the ability of a machine learning model to instantly translate spoken or written text from one language to another. This is different from traditional translation methods, which often involve human translators and can be slow and error-prone.\par
+One of the key technologies behind real-time language translation is neural machine translation (NMT). This is a type of machine learning algorithm that is based on neural networks. NMT algorithms are trained on large datasets of text that has been translated by human experts. This allows the algorithm to learn the patterns and nuances of each language, which it can then use to generate accurate translations.\par
+One of the key references for the use of neural machine translation in real-time language translation is the paper "Neural Machine Translation by Jointly Learning to Align and Translate" by Bahdanau et al \cite{bahdanau2014neural}. This paper describes the use of a neural network-based approach to machine translation, which has shown impressive results in terms of accuracy and speed.\par
+One of the key advantages of NMT is its ability to handle complex and varied sentences. Traditional translation algorithms often rely on fixed rules and dictionaries, which can be limiting. NMT algorithms, on the other hand, can learn to handle a wide range of sentence structures and vocabulary. This makes them well-suited for translating natural languages, which are often full of irregularities and exceptions.\par
+Another advantage of NMT is its ability to handle multiple languages at once. Traditional translation algorithms often require the user to specify the source and target languages, but NMT algorithms can automatically detect the languages of the input and output text. This makes them well-suited for use in metaverse applications, where users may be speaking different languages at the same time.\par
+One of the challenges of using NMT in metaverse applications is the need for real-time performance. Metaverse applications often involve fast-paced interactions, and any delay in language translation can hinder the user experience. To overcome this challenge, NMT algorithms can be optimized for speed, using techniques such as parallel processing and batching. It seems likely that in our proposed systems we will require API calls to external services for this functionality, and this will almost certainly incur a cost.\par
+The use of NMT in metaverse applications is also an active area of research, with a number of papers exploring the potential of this technology. For example, the paper "Real-Time Neural Machine Translation for Virtual Reality" by Chen et al. describes the use of NMT algorithms in virtual reality environments, showing how they can be used to support real-time communication between users speaking different languages.\par
+Overall, the use of machine learning for real-time language translation is a rapidly-evolving field, with many exciting developments and applications. As the technology continues to advance, we can expect to see even more impressive results and applications in the future.
+\href{https://openai.com/blog/whisper/}{OpenAI whisper}
+
+\subsubsection{Real time description}
+\subsubsection{Interfaces}
+\href{https://tech.fb.com/ar-vr/2021/03/inside-facebook-reality-labs-wrist-based-interaction-for-the-next-computing-platform/}{emg}
+\subsubsection{Text to sound}
+Complex acoustic environments are possible using \href{https://anonymous.4open.science/w/iclr2023_samples-CB68/report.html}{text to sound} prompting. 
+
+\begin{figure}
+  \centering
+    \includegraphics{sdtools}
+  \caption{SD tools website shows elements of creation and training.}
+  	\label{fig:SDTools}
+\end{figure}
+\subsection{Virtual humans}
+\subsubsection{Real time human to avatar mapping}
+\subsection{AI actors}
+This is the next major section to be written.
+\subsection{Chatbots}
+We are using Flexgen \cite{Sheng2023} on local hardware with various large language models. Response time is over a minute and the accuracy of the results is poor, but we are excited that it runs at all.
+
+\begin{figure}
+  \centering
+    \includegraphics{aitechstack}
+  \caption{A16Z view the nominal deployment of and AI tech stack in this way, but we are not using any of these models.}
+  	\label{fig:aitechstack}
+\end{figure}
+
+
+\subsubsection{Faces}
+Faces and their corresponding personae are already paired in the the Tavern AI ecosystem, encoding the metadata for the AI character into the PNG files. Obviously these could be inscribed and sold as Bitcoin ordinals. It would be a nice touch to encode the personality for the characters into a larger, high resolution file using image steganography \cite{morkel2005overview}, which would allow PKI type ownership too. This would be more suitable for our RGB use case. 
+\subsubsection{Voices}
+\subsubsection{Autonomous tasks (AutoGPT \& SaSa}
+
+Autonomous General Purpose Language Models (AutoGPTs) are tools that can perform any task, leveraging connection to the internet and LLMs. Recently there has been a shift in the AutoGPT space towards specialized agents that cater to specific tasks or industries, providing more focused and useful solutions. This represents part of a more general move away from centralised general models toward more task specific systems.\par
+Autonomous agents for research for instance search the internet for information relevant to a specific research topic and extract information from trustworthy sources. One example is [insert], an agent designed explicitly for research purposes. Similarly, medical research agents can call medical APIs and cite sources, providing targeted assistance in the medical field.\par
+These agents can leverage a chain of GPT calls and fine-tuned models to perform tasks efficiently and effectively.\par
+It has been suggested that such systems be dubbed semi-autonomous specialized agents (SASAs). These agents can streamline processes, automating multiple steps without requiring user mediation for each task. It can be seen that these are already being integrated with messenger services such as Telegram bots, very similarly to the planning and approach seen in this book.
+We propose:\par
+
+Extrinsic AI actors which link multiple\\ intrinsic virtual spaces.\\
+Bespoke news and current affairs synthesis\\
+Bespoke interactive subject matter training\\
+bots that bring you what you want as bespoke audio visual packages
+\subsection{Governance and safeguarding}
+\subsubsection{Governance in the Virtual Reality Space}
+The governance of the virtual world will be a critical element in the success of the Metaverse. The virtual world will need to be policed and governed in a way that will not only protect the rights of the citizens of this new digital environment but also protect them from cybercrime. As a somewhat strained but interesting example; \href{https://www.reuters.com/technology/interpol-says-metaverse-opens-up-new-world-cybercrime-2022-10-27/}{Interpol see} simulated environments as a way for terrorist groups to gather and plan attack. Governments and regulatory bodies will play a key role in the governance of the virtual world, but so will the industry and businesses. Nair et al describe the ``unprecedented privacy risks'' of the metaverse, finding that wearing a headset can currently reveal 25 data points about the user, simply by analysis of the data \cite{nair2022exploring, Nair2023}.  This included inference about ethnicity, disability, and economic status. Strong data protection laws will be needed to safeguard privacy, data ownership and reduce the risk of data breaches. The governance of the virtual world will be critical to success, safeguarding will be needed to protect citizens from cyberattacks.
+\subsubsection{Safeguarding in the Metaverse}
+When it comes to safeguarding in the Metaverse, people need to be made aware of the risk of using VR technology. There are still many questions around the health implications of using VR and the impact it may have on a person’s eyesight. In terms of safeguarding in the Metaverse, this is just one area that needs to be addressed. Users will also need to be made aware of the risks of hacking. Users will need to be educated on the need to be careful when it comes to sharing personal information and be careful what websites they access on a virtual computer. They will need to be made aware of the potential risk of having malware installed on their computer by visiting untrusted websites. Users will also need to be made aware of the potential risk of being manipulated in the virtual world. This risk is particularly high when it comes to children who are growing up in the digital world. They will need to be educated on the potential risks of being groomed or manipulated in the Metaverse.\\
+
+The problem with large social metaverse systems seems to be somehow wrapped up in humans need to test boundary conditions in novel surroundings:
+\begin{itemize}
+\item Despite `best efforts' by the software vendors  there is a chaotic mix of levels of maturity amongst the participants. Ostensibly safe games are themselves `gamed' by \href{https://futurism.com/mom-horrified-her-kids-seeing-roblox}{slightly older} players.
+\item No recording of action, and reaction, creating a feeling of impunity of action. At it's best `The philosophers Island', but in safeguarding terms it seems more a school yard without a teacher, or perhaps worse, Lord of the Flies \cite{cameron2012splendid}.
+\item Even adults in exclusively adult meeting places seem to go slightly off the rails trying to find technical and social boundaries instinctively. This leads to the now somewhat famous (TTP) ``time to penis'' problem \cite{lamb2022second} (\href{http://gamedesignreviews.com/reviews/little-big-planet-browsing-content/}{coined at GDC 2009}). 
+\item The research on this is pretty thin.
+\item People seem to be suffering genuine psychological harm.
+\end{itemize}
+\href{https://www.immersivewire.com/p/harassment-metaverse-how-address}{Article in immersive wire}
+\subsubsection{How to fight against cybercrime in the Metaverse?}
+The best way to fight against cybercrime in the Metaverse is to educate the general public on the potential risks and dangers in order to prevent them from being targeted. This can be done through various channels and mediums, such as social media, blogs and podcasts. People will need to be made aware of the risks of opening emails or clicking on links sent by unknown people. They will also need to be aware of the risks of clicking on ads and links that may lead them to websites that host malware or that steal personal information.
+
+\href{https://www.whitehouse.gov/ostp/ai-bill-of-rights/}{AI bill of rights}\\
+
+Roblox \href{https://www.bbc.co.uk/news/technology-48450604}{in BBC news} for child exploitation.
+
+\subsection{The emergent role of AI in education}
+

@@ -1,0 +1,203 @@
+\section{Generative art systems}
+Generative art refers to art that is generated algorithmically rather than manually created. In this report, we will provide an overview of generative art, including its history, key techniques, applications, and future outlook. \par 
+Generative art emerged in the 1960s alongside early computer art. Artists like Frieder Nake and Georg Nees used algorithms to create abstract visual art. In the 1970s and 80s, fractal geometry allowed for complex recursive patterns. More recently, neural networks have enabled new forms of image generation, and they are the focus of this text.
+\subsection{Modern Models and Systems}
+
+\subsection{Image Generation}
+
+\begin{itemize}
+\item \textbf{Stable Diffusion} - An open source diffusion model capable of creating realistic images from text prompts. Widely used by artists due to:
+\begin{itemize}
+\item Flexible and intuitive text prompts
+\item Many interfaces and extensions for control, most notably controlnet for our puposes
+\item Ability to fine-tune on custom datasets
+\end{itemize}
+
+\item \textbf{DALL-E 3} - First to market, it's a proprietary generative AI system from OpenAI that creates images from text captions. Key features:
+\begin{itemize}
+\item Stunning contextual comprehension
+\item Diverse creative capabilities from prompts
+\item Works best with OpenAI access and paid credits
+\item Integrated with Microsoft Bing, and free for small use cases.
+\end{itemize}
+
+\item \textbf{Midjourney} - Web-based generative art tool with social community aspects. Notable for:
+
+\begin{itemize}
+\item Easy to start generating images quickly
+\item Built-in sharing and voting on generations
+\item Best in class ``vibes''
+\item Limited free tier with paid subscriptions
+\item Privacy is questionable
+\item Subject to change, making consistency of approach impossible.
+\end{itemize}
+
+\item \textbf{Imagen} - AI system from Google producing images from text. Characteristics:
+\begin{itemize}
+\item Very high-resolution outputs
+\item Control over lighting and detail
+\item Currently restricted to limited partners
+\end{itemize}
+
+\end{itemize}
+
+\subsection{How they work}
+There's a good detailed and in depth blog post by Weng \href{https://lilianweng.github.io/posts/2021-07-11-diffusion-models/#classifier-free-guidance}{here}.
+
+The four main types are over-viewed \href{https://www.linkedin.com/feed/update/urn:li:activity:7088752096853803008/}{by Deshwal} as below:
+
+\begin{itemize}
+
+\item [GAN: Generative Adversarial Network] "Adversarial" as the name suggests are two opposite networks. One learns to create images out of noise (Artist) which is actually very hard process and the other says "umm okay! This isn't good" (Critic) which is a relatively easy process. So because of the fact that being an artist is very hard than being a critic, these networks are not stable and Critic learns faster than the Artist.
+
+\item [Auto Encoder style] VAE, U-Nets etc belong to this category where same network breaks down image in deeper level features using CNN and then rebuild it again. That's like a child learning by breaking things. VAE and U-Nets are almost same with minor differences and serve as a base model in Diffusion process so that think of them ans analogues to BERT in LLMs.
+
+\item [Flow Based]: Well here it becomes complex. You apply function X to an image and then you re-create the original image by applying the Exact inverse of that function. For example, a very basic function is to add 5 and then subtract 5 to get original stuff. 
+
+\item [Diffusion processes] VAE, U-Nets are used as base models. You insert some pseudo random (because you know what you added based on a timestamp "T") Gaussian noise to an image and instead of asking the model to predict original image, you ask the model to predict the Noise that you inserted. Since Gaussian is an additive noise independent of original signal, you subtract that from image and get original image. Another piece is that instead of predicting whole noise at once, you predict the noise for previous (T-1) step.
+\end{itemize}
+
+Intuitive interfaces provide easy access to these models. \href{https://github.com/AUTOMATIC1111/stable-diffusion-webui}{Automatic1111's Web UI} offers a full-featured frontend to Stable Diffusion. \href{https://www.midjourney.com}{Midjourney} provides a social platform to create, share and discuss AI art. \href{https://www.runwayml.com}{Runway} delivers generative models through a subscription service.
+
+Fine-tuning techniques like \href{https://arxiv.org/abs/2208.12242}{DreamBooth} allow customizing Stable Diffusion by training on datasets of specific concepts. \href{https://github.com/yfszzx/stylegan-nada}{styleGAN-NADA} improves image quality through noise optimization. \href{https://github.com/NVlabs/stylegan3}{styleGAN3} introduces a generator architecture that achieves state-of-the-art results. Extensions like \href{https://github.com/mit-han-lab/gaugan}{Gaugan} bring control over seasons, weather, lighting and more.
+
+Vibrant communities continually push boundaries of generative art through platforms like the \href{https://www.reddit.com/r/deepdream/}{deepdream subreddit}, the \href{https://github.com/dvschultz}{ML Art Colabs repository}, and the \href{https://stability.ai/blog}{Stability AI blog}. Events like \href{https://www.elfman.ai/}{Butterfly Dream} showcase creativity.
+
+Beyond generation, image processing techniques can manipulate existing visuals. \href{https://github.com/TencentARC/GFPGAN}{GFPGAN} restores blurred faces using facial landmarks and semantic segmentation. \href{https://github.com/dazhizhong/BRDNet}{BRDNet} removes unwanted objects through edge-aware propagation and diffusion. \href{https://github.com/xinntao/Real-ESRGAN}{Real-ESRGAN} super-resolves images up to 16x resolution. \href{https://github.com/jantic/DeOldify}{DeOldify} colorizes black and white photos through deep learning. Such techniques enable restoring, retouching and enhancing images.
+
+\subsubsection{Stable Diffusion}
+
+\subsubsection{Stable Diffusion Ecosystem}
+
+As an open-source diffusion model, \href{https://arxiv.org/abs/2105.05233}{Stable Diffusion} has given rise to an extensive ecosystem of models, interfaces, extensions, and communities.
+
+\paragraph{Models} The core Stable Diffusion repository provides strong baselines like \href{https://github.com/CompVis/stable-diffusion}{sd-v1-4} optimized for speed and \href{https://github.com/Stability-AI/stablediffusion}{sd-v2-1k} for 1024x1024 resolution. Models exist for specific domains like anime, manga, and hentai.
+
+\paragraph{Interfaces} Many open-source frontends provide access to Stable Diffusion:
+\begin{itemize}
+\item \href{https://github.com/AUTOMATIC1111/stable-diffusion-webui}{Automatic1111's Web UI} - full-featured frontend with extensions
+\item \href{https://github.com/alembics/disco-diffusion}{Disco Diffusion} - focused on creative exploration
+\item \href{https://github.com/hlky/stable-diffusion}{Stable Diffusion GUI} - cross-platform interface supporting Google Colab
+\item \href{https://github.com/invincible-sam/A1111-SD-webui-colab}{A1111-SD-webui-colab} - run Stable Diffusion entirely in Google Colab
+\end{itemize}
+
+\paragraph{Extensions} Additional modules provide enhanced control:
+\begin{itemize}
+\item \href{https://github.com/lllyasviel/ControlNet}{ControlNet} - mask-based image editing
+\item \href{https://github.com/alembics/vedaso}{Vedaso} - creative effect brushes
+\item \href{https://github.com/camenduru/stable-diffusion-webui-tuner}{Stable Diffusion Tuner} - fine-tune model inside Web UI
+\item \href{https://github.com/invoke-ai/InvokeAI}{InvokeAI} - optimized inference and rendering
+\end{itemize}
+
+\paragraph{Training \& Tuning} Stable Diffusion can be customized:
+\begin{itemize}
+\item \href{https://github.com/Stability-AI/dreambooth}{DreamBooth} - fine-tune on specific concepts
+\item \href{https://github.com/yfszzx/stable-diffusion-stability-ai}{Stable Diffusion Tuning} - improve image quality
+\item \href{https://github.com/d8ahazard/sd_hires_face_fix}{SD highres fix} - enhance face quality
+\end{itemize}
+
+\paragraph{Community} Vibrant communities continually advance Stable Diffusion:
+\begin{itemize}
+\item \href{https://www.reddit.com/r/StableDiffusion/}{StableDiffusion subreddit} - sharing creations and discoveries
+\item \href{https://discord.gg/stabilityai}{Stability AI Discord} - dedicated channels on SD topics
+\item \href{https://civitai.com}{Civitai} - central model hub with versioning
+\end{itemize}
+
+\subsubsection{ComfyUI}
+
+\href{https://github.com/comfyanonymous}{ComfyUI} is a feature-rich set of tools and libraries for building interactive web applications using the \href{https://reactjs.org}{React} framework. It makes creating beautiful, functional UIs easy through:
+
+\begin{itemize}
+\item \textbf{React-Based} - Built on React for modular, reusable components
+\item \textbf{Declarative} - Describe desired UI state without implementation details
+\item \textbf{Extensible} - Easily add custom components and functionality
+\item \textbf{Testable} - Designed for confident testing of UI behavior
+\item \textbf{Documented} - Well-documented for easy learning
+\item \textbf{Community} - Large active community for help and support
+\end{itemize}
+
+Extensions provide additional capabilities:
+
+\begin{itemize}
+\item \textbf{Components} - Pre-built React components for common UI elements like buttons, menus, and forms
+\item \textbf{Animations} - Animated React components for engaging UIs
+\item \textbf{State Management} - Tools for managing UI state
+
+\item \textbf{Testing} - Utilities for testing ComfyUI applications
+\end{itemize}
+
+Other notable features include:
+
+\begin{itemize}
+\item \textbf{Responsive Design} - Components auto-adjust layouts for any device size
+\item \textbf{Internationalization} - Support for global applications in different languages
+\item \textbf{Accessibility} - Interface remains usable by people with disabilities
+\end{itemize}
+
+The ComfyUI ecosystem is constantly evolving with new extensions created by the vibrant community. With its versatility, extensibility and helpful userbase, ComfyUI empowers developers to create beautiful, functional UIs for diverse web applications. The declarative programming style and reusable components help quickly build interfaces that are responsive, accessible, and internationalized. 
+
+\subsection{Video generation}
+
+
+This is incredibly fast moving area and I have many many links in my Mindmap. This section is a placeholder really, I wouldn't act on it.
+
+\begin{itemize}
+\item \textbf{DALL-E 3D} - 3D model generation by Anthropic using principles from DALL-E 2. Allows:
+\begin{itemize}
+\item Text-to-shape generation
+\item Control over materials and lighting
+\item Interaction with object geometry
+\end{itemize}
+
+\item \textbf{Xformation} - Proprietary 3D generation system capable of modifying shape from images.
+\begin{itemize}
+\item Deforms template 3D objects to match 2D images
+\item Controllable 3D effects from image edits
+\end{itemize}
+
+\item \textbf{Text2Mesh} - Leveraging Stable Diffusion for text-based 3D model generation.
+\begin{itemize}
+\item 3D stylization based on natural language input
+\item Control mesh topology and appearance
+\end{itemize}
+
+\item \textbf{Gaussian Splatting} - A development from the NeRF technology research, and likely the main contender for all future tech right now..
+\begin{itemize}
+\item Fast and efficient models
+\item Simple capture
+\end{itemize}
+
+\end{itemize}
+
+
+Extending image synthesis techniques, models like \href{https://arxiv.org/abs/2105.05233}{Stable Diffusion} are being adapted to generate artificial video content. Dedicated systems like \href{https://www.anthropic.com/research/phenaki}{Phenaki} and \href{https://runwayml.com}{Runway} enable text-to-video generation with control over length, resolution and scene contents.
+
+Creating smooth, consistent video requires modeling inter-frame coherence. Techniques like \href{https://ebsynth.com}{EBSynth} achieve this through interpolation and style transfer between frames. \href{https://www.fastvideoai.com}{FastVid2Vid} matches latent vectors between frames to improve consistency. \href{https://nvlabs.github.io/instant-ngp}{Instant Neural Graphics Primitives} (Instant-NGP) learns a temporal model over sequences of frames.
+
+Existing videos can also be enhanced through diffusion models. Techniques enable automatically increasing resolution, translating scenes to different styles, editing objects seamlessly, and more. However, concerns exist around deepfake videos and synthetic media. Moderation systems like \href{https://www.anthropic.com}{Anthropic's Claude} may provide remedies.
+
+Overall, rapid progress in generative video hints at possibilities of creating immersive films, VR experiences, lifelike avatars and more. But thoughtful governance frameworks are necessary to manage risks.
+
+\subsection{Audio generation}
+
+Recent breakthroughs have also extended AI synthesis to the audio domain, enabling applications like text-to-speech, music composition, and editing podcasts.
+
+Models like \href{https://jukebox.openai.com/}{Jukebox} and \href{https://github.com/ facebookresearch/jukebox}{Facebook's Jukebox} generate novel music conditioned on genres, artists, and lyrics through a hierarchical VQ-VAE framework. Meanwhile, \href{https://github.com/coqui-ai/TTS}{Coqui TTS} and \href{https://github.com/NVIDIA/tacotron2}{Tacotron 2} convert text to human-like speech using end-to-end neural architectures.
+
+For editing audio, tools like \href{https://riptide.ai/}{Riptide} remove vocals from songs, while \href{https://www.descript.com/}{Descript} inserts music and trims silences in podcasts. However, bad actors could exploit such capabilities for impersonation fraud and fake media. Strong governance models are critical.
+
+Looking ahead, advances in generative audio may enable creating interactive AI companions, realistic speech synthesis, and personalized music experiences. But maintaining public trust through transparency and accountability will be essential.
+
+\subsection{3D generation}
+
+3D shape generation has also made strides through AI, transitioning text-to-image breakthroughs to the 3D domain. Methods like \href{https://nv-tlabs.github.io/GA-fusion}{GA-Fusion} combine GANs with gradient-based optimization for high quality results. \href{https://github.com/autodeskailab/clip-forge}{CLIP-Forge} matches rendered images with CLIP embeddings to guide optimization. \href{https://threedle.github.io/3dhighlighter}{3D-Highlighter} localizes text prompts on shapes by comparing CLIP similarities.
+
+Other approaches focus on reconstructing shapes from images. \href{https://x-a-i.github.io/xformation}{XFormation} deforms template 3D shapes to match target views. \href{https://sketching-the-future.github.io}{Sketch-Guided Vision Models} optimize an SDF to match input sketches. \href{https://ajayj.com/dreamfields}{Dream Fields} uses a NeRF parameterized by FiLM.
+
+Such techniques could enable creators to manifest their ideas into 3D worlds. However, thoughtful governance is critical to reduce risks associated with impersonation, toxic content, and intellectual property. Community building, education, and responsible deployment will help realize the positive potential of AI.
+
+\subsection{Conclusion}
+
+Rapid progress in AI has unlocked breakthrough capabilities for synthesizing realistic content across images, video, audio, and 3D geometry. However, concerns around biases, misinformation, and toxic content necessitate responsible development and deployment of these technologies. Maintaining public trust through transparency, accountability and inclusivity will be key to ensuring that the benefits of AI progress outweigh the risks. If harnessed judiciously and ethically, generative AI could augment human creativity in unprecedented ways. But it should empower rather than replace us. Ongoing advances in AI safety and governance will help achieve this vision
+
+
